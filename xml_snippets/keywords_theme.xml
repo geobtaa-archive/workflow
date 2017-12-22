@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gmd:descriptiveKeywords xmlns:gmd="http://www.isotc211.org/2005/gmd">
+    <gmd:MD_Keywords xmlns:gmd="http://www.isotc211.org/2005/gmd">
+        <gmd:type xmlns:gmd="http://www.isotc211.org/2005/gmd">
+            <gmd:MD_KeywordTypeCode  xmlns:gmd="http://www.isotc211.org/2005/gmd" codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" codeListValue="theme"/>
+        </gmd:type>
+
+        <gmd:thesaurusName>
+                  <gmd:CI_Citation>
+                     <gmd:title>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">LCSH</gco:CharacterString>
+                     </gmd:title>
+                     <gmd:date>
+                        <gmd:CI_Date>
+                           <gmd:date>
+                              <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2011</gco:Date>
+                           </gmd:date>
+                           <gmd:dateType>
+                              <gmd:CI_DateTypeCode codeList="" codeListValue="revision"/>
+                           </gmd:dateType>
+                        </gmd:CI_Date>
+                     </gmd:date>
+                     <gmd:identifier>
+                        <gmd:MD_Identifier>
+                           <gmd:code>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">http://id.loc.gov/authorities/subjects.html</gco:CharacterString>
+                           </gmd:code>
+                        </gmd:MD_Identifier>
+                     </gmd:identifier>
+                  </gmd:CI_Citation>
+        </gmd:thesaurusName>
+    </gmd:MD_Keywords>
+</gmd:descriptiveKeywords>

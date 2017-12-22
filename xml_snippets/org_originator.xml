@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gmd:descriptiveKeywords xmlns:gmd="http://www.isotc211.org/2005/gmd">
+    <gmd:MD_Keywords xmlns:gmd="http://www.isotc211.org/2005/gmd">
+        <gmd:type xmlns:gmd="http://www.isotc211.org/2005/gmd">
+            <gmd:MD_KeywordTypeCode  xmlns:gmd="http://www.isotc211.org/2005/gmd" codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_KeywordTypeCode" codeListValue="theme"/>
+        </gmd:type>
+    </gmd:MD_Keywords>
+</gmd:descriptiveKeywords>
