@@ -1,0 +1,44 @@
+{
+  "uuid": "bb83a3513b9148afad4e7d5590d020d4",
+  "dc_identifier_s": "bb83a3513b9148afad4e7d5590d020d4",
+  "dc_title_s": "Commissioner Districts PDF Map: Carver County, Minnesota, 2017",
+  "dc_description_s": "A downloadable, 20 x 20 inch PDF map identifying the County's five Commissioner District boundaries as of 2017.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "PDF",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Image",
+  "dc_publisher_sm": [
+    "Carver County, Minnesota"
+  ],
+  "dc_creator_sm": "CarverGIS",
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data-carver.opendata.arcgis.com/datasets/bb83a3513b9148afad4e7d5590d020d4\",\"http://schema.org/downloadUrl\":\"https://gis.co.carver.mn.us/digital_maps/Free_Maps/misc/2017_Commissioner_Districts.pdf\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data",
+    "Minnesota Counties"
+  ],
+  "dct_issued_s": "2017-07-20",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dct_spatial_sm": [
+    "Carver County, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5020499",
+    "http://sws.geonames.org/5037779"
+  ],
+  "thumbnail_path_ss": "",
+  "layer_slug_s": "bb83a3513b9148afad4e7d5590d020d4",
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2018-1-4T16:7:4Z",
+  "centroid_s": "44.8070945,-93.766388",
+  "solr_geom": "ENVELOPE(-94.012329, -93.520447, 44.978889, 44.6353)",
+  "solr_year_i": 2017
+}

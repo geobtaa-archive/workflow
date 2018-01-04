@@ -1,0 +1,44 @@
+{
+  "uuid": "6914414c14544e79a489d272c2bd39dc",
+  "dc_identifier_s": "6914414c14544e79a489d272c2bd39dc",
+  "dc_title_s": "Filter Strips Map: Scott County, Minnesota",
+  "dc_description_s": "Filter Strips map showing filter strips within Scott County.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "PDF",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Image",
+  "dc_publisher_sm": [
+    "Scott County, Minnesota"
+  ],
+  "dc_creator_sm": "Scott County Information Technology",
+  "dc_subject_sm": [
+    "Geoscientific Information"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.gis.co.scott.mn.us/datasets/6914414c14544e79a489d272c2bd39dc\",\"http://schema.org/downloadUrl\":\"http://gis.co.scott.mn.us/maps/maps/Community_Development/Filter_Strips.pdf\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data",
+    "Minnesota Counties"
+  ],
+  "dct_issued_s": "2015-08-11",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "Scott County, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5046749",
+    "http://sws.geonames.org/5037779"
+  ],
+  "thumbnail_path_ss": "",
+  "layer_slug_s": "6914414c14544e79a489d272c2bd39dc",
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2018-1-4T16:6:58Z",
+  "centroid_s": "44.633,-93.501",
+  "solr_geom": "ENVELOPE(-93.726, -93.276, 44.858, 44.408)",
+  "solr_year_i": 2015
+}

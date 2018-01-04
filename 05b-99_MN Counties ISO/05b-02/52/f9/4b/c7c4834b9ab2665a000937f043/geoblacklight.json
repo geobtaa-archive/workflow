@@ -1,0 +1,35 @@
+{
+"dc_description_s": "Shapefile of recycling sites in Becker County, Minnesota", 
+"layer_modified_dt": "2018-01-04T22:58:04Z", 
+"solr_geom": "ENVELOPE(-96.167817, -95.202987, 47.149288, 46.723609)", 
+"dct_references_s": "{\"http://schema.org/url\":\"http://www.co.becker.mn.us/online_services/GIS_data.aspx\",\"http://schema.org/downloadUrl\":\"http://gis-server.co.becker.mn.us/data/gis/shapefiles/recycling_sites.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"http://64.90.181.107/geonetwork/srv/api/records/52f94bc7-c483-4b9a-b266-5a000937f043/formatters/xml\"}", 
+"dc_rights_s": "Public", 
+"uuid": "52f94bc7-c483-4b9a-b266-5a000937f043", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"Location", 
+"Recycling"
+], 
+"dct_temporal_sm": "2016-", 
+"dct_issued_s": "2016-08-07", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Becker County, Minnesota"
+], 
+"dc_type_s": "Dataset", 
+"dc_identifier_s": "52f94bc7-c483-4b9a-b266-5a000937f043", 
+"dct_isPartOf_sm": "Minnesota Counties", 
+"solr_year_i": 2016, 
+"dct_spatial_sm": [
+"Becker County, Minnesota, United States", 
+"Minnesota, United States"
+], 
+"dc_publisher_sm": [
+"Becker County, Minnesota"
+], 
+"dc_title_s": "Recycling Sites: Becker County, Minnesota, 2016", 
+"layer_slug_s": "52f94bc7-c483-4b9a-b266-5a000937f043", 
+"centroid_s": "46.9364485,-95.685402", 
+"layer_geom_type_s": "Point", 
+"dc_language_s": "English"
+}

@@ -1,0 +1,46 @@
+{
+  "uuid": "a261677d5f454561b11abef3c7772d08",
+  "dc_identifier_s": "a261677d5f454561b11abef3c7772d08",
+  "dc_title_s": "City of Victoria PDF Map: Carver County, Minnesota",
+  "dc_description_s": "A downloadable, printable 8.5 x 11 inch PDF map of the City of Victoria and surrounding area.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "PDF",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Image",
+  "dc_publisher_sm": [
+    "Carver County, Minnesota"
+  ],
+  "dc_creator_sm": "CarverGIS",
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data-carver.opendata.arcgis.com/datasets/a261677d5f454561b11abef3c7772d08\",\"http://schema.org/downloadUrl\":\"https://gis.co.carver.mn.us/digital_maps/Free_Maps/citytwp/Cities_VICTORIA.pdf\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data",
+    "Minnesota Counties"
+  ],
+  "dct_issued_s": "2017-07-17",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dct_spatial_sm": [
+    "Victoria, Minnesota, United States",
+    "Carver County, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5051387",
+    "http://sws.geonames.org/5020499",
+    "http://sws.geonames.org/5037779"
+  ],
+  "thumbnail_path_ss": "",
+  "layer_slug_s": "a261677d5f454561b11abef3c7772d08",
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2018-1-4T16:7:6Z",
+  "centroid_s": "44.86249365,-93.65704695",
+  "solr_geom": "ENVELOPE(-93.6937249, -93.620369, 44.8915445, 44.8334428)",
+  "solr_year_i": 2017
+}
