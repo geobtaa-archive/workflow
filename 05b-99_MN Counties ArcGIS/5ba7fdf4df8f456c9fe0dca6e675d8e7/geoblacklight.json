@@ -1,0 +1,44 @@
+{
+  "uuid": "5ba7fdf4df8f456c9fe0dca6e675d8e7",
+  "dc_identifier_s": "5ba7fdf4df8f456c9fe0dca6e675d8e7",
+  "dc_title_s": "County Highway Map (Front): Scott County, Minnesota, 2014",
+  "dc_description_s": "Detailed highway map of Scott County. This is the front of the map showing the locations of highways, townships, lakes, rivers, etc...",
+  "dc_rights_s": "Public",
+  "dc_format_s": "PDF",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Image",
+  "dc_publisher_sm": [
+    "Scott County, Minnesota"
+  ],
+  "dc_creator_sm": "Scott County Information Technology",
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.gis.co.scott.mn.us/datasets/5ba7fdf4df8f456c9fe0dca6e675d8e7\",\"http://schema.org/downloadUrl\":\"http://gis.co.scott.mn.us/maps/maps/Public_Works/Front2014.pdf\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data",
+    "Minnesota Counties"
+  ],
+  "dct_issued_s": "2015-08-11",
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "dct_spatial_sm": [
+    "Scott County, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5046749",
+    "http://sws.geonames.org/5037779"
+  ],
+  "thumbnail_path_ss": "",
+  "layer_slug_s": "5ba7fdf4df8f456c9fe0dca6e675d8e7",
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2018-1-4T16:7:3Z",
+  "centroid_s": "44.633,-93.501",
+  "solr_geom": "ENVELOPE(-93.726, -93.276, 44.858, 44.408)",
+  "solr_year_i": 2014
+}

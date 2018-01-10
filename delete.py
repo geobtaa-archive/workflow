@@ -29,12 +29,12 @@ import requests
 
 # local imports
 from solr_interface import SolrInterface
-import configSolr
+import config
 
 # from users import USERS_INSTITUTIONS_MAP
 
 # logging stuff
-if configSolr.DEBUG:
+if config.DEBUG:
     log_level = logging.DEBUG
 else:
     log_level = logging.INFO
@@ -293,7 +293,7 @@ def main():
 
     args = parser.parse_args()
     interface = CSWToGeoBlacklight(
-        configSolr.SOLR_URL, configSolr.SOLR_USERNAME, configSolr.SOLR_PASSWORD,
+        config.SOLR_URL, config.SOLR_USERNAME, config.SOLR_PASSWORD,
         INST=args.provenance_institution,
         COLLECTION=args.collection)
 

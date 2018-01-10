@@ -1,0 +1,46 @@
+{
+  "uuid": "6c364bc512074a1f86e85bc8dff2f766",
+  "dc_identifier_s": "6c364bc512074a1f86e85bc8dff2f766",
+  "dc_title_s": "City of Chaska PDF Map: Carver County, Minnesota",
+  "dc_description_s": "A downloadable, printable 8.5 x 11 inch PDF map of the City of Chaska and surrounding area.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "PDF",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Image",
+  "dc_publisher_sm": [
+    "Carver County, Minnesota"
+  ],
+  "dc_creator_sm": "CarverGIS",
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data-carver.opendata.arcgis.com/datasets/6c364bc512074a1f86e85bc8dff2f766\",\"http://schema.org/downloadUrl\":\"https://gis.co.carver.mn.us/digital_maps/Free_Maps/citytwp/Cities_CHASKA.pdf\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data",
+    "Minnesota Counties"
+  ],
+  "dct_issued_s": "2017-07-17",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dct_spatial_sm": [
+    "Chaska, Minnesota, United States",
+    "Carver County, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5020938",
+    "http://sws.geonames.org/5020499",
+    "http://sws.geonames.org/5037779"
+  ],
+  "thumbnail_path_ss": "",
+  "layer_slug_s": "6c364bc512074a1f86e85bc8dff2f766",
+  "layer_geom_type_s": "Image",
+  "layer_modified_dt": "2018-1-4T16:7:7Z",
+  "centroid_s": "44.81647945,-93.60999805",
+  "solr_geom": "ENVELOPE(-93.6530651, -93.566931, 44.8564189, 44.77654)",
+  "solr_year_i": 2017
+}
