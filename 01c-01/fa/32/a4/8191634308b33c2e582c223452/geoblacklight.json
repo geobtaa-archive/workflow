@@ -1,0 +1,37 @@
+{
+"dc_description_s": "Bloomington lakes and waterbody areas exported from the City's GIS. See summary description (txt) file for information about intended use, projection, currency, attributes, etc.", 
+"layer_modified_dt": "2018-01-22T19:58:55Z", 
+"solr_geom": "ENVELOPE(-86.641646, -86.439743, 39.255576, 39.068371)", 
+"dct_references_s": "{\"http://schema.org/url\":\"https://data.bloomington.in.gov/dataset/0310f4ec-d7a9-4cd5-8f2d-b20ce1928826\",\"http://schema.org/downloadUrl\":\"http://bloomington.in.gov/geoserver/publicgis/ows?service=WFS&version=1.1.0&request=GetFeature&typeName=publicgis:LakesAndWaterBodies&outputFormat=shape-zip\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://bloomington.in.gov/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"http://64.90.181.107/geonetwork/srv/api/records/fa32a481-9163-4308-b33c-2e582c223452/formatters/xml\"}", 
+"dc_rights_s": "Public", 
+"uuid": "fa32a481-9163-4308-b33c-2e582c223452", 
+"dct_provenance_s": "Indiana", 
+"dc_subject_sm": [
+"Inland Waters", 
+"Hydrology", 
+"Lakes", 
+"Ponds", 
+"Water", 
+"Waterbodies"
+], 
+"dct_temporal_sm": "2016", 
+"dct_issued_s": "0216-09-28", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"City of Bloomington, Indiana"
+], 
+"dc_type_s": "Dataset", 
+"dc_identifier_s": "fa32a481-9163-4308-b33c-2e582c223452", 
+"dct_isPartOf_sm": "City of Bloomington Data Portal", 
+"solr_year_i": 2016, 
+"dct_spatial_sm": [
+"Bloomington, Indiana, United States", 
+"Indiana, United States"
+], 
+"layer_id_s": "publicgis:LakesAndWaterBodies", 
+"dc_title_s": "Lakes and Waterbodies: Bloomington, Indiana, 2016", 
+"layer_slug_s": "fa32a481-9163-4308-b33c-2e582c223452", 
+"centroid_s": "39.1619735,-86.5406945", 
+"layer_geom_type_s": "Polygon", 
+"dc_language_s": "English"
+}
