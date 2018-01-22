@@ -156,9 +156,9 @@
     <!-- <xsl:text>"dct_provenance_s": "</xsl:text>
     <xsl:text>Wisconsin",</xsl:text> -->
 
-   <xsl:text>"layer_id_s": "</xsl:text>
+   <!-- <xsl:text>"layer_id_s": "</xsl:text>
     <xsl:value-of select="gmd:MD_Metadata/gmd:dataSetURI"/>
-    <xsl:text>",&#xa;</xsl:text>
+    <xsl:text>",&#xa;</xsl:text> -->
 
 
     <xsl:text>"layer_slug_s": "</xsl:text>
