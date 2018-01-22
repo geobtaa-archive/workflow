@@ -156,15 +156,15 @@
     <!-- <xsl:text>"dct_provenance_s": "</xsl:text>
     <xsl:text>Wisconsin",</xsl:text> -->
 
-<!--    <xsl:text>"layer_id_s": "</xsl:text>
-    <xsl:value-of select="$uuid"/>
-    <xsl:text>",&#xa;</xsl:text>-->
-    
+   <xsl:text>"layer_id_s": "</xsl:text>
+    <xsl:value-of select="gmd:MD_Metadata/gmd:dataSetURI"/>
+    <xsl:text>",&#xa;</xsl:text>
+
 
     <xsl:text>"layer_slug_s": "</xsl:text>
     <xsl:value-of select="$uuid"/>
     <xsl:text>",&#xa;</xsl:text>
-    
+
 
     <xsl:text>"layer_geom_type_s": "</xsl:text>
     <xsl:value-of
@@ -208,7 +208,7 @@
 
 
     <!--Thumbnail-->
-<!-- 
+<!--
      <xsl:choose>
       <xsl:when test="gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:graphicOverview/gmd:MD_BrowseGraphic/gmd:fileName">
         <xsl:text>"thumbnail_path_ss": "</xsl:text>
