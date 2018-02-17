@@ -1,0 +1,35 @@
+{
+  "uuid": "32dd494189ba4b9581bc24c2daa57cf3_61",
+  "dc_identifier_s": "32dd494189ba4b9581bc24c2daa57cf3_61",
+  "dc_title_s": "Sport Venues - Soccer: Maryland",
+  "dc_description_s": "This is a MD iMAP hosted service layer. Find more information at http://imap.maryland.govMaryland Sports (http://www. marylandsports. us/) has identified sport venues located within the State of Maryland. These venues offer opportunities to participate in free and fee-based, organized and pick-up, indoor and outdoor sports and physical fitness related activities in the area of Soccer. Last Updated: 08/2014",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Maryland iMap"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/32dd494189ba4b9581bc24c2daa57cf3_61\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://geodata.md.gov/imap/rest/services/Society/MD_SportVenues/FeatureServer/61\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/32dd494189ba4b9581bc24c2daa57cf3_61.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016",
+  "dct_spatial_sm": [
+    "Maryland, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4361885"
+  ],
+  "thumbnail_path_ss": "https://geodata.md.gov/imap/rest/services/Society/MD_SportVenues/FeatureServer/info/thumbnail",
+  "layer_slug_s": "32dd494189ba4b9581bc24c2daa57cf3_61",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T21:17:6Z",
+  "centroid_s": "38.83835,-76.9974",
+  "solr_geom": "ENVELOPE(-78.9364, -75.0584, 39.679, 37.9977)",
+  "solr_year_i": 2016
+}

@@ -1,0 +1,37 @@
+{
+  "uuid": "17642378ecd041838ee461d30a1f7665_14",
+  "dc_identifier_s": "17642378ecd041838ee461d30a1f7665_14",
+  "dc_title_s": "Hydrography Centerline: Washington, D.C.",
+  "dc_description_s": "Hydrography Centerline. The dataset contains polygons representing planimetric buildingsC. Office of the Chief Technology Officer (OCTO). These features were originally captured in 1999 and updated in 2005. The following planimetric layers were updated: - Building Polygons (BldgPly) - Bridge and Tunnel Polygons (BrgTunPly) - Metro Entrance Points (MetroEntPt) - Obscured Area Polygons (ObsAreaPly) - Railroad Lines (RailRdLn) - Road METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": "District of Columbia GIS Program",
+  "dc_subject_sm": [
+    "Environment",
+    "Water",
+    "Planimetrics"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.dc.gov/datasets/17642378ecd041838ee461d30a1f7665_14\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Environment_WebMercator/MapServer/14\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/17642378ecd041838ee461d30a1f7665_14.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015",
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "17642378ecd041838ee461d30a1f7665_14",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T20:46:55Z",
+  "centroid_s": "38.895586044,-77.0158723621",
+  "solr_geom": "ENVELOPE(-77.1203821156, -76.9113626086, 38.9946494134, 38.7965226746)",
+  "solr_year_i": 2015
+}

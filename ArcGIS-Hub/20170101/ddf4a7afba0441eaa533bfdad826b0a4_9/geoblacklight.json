@@ -1,0 +1,35 @@
+{
+  "uuid": "ddf4a7afba0441eaa533bfdad826b0a4_9",
+  "dc_identifier_s": "ddf4a7afba0441eaa533bfdad826b0a4_9",
+  "dc_title_s": "Long Term Care Assisted Living - Rehabilitation Hospitals: Maryland",
+  "dc_description_s": "This is a MD iMAP hosted service layer. Find more information at http://imap.maryland.gov. OPR organizes and prepares for public health and medical emergencies through statewide partnerships with public, private and government agencies to coordinate an effective emergency response for the health and safety of all residents of Maryland. Last Updated: 08/2016",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Maryland iMap"
+  ],
+  "dc_subject_sm": [
+    "Health"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/ddf4a7afba0441eaa533bfdad826b0a4_9\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://geodata.md.gov/imap/rest/services/Health/MD_LongTermCareAssistedLiving/FeatureServer/9\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/ddf4a7afba0441eaa533bfdad826b0a4_9.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016",
+  "dct_spatial_sm": [
+    "Maryland, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4361885"
+  ],
+  "thumbnail_path_ss": "https://geodata.md.gov/imap/rest/services/Health/MD_LongTermCareAssistedLiving/FeatureServer/info/thumbnail",
+  "layer_slug_s": "ddf4a7afba0441eaa533bfdad826b0a4_9",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T21:15:45Z",
+  "centroid_s": "38.7339,-76.3747",
+  "solr_geom": "ENVELOPE(-77.2008, -75.5486, 39.0985, 38.3693)",
+  "solr_year_i": 2016
+}

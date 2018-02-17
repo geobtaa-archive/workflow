@@ -1,0 +1,38 @@
+{
+  "uuid": "3b7f15eb25884aafb236dbbde795f72b_27",
+  "dc_identifier_s": "3b7f15eb25884aafb236dbbde795f72b_27",
+  "dc_title_s": "Comprehensive Plan Policy: Washington, D.C., 2012",
+  "dc_description_s": "Generalized Policy from the Comprehensive Plan Amendment Act of 2010, effective April 8, 2011",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": "District of Columbia GIS Program",
+  "dc_subject_sm": [
+    "Economy"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.dc.gov/datasets/3b7f15eb25884aafb236dbbde795f72b_27\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Planning_Landuse_and_Zoning_WebMercator/MapServer/27\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/3b7f15eb25884aafb236dbbde795f72b_27.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+    "2012"
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "3b7f15eb25884aafb236dbbde795f72b_27",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T20:46:33Z",
+  "centroid_s": "38.895,-77.036",
+  "solr_geom": "ENVELOPE(-77.176, -76.896, 39.035, 38.755)",
+  "solr_year_i": 2012
+}

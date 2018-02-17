@@ -1,0 +1,43 @@
+{
+  "uuid": "f9fc029004c647cab5719aa0575bc3ef_17",
+  "dc_identifier_s": "f9fc029004c647cab5719aa0575bc3ef_17",
+  "dc_title_s": "Capital Projects: Washington, D.C., 2011",
+  "dc_description_s": "Capital Projects 2011 locations. The dataset contains locations and attributes of Capital Projects 2011C. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies. A database provided by the Executive office of the mayor identified Capital Projects 2011 locations. The project information was used in the DC 2011 budget document. All DC GIS data is stored and exported in Maryland State Plane coordinates NAD 83 meters. METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Structure",
+    "Location",
+    "Public",
+    "Service",
+    "Capital projects",
+    "Development",
+    "Public Service"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/f9fc029004c647cab5719aa0575bc3ef_17\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Public_Service_WebMercator/MapServer/17\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/f9fc029004c647cab5719aa0575bc3ef_17.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "f9fc029004c647cab5719aa0575bc3ef_17",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T20:29:28Z",
+  "centroid_s": "38.96262966775,-76.93914986",
+  "solr_geom": "ENVELOPE(-77.0974364683, -76.7808632517, 39.1100578386, 38.8152014969)",
+  "solr_year_i": 2011
+}

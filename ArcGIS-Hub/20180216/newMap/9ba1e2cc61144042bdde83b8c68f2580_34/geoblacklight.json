@@ -1,0 +1,37 @@
+{
+  "uuid": "9ba1e2cc61144042bdde83b8c68f2580_34",
+  "dc_identifier_s": "9ba1e2cc61144042bdde83b8c68f2580_34",
+  "dc_title_s": "Zoning Cases: Washington, D.C.",
+  "dc_description_s": "About the BZA - The Board of Zoning Adjustment (BZA) is an independent, quasi-judicial body. It is empowered to grant relief from the strict application of the Zoning Regulations (variances), approve certain uses of land (special exceptions), and hear appeals of actions taken by the Zoning Administrator at DCRA. The Board's five members consist of three Mayoral appointees, a rotating member of the District of Columbia Zoning Commission, and a designated representative of the National Capital Planning Commission. In cases where the Board is performing functions regarding Foreign Mission and Chancery applications, the composition of the Board shall consist of the three Mayoral appointees, the Director of the U.S. National Park Service or his designee, and the Executive Director of the National Capital Planning Commission.About the ZC - The Zoning Commission (ZC) is an independent, quasi-judicial body. Created by the Zoning Act of 1920, as amended, the ZC is charged with preparing, adopting, and subsequently amending the Zoning Regulations and Zoning Map in a means not inconsistent with the Comprehensive Plan for the National Capital area. Three members of the ZC are residents of the District of Columbia appointed by the Mayor and confirmed by the Council. The fourth member of the ZC is the Architect of the Capitol (or his/her representative). The fifth ZC member is the Director of the National Park Service (or his/her representative).",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": "District of Columbia GIS Program",
+  "dc_subject_sm": [
+    "Planning and Cadastral",
+    "Boundaries"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.dc.gov/datasets/9ba1e2cc61144042bdde83b8c68f2580_34\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Planning_Landuse_and_Zoning_WebMercator/MapServer/34\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/9ba1e2cc61144042bdde83b8c68f2580_34.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2017-10-11",
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4138106"
+  ],
+  "thumbnail_path_ss": "https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Planning_Landuse_and_Zoning_WebMercator/MapServer/info/thumbnail",
+  "layer_slug_s": "9ba1e2cc61144042bdde83b8c68f2580_34",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T20:47:57Z",
+  "centroid_s": "38.9044555,-77.0132675",
+  "solr_geom": "ENVELOPE(-77.115526, -76.911009, 38.99456, 38.814351)",
+  "solr_year_i": 2017
+}

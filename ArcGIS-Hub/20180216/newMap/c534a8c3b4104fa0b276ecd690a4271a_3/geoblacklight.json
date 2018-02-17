@@ -1,0 +1,39 @@
+{
+  "uuid": "c534a8c3b4104fa0b276ecd690a4271a_3",
+  "dc_identifier_s": "c534a8c3b4104fa0b276ecd690a4271a_3",
+  "dc_title_s": "OC Lake Contours: Oakland County, Michigan",
+  "dc_description_s": "A spatial representation of lake depths. This polygon feature class was derived from hard copy maps produced by the State of Michigan Conservation Department. These maps were scanned and digitized to produce this data. The hard copy maps were produced in 1947. Key attributes include the LakeName (Lake name) and Depth (below lake level).",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Oakland County, Michigan"
+  ],
+  "dc_creator_sm": "Access Oakland",
+  "dc_subject_sm": [
+    "Inland Waters",
+    "Elevation"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://accessoakland.oakgov.com/datasets/c534a8c3b4104fa0b276ecd690a4271a_3\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gisservices.oakgov.com/arcgis/rest/services/Enterprise/EnterpriseSurfaceTopographyMapService/MapServer/3\",\"http://schema.org/downloadUrl\":\"https://accessoakland.oakgov.com/datasets/c534a8c3b4104fa0b276ecd690a4271a_3.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016-10-16",
+  "dct_spatial_sm": [
+    "Oakland County, Michigan, United States",
+    "Michigan, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5004223",
+    "http://sws.geonames.org/5001836"
+  ],
+  "thumbnail_path_ss": "https://gisservices.oakgov.com/arcgis/rest/services/Enterprise/EnterpriseSurfaceTopographyMapService/MapServer/info/thumbnail",
+  "layer_slug_s": "c534a8c3b4104fa0b276ecd690a4271a_3",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T21:4:3Z",
+  "centroid_s": "42.6598425,-83.3843095",
+  "solr_geom": "ENVELOPE(-83.694337, -83.074282, 42.893598, 42.426087)",
+  "solr_year_i": 2016
+}

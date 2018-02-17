@@ -1,0 +1,40 @@
+{
+  "uuid": "b9afc53f7fab4a2cb6a51f8a4c62bc5b_29",
+  "dc_identifier_s": "b9afc53f7fab4a2cb6a51f8a4c62bc5b_29",
+  "dc_title_s": "Regions: Michigan",
+  "dc_description_s": "The MDOT Region layer represents MDOT s seven regions that each handle transportation-related construction, maintenance and programs within each region s geographic boundaries. Region offices are managed by professional engineers who are trained to direct and oversee the transportation activities and programs of their respective regions. Please see the MDOT Metadata Form for additional information. Update Cycle: MDOT Regions are static boundaries.Coverage: This inventory is complete in its coverage.Contact: Kevin McKnight, mcknightk@michigan.gov",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "State of Michigan"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://hub.arcgis.com/datasets/b9afc53f7fab4a2cb6a51f8a4c62bc5b_29\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gisago.mcgi.state.mi.us/arcgis/rest/services/MDOT/mdot_opendata/MapServer/29\",\"http://schema.org/downloadUrl\":\"https://hub.arcgis.com/datasets/b9afc53f7fab4a2cb6a51f8a4c62bc5b_29.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015-06-03",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "Michigan, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5001836"
+  ],
+  "layer_slug_s": "b9afc53f7fab4a2cb6a51f8a4c62bc5b_29",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T20:47:29Z",
+  "centroid_s": "44.9581,-86.31355",
+  "solr_geom": "ENVELOPE(-90.5567, -82.0704, 48.2841, 41.6321)",
+  "solr_year_i": 2015
+}

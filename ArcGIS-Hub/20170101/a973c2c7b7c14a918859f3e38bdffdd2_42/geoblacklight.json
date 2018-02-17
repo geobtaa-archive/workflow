@@ -1,0 +1,38 @@
+{
+  "uuid": "a973c2c7b7c14a918859f3e38bdffdd2_42",
+  "dc_identifier_s": "a973c2c7b7c14a918859f3e38bdffdd2_42",
+  "dc_title_s": "Best Management Practices: Washington, D.C.",
+  "dc_description_s": "Best Management Practices (BMPs) BMPs reduce the effects of stormwater pollution and help to restore the District s waterbodies. The District s stormwater regulations require that large construction or renovation projects install BMPs to manage stormwater runoff once construction is complete. The District also provides financial incentives for properties that install BMPs voluntarily. This dataset includes BMPs that were installed to comply with the District s stormwater regulations These BMPs have been reviewed by the Department of Energy and Environment (DOEE) as part of these programs. This dataset is updated weekly with data from the District s Stormwater Database..",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Environment",
+    "Structure",
+    "Storm water",
+    "Water",
+    "Wetlands"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/a973c2c7b7c14a918859f3e38bdffdd2_42\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Environment_WebMercator/MapServer/42\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/a973c2c7b7c14a918859f3e38bdffdd2_42.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015",
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "a973c2c7b7c14a918859f3e38bdffdd2_42",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T20:30:12Z",
+  "centroid_s": "38.90345,-77.01485",
+  "solr_geom": "ENVELOPE(-77.1129, -76.9168, 38.9934, 38.8135)",
+  "solr_year_i": 2015
+}

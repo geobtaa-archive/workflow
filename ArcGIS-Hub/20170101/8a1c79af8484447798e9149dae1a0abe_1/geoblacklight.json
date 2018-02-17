@@ -1,0 +1,36 @@
+{
+  "uuid": "8a1c79af8484447798e9149dae1a0abe_1",
+  "dc_identifier_s": "8a1c79af8484447798e9149dae1a0abe_1",
+  "dc_title_s": "Michigan DNR Mineral Lease Nominations: Michigan",
+  "dc_description_s": "Lease Nominations are from the LOTS database and linked to the quarter quarter grid file.  Any 40 acre parcel with a mineral lease nomination is included in the layer.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Michigan Department of Natural Resources"
+  ],
+  "dc_subject_sm": [
+    "Geoscientific Information",
+    "Economy"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://gis-midnr.opendata.arcgis.com/datasets/8a1c79af8484447798e9149dae1a0abe_1\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services3.arcgis.com/Jdnp1TjADvSDxMAX/arcgis/rest/services/dnrMinerals/FeatureServer/1\",\"http://schema.org/downloadUrl\":\"http://gis-midnr.opendata.arcgis.com/datasets/8a1c79af8484447798e9149dae1a0abe_1.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2017-11-28",
+  "dct_spatial_sm": [
+    "Michigan, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5001836"
+  ],
+  "thumbnail_path_ss": "https://services3.arcgis.com/Jdnp1TjADvSDxMAX/arcgis/rest/services/dnrMinerals/FeatureServer/info/thumbnail",
+  "layer_slug_s": "8a1c79af8484447798e9149dae1a0abe_1",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T21:21:24Z",
+  "centroid_s": "44.5601,-85.68545",
+  "solr_geom": "ENVELOPE(-88.8648, -82.5061, 46.8369, 42.2833)",
+  "solr_year_i": 2017
+}

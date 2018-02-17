@@ -1,0 +1,39 @@
+{
+  "uuid": "9cbe8553d4e2456ab6c140d83c7e83e0_15",
+  "dc_identifier_s": "9cbe8553d4e2456ab6c140d83c7e83e0_15",
+  "dc_title_s": "Public Space: Washington, D.C. 2012",
+  "dc_description_s": "Public Space. The dataset contains locations and attributes of 2012 above ground permits applied for and approved by the District Department of Transportation. They are newly occupied constructions and events. Examples include: moving trucks The public space permit process is described on the DDOT website http://ddot.dc.gov.These data are shared via an automated process where addresses are batch matched (geocoded) to the District's Master Address Repository. Users may find that some data points will contain 0 Addresses for these data points could not be automatically geocoded and will need to be manually geocoded to 'best fit' locations in DC. Use the MAR Geocoder to help complete this.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Locations",
+    "Feeds",
+    "public space permit"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/9cbe8553d4e2456ab6c140d83c7e83e0_15\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DDOT/MapServer/15\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/9cbe8553d4e2456ab6c140d83c7e83e0_15.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+    "2012"
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "9cbe8553d4e2456ab6c140d83c7e83e0_15",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T20:30:20Z",
+  "centroid_s": "38.895,-77.036",
+  "solr_geom": "ENVELOPE(-77.176, -76.896, 39.035, 38.755)",
+  "solr_year_i": 2012
+}

@@ -1,0 +1,35 @@
+{
+  "uuid": "d48017e8074f4334b6831af02b4186ef_1",
+  "dc_identifier_s": "d48017e8074f4334b6831af02b4186ef_1",
+  "dc_title_s": "Culverts: Iowa",
+  "dc_description_s": "Data collected by Iowa DOT Field Staff from their inventory and inspection of culverts and bridgelets on the Iowa DOT Primary Road Network. This includes culverts within the Right of Way even if they run under secondary roads or driveway access points. This data is updated weekly and is not complete.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Iowa Department of Transportation"
+  ],
+  "dc_creator_sm": "Iowa DOT GIS Services",
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Iowa",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://public-iowadot.opendata.arcgis.com/datasets/d48017e8074f4334b6831af02b4186ef_1\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://gis.iowadot.gov/public/rest/services/Maintenance/Culverts/FeatureServer/1\",\"http://schema.org/downloadUrl\":\"https://public-iowadot.opendata.arcgis.com/datasets/d48017e8074f4334b6831af02b4186ef_1.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2017-02-17",
+  "dct_spatial_sm": [
+    "Iowa, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4862182"
+  ],
+  "layer_slug_s": "d48017e8074f4334b6831af02b4186ef_1",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T22:11:25Z",
+  "centroid_s": "41.9492,-93.3723",
+  "solr_geom": "ENVELOPE(-96.6508, -90.0938, 43.5382, 40.3602)",
+  "solr_year_i": 2017
+}

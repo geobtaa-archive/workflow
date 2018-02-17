@@ -1,0 +1,35 @@
+{
+  "uuid": "1292c9d3be1743009a8f0bf4b0a8de3b_0",
+  "dc_identifier_s": "1292c9d3be1743009a8f0bf4b0a8de3b_0",
+  "dc_title_s": "Roads: Southeast Michigan",
+  "dc_description_s": "Roads: Road features extracted from version 16 of the Michigan Geographic Framework.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "SEMCOG, Southeast Michigan Council of Governments"
+  ],
+  "dc_creator_sm": "SEMCOG, Southeast Michigan Council of Governments",
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://maps-semcog.opendata.arcgis.com/datasets/1292c9d3be1743009a8f0bf4b0a8de3b_0\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://arcgisserver.semcog.org/arcgis/rest/services/OpenData/NFC/MapServer/0\",\"http://schema.org/downloadUrl\":\"https://maps-semcog.opendata.arcgis.com/datasets/1292c9d3be1743009a8f0bf4b0a8de3b_0.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016",
+  "dct_spatial_sm": [
+    "Michigan, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5001836"
+  ],
+  "layer_slug_s": "1292c9d3be1743009a8f0bf4b0a8de3b_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T21:4:8Z",
+  "centroid_s": "42.44635,-83.2876",
+  "solr_geom": "ENVELOPE(-84.1617, -82.4135, 43.1837, 41.709)",
+  "solr_year_i": 2016
+}

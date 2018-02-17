@@ -1,0 +1,37 @@
+{
+  "uuid": "7a88efc816674ac086fdfe66dde0aef8_4",
+  "dc_identifier_s": "7a88efc816674ac086fdfe66dde0aef8_4",
+  "dc_title_s": "Parking Violations Issued in May 2010: Washington, D.C.",
+  "dc_description_s": "Parking citation locations in the District of Columbia. The Vision Zero data contained in this layer pertain to parking violations issued by the District of Columbia's Metropolitan Police Department (MPD) and partner agencies with the authority. For example, the District Department of Transportation's (DDOT) traffic control officers write parking violations to prevent congestion through enforcement and control at intersections. Parking violation locations are summarized ticket counts based on time of day, week of year, year, and category of violation.Data was originally downloaded from the District Department of Motor Vehicle's eTIMS meter work order management system. Data was exported into DDOT s SQL server, where the Office of the Chief Technology Officer (OCTO) geocoded citation data to the street segment level. Data was then visualized using the street segment centroid coordinates.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/7a88efc816674ac086fdfe66dde0aef8_4\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Violations_Parking_2010/MapServer/4\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/7a88efc816674ac086fdfe66dde0aef8_4.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016",
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "7a88efc816674ac086fdfe66dde0aef8_4",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T20:39:34Z",
+  "centroid_s": "38.9062,-77.0124",
+  "solr_geom": "ENVELOPE(-77.114, -76.9108, 38.9936, 38.8188)",
+  "solr_year_i": 2010
+}

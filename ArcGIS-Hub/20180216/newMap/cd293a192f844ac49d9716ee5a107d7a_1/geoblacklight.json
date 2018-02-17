@@ -1,0 +1,36 @@
+{
+  "uuid": "cd293a192f844ac49d9716ee5a107d7a_1",
+  "dc_identifier_s": "cd293a192f844ac49d9716ee5a107d7a_1",
+  "dc_title_s": "Wetlands - Wetlands, Polygon (Department of Natural Resources): Maryland",
+  "dc_description_s": "This is a MD iMAP hosted service layer. Find more information at http://imap.maryland.gov. The Maryland Department of Natural resources began updating the National Wetlands Inventory (NWI) mapping of wetlands in Maryland in the early 1990s. This database lists the 3. 75' x 3. 75' USGS quadrangles for which 'DNR Wetlands' have been mapped. It identifies the date of source photography used to map wetlands, and the status of mapping effort. This database also gives the five-letter abbreviation used for naming 'DNR_Wetlands' files. In most cases, the first five characters are the first 'five characters' of the 'USGS 7. 5' Quad Name. ' When completed, the series will provide coverage for the entire State of Maryland. Last Updated: 04/5/1995",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dc_creator_sm": "Maryland iMap",
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.imap.maryland.gov/datasets/cd293a192f844ac49d9716ee5a107d7a_1\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://geodata.md.gov/imap/rest/services/Hydrology/MD_Wetlands/MapServer/1\",\"http://schema.org/downloadUrl\":\"https://data.imap.maryland.gov/datasets/cd293a192f844ac49d9716ee5a107d7a_1.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016",
+  "dct_spatial_sm": [
+    "Maryland, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4361885"
+  ],
+  "thumbnail_path_ss": "https://geodata.md.gov/imap/rest/services/Hydrology/MD_Wetlands/MapServer/info/thumbnail",
+  "layer_slug_s": "cd293a192f844ac49d9716ee5a107d7a_1",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T20:47:37Z",
+  "centroid_s": "38.81255,-77.2729",
+  "solr_geom": "ENVELOPE(-79.5, -75.0458, 39.7501, 37.875)",
+  "solr_year_i": 2016
+}

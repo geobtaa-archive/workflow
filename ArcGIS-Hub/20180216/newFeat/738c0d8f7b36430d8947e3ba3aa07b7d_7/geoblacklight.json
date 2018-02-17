@@ -1,0 +1,37 @@
+{
+  "uuid": "738c0d8f7b36430d8947e3ba3aa07b7d_7",
+  "dc_identifier_s": "738c0d8f7b36430d8947e3ba3aa07b7d_7",
+  "dc_title_s": "Indianapolis Greenways, Indianapolis, Indiana",
+  "dc_description_s": "Line file depicting Greenway locations in Indianapolis and Marion County.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Indianapolis-Marion County"
+  ],
+  "dc_creator_sm": "City of Indianapolis-Marion County",
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_provenance_s": "Indiana",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data1-indygis.opendata.arcgis.com/datasets/738c0d8f7b36430d8947e3ba3aa07b7d_7\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://imaps.indy.gov/arcgis/rest/services/OpenData/FeatureServer/7\",\"http://schema.org/downloadUrl\":\"https://data1-indygis.opendata.arcgis.com/datasets/738c0d8f7b36430d8947e3ba3aa07b7d_7.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015-08-06",
+  "dct_spatial_sm": [
+    "Indianapolis, Indiana, United States",
+    "State of Indiana, Indiana, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4259418",
+    "http://sws.geonames.org/4921868"
+  ],
+  "layer_slug_s": "738c0d8f7b36430d8947e3ba3aa07b7d_7",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T21:59:24Z",
+  "centroid_s": "39.78055,-86.14005",
+  "solr_geom": "ENVELOPE(-86.3284, -85.9517, 39.9276, 39.6335)",
+  "solr_year_i": 2016
+}

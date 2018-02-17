@@ -1,0 +1,36 @@
+{
+  "uuid": "e8991dbdc15b40a8b1218670c865567f_4",
+  "dc_identifier_s": "e8991dbdc15b40a8b1218670c865567f_4",
+  "dc_title_s": "Non-Permit Inspections: Washington, D.C.",
+  "dc_description_s": "These are cases of inspections for work being performed without a permit. For instance, a mobile crane at public space without a permit or construction of a fence without a permit.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_subject_sm": [
+    "Transportation",
+    "Economy"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/e8991dbdc15b40a8b1218670c865567f_4\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DDOT/MapServer/4\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/e8991dbdc15b40a8b1218670c865567f_4.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2017-11-06",
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4138106"
+  ],
+  "thumbnail_path_ss": "https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DDOT/MapServer/info/thumbnail",
+  "layer_slug_s": "e8991dbdc15b40a8b1218670c865567f_4",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T20:39:50Z",
+  "centroid_s": "38.89,-77.032",
+  "solr_geom": "ENVELOPE(-77.136, -76.928, 38.994, 38.786)",
+  "solr_year_i": 2017
+}

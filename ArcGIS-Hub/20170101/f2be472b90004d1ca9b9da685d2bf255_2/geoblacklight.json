@@ -1,0 +1,39 @@
+{
+  "uuid": "f2be472b90004d1ca9b9da685d2bf255_2",
+  "dc_identifier_s": "f2be472b90004d1ca9b9da685d2bf255_2",
+  "dc_title_s": "October Lease Auction Successful Bid results: Michigan, 2016",
+  "dc_description_s": "2016 Oil and Gas Lease Auction results",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Michigan Department of Transportation"
+  ],
+  "dc_subject_sm": [
+    "Geoscientific Information",
+    "Economy"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://gis-mdot.opendata.arcgis.com/datasets/f2be472b90004d1ca9b9da685d2bf255_2\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services3.arcgis.com/Jdnp1TjADvSDxMAX/arcgis/rest/services/open_ogauction_2016fall/FeatureServer/2\",\"http://schema.org/downloadUrl\":\"http://gis-mdot.opendata.arcgis.com/datasets/f2be472b90004d1ca9b9da685d2bf255_2.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2017-02-24",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "Michigan, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5001836"
+  ],
+  "thumbnail_path_ss": "https://services3.arcgis.com/Jdnp1TjADvSDxMAX/arcgis/rest/services/open_ogauction_2016fall/FeatureServer/info/thumbnail",
+  "layer_slug_s": "f2be472b90004d1ca9b9da685d2bf255_2",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T21:22:47Z",
+  "centroid_s": "43.983134012659,-84.5639690576966",
+  "solr_geom": "ENVELOPE(-85.81459620483633, -83.3133419105569, 45.310265516482865, 42.656002508835186)",
+  "solr_year_i": 2016
+}

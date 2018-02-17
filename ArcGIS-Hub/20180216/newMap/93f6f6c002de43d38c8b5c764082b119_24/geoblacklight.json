@@ -1,0 +1,40 @@
+{
+  "uuid": "93f6f6c002de43d38c8b5c764082b119_24",
+  "dc_identifier_s": "93f6f6c002de43d38c8b5c764082b119_24",
+  "dc_title_s": "Spruce Budworm 2002: Michigan",
+  "dc_description_s": "Spruce Budworm 2002 includes the areas derived from the Aerial Survey analysis completed by the US Forest Service and the Michigan Department of Natural Resources.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "State of Michigan"
+  ],
+  "dc_creator_sm": "Michigan Department of Transportation",
+  "dc_subject_sm": [
+    "Environment",
+    "Biota"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://hub.arcgis.com/datasets/93f6f6c002de43d38c8b5c764082b119_24\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gisago.mcgi.state.mi.us/arcgis/rest/services/DNR/dnrForestHealthAndPlanning/MapServer/24\",\"http://schema.org/downloadUrl\":\"https://hub.arcgis.com/datasets/93f6f6c002de43d38c8b5c764082b119_24.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015-12-10",
+  "dct_temporal_sm": [
+    "2002"
+  ],
+  "dct_spatial_sm": [
+    "Michigan, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5001836"
+  ],
+  "thumbnail_path_ss": "https://gisago.mcgi.state.mi.us/arcgis/rest/services/DNR/dnrForestHealthAndPlanning/MapServer/info/thumbnail",
+  "layer_slug_s": "93f6f6c002de43d38c8b5c764082b119_24",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T21:3:36Z",
+  "centroid_s": "44.9935,-86.26505",
+  "solr_geom": "ENVELOPE(-90.0891, -82.441, 48.0507, 41.9363)",
+  "solr_year_i": 2015
+}

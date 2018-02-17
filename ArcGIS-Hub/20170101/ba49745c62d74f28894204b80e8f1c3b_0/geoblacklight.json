@@ -1,0 +1,42 @@
+{
+  "uuid": "ba49745c62d74f28894204b80e8f1c3b_0",
+  "dc_identifier_s": "ba49745c62d74f28894204b80e8f1c3b_0",
+  "dc_title_s": "Pervious Subset: Washington County, Minnesota",
+  "dc_description_s": "Subset of pervious surfaces in Washington County",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Washington County, Minnesota"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data-wcmn.opendata.arcgis.com/datasets/ba49745c62d74f28894204b80e8f1c3b_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/3fjYPqJf7qalQMlb/arcgis/rest/services/Pervious_Subset/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://data-wcmn.opendata.arcgis.com/datasets/ba49745c62d74f28894204b80e8f1c3b_0.zip\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data",
+    "Minnesota Counties"
+  ],
+  "dct_issued_s": "2017-10-17",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dct_spatial_sm": [
+    "Washington County, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5051936",
+    "http://sws.geonames.org/5037779"
+  ],
+  "layer_slug_s": "ba49745c62d74f28894204b80e8f1c3b_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T21:21:8Z",
+  "centroid_s": "45.017302,-92.880852",
+  "solr_geom": "ENVELOPE(-93.022057, -92.739647, 45.296864, 44.73774)",
+  "solr_year_i": 2017
+}

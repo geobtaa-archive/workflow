@@ -1,0 +1,51 @@
+{
+  "uuid": "54018b7f06b943f2af278bbe415df1de_52",
+  "dc_identifier_s": "54018b7f06b943f2af278bbe415df1de_52",
+  "dc_title_s": "Metro Stations (District): Washington, D.C.",
+  "dc_description_s": "Metro Station Entrances - DC only. This dataset contains points representing Metro facilitiesC. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies. Station centroids were identified from visual observation of orthophotography and extracted from the planimetric data and a centroid for each entrance was heads-up digitized from the snapbase. All DC GIS data is stored and exported in Maryland State Plane coordinates NAD 83 meters. METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": "District of Columbia GIS Program",
+  "dc_subject_sm": [
+    "Location",
+    "Bus line",
+    "Mass transit",
+    "WMATA",
+    "Commute",
+    "Commute",
+    "Bus route",
+    "Bus stop",
+    "Public transportation",
+    "Canopy",
+    "Transit",
+    "Parapet",
+    "Subway",
+    "Rail transit",
+    "Washington Metropolitan Area Transit Authority",
+    "Metro",
+    "Conservation"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.dc.gov/datasets/54018b7f06b943f2af278bbe415df1de_52\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Transportation_WebMercator/MapServer/52\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/54018b7f06b943f2af278bbe415df1de_52.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015",
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "54018b7f06b943f2af278bbe415df1de_52",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T20:46:20Z",
+  "centroid_s": "38.9108536834,-77.01010533485",
+  "solr_geom": "ENVELOPE(-77.0850155639, -76.9351951058, 38.9760799434, 38.8456274234)",
+  "solr_year_i": 2015
+}

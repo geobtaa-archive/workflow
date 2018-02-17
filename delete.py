@@ -109,6 +109,7 @@ class CSWToGeoBlacklight(object):
         }
 
         self.collection = {
+            "arc": '"ArcGIS Open Data"',
             "01c-01": '"Bloomington Open Data"',
 			"01c-02": '"Indianapolis Open Data"',
 			"01d-01": '"Indiana Historic Maps"',
@@ -126,6 +127,7 @@ class CSWToGeoBlacklight(object):
 			"04d-01": '"University of Maryland Digital Collections"',
 			"04d-02": '"Maryland Scanned Foreign Maps"',
 			"05a-01": '"Minnesota Geospatial Commons"',
+			"05b-99": '"Minnesota Counties"',
 			"05a-02": '"MN Legislature"',
 			"05b-01": '"Anoka County"',
 			"05b-02": '"Becker County"',

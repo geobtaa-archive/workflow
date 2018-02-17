@@ -1,0 +1,38 @@
+{
+  "uuid": "70e75d8166a2427ebd09a08c619ed6f9_3",
+  "dc_identifier_s": "70e75d8166a2427ebd09a08c619ed6f9_3",
+  "dc_title_s": "OC School District: Oakland County, Michigan",
+  "dc_description_s": "A spatial representation of school district boundaries. This polygon feature class was initially derived from the 1998 Parcel polygon feature class, based on a common school district code as maintained in the Oakland County Land Records database. The key attribute is Name (the school district name).",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Oakland County, Michigan"
+  ],
+  "dc_subject_sm": [
+    "Boundaries",
+    "Society"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://accessoakland.oakgov.com/datasets/70e75d8166a2427ebd09a08c619ed6f9_3\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gisservices.oakgov.com/arcgis/rest/services/Enterprise/EnterpriseAdminDataMapService/MapServer/3\",\"http://schema.org/downloadUrl\":\"http://accessoakland.oakgov.com/datasets/70e75d8166a2427ebd09a08c619ed6f9_3.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016-10-16",
+  "dct_spatial_sm": [
+    "Oakland County, Michigan, United States",
+    "Michigan, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5004223",
+    "http://sws.geonames.org/5001836"
+  ],
+  "thumbnail_path_ss": "https://gisservices.oakgov.com/arcgis/rest/services/Enterprise/EnterpriseAdminDataMapService/MapServer/info/thumbnail",
+  "layer_slug_s": "70e75d8166a2427ebd09a08c619ed6f9_3",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T20:39:42Z",
+  "centroid_s": "42.6598425,-83.3843095",
+  "solr_geom": "ENVELOPE(-83.694337, -83.074282, 42.893598, 42.426087)",
+  "solr_year_i": 2016
+}

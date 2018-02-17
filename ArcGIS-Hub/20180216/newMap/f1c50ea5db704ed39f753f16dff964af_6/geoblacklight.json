@@ -1,0 +1,37 @@
+{
+  "uuid": "f1c50ea5db704ed39f753f16dff964af_6",
+  "dc_identifier_s": "f1c50ea5db704ed39f753f16dff964af_6",
+  "dc_title_s": "Assessment Neighborhoods: Washington, D.C.",
+  "dc_description_s": "This dataset contains polygons that represent the boundaries of assessment neighborhoods as defined by the DC Office of Tax and Revenue (OTR) Real Property Tax Administration (RPTA). For analysis purposes Assessment neighborhoods are defined by the environment of a subject property that has a direct and immediate effect on its value. The assessment neighborhood is a geographic area (in which there are typically fewer than several thousand properties) defined for some useful purpose Assessment neighborhoods boundaries typically follow street centerlines The current feature class was created by selecting coincident features from the DC GIS snapbase. These included road centerlines After a new feature class was created001 meters.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": "District of Columbia GIS Program",
+  "dc_subject_sm": [
+    "Boundaries",
+    "Assessment neighborhoods",
+    "Assessment neighborhoods"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.dc.gov/datasets/f1c50ea5db704ed39f753f16dff964af_6\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Property_and_Land_WebMercator/MapServer/6\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/f1c50ea5db704ed39f753f16dff964af_6.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015",
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "f1c50ea5db704ed39f753f16dff964af_6",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T20:44:56Z",
+  "centroid_s": "38.89951238065,-77.01287285795",
+  "solr_geom": "ENVELOPE(-77.1167293408, -76.9090163751, 38.9959673777, 38.8030573836)",
+  "solr_year_i": 2015
+}

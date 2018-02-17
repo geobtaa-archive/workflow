@@ -1,0 +1,42 @@
+{
+  "uuid": "2e82614b45de4019b71c97619d95460d_60",
+  "dc_identifier_s": "2e82614b45de4019b71c97619d95460d_60",
+  "dc_title_s": "Land Boundary Changes: Washington, D.C., 2016",
+  "dc_description_s": "Owner polygons. The dataset contains locations and attributes of owner polygonsC. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies. The tax information (attribution) comes from OTR's Public Extract file. The creation of this layer is automated The date of the extract can be found in the EXTRACTDATfield in this layer. Please visit http://vpm.dc.gov/ for additional information. All DC GIS data is stored and exported in Maryland State Plane coordinates NAD 83 meters. METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Location",
+    "Property",
+    "Land",
+    "Lot",
+    "Square",
+    "Land"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/2e82614b45de4019b71c97619d95460d_60\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Property_and_Land/MapServer/60\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/2e82614b45de4019b71c97619d95460d_60.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "2e82614b45de4019b71c97619d95460d_60",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T20:31:18Z",
+  "centroid_s": "38.8988,-77.01435",
+  "solr_geom": "ENVELOPE(-77.1194, -76.9093, 38.996, 38.8016)",
+  "solr_year_i": 2016
+}

@@ -1,0 +1,35 @@
+{
+  "uuid": "2ccac3f2585f487c9d14919d02d66740_13",
+  "dc_identifier_s": "2ccac3f2585f487c9d14919d02d66740_13",
+  "dc_title_s": "Great Streets Corridors: Washington, D.C.",
+  "dc_description_s": "In 2006 Led by the Office of the Deputy Mayor for Planning and Economic Development (DMPED) in conjunction with the Office of Planning (OP) and the District Department of Transportation (DDOT)The Government of the District of Columbia through the Office of the Deputy Mayor for Planning and Economic Development (DMPED) administers the Great Streets Retail Small Business Reimbursement Grants The purpose of the grant program is to support existing small businessesIf you would like to be added to the Great Streets email list to receive updates about small business opportunities in the District of Columbiagov.Visit http://greatstreets.dc.gov/ for more information.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Transportation",
+    "Society"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/2ccac3f2585f487c9d14919d02d66740_13\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Business_and_Economic_Development_WebMercator/MapServer/13\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/2ccac3f2585f487c9d14919d02d66740_13.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015",
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "2ccac3f2585f487c9d14919d02d66740_13",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T20:31:19Z",
+  "centroid_s": "38.895,-77.036",
+  "solr_geom": "ENVELOPE(-77.176, -76.896, 39.035, 38.755)",
+  "solr_year_i": 2015
+}

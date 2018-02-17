@@ -1,0 +1,44 @@
+{
+  "uuid": "f6483e75c41a4149a334a62abf47ab78_64",
+  "dc_identifier_s": "f6483e75c41a4149a334a62abf47ab78_64",
+  "dc_title_s": "Traffic Volume: Washington, D.C., 2006",
+  "dc_description_s": "Traffic volume of Street segments. The dataset contains traffic volume data A database provided by the District of Columbia All DC GIS data is stored and exported in Maryland State Plane coordinates NAD 83 meters. METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Transportation",
+    "Location",
+    "Street",
+    "Street segment",
+    "Street segment",
+    "Traffic volume",
+    "Terrestrial",
+    "Traffic"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/f6483e75c41a4149a334a62abf47ab78_64\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Transportation_WebMercator/MapServer/64\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/f6483e75c41a4149a334a62abf47ab78_64.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "f6483e75c41a4149a334a62abf47ab78_64",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T20:29:30Z",
+  "centroid_s": "38.89421158025,-77.01306768725",
+  "solr_geom": "ENVELOPE(-77.1167341996, -76.9094011749, 38.9952552229, 38.7931679376)",
+  "solr_year_i": 2006
+}

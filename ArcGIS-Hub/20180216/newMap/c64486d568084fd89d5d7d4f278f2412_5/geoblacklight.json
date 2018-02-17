@@ -1,0 +1,39 @@
+{
+  "uuid": "c64486d568084fd89d5d7d4f278f2412_5",
+  "dc_identifier_s": "c64486d568084fd89d5d7d4f278f2412_5",
+  "dc_title_s": "OC Simultaneous Conveyance Block: Oakland County, Michigan",
+  "dc_description_s": "A spatial representation of subdivision blocks. This polygon feature class is maintained using topology with other LandManagement data layers.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Oakland County, Michigan"
+  ],
+  "dc_creator_sm": "Access Oakland",
+  "dc_subject_sm": [
+    "Planning and Cadastral",
+    "Boundaries"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://accessoakland.oakgov.com/datasets/c64486d568084fd89d5d7d4f278f2412_5\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gisservices.oakgov.com/arcgis/rest/services/Enterprise/EnterpriseOpenParcelDataMapService/MapServer/5\",\"http://schema.org/downloadUrl\":\"https://accessoakland.oakgov.com/datasets/c64486d568084fd89d5d7d4f278f2412_5.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016-10-16",
+  "dct_spatial_sm": [
+    "Oakland County, Michigan, United States",
+    "Michigan, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5004223",
+    "http://sws.geonames.org/5001836"
+  ],
+  "thumbnail_path_ss": "https://gisservices.oakgov.com/arcgis/rest/services/Enterprise/EnterpriseOpenParcelDataMapService/MapServer/info/thumbnail",
+  "layer_slug_s": "c64486d568084fd89d5d7d4f278f2412_5",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T21:3:58Z",
+  "centroid_s": "42.6598425,-83.3843095",
+  "solr_geom": "ENVELOPE(-83.694337, -83.074282, 42.893598, 42.426087)",
+  "solr_year_i": 2016
+}

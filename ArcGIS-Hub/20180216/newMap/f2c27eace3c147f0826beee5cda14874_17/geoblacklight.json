@@ -1,0 +1,40 @@
+{
+  "uuid": "f2c27eace3c147f0826beee5cda14874_17",
+  "dc_identifier_s": "f2c27eace3c147f0826beee5cda14874_17",
+  "dc_title_s": "Snow Emergency Service Roads: Washington, D.C.",
+  "dc_description_s": "Snow Emergency Routes. This dataset contains lines representing locations of Snow Emergency Routes for the DC Region C. government agencies. These locations were identified from public records and heads-up digitized from the 1995 orthophotographs. All DC GIS data is stored and exported in Maryland State Plane coordinates NAD 83 meters. METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": "District of Columbia GIS Program",
+  "dc_subject_sm": [
+    "Transportation",
+    "Route",
+    "Snow",
+    "Emergency",
+    "Snow route",
+    "Road"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.dc.gov/datasets/f2c27eace3c147f0826beee5cda14874_17\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Transportation_WebMercator/MapServer/17\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/f2c27eace3c147f0826beee5cda14874_17.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015",
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "f2c27eace3c147f0826beee5cda14874_17",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T20:44:55Z",
+  "centroid_s": "38.895,-77.036",
+  "solr_geom": "ENVELOPE(-77.176, -76.896, 39.035, 38.755)",
+  "solr_year_i": 2015
+}

@@ -1,0 +1,38 @@
+{
+  "uuid": "4d4789b470de40369b10ace0b5da536a_1",
+  "dc_identifier_s": "4d4789b470de40369b10ace0b5da536a_1",
+  "dc_title_s": "Local Grown Comment: Oakland County, Michigan",
+  "dc_description_s": "Contains locations where local food, beverage, and other products are produced. Also contains retail locations where these products are sold. This information is updated on an as-needed basis.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Oakland County, Michigan"
+  ],
+  "dc_subject_sm": [
+    "Farming",
+    "Economy"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://accessoakland.oakgov.com/datasets/4d4789b470de40369b10ace0b5da536a_1\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/GE4Idg9FL97XBa3P/arcgis/rest/services/LocalGrownResources/FeatureServer/1\",\"http://schema.org/downloadUrl\":\"http://accessoakland.oakgov.com/datasets/4d4789b470de40369b10ace0b5da536a_1.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016-09-16",
+  "dct_spatial_sm": [
+    "Oakland County, Michigan, United States",
+    "Michigan, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5004223",
+    "http://sws.geonames.org/5001836"
+  ],
+  "thumbnail_path_ss": "https://services1.arcgis.com/GE4Idg9FL97XBa3P/arcgis/rest/services/LocalGrownResources/FeatureServer/info/thumbnail",
+  "layer_slug_s": "4d4789b470de40369b10ace0b5da536a_1",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T21:21:34Z",
+  "centroid_s": "42.6517707648038,-83.3850553350902",
+  "solr_geom": "ENVELOPE(-83.67956552163197, -83.09054514854851, 42.869490867073274, 42.434050662534354)",
+  "solr_year_i": 2016
+}

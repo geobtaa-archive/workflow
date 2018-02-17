@@ -1,0 +1,35 @@
+{
+  "uuid": "bf8ee632269840e2b2438a6e3cbaecbc_4",
+  "dc_identifier_s": "bf8ee632269840e2b2438a6e3cbaecbc_4",
+  "dc_title_s": "Highway Access Management - Other Priority: Iowa",
+  "dc_description_s": "The Iowa DOT has established an access management policy to control access to the Primary Highway System. This map layer is for accesses granted on a case-by-case basis depending on safety and need. It is not actively managed (formerly 5, 6, and 0).",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Iowa Department of Transportation"
+  ],
+  "dc_creator_sm": "Iowa DOT GIS Services",
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Iowa",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://public-iowadot.opendata.arcgis.com/datasets/bf8ee632269840e2b2438a6e3cbaecbc_4\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://gis.iowadot.gov/public/rest/services/Traffic_Safety/Access_Priority_Classification/FeatureServer/4\",\"http://schema.org/downloadUrl\":\"https://public-iowadot.opendata.arcgis.com/datasets/bf8ee632269840e2b2438a6e3cbaecbc_4.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016-06-15",
+  "dct_spatial_sm": [
+    "Iowa, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4862182"
+  ],
+  "layer_slug_s": "bf8ee632269840e2b2438a6e3cbaecbc_4",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T22:10:49Z",
+  "centroid_s": "41.94805,-93.37805",
+  "solr_geom": "ENVELOPE(-96.6695, -90.0866, 43.5389, 40.3572)",
+  "solr_year_i": 2016
+}

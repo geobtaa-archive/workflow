@@ -1,0 +1,39 @@
+{
+  "uuid": "10fd1abde8da48f3901ec03abadc4379_0",
+  "dc_identifier_s": "10fd1abde8da48f3901ec03abadc4379_0",
+  "dc_title_s": "Zoning: Scott County, Minnesota",
+  "dc_description_s": "Scott County Zoning. Zoning data falls into 1 of 12 categories: A-1 = Agricultural Preservation District A-2 = Agricultural Woodlands District A-3 = Agricultural Preservation Density District C-1 = General Commercial District I-1 = Rural Industrial District RR-1 = Rural Residential Reserve District RR-1C = Rural Residential Reserve Cluster District RR-2 = Rural Residential Single Family District RR-3 = Residential Suburban Single Family District UBR = Urban Business Reserve District UER = Urban Expansion Reserve District UERC = Urban Expansion Reserve Cluster District UTR = Urban Transition Reserve District UTR-C = Urban Transition Reserve Cluster District",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Scott County, Minnesota"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.gis.co.scott.mn.us/datasets/10fd1abde8da48f3901ec03abadc4379_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/DqIh9WAsIZcPlBEF/arcgis/rest/services/Zoning/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://opendata.gis.co.scott.mn.us/datasets/10fd1abde8da48f3901ec03abadc4379_0.zip\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data",
+    "Minnesota Counties"
+  ],
+  "dct_issued_s": "2016-06-14",
+  "dct_spatial_sm": [
+    "Scott County, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5046749",
+    "http://sws.geonames.org/5037779"
+  ],
+  "layer_slug_s": "10fd1abde8da48f3901ec03abadc4379_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T21:17:28Z",
+  "centroid_s": "44.6709657932512,-93.5951858736302",
+  "solr_geom": "ENVELOPE(-93.91255350399832, -93.27781824326215, 44.799677224882764, 44.54225436161961)",
+  "solr_year_i": 2016
+}

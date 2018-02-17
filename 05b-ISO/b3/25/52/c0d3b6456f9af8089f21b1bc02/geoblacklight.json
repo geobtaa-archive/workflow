@@ -1,0 +1,35 @@
+{
+"dc_description_s": "Lakes of Chisago County", 
+"layer_modified_dt": "2017-08-29T23:22:41Z", 
+"solr_geom": "ENVELOPE(-93.14384, -92.643999, 45.732302, 45.294314)", 
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gis.chisagocounty.us/Link/SpatialData/Lakes.zip\",\"http://schema.org/url\":\"http://gis.chisagocounty.us/Link/jsfe/index.aspx\",\"http://www.opengis.net/cat/csw/csdgm\":\"http://64.90.181.107/geonetwork/srv/api/records/b32552c0-d3b6-456f-9af8-089f21b1bc02/formatters/xml\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"http://64.90.181.107/geonetwork/srv/api/records/b32552c0-d3b6-456f-9af8-089f21b1bc02/formatters/xml\"}", 
+"dc_rights_s": "Public", 
+"uuid": "b32552c0-d3b6-456f-9af8-089f21b1bc02", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"Inland Waters", 
+"Environment"
+], 
+"dct_temporal_sm": "2015", 
+"dct_issued_s": "2015-08-09", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Chisago County, Minnesota"
+], 
+"dc_type_s": "Dataset", 
+"dc_identifier_s": "b32552c0-d3b6-456f-9af8-089f21b1bc02", 
+"dct_isPartOf_sm": "Minnesota Counties", 
+"solr_year_i": 2015, 
+"dct_spatial_sm": [
+"Chisago County, Minnesota, United States", 
+"Minnesota, United States"
+], 
+"dc_publisher_sm": [
+"Chisago County, Minnesota"
+], 
+"dc_title_s": "Lakes: Chisago County, Minnesota, 2015", 
+"layer_slug_s": "b32552c0-d3b6-456f-9af8-089f21b1bc02", 
+"centroid_s": "45.513308,-92.8939195", 
+"layer_geom_type_s": "Polygon", 
+"dc_language_s": "English"
+}

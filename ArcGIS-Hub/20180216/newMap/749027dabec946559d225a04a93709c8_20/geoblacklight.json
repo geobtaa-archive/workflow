@@ -1,0 +1,39 @@
+{
+  "uuid": "749027dabec946559d225a04a93709c8_20",
+  "dc_identifier_s": "749027dabec946559d225a04a93709c8_20",
+  "dc_title_s": "Watershed Boundary - 12 Digit: Michigan",
+  "dc_description_s": "This dataset at 1:24,000 scale is a greatly expanded version of the hydrologic units created in the mid-1970's by the U.S. Geological Survey under the sponsorship of the Water Resources Council. The WBD is a complete set of hydrologic units from new watershed and subwatesheds less than 10,000 acres to entire river systems draining large hydrologicunit regions, all attributed by a standard nomenclature. Development of the Watershed Boundary Dataset started in the early 1990's and has progressed to the format and attributionthat is now being distributed. The delineation and attribution was done on a state basis using a variety of methods and source data. Each state HU dataset has gone through an extensive quality review process to ensure accuracy and complianceto the Federal Standard for Delineation of Hydrologic Unit Boundaries (http://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/water/watersheds/'cid=nrcs143_021630) before and during submittal to USDA-NRCS National Geospatial Management Center (NGMC).",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "State of Michigan"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Inland Waters",
+    "Environment"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://hub.arcgis.com/datasets/749027dabec946559d225a04a93709c8_20\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gisago.mcgi.state.mi.us/arcgis/rest/services/OpenData/hydro/MapServer/20\",\"http://schema.org/downloadUrl\":\"https://hub.arcgis.com/datasets/749027dabec946559d225a04a93709c8_20.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2017-04-27",
+  "dct_spatial_sm": [
+    "Michigan, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5001836"
+  ],
+  "thumbnail_path_ss": "https://gisago.mcgi.state.mi.us/arcgis/rest/services/OpenData/hydro/MapServer/info/thumbnail",
+  "layer_slug_s": "749027dabec946559d225a04a93709c8_20",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T20:47:58Z",
+  "centroid_s": "44.89915,-85.19555",
+  "solr_geom": "ENVELOPE(-92.344, -78.0471, 49.0389, 40.7594)",
+  "solr_year_i": 2017
+}

@@ -1,0 +1,35 @@
+{
+  "uuid": "22910eb289d845b39e871656ffbac3cf_0",
+  "dc_identifier_s": "22910eb289d845b39e871656ffbac3cf_0",
+  "dc_title_s": "Emergency Medical Services - Regional Offices: Maryland",
+  "dc_description_s": "This is a MD iMAP hosted service. Find more information on: http://imap.maryland.govRegional Programs consists of five offices located throughout the state. Each office consists of at least one regional administrator and a secretary. They are responsible for monitoring the operation of the EMS system in their area and act as advocates for the services in their region. The general functions of the five offices are very similar, but because of demographic and geographic variations across the state, the individual duties of regional administrators can vary. In the event of a large-scale incident, regional administrators are expected to be available to support local responders with the coordination of health and medical resources. In many cases, they will be the first State administrative representatives on the scene. Last updated: 9/15/2016",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Maryland iMap"
+  ],
+  "dc_subject_sm": [
+    "Location"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/22910eb289d845b39e871656ffbac3cf_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://geodata.md.gov/imap/rest/services/PublicSafety/MD_EMS/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/22910eb289d845b39e871656ffbac3cf_0.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016",
+  "dct_spatial_sm": [
+    "Maryland, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4361885"
+  ],
+  "thumbnail_path_ss": "https://geodata.md.gov/imap/rest/services/PublicSafety/MD_EMS/FeatureServer/info/thumbnail",
+  "layer_slug_s": "22910eb289d845b39e871656ffbac3cf_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T21:17:14Z",
+  "centroid_s": "39.21795,-77.50625",
+  "solr_geom": "ENVELOPE(-78.9287, -76.0838, 39.6568, 38.7791)",
+  "solr_year_i": 2016
+}
