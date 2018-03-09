@@ -1,0 +1,39 @@
+{
+  "uuid": "b543cd74-acc7-4dfa-a0d8-7ba527c1d275",
+  "dc_identifier_s": "b543cd74-acc7-4dfa-a0d8-7ba527c1d275",
+  "dc_title_s": "Hydrography: Minnesota",
+  "dc_description_s": "Statewide hydrographic features derived from the MNDNR Hydrography Dataset.This dataset is managed by the Fisheries Unit of the Minnesota DNR.The Open Water (polygon) feature class is the base layer for many derived layers, including:MNDNR Hydrography - Lakes and Open WaterMNDNR Hydrography - Mine Pit FeaturesMNDNR Hydrography - Wetland FeaturesSee many more derived layers under Associated Datasets, belowThe Stream Routes (linear) feature class is the base layer for many derived layers, including:MNDNR Hydrography - Stream Confluences and Flow DirectionMNDNR Hydrography - Stream Routes with Stream TypesStreams with Kittle Numbers and Mile MeasuresSee many more derived layers under Associated Datasets in the Streams with Kittle Numbers and Mile Measures metadata, above",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Natural Resources Department, Minnesota"
+  ],
+  "dc_creator_sm": "Minnesota Department of Natural Resources (MNDNR)",
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/water-dnr-hydrography\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/water_dnr_hydrography/shp_water_dnr_hydrography.zip\"}",
+  "dct_isPartOf_sm": "Minnesota Geospatial Commons",
+  "dct_issued_s": "2014-06-25T21:29:02.379194",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "thumbnail_path_ss": "ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/water_dnr_hydrography/preview/preview.jpg",
+  "layer_slug_s": "b543cd74-acc7-4dfa-a0d8-7ba527c1d275",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-19T23:58:37Z",
+  "centroid_s": "46.435,-93.38",
+  "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)",
+  "solr_year_i": 2015
+}

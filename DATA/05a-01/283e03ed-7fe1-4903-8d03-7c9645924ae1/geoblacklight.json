@@ -1,0 +1,39 @@
+{
+  "uuid": "283e03ed-7fe1-4903-8d03-7c9645924ae1",
+  "dc_identifier_s": "283e03ed-7fe1-4903-8d03-7c9645924ae1",
+  "dc_title_s": "Residential Building Permits: Metro Twin Cities, Minnesota",
+  "dc_description_s": "This dataset consists of residential building permits issued in the 7-county Twin Cities Metropolitan Area from 2009 through 2014. The data were obtained through an annual survey sent to communities by the Metropolitan Council and from the U.S. Census Bureau. The data on returned surveys were verified by Metropolitan Council staff through various means. Data from the Residential Construction Branch of the Manufacturing and Construction Division of the U.S. Census Bureau were used if a community did not return the survey. Data may be periodically updated to reflect corrections.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Metropolitan Council, Minnesota"
+  ],
+  "dc_creator_sm": "Metropolitan Council",
+  "dc_subject_sm": [
+    "Economy"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-econ-residential-building-permts\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/econ_residential_building_permts/shp_econ_residential_building_permts.zip\"}",
+  "dct_isPartOf_sm": "Minnesota Geospatial Commons",
+  "dct_issued_s": "2015-09-02T10:01:45.702968",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "thumbnail_path_ss": "",
+  "layer_slug_s": "283e03ed-7fe1-4903-8d03-7c9645924ae1",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-19T23:58:21Z",
+  "centroid_s": "44.943,-93.372",
+  "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
+  "solr_year_i": 2016
+}

@@ -1,0 +1,39 @@
+{
+  "uuid": "008d9f53-7256-495c-98ae-cdf13bd9bd37",
+  "dc_identifier_s": "008d9f53-7256-495c-98ae-cdf13bd9bd37",
+  "dc_title_s": "Voting Districts: Minnesota",
+  "dc_description_s": "Voting precincts for the State of Minnesota, those to be used in the 2017 Municipal and School District Primary Election. Includes election district attributes for each precinct.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Secretary of State, Minnesota"
+  ],
+  "dc_creator_sm": "Office of the Minnesota Secretary of State",
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-votingdistricts\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_sos/bdry_votingdistricts/shp_bdry_votingdistricts.zip\"}",
+  "dct_isPartOf_sm": "Minnesota Geospatial Commons",
+  "dct_issued_s": "2016-11-10T11:02:19.444557",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "thumbnail_path_ss": "ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_sos/bdry_votingdistricts/metadata/preview.jpg",
+  "layer_slug_s": "008d9f53-7256-495c-98ae-cdf13bd9bd37",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-19T23:58:0Z",
+  "centroid_s": "46.419614,-93.3334415",
+  "solr_geom": "ENVELOPE(-97.269689, -89.397194, 49.403805, 43.435423)",
+  "solr_year_i": 2017
+}

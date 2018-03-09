@@ -1,0 +1,39 @@
+{
+  "uuid": "380cae24-25c2-4bea-8f25-f515d9581c45",
+  "dc_identifier_s": "380cae24-25c2-4bea-8f25-f515d9581c45",
+  "dc_title_s": "Lake Bathymetric DEM Shaded Relief Image: Minnesota",
+  "dc_description_s": "Geo-referenced, shaded relief image of lake bathymetry classified at 5-foot depth intervals. This dataset has a cell resolution of 5 meters (occasionally 10m) as derived from the Lake Bathymetric DEM.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Geodatabase",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Natural Resources Department, Minnesota"
+  ],
+  "dc_creator_sm": "Department of Natural Resouces (DNR) Division of Ecological Services - Lake Mapping Unit; DNR Division of Fisheries;",
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/water-lake-bathy-shaded-relief\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/water_lake_bathy_shaded_relief/fgdb_water_lake_bathy_shaded_relief.zip\"}",
+  "dct_isPartOf_sm": "Minnesota Geospatial Commons",
+  "dct_issued_s": "2016-07-27T10:02:06.828182",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "thumbnail_path_ss": "ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/water_lake_bathy_shaded_relief/metadata/preview.jpg",
+  "layer_slug_s": "380cae24-25c2-4bea-8f25-f515d9581c45",
+  "layer_geom_type_s": "Mixed",
+  "layer_modified_dt": "2018-2-19T23:58:53Z",
+  "centroid_s": "46.25,-93.25",
+  "solr_geom": "ENVELOPE(-97.5, -89, 49.5, 43)",
+  "solr_year_i": 2016
+}

@@ -1,0 +1,36 @@
+{
+"dc_description_s": "This shapefile contains lakes in Otter Tail County.", 
+"layer_modified_dt": "2017-08-29T23:22:49Z", 
+"solr_geom": "ENVELOPE(-96.282106, -95.140064, 46.7187, 46.105997)", 
+"dct_references_s": "{\"http://schema.org/url\":\"http://www.co.otter-tail.mn.us/DocumentCenter/Home/View/461\",\"http://schema.org/downloadUrl\":\"http://www.co.otter-tail.mn.us/212/GIS-Shapefile-Downloads\",\"http://www.opengis.net/cat/csw/csdgm\":\"http://64.90.181.107/geonetwork/srv/api/records/8ac66051-9405-416c-be1e-60f052a679c8/formatters/xml\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"http://64.90.181.107/geonetwork/srv/api/records/8ac66051-9405-416c-be1e-60f052a679c8/formatters/xml\"}", 
+"dc_rights_s": "Public", 
+"uuid": "8ac66051-9405-416c-be1e-60f052a679c8", 
+"dct_provenance_s": "Minnesota", 
+"dc_subject_sm": [
+"Inland Waters", 
+"Hydrography", 
+"Lakes"
+], 
+"dct_temporal_sm": "2015", 
+"dct_issued_s": "2015-12-29", 
+"dc_format_s": "Shapefile", 
+"dc_creator_sm": [
+"Otter Tail County, Minnesota"
+], 
+"dc_type_s": "Dataset", 
+"dc_identifier_s": "8ac66051-9405-416c-be1e-60f052a679c8", 
+"dct_isPartOf_sm": "Minnesota Counties", 
+"solr_year_i": 2015, 
+"dct_spatial_sm": [
+"Otter Tail County, Minnesota, United States", 
+"Minnesota, United States"
+], 
+"dc_publisher_sm": [
+"Otter Tail County, Minnesota"
+], 
+"dc_title_s": "Lakes: Otter Tail County, Minnesota, 2016", 
+"layer_slug_s": "8ac66051-9405-416c-be1e-60f052a679c8", 
+"centroid_s": "46.4123485,-95.711085", 
+"layer_geom_type_s": "Polygon", 
+"dc_language_s": "English"
+}

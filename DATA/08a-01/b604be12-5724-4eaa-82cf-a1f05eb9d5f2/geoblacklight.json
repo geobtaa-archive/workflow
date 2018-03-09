@@ -1,0 +1,44 @@
+{
+  "uuid": "b604be12-5724-4eaa-82cf-a1f05eb9d5f2",
+  "dc_identifier_s": "b604be12-5724-4eaa-82cf-a1f05eb9d5f2",
+  "dc_title_s": "Allegheny National Forest Management Area: Pennsylvania",
+  "dc_description_s": "This Management Area dataset depicts areas of the Allegheny National Forest (ANF) having a unique emphasis, desired condition, list of suitable uses, and standards and guidelines.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Files",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "U S Department of Agriculture"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Recreation"
+  ],
+  "dct_provenance_s": "Penn State",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=1635\",\"http://schema.org/downloadUrl\":\"http://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=1635\",\"http://www.opengis.net/cat/csw/csdgm\":\"http://www.pasda.psu.edu/metadata/harvest/AlleghenyNationalForest_ManagementArea.xml\"}",
+  "dct_isPartOf_sm": "Pennsylvania Spatial Data Access (PASDA)",
+  "dct_issued_s": [
+
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "dct_spatial_sm": [
+    "Allegheny National Forest, Pennsylvania, United States",
+    "Pennsylvania, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5178053",
+    "http://sws.geonames.org/6254927"
+  ],
+  "layer_slug_s": "b604be12-5724-4eaa-82cf-a1f05eb9d5f2",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-28T19:16:51Z",
+  "centroid_s": "41.6614485,-79.0672455",
+  "solr_geom": "ENVELOPE(-79.498673, -78.635818, 42.010382, 41.312515)",
+  "solr_year_i": 2007
+}

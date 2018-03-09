@@ -1,0 +1,39 @@
+{
+  "uuid": "ae320f02-d2cb-4d17-9bf0-4d84d043fc9c",
+  "dc_identifier_s": "ae320f02-d2cb-4d17-9bf0-4d84d043fc9c",
+  "dc_title_s": "Regional Trail Land: Metro Twin Cities, Minnesota",
+  "dc_description_s": "This layer contains information on the land along existing regional trail corridors that is owned by the regional park operating agencies. The principal data source is the 2015 regional parcel data set (MetroGIS, Metropolitan Council).Two datasets are included:parks_regional.shp: includes boundaries of parcels where they form subdivisions of parksparks_regional_Dissolve.shp: derived form the other dataset, this layer dissolves the data to have just one polygon per park and fewer attributes.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Metropolitan Council, Minnesota"
+  ],
+  "dc_creator_sm": "The Metropolitan Council",
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-trans-regional-trails-land\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/trans_regional_trails_land/shp_trans_regional_trails_land.zip\"}",
+  "dct_isPartOf_sm": "Minnesota Geospatial Commons",
+  "dct_issued_s": "2015-09-11T10:02:06.695178",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "thumbnail_path_ss": "",
+  "layer_slug_s": "ae320f02-d2cb-4d17-9bf0-4d84d043fc9c",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-19T23:58:22Z",
+  "centroid_s": "44.943,-93.372",
+  "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
+  "solr_year_i": 2015
+}

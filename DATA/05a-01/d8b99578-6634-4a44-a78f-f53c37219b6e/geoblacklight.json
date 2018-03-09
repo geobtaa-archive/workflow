@@ -1,0 +1,41 @@
+{
+  "uuid": "d8b99578-6634-4a44-a78f-f53c37219b6e",
+  "dc_identifier_s": "d8b99578-6634-4a44-a78f-f53c37219b6e",
+  "dc_title_s": "Tax Parcels - Points and Polygons: Dakota County, Minnesota",
+  "dc_description_s": "This dataset is a compilation of tax parcel information for Dakota County, MNThe layer contains one record for each real estate/tax parcel polygon within the county. Condominiums are not included in the polygon layer. If condominiums are desired, use the tax parcel point layer in combination with this polygon layer.In many places a one-to-one relationship does not exist between these parcel polygons and the actual buildings or occupancy units that lie within them. There may be many buildings on one parcel and there may be many occupancy units (e.g. apartments, stores or offices) within each building. Additionally, no information exists within this dataset about residents of parcels. Currently, only tax parcel ownership (and taxpayer information) is displayed for this dataset.Tax Parcel - PolygonsTax Parcel - Points",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Dakota County, Minnesota"
+  ],
+  "dc_creator_sm": "Dakota County GIS, Dakota County GIS, Staff",
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-co-dakota-plan-parcels\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_co_dakota/plan_parcels/shp_plan_parcels.zip\"}",
+  "dct_isPartOf_sm": "Minnesota Geospatial Commons",
+  "dct_issued_s": "2015-09-11T10:02:09.960144",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dct_spatial_sm": [
+    "Dakota County, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5023752",
+    "http://sws.geonames.org/5037779"
+  ],
+  "thumbnail_path_ss": "ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_co_dakota/plan_parcels/metadata/preview.jpg",
+  "layer_slug_s": "d8b99578-6634-4a44-a78f-f53c37219b6e",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-19T23:58:11Z",
+  "centroid_s": "44.6955695,-93.0294095",
+  "solr_geom": "ENVELOPE(-93.329706, -92.729113, 44.923499, 44.46764)",
+  "solr_year_i": 2017
+}

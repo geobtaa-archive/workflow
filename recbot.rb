@@ -1,4 +1,5 @@
 require 'json'
+
 puts "\n\n*********************************************************"
 puts "Hi! What is your JSON file named? (Exclude the extension)"
 inputfile = gets

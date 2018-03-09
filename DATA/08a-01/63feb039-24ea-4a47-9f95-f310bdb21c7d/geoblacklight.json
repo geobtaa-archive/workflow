@@ -1,0 +1,42 @@
+{
+  "uuid": "63feb039-24ea-4a47-9f95-f310bdb21c7d",
+  "dc_identifier_s": "63feb039-24ea-4a47-9f95-f310bdb21c7d",
+  "dc_title_s": "Topographic Maps (DRG) for Pennsylvania 1:250,000 - UTM",
+  "dc_description_s": "A Digital Raster Graphic (DRG) is a raster image of a scanned USGS \\r\\ntopographic or planimetric map including the collar information, georeferenced to \\r\\nthe UTM grid.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Files",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "U S Geological Survey"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "dct_provenance_s": "Penn State",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=81\",\"http://schema.org/downloadUrl\":\"http://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=81\",\"http://www.opengis.net/cat/csw/csdgm\":\"http://www.pasda.psu.edu/metadata/harvest/drg250k.xml\"}",
+  "dct_isPartOf_sm": "Pennsylvania Spatial Data Access (PASDA)",
+  "dct_issued_s": [
+
+  ],
+  "dct_temporal_sm": [
+    "1996"
+  ],
+  "dct_spatial_sm": [
+    "Maryland, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4361885"
+  ],
+  "layer_slug_s": "63feb039-24ea-4a47-9f95-f310bdb21c7d",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2018-2-28T19:26:13Z",
+  "centroid_s": "38.8069,-77.2694",
+  "solr_geom": "ENVELOPE(-79.4938, -75.045, 39.7425, 37.8713)",
+  "solr_year_i": 1996
+}

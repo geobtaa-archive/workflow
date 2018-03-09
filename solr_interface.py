@@ -27,7 +27,7 @@ class SolrInterface(object):
     def delete_query(self, query, no_confirm=False):
         if not no_confirm:
             s = self.solr.search(self.escape_query(query), **{"rows": "0"})
-            are_you_sure = raw_input(
+            are_you_sure = input(
                 "Are you sure you want to delete {num_recs} \
                 records from Solr? Y/N: ".format(num_recs=s.hits)
             )

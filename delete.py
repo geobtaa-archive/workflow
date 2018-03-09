@@ -109,6 +109,7 @@ class CSWToGeoBlacklight(object):
         }
 
         self.collection = {
+            "arc": '"ArcGIS Open Data"',
             "01c-01": '"Bloomington Open Data"',
 			"01c-02": '"Indianapolis Open Data"',
 			"01d-01": '"Indiana Historic Maps"',
@@ -126,6 +127,7 @@ class CSWToGeoBlacklight(object):
 			"04d-01": '"University of Maryland Digital Collections"',
 			"04d-02": '"Maryland Scanned Foreign Maps"',
 			"05a-01": '"Minnesota Geospatial Commons"',
+			"05b-99": '"Minnesota Counties"',
 			"05a-02": '"MN Legislature"',
 			"05b-01": '"Anoka County"',
 			"05b-02": '"Becker County"',
@@ -152,9 +154,9 @@ class CSWToGeoBlacklight(object):
 			"07c-02": '"City of Ann Arbor"',
 			"07d-01": '"Clark Library Scanned Maps"',
 			"07e-01": '"SEMCOG"',
-			"08a-01": '"PASDA"',
+			"08a-01": '"Pennsylvania Spatial Data Access (PASDA)"',
 			"08d-01": '"Penn State Rare Maps"',
-			"08d-02": '"Sanborn Maps from Penn State"',
+			"08d-02": '"Sanborn Fire Insurance Maps"',
 			"09a-01": '"IndianaMAP"',
 			"09d-01": '"Purdue Georeferenced Imagery"',
 			"10a-01": '"State of Wisconsin"',

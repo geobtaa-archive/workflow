@@ -1,0 +1,41 @@
+{
+  "uuid": "1d0c7736-8e86-4b9d-9fc9-5d4db6c9dca6",
+  "dc_identifier_s": "1d0c7736-8e86-4b9d-9fc9-5d4db6c9dca6",
+  "dc_title_s": "Spring Creek Watershed minor civil divisions: Pennsylvania",
+  "dc_description_s": "Shows minor civil divisions located in the Spring Creek Watershed",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Files",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "The Pennsylvania State University"
+  ],
+  "dc_creator_sm": "Environmental Resources Research Institute",
+  "dc_subject_sm": [
+    "Biota",
+    "Hydrology"
+  ],
+  "dct_provenance_s": "Penn State",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=325\",\"http://schema.org/downloadUrl\":\"http://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=325\",\"http://www.opengis.net/cat/csw/csdgm\":\"http://www.pasda.psu.edu/metadata/harvest/scwmcd.xml\"}",
+  "dct_isPartOf_sm": "Pennsylvania Spatial Data Access (PASDA)",
+  "dct_issued_s": [
+
+  ],
+  "dct_temporal_sm": [
+    "1996"
+  ],
+  "dct_spatial_sm": [
+    "Pennsylvania, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/6254927"
+  ],
+  "layer_slug_s": "1d0c7736-8e86-4b9d-9fc9-5d4db6c9dca6",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-28T19:22:52Z",
+  "centroid_s": "40.8125,-77.8125",
+  "solr_geom": "ENVELOPE(-77.625, -78, 41, 40.625)",
+  "solr_year_i": 1996
+}

@@ -1,0 +1,41 @@
+{
+  "uuid": "db203eca-2f44-4b9f-ab81-324b989f9351",
+  "dc_identifier_s": "db203eca-2f44-4b9f-ab81-324b989f9351",
+  "dc_title_s": "PA Water Trails: Pennsylvania",
+  "dc_description_s": "Water trails designated by the Pennsylvania Fish and Boat Commission in Pennsylvania. Visit http://fishandboat.com/watertrails/trailindex.htm for more information.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Files",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Pennsylvania Fish and Boat Commission"
+  ],
+  "dc_creator_sm": "Pennsylvania Fish and Boat Commission",
+  "dc_subject_sm": [
+    "Hydrology",
+    "Inland Waters"
+  ],
+  "dct_provenance_s": "Penn State",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=981\",\"http://schema.org/downloadUrl\":\"http://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=981\",\"http://www.opengis.net/cat/csw/csdgm\":\"http://www.pasda.psu.edu/metadata/harvest/WaterTrails201506.xml\"}",
+  "dct_isPartOf_sm": "Pennsylvania Spatial Data Access (PASDA)",
+  "dct_issued_s": [
+
+  ],
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "Pennsylvania, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/6254927"
+  ],
+  "layer_slug_s": "db203eca-2f44-4b9f-ab81-324b989f9351",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-28T19:21:55Z",
+  "centroid_s": "40.86047,-77.35287",
+  "solr_geom": "ENVELOPE(-74.68945, -80.01629, 42.00009, 39.72085)",
+  "solr_year_i": 2015
+}

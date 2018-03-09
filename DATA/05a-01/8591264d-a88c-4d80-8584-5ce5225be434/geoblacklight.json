@@ -1,0 +1,41 @@
+{
+  "uuid": "8591264d-a88c-4d80-8584-5ce5225be434",
+  "dc_identifier_s": "8591264d-a88c-4d80-8584-5ce5225be434",
+  "dc_title_s": "Springs in: Minnesota",
+  "dc_description_s": "Inventory of springs in Minnesota. These data are collected and compiled by the Minnesota DNR as a tool to help create awareness of and appreciation for this resource so spring flows can be maintained and groundwater-dependent resources can be protected. These data include locations compiled in the Karst Features Database (Minnesota Geological Survey), locations from historical documents, field surveys by DNR staff, and approved citizen submittals through a citizen reporting application.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Natural Resources Department, Minnesota"
+  ],
+  "dc_creator_sm": "University of Minnesota, Department of Geology and Geophysics; Minnesota Department of Natural Resources (DNR), Ecological and Water Resources Division",
+  "dc_subject_sm": [
+    "Environment",
+    "Geoscientific Information",
+    "Inland Waters"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-mn-springs-inventory\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_mn_springs_inventory/shp_env_mn_springs_inventory.zip\"}",
+  "dct_isPartOf_sm": "Minnesota Geospatial Commons",
+  "dct_issued_s": "2017-04-29T10:01:59.740760",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "thumbnail_path_ss": "ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_mn_springs_inventory/metadata/preview.jpg",
+  "layer_slug_s": "8591264d-a88c-4d80-8584-5ce5225be434",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-19T23:58:15Z",
+  "centroid_s": "46.435,-93.38",
+  "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)",
+  "solr_year_i": 2017
+}

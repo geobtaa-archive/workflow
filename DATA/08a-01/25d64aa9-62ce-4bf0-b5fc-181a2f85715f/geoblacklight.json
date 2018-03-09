@@ -1,0 +1,40 @@
+{
+  "uuid": "25d64aa9-62ce-4bf0-b5fc-181a2f85715f",
+  "dc_identifier_s": "25d64aa9-62ce-4bf0-b5fc-181a2f85715f",
+  "dc_title_s": "Traffic Counts: Pennsylvania",
+  "dc_description_s": "Traffic volumes; measured and calculated amounts of vehicle traffic that travel the sections of road.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Files",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Pennsylvania Department of Transportation"
+  ],
+  "dc_creator_sm": "Pennsylvania Department of Transportation, Bureau of Planning and Research, Geographic Information Division",
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Penn State",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=56\",\"http://schema.org/downloadUrl\":\"http://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=56\",\"http://www.opengis.net/cat/csw/csdgm\":\"http://www.pasda.psu.edu/metadata/harvest/PaTraffic2018_01.xml\"}",
+  "dct_isPartOf_sm": "Pennsylvania Spatial Data Access (PASDA)",
+  "dct_issued_s": [
+
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dct_spatial_sm": [
+    "Pennsylvania, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/6254927"
+  ],
+  "layer_slug_s": "25d64aa9-62ce-4bf0-b5fc-181a2f85715f",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-28T19:16:49Z",
+  "centroid_s": "40.9936905,-77.6062765",
+  "solr_geom": "ENVELOPE(-74.693209, -80.519344, 42.267499, 39.719882)",
+  "solr_year_i": 2018
+}

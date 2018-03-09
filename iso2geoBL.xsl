@@ -143,18 +143,18 @@
     <xsl:text>Public",&#xa;</xsl:text>
 
 <!--new provenance using credit field-->
-    <!--  <xsl:text>"dct_provenance_s": "</xsl:text>
+     <!-- <xsl:text>"dct_provenance_s": "</xsl:text>
     <xsl:value-of
       select="gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:credit"> </xsl:value-of>
-    <xsl:text>",</xsl:text>  -->
+    <xsl:text>",</xsl:text> -->
     <!--new provenance using metadata maintenance scope field-->
     <xsl:text>"dct_provenance_s": "</xsl:text>
     <xsl:value-of
       select="gmd:MD_Metadata/gmd:metadataMaintenance/gmd:MD_MaintenanceInformation/gmd:updateScopeDescription/gmd:MD_ScopeDescription/gmd:other"> </xsl:value-of>
-    <xsl:text>",&#xa;</xsl:text>
+    <xsl:text>",&#xa;</xsl:text> -->
 
     <!-- <xsl:text>"dct_provenance_s": "</xsl:text>
-    <xsl:text>Wisconsin",</xsl:text> -->
+    <xsl:text>Wisconsin",</xsl:text>
 
    <!-- <xsl:text>"layer_id_s": "</xsl:text>
     <xsl:value-of select="gmd:MD_Metadata/gmd:dataSetURI"/>

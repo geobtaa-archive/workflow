@@ -1,0 +1,43 @@
+{
+  "uuid": "b89a7865-16f0-42ac-a854-1fa19e1515f4",
+  "dc_identifier_s": "b89a7865-16f0-42ac-a854-1fa19e1515f4",
+  "dc_title_s": "Independence Fjord Version 3 (1952) Region: Arctic (Greenland) Area: Northeast Greenland National Park",
+  "dc_description_s": "Part of the series: World Aeronautical Charts; Scale =1 : 1,000,000. All maps are copyright of their respective owners. By downloading and using the map, you are subject to the map's copyright terms and agree to the PGC's Acknowledgement Policy: https://www.pgc.umn.edu/guides/user-services/acknowledgement-policy/. This map was obtained from the Byrd Polar Research Center at The Ohio State University and the digital version is hosted by the Polar Geospatial Center at the University of Minnesota.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "GeoTIFF",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Image",
+  "dc_publisher_sm": [
+    "National Geospatial-Intelligence Agency"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "dct_provenance_s": "Ohio",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/1158\",\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/arctic/nga/10/geo/Independence%20Fjord.zip\"}",
+  "dct_isPartOf_sm": "Byrd Polar Research Center",
+  "dct_issued_s": [
+
+  ],
+  "dct_temporal_sm": [
+    "1952"
+  ],
+  "dct_spatial_sm": [
+    "Greenland"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/3425505"
+  ],
+  "thumbnail_path_ss": "http://data.pgc.umn.edu/maps/arctic/nga/10/geo/Independence%20Fjord.zip",
+  "layer_slug_s": "b89a7865-16f0-42ac-a854-1fa19e1515f4",
+  "layer_geom_type_s": "Scanned Map",
+  "layer_modified_dt": "2018-3-2T17:38:33Z",
+  "centroid_s": "71.205,-41.05",
+  "solr_geom": "ENVELOPE(-73.8, -8.3, 84.11, 58.3)",
+  "solr_year_i": 1952
+}

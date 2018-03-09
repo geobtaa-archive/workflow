@@ -1,0 +1,41 @@
+{
+  "uuid": "5246082f-c338-4e5a-8c6c-036badbca9a9",
+  "dc_identifier_s": "5246082f-c338-4e5a-8c6c-036badbca9a9",
+  "dc_title_s": "Fish Consumption Advisories for the Susquehanna River Basin: Pennsylvania",
+  "dc_description_s": "Polyline shapefile representing streams in the Susquehanna River Basin that have a fish consumption advisory listing due to PCBs and/or mercury. These are advisories for eating sport fish. The New York State Department of Health (NYSDoH), the Maryland Department of the Environment (MDE), and the Pennsylvania Department of Environmental Protection (PADEP) issue these advisories on a yearly basis.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Files",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Susquehanna River Basin Commission SRBC"
+  ],
+  "dc_creator_sm": "Susquehanna River Basin Commission (SRBC)",
+  "dc_subject_sm": [
+    "Biota",
+    "Inland Waters"
+  ],
+  "dct_provenance_s": "Penn State",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=500\",\"http://schema.org/downloadUrl\":\"http://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=500\",\"http://www.opengis.net/cat/csw/csdgm\":\"http://www.pasda.psu.edu/metadata/harvest/SRBC_FishConsumptionAdvisories2011.xml\"}",
+  "dct_isPartOf_sm": "Pennsylvania Spatial Data Access (PASDA)",
+  "dct_issued_s": [
+
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "dct_spatial_sm": [
+    "Pennsylvania, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/6254927"
+  ],
+  "layer_slug_s": "5246082f-c338-4e5a-8c6c-036badbca9a9",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-28T19:22:54Z",
+  "centroid_s": "41.222792,-76.538046",
+  "solr_geom": "ENVELOPE(-74.968132, -78.10796, 42.928174, 39.51741)",
+  "solr_year_i": 2011
+}

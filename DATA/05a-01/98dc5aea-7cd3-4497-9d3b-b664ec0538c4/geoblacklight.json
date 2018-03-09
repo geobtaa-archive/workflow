@@ -1,0 +1,39 @@
+{
+  "uuid": "98dc5aea-7cd3-4497-9d3b-b664ec0538c4",
+  "dc_identifier_s": "98dc5aea-7cd3-4497-9d3b-b664ec0538c4",
+  "dc_title_s": "Localized Flood Map for Climate Vulnerability Screening: Minnesota",
+  "dc_description_s": "The Localized Flood Map for Climate Vulnerability Screening layer shows potential surface flooding locations in the landscape for the Twin Cities Metro area. These locations, called bluespots, are areas that may be subject to flood during short-term, extreme rain events. The Council's local flood screening tool uses information about the topography of the earth contained in the State of Minnesota's 3-meter digital elevation model (DEM) built from the state's LiDAR effort. Localized flooding locations are determined solely based on depressions in the DEM; no data of existing stormwater infrastructure is considered because this information does not currently exist at a regional scale. This layer should only be used as a screening tool. A low spot shown as a bluespot on this map does not indicate that the area will definitively flood; instead, the area has the potential to flood if a rain event is intense enough and stormwater infrastructure not sufficient. <br/><br/>For more information, visit the Council's Climate Vulnerability Assessment website at: www.metrocouncil.org/cva.<br/>",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Metropolitan Council, Minnesota"
+  ],
+  "dc_creator_sm": "Metropolitan Council",
+  "dc_subject_sm": [
+    "Environment"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-env-local-flood-screening\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/env_local_flood_screening/shp_env_local_flood_screening.zip\"}",
+  "dct_isPartOf_sm": "Minnesota Geospatial Commons",
+  "dct_issued_s": "2017-12-16T11:02:22.326923",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "thumbnail_path_ss": "",
+  "layer_slug_s": "98dc5aea-7cd3-4497-9d3b-b664ec0538c4",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-19T23:58:48Z",
+  "centroid_s": "44.93,-93.795",
+  "solr_geom": "ENVELOPE(-95.18, -92.41, 45.95, 43.91)",
+  "solr_year_i": 2017
+}

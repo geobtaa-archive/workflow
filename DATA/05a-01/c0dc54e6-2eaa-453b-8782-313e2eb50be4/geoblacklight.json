@@ -1,0 +1,39 @@
+{
+  "uuid": "c0dc54e6-2eaa-453b-8782-313e2eb50be4",
+  "dc_identifier_s": "c0dc54e6-2eaa-453b-8782-313e2eb50be4",
+  "dc_title_s": "American Community Survey 5-Year Summary File: Metro Twin Cities, Minnesota",
+  "dc_description_s": "American Community Survey (ACS) provides detailed demographic, social, economic, commuting and housing statistics based on continuous survey data collection. Data collected over the most recent 5 years are batched, summarized and published the following December. These files contain summary data for Census Block Groups (CensusACSBlockGroup.xlsx), Tracts (CensusACSTract.xlsx), minor civil divisions (CensusACSMCD.xlsx), school districts (CensusACSSchoolDistrict.xlsx), and ZIP code tabulation areas (CensusACSZipCode.xlsx). No shapefiles are included, but these data files can be joined to associated shapefile datasets available elsewhere on this site.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Metropolitan Council, Minnesota"
+  ],
+  "dc_creator_sm": "U.S. Census Bureau",
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-society-census-acs\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/society_census_acs/shp_society_census_acs.zip\"}",
+  "dct_isPartOf_sm": "Minnesota Geospatial Commons",
+  "dct_issued_s": "2015-09-04T10:01:51.133916",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "thumbnail_path_ss": "",
+  "layer_slug_s": "c0dc54e6-2eaa-453b-8782-313e2eb50be4",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-19T23:59:23Z",
+  "centroid_s": "46.435,-93.38",
+  "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)",
+  "solr_year_i": 2015
+}
