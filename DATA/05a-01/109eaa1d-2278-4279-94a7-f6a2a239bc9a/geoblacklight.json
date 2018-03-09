@@ -1,0 +1,39 @@
+{
+  "uuid": "109eaa1d-2278-4279-94a7-f6a2a239bc9a",
+  "dc_identifier_s": "109eaa1d-2278-4279-94a7-f6a2a239bc9a",
+  "dc_title_s": "BWCA boundary based on the 1978 legislation: Minnesota",
+  "dc_description_s": "This boundary is based on the legal description of the Boundary Waters Canoe Area Wilderness, in accordance with Public Law 95-495 dated October 21, 1978. To make the boundary line up with other data, such as ownership mapped using PLS40NE3, this boundary is based on existing data whenever possible, using PLS40NE3, DNRLKPY3, CTYBDNE2, 1:24000 DRGs, and in several instances, insertion of lines based on the description (for example, connecting two parts of a sixteenth line, when the description indicates that the boundary continues on that line, even though the line does not exist in the Public Land Survey because it would fall within a meandered water body.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Natural Resources Department, Minnesota"
+  ],
+  "dc_creator_sm": "Minnesota DNR - Division of Lands & Minerals",
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-boundary-waters-canoe-area\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_boundary_waters_canoe_area/shp_bdry_boundary_waters_canoe_area.zip\"}",
+  "dct_isPartOf_sm": "Minnesota Geospatial Commons",
+  "dct_issued_s": "2014-10-10T11:01:15.011079",
+  "dct_temporal_sm": [
+    "1978"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "thumbnail_path_ss": "ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_boundary_waters_canoe_area/metadata/preview.jpg",
+  "layer_slug_s": "109eaa1d-2278-4279-94a7-f6a2a239bc9a",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-19T23:59:20Z",
+  "centroid_s": "48.018181,-91.2932805",
+  "solr_geom": "ENVELOPE(-92.43923, -90.147331, 48.253256, 47.783106)",
+  "solr_year_i": 1978
+}

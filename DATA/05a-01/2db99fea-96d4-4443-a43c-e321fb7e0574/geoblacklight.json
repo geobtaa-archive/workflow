@@ -1,0 +1,39 @@
+{
+  "uuid": "2db99fea-96d4-4443-a43c-e321fb7e0574",
+  "dc_identifier_s": "2db99fea-96d4-4443-a43c-e321fb7e0574",
+  "dc_title_s": "Major River Cartographic Features: Metro Twin Cities, Minnesota",
+  "dc_description_s": "This dataset contains cartographic representations of features along the 3 major rivers in the metro area (St Croix, Mississippi, Minnesota Rivers) and were developed solely as visual reference points and polygons for the ES-EQA River project. It is intended to be used for cartographic and reneral reference purposes only. This dataset should not used as a navigaional resource. Layers included in this dataset are listed below along with a description about how they were created and their source.Dredged Material Placement Site - Contains point locations for materials dredged from river channels. The points represent sediments accumulated in the channel between maintenance dredging. The sites were obtained from Upper Mississippi River maps found on the US Army Corps Engineers website. These maps, in conjunction with aerial photography, were used for digitizing placement.Gage Station - Contains point locations for Gage Stations along the rivers. The source of this data was the Upper Mississippi River maps found on the US Army Corps Engineers website. These maps, in conjunction with aerial photos, were used in digitizing placement of points.Rocks - Contains point locations for large rock hazards found in metro rivers. Sources for this data were the MNDNR Metro Area Rivers Guide, 2010 maps and Mississippi River Companion maps from the National Park Service. Point placement was digitized using these maps along with aerial photography. Closed River Zone - Contains a polygon of the work zone area where the St Croix River Bridge is being constructed. The zone is approximately 1 mile long and spans the width of the river. This zone is temporary but is in effect until the bridge is completed in 2016. Data source is from MNDOT, WISDOT and aerial photography.No Wake Zone - Contains polygons representing areas where No Wake Zones are in effect. Source for this data was the MNDNR Metro Area Rivers Guide, 2010 and aerial photography. Rapids - Contains polygons representing areas of River Rapids. Source for this data was the MNDNR Metro Area Rivers Guide, 2010 and aerial photography.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Metropolitan Council, Minnesota"
+  ],
+  "dc_creator_sm": "Metropolitan Council",
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-water-metro-river-carto-features\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/water_metro_river_carto_features/shp_water_metro_river_carto_features.zip\"}",
+  "dct_isPartOf_sm": "Minnesota Geospatial Commons",
+  "dct_issued_s": "2015-09-05T10:01:50.040293",
+  "dct_temporal_sm": [
+    "2013"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "thumbnail_path_ss": "",
+  "layer_slug_s": "2db99fea-96d4-4443-a43c-e321fb7e0574",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-19T23:58:47Z",
+  "centroid_s": "44.943,-93.372",
+  "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
+  "solr_year_i": 2013
+}

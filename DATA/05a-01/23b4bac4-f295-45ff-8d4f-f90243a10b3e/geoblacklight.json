@@ -1,0 +1,39 @@
+{
+  "uuid": "23b4bac4-f295-45ff-8d4f-f90243a10b3e",
+  "dc_identifier_s": "23b4bac4-f295-45ff-8d4f-f90243a10b3e",
+  "dc_title_s": "Division of Forestry Administrative Areas: Minnesota",
+  "dc_description_s": "This data shows the boundaries of the DNR Division of Forestry administrative Areas for the State of Minnesota",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Natural Resources Department, Minnesota"
+  ],
+  "dc_creator_sm": "Minnesota Department of Natural Resources (DNR)",
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-dnr-forestry-admin\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_dnr_forestry_admin/shp_bdry_dnr_forestry_admin.zip\"}",
+  "dct_isPartOf_sm": "Minnesota Geospatial Commons",
+  "dct_issued_s": "2014-12-10T09:01:31.148399",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "thumbnail_path_ss": "ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_dnr_forestry_admin/metadata/preview.jpg",
+  "layer_slug_s": "23b4bac4-f295-45ff-8d4f-f90243a10b3e",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-19T23:59:10Z",
+  "centroid_s": "46.3902545,-93.1133155",
+  "solr_geom": "ENVELOPE(-96.832273, -89.394358, 49.345099, 43.43541)",
+  "solr_year_i": 2015
+}

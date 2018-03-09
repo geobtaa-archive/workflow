@@ -1,0 +1,43 @@
+{
+  "uuid": "a28f3792-3d32-44d1-aadf-94511a06992c",
+  "dc_identifier_s": "a28f3792-3d32-44d1-aadf-94511a06992c",
+  "dc_title_s": "USGS High Resolution State Orthoimagery for New Castle, Pennsylvania - Tile Index",
+  "dc_description_s": "TILE INDEX - One foot GSD, natural color (RGB), 8-bit digital orthophotography for the City of New Castle, Pennsylvania. The imagery was collected using the Leica Geosystems ADS40 sensor between October 19th and November 2nd, 2009 at an average altitude of 9,600 feet above ground level. The National Elevation Dataset (NED) was used as vertical control. Airborne GPS/IMU data was used as horizontal control. The orthophotography is georeferenced to UTM Zone 17 North, meter units, NAD83, NAVD88. The imagery was produced by Pixxures, Inc. under contract for DigitalGlobe, Inc. An orthoimage is remotely sensed image data in which displacement of features in the image caused by terrain relief and sensor orientation have been mathematically removed. Orthoimagery combines the image characteristics of a photograph with the geometric qualities of a map. There is no image overlap between adjacent files. Data received at EROS as: Projection: NAD_1983_UTM_Zone_17N Resolution: 0.3 meter Type: Natural Color and chipped to the Standard Product as: Standard Product Projection: NAD_1983_UTM_Zone_17N Standard Product Resolution: 0.3000 m Rows: 5,000 Columns: 5,000.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Files",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "U S Geological Survey"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps",
+    "Aerial"
+  ],
+  "dct_provenance_s": "Penn State",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=1537\",\"http://schema.org/downloadUrl\":\"http://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=1537\",\"http://www.opengis.net/cat/csw/csdgm\":\"http://www.pasda.psu.edu/metadata/harvest/NGA_new_castle_pa200910_TileIndex.xml\"}",
+  "dct_isPartOf_sm": "Pennsylvania Spatial Data Access (PASDA)",
+  "dct_issued_s": [
+
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "dct_spatial_sm": [
+    "United States of America"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/6252001"
+  ],
+  "layer_slug_s": "a28f3792-3d32-44d1-aadf-94511a06992c",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2018-2-28T19:25:36Z",
+  "centroid_s": "40.845854292116,-80.5343851081612",
+  "solr_geom": "ENVELOPE(-170.1769013405, -64.5665435791, 71.6032483233, 24.7073204053)",
+  "solr_year_i": 2009
+}

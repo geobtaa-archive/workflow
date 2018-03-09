@@ -1,0 +1,41 @@
+{
+  "uuid": "27c1e67a-3be4-420f-8acc-563d7c8ab8ee",
+  "dc_identifier_s": "27c1e67a-3be4-420f-8acc-563d7c8ab8ee",
+  "dc_title_s": "Class A Wild Trout Streams - points: Pennsylvania",
+  "dc_description_s": "Class A streams are streams that support a population of wild (natural reproduction) trout of sufficient size and abundance to support a long-term and rewarding sport fishery. The Commission does not stock these streams. This GIS layer respresents points of streams that are designated as such.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Files",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Pennsylvania Fish and Boat Commission"
+  ],
+  "dc_creator_sm": "Pennsylvania Fish and Boat Commission",
+  "dc_subject_sm": [
+    "Recreation",
+    "Inland Waters"
+  ],
+  "dct_provenance_s": "Penn State",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=976\",\"http://schema.org/downloadUrl\":\"http://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=976\",\"http://www.opengis.net/cat/csw/csdgm\":\"http://www.pasda.psu.edu/metadata/harvest/ClassA_Streams201802_pt.xml\"}",
+  "dct_isPartOf_sm": "Pennsylvania Spatial Data Access (PASDA)",
+  "dct_issued_s": [
+
+  ],
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dct_spatial_sm": [
+    "Pennsylvania, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/6254927"
+  ],
+  "layer_slug_s": "27c1e67a-3be4-420f-8acc-563d7c8ab8ee",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-28T19:18:51Z",
+  "centroid_s": "40.861195,-77.513355",
+  "solr_geom": "ENVELOPE(-74.78642, -80.24029, 41.99934, 39.72305)",
+  "solr_year_i": 2017
+}

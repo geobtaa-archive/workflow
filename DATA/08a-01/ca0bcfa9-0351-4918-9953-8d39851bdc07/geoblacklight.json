@@ -1,0 +1,41 @@
+{
+  "uuid": "ca0bcfa9-0351-4918-9953-8d39851bdc07",
+  "dc_identifier_s": "ca0bcfa9-0351-4918-9953-8d39851bdc07",
+  "dc_title_s": "WPC 4th Order Streams: Western Pennsylvania",
+  "dc_description_s": "All Streams of 4th order or greater in the region surrounding data in the Pennsylvania Aquatic Database (PAD) developed by the Pennsylvania Natural Heritage Program (PNHP).",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Files",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Western Pennsylvania Conservancy"
+  ],
+  "dc_creator_sm": "David Homans, Pennsylvania Natural Heritage Program",
+  "dc_subject_sm": [
+    "Hydrology",
+    "Inland Waters"
+  ],
+  "dct_provenance_s": "Penn State",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=1440\",\"http://schema.org/downloadUrl\":\"http://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=1440\",\"http://www.opengis.net/cat/csw/csdgm\":\"http://www.pasda.psu.edu/metadata/harvest/WPC_4thOrderStreams.xml\"}",
+  "dct_isPartOf_sm": "Pennsylvania Spatial Data Access (PASDA)",
+  "dct_issued_s": [
+
+  ],
+  "dct_temporal_sm": [
+    "2004"
+  ],
+  "dct_spatial_sm": [
+    "Pennsylvania, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/6254927"
+  ],
+  "layer_slug_s": "ca0bcfa9-0351-4918-9953-8d39851bdc07",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-28T19:25:28Z",
+  "centroid_s": "39.7292805,-78.506049",
+  "solr_geom": "ENVELOPE(-74.101815, -82.910283, 43.254386, 36.204175)",
+  "solr_year_i": 2004
+}

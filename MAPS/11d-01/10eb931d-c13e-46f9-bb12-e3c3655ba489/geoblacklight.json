@@ -1,0 +1,43 @@
+{
+  "uuid": "10eb931d-c13e-46f9-bb12-e3c3655ba489",
+  "dc_identifier_s": "10eb931d-c13e-46f9-bb12-e3c3655ba489",
+  "dc_title_s": "Otto Fiord Glacier (1964), Northern Ellesmere Island, N.W.T., Canada Version 1 Region: Arctic (Canada) Area: Ellesmere Island",
+  "dc_description_s": "Part of the series: Topographic Glacier Maps; Scale =1 : 50,000. All maps are copyright of their respective owners. By downloading and using the map, you are subject to the map's copyright terms and agree to the PGC's Acknowledgement Policy: https://www.pgc.umn.edu/guides/user-services/acknowledgement-policy/. This map was obtained from the Byrd Polar Research Center at The Ohio State University and the digital version is hosted by the Polar Geospatial Center at the University of Minnesota.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "GeoTIFF",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Image",
+  "dc_publisher_sm": [
+    "National Research Council"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "dct_provenance_s": "Ohio",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/1113\",\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/arctic/nrc/01/geo/Otto%20Fiord%20Glacier%201964.zip\"}",
+  "dct_isPartOf_sm": "Byrd Polar Research Center",
+  "dct_issued_s": [
+
+  ],
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Arctic"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/10941926"
+  ],
+  "thumbnail_path_ss": "http://data.pgc.umn.edu/maps/arctic/nrc/01/geo/Otto%20Fiord%20Glacier%201964.zip",
+  "layer_slug_s": "10eb931d-c13e-46f9-bb12-e3c3655ba489",
+  "layer_geom_type_s": "Scanned Map",
+  "layer_modified_dt": "2018-3-2T17:38:36Z",
+  "centroid_s": "67.85,0",
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 84.5, 51.2)",
+  "solr_year_i": 9999
+}

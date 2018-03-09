@@ -1,0 +1,43 @@
+{
+  "uuid": "f413a918-aa07-4a40-9595-b8136e6a4e6e",
+  "dc_identifier_s": "f413a918-aa07-4a40-9595-b8136e6a4e6e",
+  "dc_title_s": "Gefions Havn Bessel Fjord Version 1 (1942) Region: Arctic (Greenland) Area: Northeast Greenland Park",
+  "dc_description_s": "Part of the series: United States Navy Arctic Nautical Charts. All maps are copyright of their respective owners. By downloading and using the map, you are subject to the map's copyright terms and agree to the PGC's Acknowledgement Policy: https://www.pgc.umn.edu/guides/user-services/acknowledgement-policy/. This map was obtained from the Byrd Polar Research Center at The Ohio State University and the digital version is hosted by the Polar Geospatial Center at the University of Minnesota.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "TIFF",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Image",
+  "dc_publisher_sm": [
+    "Naval Oceanographic Office"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "dct_provenance_s": "Ohio",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/1437\",\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/arctic/navoceano/13/tif/Gefions%20Havn%20Bessel%20Fjord.tif\"}",
+  "dct_isPartOf_sm": "Byrd Polar Research Center",
+  "dct_issued_s": [
+
+  ],
+  "dct_temporal_sm": [
+    "1942"
+  ],
+  "dct_spatial_sm": [
+    "Greenland"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/3425505"
+  ],
+  "thumbnail_path_ss": "http://data.pgc.umn.edu/maps/arctic/navoceano/13/thumb/Gefions%20Havn%20Bessel%20Fjord.jpg",
+  "layer_slug_s": "f413a918-aa07-4a40-9595-b8136e6a4e6e",
+  "layer_geom_type_s": "Scanned Map",
+  "layer_modified_dt": "2018-3-2T17:38:31Z",
+  "centroid_s": "71.245,-41.05",
+  "solr_geom": "ENVELOPE(-73.8, -8.3, 84.19, 58.3)",
+  "solr_year_i": 1942
+}

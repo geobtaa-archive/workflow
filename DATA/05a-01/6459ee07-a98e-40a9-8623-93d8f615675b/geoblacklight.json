@@ -1,0 +1,40 @@
+{
+  "uuid": "6459ee07-a98e-40a9-8623-93d8f615675b",
+  "dc_identifier_s": "6459ee07-a98e-40a9-8623-93d8f615675b",
+  "dc_title_s": "DRAFT Vulnerable Groundwater Areas: Minnesota",
+  "dc_description_s": "This Vulnerable Groundwater Areas GIS layer illustrates where one of 3 conditions are met across the state. The first condition includes soil mapping units (SSURGO) where the weighted average Ksat for the profile between 0 - 5 feet exceeds 10 m/sec. The NRCS provided MDA a table of areas with Ksat that could be linked to the SSURGO data. Ksat is a physical property of the soil which quantitatively describes the soil's capacity to transmit water which can be estimated through direct measurements. A threshold value of 10 m/sec was used because Ksat values greater than or equal to 10 are identified as 'high and very high' water movement through the soil according to the USDA NRCS National Soil Survey Handbook. The second and third conditions are whether karst (DNR) or bedrock (DNR) is located near the land surface. Learn more about the project here: http://www.mda.state.mn.us/chemicals/fertilizers/nutrient-mgmt/nitrogenplan/mitigation/wrpr/wrprpart1/vulnerableareamap.aspx",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Agriculture Department, Minnesota"
+  ],
+  "dc_creator_sm": "Minnesota Department of Agriculture",
+  "dc_subject_sm": [
+    "Environment",
+    "Inland Waters"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/water-vulnerable-groundwater\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mda/water_vulnerable_groundwater/shp_water_vulnerable_groundwater.zip\"}",
+  "dct_isPartOf_sm": "Minnesota Geospatial Commons",
+  "dct_issued_s": "2017-06-07T10:02:04.366194",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "thumbnail_path_ss": "ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mda/water_vulnerable_groundwater/metadata/preview.jpg",
+  "layer_slug_s": "6459ee07-a98e-40a9-8623-93d8f615675b",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-19T23:59:6Z",
+  "centroid_s": "46.435,-93.38",
+  "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)",
+  "solr_year_i": 2017
+}

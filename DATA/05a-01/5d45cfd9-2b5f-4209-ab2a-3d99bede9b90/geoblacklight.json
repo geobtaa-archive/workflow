@@ -1,0 +1,39 @@
+{
+  "uuid": "5d45cfd9-2b5f-4209-ab2a-3d99bede9b90",
+  "dc_identifier_s": "5d45cfd9-2b5f-4209-ab2a-3d99bede9b90",
+  "dc_title_s": "Geomorphology: Minnesota",
+  "dc_description_s": "1:100,000 scale geomorphology data describing a wide variety of conditions related to surficial geology within a hierarchical classification scheme that was devised for use within Minnesota.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Natural Resources Department, Minnesota"
+  ],
+  "dc_creator_sm": "University of Minnesota-Duluth Geology Department; MN Geological Survey, MN DNR",
+  "dc_subject_sm": [
+    "Geoscientific Information"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/geos-geomorphology-of-minnesota\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/geos_geomorphology_of_minnesota/shp_geos_geomorphology_of_minnesota.zip\"}",
+  "dct_isPartOf_sm": "Minnesota Geospatial Commons",
+  "dct_issued_s": "2014-12-23T09:01:35.328822",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "thumbnail_path_ss": "ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/geos_geomorphology_of_minnesota/metadata/preview.jpg",
+  "layer_slug_s": "5d45cfd9-2b5f-4209-ab2a-3d99bede9b90",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-19T23:58:59Z",
+  "centroid_s": "46.3919615,-93.115064",
+  "solr_geom": "ENVELOPE(-96.833091, -89.397037, 49.348244, 43.435679)",
+  "solr_year_i": 2014
+}

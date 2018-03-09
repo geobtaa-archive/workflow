@@ -1,0 +1,43 @@
+{
+  "uuid": "3770ca7b-63ce-4f83-a2c2-0ff849b7aee4",
+  "dc_identifier_s": "3770ca7b-63ce-4f83-a2c2-0ff849b7aee4",
+  "dc_title_s": "Fairbanks to Kodiak Island, Alaska Version 5 (1947) Region: Arctic (United States) Area: Southern Alaska",
+  "dc_description_s": "Part of the series: Flight Charts. All maps are copyright of their respective owners. By downloading and using the map, you are subject to the map's copyright terms and agree to the PGC's Acknowledgement Policy: https://www.pgc.umn.edu/guides/user-services/acknowledgement-policy/. This map was obtained from the Byrd Polar Research Center at The Ohio State University and the digital version is hosted by the Polar Geospatial Center at the University of Minnesota.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "TIFF",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Image",
+  "dc_publisher_sm": [
+    "National Geodetic Survey"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "dct_provenance_s": "Ohio",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/1229\",\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/arctic/ngs/02/tif/Fairbanks%20to%20Kodiak%20Island%20Reverse.tif\"}",
+  "dct_isPartOf_sm": "Byrd Polar Research Center",
+  "dct_issued_s": [
+
+  ],
+  "dct_temporal_sm": [
+    "1947"
+  ],
+  "dct_spatial_sm": [
+    "Arctic"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/10941926"
+  ],
+  "thumbnail_path_ss": "http://data.pgc.umn.edu/maps/arctic/ngs/02/thumb/Fairbanks%20to%20Kodiak%20Island%20Reverse.jpg",
+  "layer_slug_s": "3770ca7b-63ce-4f83-a2c2-0ff849b7aee4",
+  "layer_geom_type_s": "Scanned Map",
+  "layer_modified_dt": "2018-3-2T17:38:27Z",
+  "centroid_s": "67.715,0",
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 84.23, 51.2)",
+  "solr_year_i": 1947
+}

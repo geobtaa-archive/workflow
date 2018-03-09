@@ -1,0 +1,39 @@
+{
+  "uuid": "a5048b71-4ea5-4b7d-9687-4cbc49b4b499",
+  "dc_identifier_s": "a5048b71-4ea5-4b7d-9687-4cbc49b4b499",
+  "dc_title_s": "Regional Park Search Areas: Metro Twin Cities, Minnesota",
+  "dc_description_s": "This dataset includes two categories of regional park search areas defined as follows: Regional Park Search Areas and Boundary Adjustments: These are general search areas for future regional parks or general boundary adjustments for existing regional parks and trails. The specific boundaries or boundary adjustments will be determined through a planning process led by the regional park implementing agency. These regional park search areas/boundary adjustments were selected based on high quality natural resources, recreation potential, and projected future need. They were approved by the Metropolitan Council in 2005 as part of the 2030 Regional Parks Policy Plan and in 2015 as part of the 2040 Regional Parks Policy Plan.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Metropolitan Council, Minnesota"
+  ],
+  "dc_creator_sm": "Metropolitan Council",
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-plan-parks-regional-search-areas\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/plan_parks_regional_search_areas/shp_plan_parks_regional_search_areas.zip\"}",
+  "dct_isPartOf_sm": "Minnesota Geospatial Commons",
+  "dct_issued_s": "2015-10-06T10:02:08.430567",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "thumbnail_path_ss": "",
+  "layer_slug_s": "a5048b71-4ea5-4b7d-9687-4cbc49b4b499",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-19T23:58:23Z",
+  "centroid_s": "44.943,-93.372",
+  "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
+  "solr_year_i": 2015
+}

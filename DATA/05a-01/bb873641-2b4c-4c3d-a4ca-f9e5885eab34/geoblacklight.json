@@ -1,0 +1,40 @@
+{
+  "uuid": "bb873641-2b4c-4c3d-a4ca-f9e5885eab34",
+  "dc_identifier_s": "bb873641-2b4c-4c3d-a4ca-f9e5885eab34",
+  "dc_title_s": "Emerald Ash Borer Detection: Minnesota",
+  "dc_description_s": "This suite of data is a collection of layers that communicate the introduction risk, detection, bioControl, and response to Emerald Ash Borer (EAB) in Minnesota, including quarantined counties. More information can be obtained at: http://www.mda.state.mn.us/eab",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Agriculture Department, Minnesota"
+  ],
+  "dc_creator_sm": "Minnesota Department of Agriculture",
+  "dc_subject_sm": [
+    "Biota",
+    "Environment"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-emerald-ash-borer\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mda/env_emerald_ash_borer/shp_env_emerald_ash_borer.zip\"}",
+  "dct_isPartOf_sm": "Minnesota Geospatial Commons",
+  "dct_issued_s": "2014-06-25T21:28:50.384347",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "thumbnail_path_ss": "ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mda/env_emerald_ash_borer/metadata/preview.jpg",
+  "layer_slug_s": "bb873641-2b4c-4c3d-a4ca-f9e5885eab34",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-19T23:59:5Z",
+  "centroid_s": "46.25,-93.25",
+  "solr_geom": "ENVELOPE(-97.5, -89, 49.5, 43)",
+  "solr_year_i": 2014
+}

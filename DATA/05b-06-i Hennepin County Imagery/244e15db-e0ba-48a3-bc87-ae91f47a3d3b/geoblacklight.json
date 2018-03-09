@@ -1,0 +1,45 @@
+{
+  "uuid": "244e15db-e0ba-48a3-bc87-ae91f47a3d3b",
+  "dc_identifier_s": "244e15db-e0ba-48a3-bc87-ae91f47a3d3b",
+  "dc_title_s": "Aerial Imagery: Hennepin County, Minnesota, 2012",
+  "dc_description_s": "True color aerial orthophotography of Hennepin County captured during the spring of 2012",
+  "dc_rights_s": "Public",
+  "dc_format_s": [
+
+  ],
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Hennepin County, Minnesota"
+  ],
+  "dc_creator_sm": "Hennepin County Geographic Information Systems",
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gis.hennepin.us/OpenData/imagery/index.html\",\"urn:x-esri:serviceType:ArcGIS#ImageMapLayer\":\"http://gis.hennepin.us/arcgis/rest/services/Imagery/UTM_Aerial_2012/MapServer\"}",
+  "dct_isPartOf_sm": "Hennepin County Imagery",
+  "dct_issued_s": [
+
+  ],
+  "dct_temporal_sm": [
+    "2012"
+  ],
+  "dct_spatial_sm": [
+    "Hennepin County, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5029877",
+    "http://sws.geonames.org/5037779"
+  ],
+  "layer_slug_s": "244e15db-e0ba-48a3-bc87-ae91f47a3d3b",
+  "layer_id_s": "utm_aerial_2012",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2018-3-1T1:13:24Z",
+  "centroid_s": "45.0159405,-93.4725",
+  "solr_geom": "ENVELOPE(-93.767799, -93.177201, 45.246618, 44.785263)",
+  "solr_year_i": 2012
+}

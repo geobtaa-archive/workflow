@@ -1,0 +1,39 @@
+{
+  "uuid": "7298a44d-5d28-49ea-8af7-3b06695935ac",
+  "dc_identifier_s": "7298a44d-5d28-49ea-8af7-3b06695935ac",
+  "dc_title_s": "Bear Harvest: Minnesota",
+  "dc_description_s": "Annual Minnesota Bear harvest, summarized by bear permit areas.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Natural Resources Department, Minnesota"
+  ],
+  "dc_creator_sm": "Minnesota Department of Natural Resources (DNR)",
+  "dc_subject_sm": [
+    "Environment"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-mn-bear-harvest\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_mn_bear_harvest/shp_env_mn_bear_harvest.zip\"}",
+  "dct_isPartOf_sm": "Minnesota Geospatial Commons",
+  "dct_issued_s": "2015-07-03T08:01:30.340096",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "thumbnail_path_ss": "ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_mn_bear_harvest/metadata/preview.jpg",
+  "layer_slug_s": "7298a44d-5d28-49ea-8af7-3b06695935ac",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-19T23:59:22Z",
+  "centroid_s": "46.391943,-93.1155055",
+  "solr_geom": "ENVELOPE(-96.833532, -89.397479, 49.348319, 43.435567)",
+  "solr_year_i": 2015
+}

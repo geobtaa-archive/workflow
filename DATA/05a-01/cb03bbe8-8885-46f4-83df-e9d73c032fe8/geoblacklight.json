@@ -1,0 +1,39 @@
+{
+  "uuid": "cb03bbe8-8885-46f4-83df-e9d73c032fe8",
+  "dc_identifier_s": "cb03bbe8-8885-46f4-83df-e9d73c032fe8",
+  "dc_title_s": "Heavy Commercial Annual Average Daily Traffic Segments, 1994-2012: Minnesota",
+  "dc_description_s": "HCAADT is the theoretical estimate of the total number of heavy commercial vehicles using a specific segment of roadway (in both directions) on any given day of the year. This estimate represents the total number of heavy commercial vehicles per year divided by 365 and is developed using factors to adjust for season on sampled road systems in a particular given year. This information is displayed using the road centerlines within the state. This centerline layer is a subset of the State of Minnesota BaseMap which consists of a number of individual data layers originally digitized from USGS 7.5-minute quadrangles, but later updated via aerial imagery and local input.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Transportation Department, Minnesota"
+  ],
+  "dc_creator_sm": "Minnesota Department of Transportation/Office of Transportation Systems Management/Traffic Forecasting and Analysis Section",
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/trans-hcaadt-traffic-segments\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dot/trans_hcaadt_traffic_segments/shp_trans_hcaadt_traffic_segments.zip\"}",
+  "dct_isPartOf_sm": "Minnesota Geospatial Commons",
+  "dct_issued_s": "2014-12-23T09:01:33.153464",
+  "dct_temporal_sm": [
+    "1994-2012"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "thumbnail_path_ss": "ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dot/trans_hcaadt_traffic_segments/metadata/preview.jpg",
+  "layer_slug_s": "cb03bbe8-8885-46f4-83df-e9d73c032fe8",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-19T23:58:58Z",
+  "centroid_s": "46.435,-93.38",
+  "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)",
+  "solr_year_i": 1994
+}

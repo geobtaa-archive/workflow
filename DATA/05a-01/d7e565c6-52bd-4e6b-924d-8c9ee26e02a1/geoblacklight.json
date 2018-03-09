@@ -1,0 +1,39 @@
+{
+  "uuid": "d7e565c6-52bd-4e6b-924d-8c9ee26e02a1",
+  "dc_identifier_s": "d7e565c6-52bd-4e6b-924d-8c9ee26e02a1",
+  "dc_title_s": "Farmland and Forest Furbearer Zones: Minnesota",
+  "dc_description_s": "Farmland Furbearer Zone",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Natural Resources Department, Minnesota"
+  ],
+  "dc_creator_sm": "Minnesota Department of Natural Resources (DNR)",
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-farmland-forest-zones\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_farmland_forest_zones/shp_bdry_farmland_forest_zones.zip\"}",
+  "dct_isPartOf_sm": "Minnesota Geospatial Commons",
+  "dct_issued_s": "2016-10-13T10:02:25.675410",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "thumbnail_path_ss": "ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_farmland_forest_zones/metadata/preview.jpg",
+  "layer_slug_s": "d7e565c6-52bd-4e6b-924d-8c9ee26e02a1",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-19T23:59:3Z",
+  "centroid_s": "46.435,-93.38",
+  "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)",
+  "solr_year_i": 2016
+}
