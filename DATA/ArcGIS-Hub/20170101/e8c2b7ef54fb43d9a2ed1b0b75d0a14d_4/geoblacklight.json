@@ -1,0 +1,34 @@
+{
+  "uuid": "e8c2b7ef54fb43d9a2ed1b0b75d0a14d_4",
+  "dc_identifier_s": "e8c2b7ef54fb43d9a2ed1b0b75d0a14d_4",
+  "dc_title_s": "Bike Trails: Washington, D.C.",
+  "dc_description_s": "Trails Layer",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/e8c2b7ef54fb43d9a2ed1b0b75d0a14d_4\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Transportation_WebMercator/MapServer/4\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/e8c2b7ef54fb43d9a2ed1b0b75d0a14d_4.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015",
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "e8c2b7ef54fb43d9a2ed1b0b75d0a14d_4",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T20:29:39Z",
+  "centroid_s": "38.886497,-77.013757",
+  "solr_geom": "ENVELOPE(-77.117257, -76.910257, 38.979647, 38.793347)",
+  "solr_year_i": 2015
+}

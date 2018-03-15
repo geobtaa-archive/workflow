@@ -1,0 +1,38 @@
+{
+  "uuid": "ee00804d8048419f889d924924db0e52_13",
+  "dc_identifier_s": "ee00804d8048419f889d924924db0e52_13",
+  "dc_title_s": "OC Land Use 2013: Oakland County, Michigan",
+  "dc_description_s": "A spatial representation of land use. The polygons contained in this feature class were derived from the Oakland County Tax Parcel feature class. Each parcel was categorized by its land use. When a parcel has multiple land uses, the dominant land use is shown. Assessing records and orthophotography were the main sources used to attribute each tax parcel with land use information. The data was collected in 2013.Key attributes are the land use and key pin (Sidwell number). Land Use stores the Land Use description for each parcel. The Key Pin is the unique Parcel Identification Number (Pin) used to link the parcel to the parcel attributes which are stored and maintained in Oakland County Land Records.The 2013 version of land use was created using the 2012 version as a primary source. It was assumed that if the Parcel Identification Number and the Use Code were equal in both years, then the land use did not change. Thus, only the parcels where a change occured had to be assigned a land use. To ensure the quality of the land use data, however, several types of use codes were manually checked again for this update to enusre the assigned use is still accurate. Also, reference data such as the Adult Care, Public Beach, and Recreation Land feature classes the were used to locate misrepresented parcels.The development process consists of three basic steps. First, parcels with use codes that are assumed to relate to a single land use are categorized as such. Second, parcels with a use code that is assumed to relate to more than one land use are manually classified using orthophotography and ownership as a reference. Lastly, tax parcels, right-of-way, and hydrography are unioned to create a single land use dataset.Assumptions:In 2005, Oakland County Equalization and many of the local assessors have changed from using the use codes described below to property class codes. These codes were interpreted to simliar use codes for the purpose of this data. One major change is that tax exempt property is no longer recorded using the ME, Miscellaneous Exempt use code, but are instead usually classifed as RV, Residential Vacant. The Taxable field was referenced to locate tax exempt property such as schools, churches, and governemnt-owned property during this land use update.Any parcel classified as vacant may be an accessory use to an adjacent, commonly owned, improved parcel. In this event, the vacant parcel is reclassified as the use of the adjacent, commonly owned, improved parcel. It should be noted, however, that parcels with use codes of RV, SV, and LV, that represent a single family vacant use, are exempt from this assumption.Parcels with an Equalization use code of RV, SV, or LV may include uses to be reclassified as Vacant or Recreation  Conservation (due to subdivision open space). These parcels are not manually checked. Queries are conducted to search for those parcels that are subdivision open space. The following strings are queried from the Owner1 and Owner2 fields: *own* (unknown, homeowner), ass* (association, ass'n, etc), and park.The Equalization use code BI, Business Improved includes uses that are reclassified as Commercial/Office. Uses may also fall into Public/Institutional, however, all BI parcels are not manually checked for reclassification.The Equalization use code MM, Miscellaneous Business includes uses that are reclassified as Recreation and Conservation, Multiple Family, Commercial/Office, or Mobile Home Park.The Equalization use code ME, Miscellaneous Exempt includes uses that are reclassified as Recreation  Conservation, Public/Institutional, Transportation, Utility  Communication, Industrial (municipal landfills), or any Single Family classification.The Equalization use code KI, Condominium Improved includes uses that are reclassified as Multiple Family, Single Family, or Commercial/Office.Any parcel with an Equalization use code of FI, Farm Improved or FV, Farm Vacant is considered to be an active agricultural use.Any parcel with an Equalization use code of II, Industrial Improved is considered to be an industrial use.Any parcel with an Equalization use code of FC, Farm Conservation is considered to be a recreational/conservation use.Any parcel with an Equalization use code of AI, Apartment Improved is considered to be a multiple family residential use.Any parcel with an Equalization use code of UI, Utility Improved is considered to be a transportation, utility, or communication related use.Parcels with an Equalization use code of DI, Developmental Improved are reclassified as Single Family or Vacant.Any parcel with an Equalization use code of DV for Developmental Vacant may be reclassified as Vacant, Recreation  Conservation, (golf courses) or Industrial (mining or extractive).Polygons in the ROW region of the parcel coverage will be classified as Recreation and Conservation, and Commercial/Office, Vacant, Road ROW, and Railroad ROW.Because of inconsistencies in Use Code data, unique uses, and the goal of creating an accurate coverage that is not limited by its metadata, there may be exceptions from these assumptions.Exceptions:There are nine isolated cases where the land use would be tremendously overstated if the whole parcel was shown in a single use. In these cases, the polygon was split to show the use of the rest of the parcel vacant. These parcels are listed below:01-29-451-00101-35-300-01404-08-200-00204-24-100-00407-13-301-00614-04-376-00218-19-476-01521-10-200-00121-10-200-002",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Oakland County, Michigan"
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps",
+    "Planning and Cadastral"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://accessoakland.oakgov.com/datasets/ee00804d8048419f889d924924db0e52_13\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gisservices.oakgov.com/arcgis/rest/services/Enterprise/EnterpriseLandUseMapService/MapServer/13\",\"http://schema.org/downloadUrl\":\"http://accessoakland.oakgov.com/datasets/ee00804d8048419f889d924924db0e52_13.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016-10-16",
+  "dct_spatial_sm": [
+    "Oakland County, Michigan, United States",
+    "Michigan, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5004223",
+    "http://sws.geonames.org/5001836"
+  ],
+  "thumbnail_path_ss": "https://gisservices.oakgov.com/arcgis/rest/services/Enterprise/EnterpriseLandUseMapService/MapServer/info/thumbnail",
+  "layer_slug_s": "ee00804d8048419f889d924924db0e52_13",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T20:39:45Z",
+  "centroid_s": "42.6598425,-83.3843095",
+  "solr_geom": "ENVELOPE(-83.694337, -83.074282, 42.893598, 42.426087)",
+  "solr_year_i": 2016
+}

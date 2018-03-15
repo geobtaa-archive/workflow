@@ -1,0 +1,37 @@
+{
+  "uuid": "7122c1c815314588abe5c1864da8a355_3",
+  "dc_identifier_s": "7122c1c815314588abe5c1864da8a355_3",
+  "dc_title_s": "Recreation Facilities: Washington, D.C.",
+  "dc_description_s": "DC Department of Parks and Recreation child care The dataset contains the addresses of these DPR centersC. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies. This data is provided by the Department of Parks and Recreation and contains the location and other information about centers under the jurisdiction of the DC Department of Parks and Recreation. All DC GIS data is stored and exported in Maryland State Plane coordinates NAD 83 meters. METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": "District of Columbia GIS Program",
+  "dc_subject_sm": [
+    "Locations",
+    "Recreation center",
+    "Government facility"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.dc.gov/datasets/7122c1c815314588abe5c1864da8a355_3\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Recreation_WebMercator/MapServer/3\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/7122c1c815314588abe5c1864da8a355_3.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015",
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "7122c1c815314588abe5c1864da8a355_3",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T20:46:3Z",
+  "centroid_s": "38.89454773005,-77.00842767195",
+  "solr_geom": "ENVELOPE(-77.104641143, -76.9122142009, 38.9702704533, 38.8188250068)",
+  "solr_year_i": 2015
+}

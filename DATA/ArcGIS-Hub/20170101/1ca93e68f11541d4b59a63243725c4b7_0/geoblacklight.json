@@ -1,0 +1,37 @@
+{
+  "uuid": "1ca93e68f11541d4b59a63243725c4b7_0",
+  "dc_identifier_s": "1ca93e68f11541d4b59a63243725c4b7_0",
+  "dc_title_s": "Neighborhoods: Baltimore, Maryland",
+  "dc_description_s": "Baltimore City neighborhood Boundaries Polygon",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Baltimore, Maryland"
+  ],
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://gis-baltimore.opendata.arcgis.com/datasets/1ca93e68f11541d4b59a63243725c4b7_0\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.baltimorecity.gov/egis/rest/services/opengisdata/neighborhoods/MapServer/0\",\"http://schema.org/downloadUrl\":\"http://gis-baltimore.opendata.arcgis.com/datasets/1ca93e68f11541d4b59a63243725c4b7_0.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015-06-29",
+  "dct_spatial_sm": [
+    "Baltimore, Maryland, United States",
+    "Maryland, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4347778",
+    "http://sws.geonames.org/4361885"
+  ],
+  "thumbnail_path_ss": "https://gis.baltimorecity.gov/egis/rest/services/opengisdata/neighborhoods/MapServer/info/thumbnail",
+  "layer_slug_s": "1ca93e68f11541d4b59a63243725c4b7_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T20:39:50Z",
+  "centroid_s": "39.2849,-76.62055",
+  "solr_geom": "ENVELOPE(-76.7121, -76.529, 39.3726, 39.1972)",
+  "solr_year_i": 2015
+}

@@ -1,0 +1,37 @@
+{
+  "uuid": "d7d3ae6978d943c2ae16e9779fe6b62e_0",
+  "dc_identifier_s": "d7d3ae6978d943c2ae16e9779fe6b62e_0",
+  "dc_title_s": "Subway: Baltimore, Maryland",
+  "dc_description_s": "This dataset contains the line segments representing MTAs subway line in Baltimore City and Baltimore County.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Baltimore, Maryland"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://gis-baltimore.opendata.arcgis.com/datasets/d7d3ae6978d943c2ae16e9779fe6b62e_0\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.baltimorecity.gov/egis/rest/services/opengisdata/Subway/MapServer/0\",\"http://schema.org/downloadUrl\":\"http://gis-baltimore.opendata.arcgis.com/datasets/d7d3ae6978d943c2ae16e9779fe6b62e_0.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015-07-09",
+  "dct_spatial_sm": [
+    "Baltimore, Maryland, United States",
+    "Maryland, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4347778",
+    "http://sws.geonames.org/4361885"
+  ],
+  "thumbnail_path_ss": "https://gis.baltimorecity.gov/egis/rest/services/opengisdata/Subway/MapServer/info/thumbnail",
+  "layer_slug_s": "d7d3ae6978d943c2ae16e9779fe6b62e_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T20:39:15Z",
+  "centroid_s": "39.348426,-76.687173",
+  "solr_geom": "ENVELOPE(-76.781006, -76.59334, 39.407632, 39.28922)",
+  "solr_year_i": 2015
+}

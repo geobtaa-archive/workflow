@@ -1,0 +1,45 @@
+{
+  "uuid": "cd871e83-06ad-43b1-9507-73e3a974ea02",
+  "dc_identifier_s": "cd871e83-06ad-43b1-9507-73e3a974ea02",
+  "dc_title_s": "C-28 Geologic Atlas of Renville County, Minnesota [Part A]",
+  "dc_description_s": "Plate 1, Data base, Plate 2, Bedrock geology, Plate 3, Surficial geology, Plate 4 Quaternary stratigraphy, Plate 5 Sand distribution models, Bedrock topography and depth-to-bedrock, Scale 1:100,000.; Surface and subsurface geology of Renville County, Mn. includes bedrock topography and depth-to-bedrock; THE RENVILLE COUNTY BOARD OF COMMISSIONERS AND THE MINNESOTA ENVIRONMENT AND NATURAL RESOURCES, DIVISION OF WATERS",
+  "dc_rights_s": "Public",
+  "dc_format_s": "ZIP",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Minnesota Geological Survey"
+  ],
+  "dc_creator_sm": "Setterholm, Dale R",
+  "dc_subject_sm": [
+    "Geoscientific Information"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://hdl.handle.net/11299/159398\",\"http://schema.org/downloadUrl\":\"https://conservancy.umn.edu/bitstream/handle/11299/159398/c28_cd.zip\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geological Survey",
+    "Minnesota Geological Survey County Atlas Series"
+  ],
+  "dct_issued_s": "2013-10-31",
+  "dct_temporal_sm": [
+    "2013"
+  ],
+  "dct_spatial_sm": [
+    "Renville County, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5042928",
+    "http://sws.geonames.org/5037779"
+  ],
+  "layer_slug_s": "cd871e83-06ad-43b1-9507-73e3a974ea02",
+  "layer_id_s": "",
+  "layer_geom_type_s": "Mixed",
+  "layer_modified_dt": "2018-3-12T17:23:4Z",
+  "centroid_s": "44.675415,-94.988937",
+  "solr_geom": "ENVELOPE(-95.483093, -94.494781, 44.894192, 44.456638)",
+  "solr_year_i": 2013,
+  "thumbnail_path_ss": "https://conservancy.umn.edu/bitstream/handle/11299/159398/pl1_db.pdf.jpg"
+}

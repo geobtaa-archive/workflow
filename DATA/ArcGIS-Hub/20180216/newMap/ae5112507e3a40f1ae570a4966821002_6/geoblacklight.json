@@ -1,0 +1,37 @@
+{
+  "uuid": "ae5112507e3a40f1ae570a4966821002_6",
+  "dc_identifier_s": "ae5112507e3a40f1ae570a4966821002_6",
+  "dc_title_s": "Critical Dunes: Michigan",
+  "dc_description_s": "Digital form of maps used in Designated and Critical Sand Dune Areas pamphlet. Published by Geological Survey Division in 1996. These are the same areas represented in the Atlas of Critical Dunes, which was publised in February 1989 and is referenced in Part 353, Sand Dune Protection and Management, of the Natural Resources and Environmental Protection Act, 1994 PA 451, as amended (NREPA).",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "State of Michigan"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Geoscientific Information"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://hub.arcgis.com/datasets/ae5112507e3a40f1ae570a4966821002_6\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gisago.mcgi.state.mi.us/arcgis/rest/services/OpenData/geology/MapServer/6\",\"http://schema.org/downloadUrl\":\"https://hub.arcgis.com/datasets/ae5112507e3a40f1ae570a4966821002_6.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015-03-02",
+  "dct_spatial_sm": [
+    "Michigan, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5001836"
+  ],
+  "layer_slug_s": "ae5112507e3a40f1ae570a4966821002_6",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T20:47:19Z",
+  "centroid_s": "44.605,-86.5052",
+  "solr_geom": "ENVELOPE(-88.3866, -84.6238, 47.4666, 41.7434)",
+  "solr_year_i": 2015
+}

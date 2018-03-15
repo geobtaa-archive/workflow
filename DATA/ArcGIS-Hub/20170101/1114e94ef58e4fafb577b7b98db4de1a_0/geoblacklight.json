@@ -1,0 +1,38 @@
+{
+  "uuid": "1114e94ef58e4fafb577b7b98db4de1a_0",
+  "dc_identifier_s": "1114e94ef58e4fafb577b7b98db4de1a_0",
+  "dc_title_s": "OC Families Against Narcotics Regional Locations: Oakland County, Michigan",
+  "dc_description_s": "Location of the Family Against Narcotics regional groups. Indicates if Deterra (drug disposal) bags are available at locations. FAN groups help prevent substance abuse. For more information about prescription drug abuse, visit the Oakland County Health Division's web site: https://www.oakgov.com/health/PrescriptionDrugs",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Oakland County, Michigan"
+  ],
+  "dc_subject_sm": [
+    "Health",
+    "Location"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://accessoakland.oakgov.com/datasets/1114e94ef58e4fafb577b7b98db4de1a_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/GE4Idg9FL97XBa3P/arcgis/rest/services/LDJqW/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://accessoakland.oakgov.com/datasets/1114e94ef58e4fafb577b7b98db4de1a_0.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2017-06-18",
+  "dct_spatial_sm": [
+    "Oakland County, Michigan, United States",
+    "Michigan, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5004223",
+    "http://sws.geonames.org/5001836"
+  ],
+  "thumbnail_path_ss": "https://services1.arcgis.com/GE4Idg9FL97XBa3P/arcgis/rest/services/LDJqW/FeatureServer/info/thumbnail",
+  "layer_slug_s": "1114e94ef58e4fafb577b7b98db4de1a_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T21:21:16Z",
+  "centroid_s": "42.6478002603333,-83.3877551114427",
+  "solr_geom": "ENVELOPE(-83.62842695973346, -83.147083263152, 42.79161548661461, 42.50398503405203)",
+  "solr_year_i": 2017
+}

@@ -1,0 +1,35 @@
+{
+  "uuid": "d1e08d93bf0b46e8a3f22b2dda417b6f_1",
+  "dc_identifier_s": "d1e08d93bf0b46e8a3f22b2dda417b6f_1",
+  "dc_title_s": "Freight - Grain Processing Facilities: Iowa",
+  "dc_description_s": "This layer depicts the grain processing facilities in the state.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Iowa Department of Transportation"
+  ],
+  "dc_creator_sm": "Iowa DOT GIS Services",
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Iowa",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://public-iowadot.opendata.arcgis.com/datasets/d1e08d93bf0b46e8a3f22b2dda417b6f_1\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://gis.iowadot.gov/public/rest/services/Systems_Planning/Freight/FeatureServer/1\",\"http://schema.org/downloadUrl\":\"https://public-iowadot.opendata.arcgis.com/datasets/d1e08d93bf0b46e8a3f22b2dda417b6f_1.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016-06-15",
+  "dct_spatial_sm": [
+    "Iowa, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4862182"
+  ],
+  "layer_slug_s": "d1e08d93bf0b46e8a3f22b2dda417b6f_1",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T22:10:51Z",
+  "centroid_s": "41.94945,-93.34425",
+  "solr_geom": "ENVELOPE(-96.4876, -90.2009, 43.5307, 40.3682)",
+  "solr_year_i": 2016
+}

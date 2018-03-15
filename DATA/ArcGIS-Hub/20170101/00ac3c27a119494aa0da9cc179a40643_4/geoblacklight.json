@@ -1,0 +1,35 @@
+{
+  "uuid": "00ac3c27a119494aa0da9cc179a40643_4",
+  "dc_identifier_s": "00ac3c27a119494aa0da9cc179a40643_4",
+  "dc_title_s": "Maryland Highway Performance Monitoring System - Roadway Maintenance Responsibility: Maryland",
+  "dc_description_s": "This is a MD iMAP hosted service layer. Find more information at 'http://imap.maryland.gov.Linear features which specifically show the government agencies responsible for maintaining public roadways throughout the State of Maryland. The Maryland Department of Transportation State Highway Administration (MDOT SHA) currently reports this data only on the inventory direction (generally North or East) side of the roadway. Roadway Maintenance Responsibility data is for planning purposes only and is not a complete representation of all roadway geometry.Roadway Maintenance Responsibility data is developed as part of the Highway Performance Monitoring System (HPMS) which maintains and reports transportation related information to the Federal Highway Administration (FHWA) on an annual basis. HPMS is maintained by the Maryland Department of Transportation State Highway Administration (MDOT SHA), under the Office of Planning and Preliminary Engineering (OPPE) Data Services Division (DSD). This data is used by various modules throughout MDOT, as well as many other State and local government agencies. Roadway Maintenance Responsibility data is key to understanding which government agencies'are responsible for maintaining public roadways throughout the State of Maryland.Roadway Maintenance Responsibility data is updated and published on an annual (yearly) basis for the prior year. This data is for the year 2016.Last Updated: 07/2017View the latest Roadway Maintenance Responsibility data in the'Maryland Know Your Roads ApplicationFor additional data information, contact the MDOT SHA Traffic Monitoring System (TMS) Team:TMS@sha.state.md.usFor additional information, contact the MDOT SHA Geospatial Technologies Team:GIS@sha.state.md.usFor additional information related to the Maryland Department of Transportation (MDOT):http://www.mdot.maryland.gov/For additional information related to the Maryland Department of Transportation State Highway Administration (MDOT SHA):http://www.roads.maryland.gov/MDOT SHA Geospatial Data Legal Disclaimer:The Maryland Department of Transportation State Highway Administration (MDOT SHA) makes no warranty, expressed or implied, as to the use or appropriateness of geospatial data, and there are no warranties of merchantability or fitness for a particular purpose or use. The information contained in geospatial data is from publicly available sources, but no representation is made as to the accuracy or completeness of geospatial data. MDOT SHA shall not be subject to liability for human error, error due to software conversion, defect, or failure of machines, or any material used in the connection with the machines, including tapes, disks, CD-ROMs or DVD-ROMs and energy. MDOT SHA shall not be liable for any lost profits, consequential damages, or claims against MDOT SHA by third parties.Map Service Link:https://geodata.md.gov/imap/rest/services/Transportation/MD_HighwayPerformanceMonitoringSystem/MapServer/4",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Maryland iMap"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/00ac3c27a119494aa0da9cc179a40643_4\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://geodata.md.gov/imap/rest/services/Transportation/MD_HighwayPerformanceMonitoringSystem/MapServer/4\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/00ac3c27a119494aa0da9cc179a40643_4.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2017-10-27",
+  "dct_spatial_sm": [
+    "Maryland, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4361885"
+  ],
+  "thumbnail_path_ss": "https://geodata.md.gov/imap/rest/services/Transportation/MD_HighwayPerformanceMonitoringSystem/MapServer/info/thumbnail",
+  "layer_slug_s": "00ac3c27a119494aa0da9cc179a40643_4",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T20:39:58Z",
+  "centroid_s": "38.84,-77.26865",
+  "solr_geom": "ENVELOPE(-79.4871, -75.0502, 39.7238, 37.9562)",
+  "solr_year_i": 2017
+}

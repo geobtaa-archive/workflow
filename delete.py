@@ -161,10 +161,9 @@ class CSWToGeoBlacklight(object):
 			"09d-01": '"Purdue Georeferenced Imagery"',
 			"10a-01": '"State of Wisconsin"',
 			"10a-02": '"WI DATCP"',
-			"10a-03": '"WI DNR"',
+			"10a-03": '"Wisconsin Department of Natural Resources (DNR)"',
 			"10a-04": '"WI LTSB"',
 			"10a-05": '"WI LiDAR/Imagery"',
-			"10a-05": '"Wisconsin DNR"',
 			"10b-01": '"WI Counties"'
         }
 

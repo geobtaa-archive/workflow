@@ -1,0 +1,38 @@
+{
+  "uuid": "818f83a0e6304b81b2f6639782f20b6d_25",
+  "dc_identifier_s": "818f83a0e6304b81b2f6639782f20b6d_25",
+  "dc_title_s": "Targeted Employment Area: Washington, D.C.",
+  "dc_description_s": "Targeted Employment Areas. The dataset contains locations and attributes of Targeted Employment AreaC. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies. All DC GIS data is stored and exported in Maryland State Plane coordinates NAD 83 meters. METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": "District of Columbia GIS Program",
+  "dc_subject_sm": [
+    "Locations",
+    "Political",
+    "Administrative",
+    "Poverty"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.dc.gov/datasets/818f83a0e6304b81b2f6639782f20b6d_25\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Administrative_Other_Boundaries_WebMercator/MapServer/25\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/818f83a0e6304b81b2f6639782f20b6d_25.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015",
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "818f83a0e6304b81b2f6639782f20b6d_25",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T20:45:54Z",
+  "centroid_s": "38.8744519417,-76.9837893205",
+  "solr_geom": "ENVELOPE(-77.0585129404, -76.9090657006, 38.9572960507, 38.7916078327)",
+  "solr_year_i": 2015
+}

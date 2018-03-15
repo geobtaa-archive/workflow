@@ -1,0 +1,34 @@
+{
+  "uuid": "e58297b25d034aee9e90c76e25210d99_19",
+  "dc_identifier_s": "e58297b25d034aee9e90c76e25210d99_19",
+  "dc_title_s": "No Fly Zones: Washington, D.C.",
+  "dc_description_s": "No fly zones. The dataset contains locations and attributes of P56A and P56B flight restrictions in the District of Columbia, created as part of the DC Geographic Information System (DC GIS) for the D.C. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies. A database provided by the National Geospatial-Intelligence Agency (NGA) identified P56A and P56B flight restrictions in DC. The data specifically comes from NGA's Digital Aeronautical Flight Information File (DAFIF). All DC GIS data is stored and exported in Maryland State Plane coordinates NAD 83 meters. METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/e58297b25d034aee9e90c76e25210d99_19\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Administrative_Other_Boundaries_WebMercator/MapServer/19\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/e58297b25d034aee9e90c76e25210d99_19.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015",
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "e58297b25d034aee9e90c76e25210d99_19",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T20:39:50Z",
+  "centroid_s": "38.9059708785,-77.0382476913",
+  "solr_geom": "ENVELOPE(-77.0776070659, -76.9988883167, 38.9297435698, 38.8821981872)",
+  "solr_year_i": 2015
+}

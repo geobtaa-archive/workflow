@@ -25,18 +25,18 @@ class SolrInterface(object):
         self.solr.delete(q='*:*')
 
     def delete_query(self, query, no_confirm=False):
-        if not no_confirm:
-            s = self.solr.search(self.escape_query(query), **{"rows": "0"})
-            are_you_sure = input(
-                "Are you sure you want to delete {num_recs} \
-                records from Solr? Y/N: ".format(num_recs=s.hits)
-            )
-            if are_you_sure.lower() == "y":
-                self.solr.delete(q=self.escape_query(query))
-            else:
-                pass#log.debug("Abandon ship! Not deleting anything.")
-        else:
-            self.solr.delete(q=self.escape_query(query))
+#         if not no_confirm:
+#             s = self.solr.search(self.escape_query(query), **{"rows": "0"})
+#             are_you_sure = input(
+#                 "Are you sure you want to delete {num_recs} \
+#                 records from Solr? Y/N: ".format(num_recs=s.hits)
+#             )
+#             if are_you_sure.lower() == "y":
+#                 self.solr.delete(q=self.escape_query(query))
+#             else:
+#                 pass#log.debug("Abandon ship! Not deleting anything.")
+#         else:
+        self.solr.delete(q=self.escape_query(query))
 
     def json_to_dict(self, json_doc):
         j = json.load(open(json_doc, "r"))

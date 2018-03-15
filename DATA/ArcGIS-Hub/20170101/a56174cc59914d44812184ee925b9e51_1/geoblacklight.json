@@ -1,0 +1,35 @@
+{
+  "uuid": "a56174cc59914d44812184ee925b9e51_1",
+  "dc_identifier_s": "a56174cc59914d44812184ee925b9e51_1",
+  "dc_title_s": "Focal Areas - Targeted Ecological Areas: Maryland",
+  "dc_description_s": "This is a MD iMAP hosted service. Find more information at http://imap.maryland.gov. Targeted Ecological Areas (TEAs) are lands and watersheds of high ecological value that have been identified as conservation priorities by the Maryland Department of Natural Resources (DNR) for natural resource protection. These areas represent the most ecologically valuable areas in the State: they are the best of the best. TEAs are preferred for conservation funding through Stateside Program Open Space. This version updates the 2008 TEA layer. The first step in updating TEAs was to create an ecological baseline composed of several ecological databases which included updates of original databases and additional databases developed since 2008. The first component is the updated Green Infrastructure Assessment (circa 2010) which identifies large, contiguous blocks (hubs) of significant forests and wetlands and their connecting corridors. The Green Infrastructure s hub and corridor network of habitat allows plant and animal migration, reduces forest fragmentation if protected, and provides important ecosystem services, such as biodiversity, cleaning air and water, storing nutrients, and protecting areas against storm and flood damage. The rare species and wildlife habitat component identifies areas that support Rare, Threatened, and Endangered Species, rare plant and animal communities, species of Greatest Conservation Need, and wildlife concentrations. The aquatic life hotspots component identifies watersheds supporting freshwater stream ecosystems where conservation is needed to protect and restore areas of high aquatic biodiversity, Tier II regulated streams, and brook trout streams. The water quality protection component identifies sensitive lands such as forests, wetlands, and steep slopes where preservation is important for water quality. The coastal ecosystems component identifies Blue Infrastructure shoreline and watershed protection priorities. These are areas important for sustaining coastal and tidal ecosystems and also identifies land areas important for sustaining spawning and nursery areas for important commercial and recreational fisheries. The climate change adaptation component identifies areas important for sustaining wetlands ecosystems that are changing and moving landward in response to sea level rise. From the ecological baseline, areas that ranked as most important for each of the components were merged to create the Targeted Ecological Areas. Lands that were developed, as identified by the Maryland Department of Planning (2010) were removed from the TEA layer since developed lands are not preferred for Stateside Program Open Space funding. Additionally, lands that are in the 0 foot to 2 foot inundation zone based on the 2011 SLAMM (Maryland Sea-Level Affecting Marshes Model) study performed for all 16 coastal counties and Baltimore City since these areas are not preferred for Stateside Program Open Space funding. Last Updated: 12/2011",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Maryland iMap"
+  ],
+  "dc_subject_sm": [
+    "Environment"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/a56174cc59914d44812184ee925b9e51_1\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://geodata.md.gov/imap/rest/services/Environment/MD_FocalAreas/FeatureServer/1\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/a56174cc59914d44812184ee925b9e51_1.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016",
+  "dct_spatial_sm": [
+    "Maryland, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4361885"
+  ],
+  "thumbnail_path_ss": "https://geodata.md.gov/imap/rest/services/Environment/MD_FocalAreas/FeatureServer/info/thumbnail",
+  "layer_slug_s": "a56174cc59914d44812184ee925b9e51_1",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T21:16:16Z",
+  "centroid_s": "38.8224,-77.27315",
+  "solr_geom": "ENVELOPE(-79.4871, -75.0592, 39.7231, 37.9217)",
+  "solr_year_i": 2016
+}

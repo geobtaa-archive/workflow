@@ -1,0 +1,36 @@
+{
+  "uuid": "fecbf3e8da1c4f0abb05afcb9735b98c_0",
+  "dc_identifier_s": "fecbf3e8da1c4f0abb05afcb9735b98c_0",
+  "dc_title_s": "Agricultural Designations - Permanently Preserved Agricultural Lands: Maryland",
+  "dc_description_s": "This is a MD iMAP hosted service. Find more information at http://imap.maryland.gov. This layer contains lands that have been forever restricted from development on prime farmland and woodland. Last Updated: 06/2017",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dc_creator_sm": "Maryland iMap",
+  "dc_subject_sm": [
+    "Farming"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.imap.maryland.gov/datasets/fecbf3e8da1c4f0abb05afcb9735b98c_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://geodata.md.gov/imap/rest/services/Agriculture/MD_AgriculturalDesignations/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"https://data.imap.maryland.gov/datasets/fecbf3e8da1c4f0abb05afcb9735b98c_0.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016",
+  "dct_spatial_sm": [
+    "Maryland, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4361885"
+  ],
+  "thumbnail_path_ss": "https://geodata.md.gov/imap/rest/services/Agriculture/MD_AgriculturalDesignations/FeatureServer/info/thumbnail",
+  "layer_slug_s": "fecbf3e8da1c4f0abb05afcb9735b98c_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T21:59:34Z",
+  "centroid_s": "38.8635,-77.3599",
+  "solr_geom": "ENVELOPE(-79.4871, -75.2327, 39.7226, 38.0044)",
+  "solr_year_i": 2016
+}

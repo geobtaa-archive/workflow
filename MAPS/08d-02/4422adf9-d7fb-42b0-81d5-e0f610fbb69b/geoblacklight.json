@@ -19,7 +19,7 @@
     "Real property"
   ],
   "dct_provenance_s": "Penn State",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/2510\",\"http://schema.org/downloadUrl\":\"http://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/2510\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/2510\",\"http://schema.org/downloadUrl\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/2510\"}",
   "dct_isPartOf_sm": "Sanborn Fire Insurance Maps",
   "dct_issued_s": "1911",
   "dct_temporal_sm": [
@@ -36,9 +36,9 @@
   ],
   "layer_slug_s": "4422adf9-d7fb-42b0-81d5-e0f610fbb69b",
   "layer_geom_type_s": "Paper Map",
-  "layer_modified_dt": "2018-3-9T18:52:17Z",
+  "layer_modified_dt": "2018-3-12T23:23:58Z",
   "centroid_s": "40.59026685,-80.22263205",
   "solr_geom": "ENVELOPE(-80.2366821, -80.208582, 40.6074669, 40.5730668)",
   "solr_year_i": 1911,
-  "thumbnail_path_ss": "http://collection1.libraries.psu.edu/utils/getthumbnail/collection/maps1/id/2510"
+  "thumbnail_path_ss": "https://collection1.libraries.psu.edu/utils/getthumbnail/collection/maps1/id/2510"
 }

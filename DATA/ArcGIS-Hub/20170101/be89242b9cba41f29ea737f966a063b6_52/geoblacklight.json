@@ -1,0 +1,35 @@
+{
+  "uuid": "be89242b9cba41f29ea737f966a063b6_52",
+  "dc_identifier_s": "be89242b9cba41f29ea737f966a063b6_52",
+  "dc_title_s": "Sport Venues - Roller Sports: Maryland",
+  "dc_description_s": "This is a MD iMAP hosted service layer. Find more information at http://imap.maryland.gov. Maryland Sports (http://www. marylandsports. us/) has identified sport venues located within the State of Maryland. These venues offer opportunities to participate in free and fee-based, organized and pick-up, indoor and outdoor sports and physical fitness related activities in the area of Roller Sports. Last Updated: 08/2014",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Maryland iMap"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/be89242b9cba41f29ea737f966a063b6_52\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://geodata.md.gov/imap/rest/services/Society/MD_SportVenues/FeatureServer/52\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/be89242b9cba41f29ea737f966a063b6_52.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016",
+  "dct_spatial_sm": [
+    "Maryland, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4361885"
+  ],
+  "thumbnail_path_ss": "https://geodata.md.gov/imap/rest/services/Society/MD_SportVenues/FeatureServer/info/thumbnail",
+  "layer_slug_s": "be89242b9cba41f29ea737f966a063b6_52",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T21:16:4Z",
+  "centroid_s": "38.9627,-77.2249",
+  "solr_geom": "ENVELOPE(-79.3633, -75.0865, 39.6589, 38.2665)",
+  "solr_year_i": 2016
+}

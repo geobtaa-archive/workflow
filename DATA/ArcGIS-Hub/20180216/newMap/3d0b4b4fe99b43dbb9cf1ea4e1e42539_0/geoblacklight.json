@@ -1,0 +1,39 @@
+{
+  "uuid": "3d0b4b4fe99b43dbb9cf1ea4e1e42539_0",
+  "dc_identifier_s": "3d0b4b4fe99b43dbb9cf1ea4e1e42539_0",
+  "dc_title_s": "Buildings Detroit: Michigan",
+  "dc_description_s": "SEMCOG's buildings data layer represents the digital footprint of each building in Southeast Michigan, as of April 2015, along with associated attributes of each building. The building footprints were originally compiled using heads-up digitizing of 2010 aerial photography, and then attributed with additional information on their location and physical characteristics using a variety of sources.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "State of Michigan"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Structure",
+    "Location"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://hub.arcgis.com/datasets/3d0b4b4fe99b43dbb9cf1ea4e1e42539_0\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://arcgisserver.semcog.org/arcgis/rest/services/OpenData/Buildings_Detroit/MapServer/0\",\"http://schema.org/downloadUrl\":\"https://hub.arcgis.com/datasets/3d0b4b4fe99b43dbb9cf1ea4e1e42539_0.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016-09-26",
+  "dct_spatial_sm": [
+    "Michigan, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5001836"
+  ],
+  "thumbnail_path_ss": "https://arcgisserver.semcog.org/arcgis/rest/services/OpenData/Buildings_Detroit/MapServer/info/thumbnail",
+  "layer_slug_s": "3d0b4b4fe99b43dbb9cf1ea4e1e42539_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T21:4:45Z",
+  "centroid_s": "42.35335,-83.1005",
+  "solr_geom": "ENVELOPE(-83.2908, -82.9102, 42.4539, 42.2528)",
+  "solr_year_i": 2016
+}

@@ -1,0 +1,34 @@
+{
+  "uuid": "5c1f42d9514c4ba38c29b50a5dfbd9a4_9",
+  "dc_identifier_s": "5c1f42d9514c4ba38c29b50a5dfbd9a4_9",
+  "dc_title_s": "Water Wells - South Central Southeastern Michigan: Michigan",
+  "dc_description_s": "The data in these six files is derived from Wellogic, the Michigan Department of Environmental Quality statewide ground water database. The six files combined contain information on over 575,000 spatially verified water well records. The six files are intended to provide water well information for wells in counties clustered by geographic region: Upper Peninsula, Northern Lower Peninsula, East Central Lower Peninsula, West Central Lower Peninsula, Southwest Lower Peninsula and the South Central Southeastern Lower Peninsula. The files are constructed to be easily merged, containing the same number and type of attribute fields. Although the derived data in these files represents the best readily available data, the six files do not represent a complete database of all wells or well records in existence. Until January 1, 2000 not all water well records for new wells in Michigan were entered into Wellogic. For wells drilled before 2000 the rate of inclusion is highly variable from one county to another. Further, there is a quality control check on location that may exclude a limited number of wells from Wellogic from the six files made available on this site.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "State of Michigan"
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://gis-michigan.opendata.arcgis.com/datasets/5c1f42d9514c4ba38c29b50a5dfbd9a4_9\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gisago.mcgi.state.mi.us/arcgis/rest/services/OpenData/public_health/MapServer/9\",\"http://schema.org/downloadUrl\":\"http://gis-michigan.opendata.arcgis.com/datasets/5c1f42d9514c4ba38c29b50a5dfbd9a4_9.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015-10-19",
+  "dct_spatial_sm": [
+    "Michigan, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5001836"
+  ],
+  "layer_slug_s": "5c1f42d9514c4ba38c29b50a5dfbd9a4_9",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T20:38:34Z",
+  "centroid_s": "44.89895,-86.41165",
+  "solr_geom": "ENVELOPE(-90.4077, -82.4156, 48.1419, 41.656)",
+  "solr_year_i": 2015
+}

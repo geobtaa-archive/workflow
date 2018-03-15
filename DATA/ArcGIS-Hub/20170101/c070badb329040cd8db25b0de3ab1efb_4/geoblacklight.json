@@ -1,0 +1,39 @@
+{
+  "uuid": "c070badb329040cd8db25b0de3ab1efb_4",
+  "dc_identifier_s": "c070badb329040cd8db25b0de3ab1efb_4",
+  "dc_title_s": "Census Block Groups by Population: Washington, D.C., 2004",
+  "dc_description_s": "Unofficial Census block group boundaries for the District of Columbia. These boundaries were compiled from an unofficial U.S. Census TIGER/line product that reflects updates to the original TIGER boundaries based on planimetric data supplied by the District of Columbia. This product is generally consistent with District of Columbia planimetric data",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Boundaries",
+    "Demographic",
+    "People"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/c070badb329040cd8db25b0de3ab1efb_4\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Demographic_WebMercator/MapServer/4\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/c070badb329040cd8db25b0de3ab1efb_4.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+    "2004"
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "c070badb329040cd8db25b0de3ab1efb_4",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T20:29:59Z",
+  "centroid_s": "38.89373576825,-77.0145791381",
+  "solr_geom": "ENVELOPE(-77.1198962816, -76.9092619946, 38.9958889603, 38.7915825762)",
+  "solr_year_i": 2004
+}

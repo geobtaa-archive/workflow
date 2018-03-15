@@ -1,0 +1,44 @@
+{
+  "uuid": "d60cbfe7291647fbb2b3acf61dac1e81_0",
+  "dc_identifier_s": "d60cbfe7291647fbb2b3acf61dac1e81_0",
+  "dc_title_s": "Tract-level Demographic Profiles: Delaware Valley",
+  "dc_description_s": "Selected data from the Census Bureau's 2010-2014 ACS dataset for tracts in the DVRPC Region. American Community Survey (ACS) provides detailed demographic, social, economic, commuting and housing statistics based on continuous survey data collection. Summary tables compiled with 5-year data are available for all places and have approximately 20,000 variables from 900 tabulations. The published Census statistics have been recompiled by DVRPC, with new field names.Field NameDescriptionSource TableTotCommTotal CommutersB08301AutoCar, truck, or van:B08301DrvAloneDrove aloneB08301CarpoolCarpooled:B08301Carpl2In 2-person carpoolB08301Carpl3In 3-person carpoolB08301Carpl4In 4-person carpoolB08301Carpl5or6In 5- or 6-person carpoolB08301Carpl7plsIn 7-or-more-person carpoolB08301PublTranPublic transportation (excluding taxicab):B08301BusTrollBus or trolley busB08301StCarTrollStreetcar or trolley car (carro publico in Puerto Rico)B08301SubElSubway or elevatedB08301RRRailroadB08301FerryFerryboatB08301TaxiTaxicabB08301MotorcycMotorcycleB08301BikeBicycleB08301WalkWalkedB08301OtherOther meansB08301TelecommWorked at homeB08301PopOver16Population 16 years and overDP03TotEmpInForceIn labor forceDP03UnempPctPercent non in labor forceDP03TimeToWkMean Travel Time to WorkDP03MedHHIMedian household income (dollars)DP03PctFoodSNAPPercentage of households with Food Stamp/SNAP benefits in the past 12 monthsDP03PctNoInsPercentage of civilian noninstitutionalized population with no health insurance coverageDP03PctFamBelPovPercentage of families and people whose income is the past 12 months is below the poverty levelDP03TotHUTotal housing unitsDP04HUOccOccupied housing unitsDP04HUVacantVacant housing unitsDP04NoVehNHouseholds with no vehicles availableDP04NoVehPPercentage of households with no vehicles availableDP04OneVehNHouseholds with 1 vehicle availableDP04OneVehPPercentage of households with 1 vehicle availableDP04TwoVehNHouseholds with 2 vehicles availableDP04TwoVehPPercentage of households with 2 vehicles availableDP04ThrPlsVehNHouseholds with 3 or more vehicles available DP04ThrPlsVehPPercentage of households with 3 or more vehicles available DP04TotPopTotal PopulationDP05TotMaleMale PopulationDP05TotFemFemale PopulationDP05AllWhiteTotal WhiteDP05AllWhitePctPercent WhiteDP05AllBlkTotal BlackDP05AllBlkPctPercent BlackDP05AllAmerInTotal American Indian and Alaska NativeDP05AllAmerInPctPercent American Indian and Alaska NativeDP05AllAsianTotal AsianDP05AllAsianPctPercent AsianDP05AllNatHITotal Native Hawaiian and Other Pacific IslanderDP05AllNatHIPctPercent Native Hawaiian and Other Pacific IslanderDP05HispTotTotal HispanicDP05HispPctPercent HispanicDP05Sources of tract boundaries: US Census Bureau. The TIGER/Line Files are shapefiles and related database files (.dbf) that are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line File is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. Census tracts are small, relatively permanent statistical subdivisions of a county or equivalent entity, and were defined by local participants as part of the 2010 Census Participant Statistical Areas Program. The Census Bureau delineated the census tracts in situations where no local participant existed or where all the potential participants declined to participate. The primary purpose of census tracts is to provide a stable set of geographic units for the presentation of census data and comparison back to previous decennial censuses. Census tracts generally have a population size between 1,200 and 8,000 people, with an optimum size of 4,000 people. When first delineated, census tracts were designed to be homogeneous with respect to population characteristics, economic status, and living conditions. The spatial size of census tracts varies widely depending on the density of settlement. Physical changes in street patterns caused by highway construction, new development, and so forth, may require boundary revisions. In addition, census tracts occasionally are split due to population growth, or combined as a result of substantial population decline. Census tract boundaries generally follow visible and identifiable features. They may follow legal boundaries such as minor civil division (MCD) or incorporated place boundaries in some States and situations to allow for census tract-to-governmental unit relationships where the governmental boundaries tend to remain unchanged between censuses. State and county boundaries always are census tract boundaries in the standard census geographic hierarchy. In a few rare instances, a census tract may consist of noncontiguous areas. These noncontiguous areas may occur where the census tracts are coextensive with all or parts of legal entities that are themselves noncontiguous. For the 2010 Census, the census tract code range of 9400 through 9499 was enforced for census tracts that include a majority American Indian population according to Census 2000 data and/or their area was primarily covered by federally recognized American Indian reservations and/or off-reservation trust lands; the code range 9800 through 9899 was enforced for those census tracts that contained little or no population and represented a relatively large special land use area such as a National Park, military installation, or a business/industrial park; and the code range 9900 through 9998 was enforced for those census tracts that contained only water area, no land area.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Delaware Valley Regional Planning Commission"
+  ],
+  "dc_creator_sm": "Delaware Valley Regional Planning Commission",
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/d60cbfe7291647fbb2b3acf61dac1e81_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://arcgis.dvrpc.org/arcgis/rest/services/Demographics/DemoProfile2014Tracts/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/d60cbfe7291647fbb2b3acf61dac1e81_0.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016-06-02",
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "dct_spatial_sm": [
+    "Delaware River, Delaware, United States",
+    "Maryland, United States",
+    "New Jersey, United States",
+    "Pennsylvania, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4142210",
+    "http://sws.geonames.org/4361885",
+    "http://sws.geonames.org/5101760",
+    "http://sws.geonames.org/6254927"
+  ],
+  "layer_slug_s": "d60cbfe7291647fbb2b3acf61dac1e81_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T23:47:49Z",
+  "centroid_s": "40.059,-75.26635",
+  "solr_geom": "ENVELOPE(-76.1514, -74.3813, 40.6087, 39.5093)",
+  "solr_year_i": 2014
+}

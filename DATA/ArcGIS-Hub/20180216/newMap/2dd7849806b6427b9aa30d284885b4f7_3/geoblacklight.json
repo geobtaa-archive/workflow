@@ -1,0 +1,40 @@
+{
+  "uuid": "2dd7849806b6427b9aa30d284885b4f7_3",
+  "dc_identifier_s": "2dd7849806b6427b9aa30d284885b4f7_3",
+  "dc_title_s": "Mile Markers: Michigan",
+  "dc_description_s": "The Mile Marker Inventory contains mile marker location information along Michigan's highways. Descriptive information for the mile markers include: latitude and longitude, route name, region, TSC, county, control section number, physical reference (PR) number, PR mile point, and mile number. The information was collected in 2011 using Framework V11. The data has not been updated and more current data may be available. Please see the MDOT Metadata Form for additional information. Update Cycle: The Mile Marker inventory was initially collected and completed in 2011 as part of the Lane Mile Inventory (LMI). There is currently no update plan in place to re-collect or update this inventory.Data Quality: Data was collected to +/- 25ft accuracy using a laptop equipped with ArcGIS Desktop and a tethered USB puck GPS unit.Coverage: This inventory is complete in its coverage of all State of Michigan trunkline roadways as of 2011.Symbology: The symbology for the Mile Markers is a simple point.Contact: Alonso Uzcategui, uzcateguia@michigan.gov",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "State of Michigan"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://hub.arcgis.com/datasets/2dd7849806b6427b9aa30d284885b4f7_3\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gisago.mcgi.state.mi.us/arcgis/rest/services/MDOT/mdot_opendata/MapServer/3\",\"http://schema.org/downloadUrl\":\"https://hub.arcgis.com/datasets/2dd7849806b6427b9aa30d284885b4f7_3.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015-07-31",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "Michigan, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5001836"
+  ],
+  "layer_slug_s": "2dd7849806b6427b9aa30d284885b4f7_3",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T20:47:30Z",
+  "centroid_s": "44.1046,-84.52465",
+  "solr_geom": "ENVELOPE(-86.7973, -82.252, 46.4988, 41.7104)",
+  "solr_year_i": 2015
+}

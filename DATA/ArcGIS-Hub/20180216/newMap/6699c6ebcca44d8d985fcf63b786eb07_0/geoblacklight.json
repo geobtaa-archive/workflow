@@ -1,0 +1,39 @@
+{
+  "uuid": "6699c6ebcca44d8d985fcf63b786eb07_0",
+  "dc_identifier_s": "6699c6ebcca44d8d985fcf63b786eb07_0",
+  "dc_title_s": "OC Educational: Oakland County, Michigan",
+  "dc_description_s": "This point feature class was created by geocoding the facility address as provided by Oakland Schools and ERP to Oakland County's Road Centerline feature class. The resulting points were georeferenced to the facility structure using Oakand County's 2002 orthoimagery at a reference scale of 1:1200.The key attributes include the facility Name, Address and Type (Elementary, Middle, High, Technical and College).",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Oakland County, Michigan"
+  ],
+  "dc_creator_sm": "Access Oakland",
+  "dc_subject_sm": [
+    "Location",
+    "Society"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://accessoakland.oakgov.com/datasets/6699c6ebcca44d8d985fcf63b786eb07_0\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gisservices.oakgov.com/arcgis/rest/services/Enterprise/EnterpriseFacilitiesDataMapService/MapServer/0\",\"http://schema.org/downloadUrl\":\"https://accessoakland.oakgov.com/datasets/6699c6ebcca44d8d985fcf63b786eb07_0.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016-10-16",
+  "dct_spatial_sm": [
+    "Oakland County, Michigan, United States",
+    "Michigan, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5004223",
+    "http://sws.geonames.org/5001836"
+  ],
+  "thumbnail_path_ss": "https://gisservices.oakgov.com/arcgis/rest/services/Enterprise/EnterpriseFacilitiesDataMapService/MapServer/info/thumbnail",
+  "layer_slug_s": "6699c6ebcca44d8d985fcf63b786eb07_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T21:4:4Z",
+  "centroid_s": "42.6598425,-83.3843095",
+  "solr_geom": "ENVELOPE(-83.694337, -83.074282, 42.893598, 42.426087)",
+  "solr_year_i": 2016
+}

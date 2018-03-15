@@ -1,0 +1,38 @@
+{
+  "uuid": "ba016f9d6bcf436792cf3b01e0d5c92e_14",
+  "dc_identifier_s": "ba016f9d6bcf436792cf3b01e0d5c92e_14",
+  "dc_title_s": "Planned Unit Development (PUDs): Washington, D.C.",
+  "dc_description_s": "A Planned Unit Development (PUD) is a large-scale development in which conventional zoning standards (such assetbacks and height limits) are relaxed in order to conserve sensitive areas All DC GIS data is stored and exported in Maryland State Plane coordinates NAD 83 meters. This layer contains complete theoretical address ranges. METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral",
+    "Development",
+    "Transfer of development rights",
+    "Overlay",
+    "Zoning"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/ba016f9d6bcf436792cf3b01e0d5c92e_14\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Planning_Landuse_and_Zoning_WebMercator/MapServer/14\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/ba016f9d6bcf436792cf3b01e0d5c92e_14.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015",
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "ba016f9d6bcf436792cf3b01e0d5c92e_14",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T20:30:2Z",
+  "centroid_s": "38.8992973094,-77.0130755034",
+  "solr_geom": "ENVELOPE(-77.1119636198, -76.914187387, 38.9859918565, 38.8126027623)",
+  "solr_year_i": 2015
+}

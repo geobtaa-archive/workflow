@@ -1,0 +1,43 @@
+{
+  "uuid": "ccfc0be0-5312-4737-9a46-4897aa99a00e",
+  "dc_identifier_s": "ccfc0be0-5312-4737-9a46-4897aa99a00e",
+  "dc_title_s": "Reynoldsville, Pennsylvania, 1896",
+  "dc_description_s": "Reynoldsville, Jefferson Co., Pa., Sep. 1896. 1 map on 7 sheets : col. ; sheets 65 x 54 cm. . Scale approximately 1:600. 50 ft. to an in.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "JPEG",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Image",
+  "dc_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_creator_sm": "Sanborn Map Company",
+  "dc_subject_sm": [
+    "Fire insurance maps",
+    "Fire risk assessment",
+    "Real property"
+  ],
+  "dct_provenance_s": "Penn State",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/20697\",\"http://schema.org/downloadUrl\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/20697\"}",
+  "dct_isPartOf_sm": "Sanborn Fire Insurance Maps",
+  "dct_issued_s": "1896",
+  "dct_temporal_sm": [
+    "1896"
+  ],
+  "dct_spatial_sm": [
+    "Reynoldsville, Pennsylvania, United States",
+    "Jefferson County, Pennsylvania, United States",
+    "Pennsylvania, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/6255307"
+  ],
+  "layer_slug_s": "ccfc0be0-5312-4737-9a46-4897aa99a00e",
+  "layer_geom_type_s": "Paper Map",
+  "layer_modified_dt": "2018-3-12T23:22:38Z",
+  "centroid_s": "41.095205,-78.88698635",
+  "solr_geom": "ENVELOPE(-78.9026679, -78.8713048, 41.107973, 41.082437)",
+  "solr_year_i": 1896,
+  "thumbnail_path_ss": "https://collection1.libraries.psu.edu/utils/getthumbnail/collection/maps1/id/20697"
+}

@@ -1,0 +1,39 @@
+{
+  "uuid": "a8813c4d05fe4edfa931517eeeebcd31_19",
+  "dc_identifier_s": "a8813c4d05fe4edfa931517eeeebcd31_19",
+  "dc_title_s": "Overlay Zones: Washington, D.C.",
+  "dc_description_s": "Overlay Districts are a zoning designation that modifies the basic underlying designation in some specific manner; this is what the Overlay polygons in the Zoning map represent. All DC GIS data is stored and exported in Maryland State Plane coordinates NAD 83 meters. This layer contains complete theoretical address ranges. METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral",
+    "Planning",
+    "Land use",
+    "Zoning",
+    "Development",
+    "Transfer of development rights"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/a8813c4d05fe4edfa931517eeeebcd31_19\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Planning_Landuse_and_Zoning_WebMercator/MapServer/19\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/a8813c4d05fe4edfa931517eeeebcd31_19.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015",
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "a8813c4d05fe4edfa931517eeeebcd31_19",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T20:30:13Z",
+  "centroid_s": "38.91978523635,-77.0145820014",
+  "solr_geom": "ENVELOPE(-77.101649354, -76.9275146488, 38.9761355846, 38.8634348881)",
+  "solr_year_i": 2015
+}

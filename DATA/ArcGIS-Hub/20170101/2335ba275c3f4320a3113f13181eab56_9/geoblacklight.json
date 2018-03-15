@@ -1,0 +1,35 @@
+{
+  "uuid": "2335ba275c3f4320a3113f13181eab56_9",
+  "dc_identifier_s": "2335ba275c3f4320a3113f13181eab56_9",
+  "dc_title_s": "Pharmacy Locations: Washington, D.C.",
+  "dc_description_s": "Pharmacies licensed in the District of Columbia as of November 4 For more information on pharmaceutical licensingdc.gov. Search for Pharmaceutical Control Division.This dataset was created as part of the DC Geographic Information System (DC GIS) for the D.C. Office of the Chief Technology Officer (OCTO) and the D.C. Department of Health. A database provided by the D.C. Department of Health (Health Regulation and Licensing Administration",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Location",
+    "Business"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/2335ba275c3f4320a3113f13181eab56_9\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Business_and_Economic_Development_WebMercator/MapServer/9\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/2335ba275c3f4320a3113f13181eab56_9.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015",
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "2335ba275c3f4320a3113f13181eab56_9",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T20:31:26Z",
+  "centroid_s": "38.9142559775,-77.0226287094",
+  "solr_geom": "ENVELOPE(-77.0978261369, -76.9474312819, 38.9695236151, 38.8589883399)",
+  "solr_year_i": 2015
+}

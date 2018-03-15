@@ -1,0 +1,37 @@
+{
+  "uuid": "4b41037f62bd44b5bd9fb3932ad13ae9_8",
+  "dc_identifier_s": "4b41037f62bd44b5bd9fb3932ad13ae9_8",
+  "dc_title_s": "Michigan DNR Designated ORV Routes: Michigan",
+  "dc_description_s": "Designated ORV Routes (Off-Road Vehicles) are the trails specifically designated for ORV, ATV, or Motorcycle Use.  The trails are located on State, Federal, County, Local, and Private Lands.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "State of Michigan"
+  ],
+  "dc_creator_sm": "Minnesota Department of Natural Resources",
+  "dc_subject_sm": [
+    "Environment",
+    "Society"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://hub.arcgis.com/datasets/4b41037f62bd44b5bd9fb3932ad13ae9_8\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services3.arcgis.com/Jdnp1TjADvSDxMAX/ArcGIS/rest/services/open_Trails/FeatureServer/8\",\"http://schema.org/downloadUrl\":\"https://hub.arcgis.com/datasets/4b41037f62bd44b5bd9fb3932ad13ae9_8.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015-05-23",
+  "dct_spatial_sm": [
+    "Michigan, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5001836"
+  ],
+  "thumbnail_path_ss": "https://services3.arcgis.com/Jdnp1TjADvSDxMAX/ArcGIS/rest/services/open_Trails/FeatureServer/info/thumbnail",
+  "layer_slug_s": "4b41037f62bd44b5bd9fb3932ad13ae9_8",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T22:6:53Z",
+  "centroid_s": "44.918,-86.3116",
+  "solr_geom": "ENVELOPE(-90.5436, -82.0796, 48.1903, 41.6457)",
+  "solr_year_i": 2015
+}

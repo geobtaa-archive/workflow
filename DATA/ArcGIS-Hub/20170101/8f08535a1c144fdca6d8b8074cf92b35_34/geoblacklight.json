@@ -1,0 +1,34 @@
+{
+  "uuid": "8f08535a1c144fdca6d8b8074cf92b35_34",
+  "dc_identifier_s": "8f08535a1c144fdca6d8b8074cf92b35_34",
+  "dc_title_s": "Great Streets Grantees: Washington, D.C.",
+  "dc_description_s": "Grant and grantee information at https://greatstreets.dc.gov/ and https://greatstreets.dc.gov/service/grantees-corner.In 2006, Great Streets began as a three-prong, commercial revitalization initiative to transform emerging corridors throughout the District of Columbia into thriving and inviting neighborhood centers. Led by the Office of the Deputy Mayor for Planning and Economic Development (DMPED) in conjunction with the Office of Planning (OP) and the District Department of Transportation (DDOT), Great Streets has grown into a multi-year, multi-agency program that utilizes public actions and resources to leverage private investment in retail, office space, housing, and cultural facilities across the District.The Government of the District of Columbia through the Office of the Deputy Mayor for Planning and Economic Development (DMPED) administers the Great Streets Retail Small Business Reimbursement Grants, which are competitive grants of up to $50,000 for qualified small business owners who wish to improve their place of business. The purpose of the grant program is to support existing small businesses, attract new businesses, increase the District's tax base, create new job opportunities for District residents, and transform emerging commercial corridors into thriving and inviting neighborhood centers.If you would like to be added to the Great Streets email list to receive updates about small business opportunities in the District of Columbia, please email us at greatstreets@dc.gov.Visit http://greatstreets.dc.gov/ for more information.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/8f08535a1c144fdca6d8b8074cf92b35_34\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Business_and_Economic_Development_WebMercator/MapServer/34\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/8f08535a1c144fdca6d8b8074cf92b35_34.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2017",
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "8f08535a1c144fdca6d8b8074cf92b35_34",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T20:40:9Z",
+  "centroid_s": "38.9052,-76.99575",
+  "solr_geom": "ENVELOPE(-77.066, -76.9255, 38.9785, 38.8319)",
+  "solr_year_i": 2017
+}

@@ -1,0 +1,38 @@
+{
+  "uuid": "c91acab458b945119419200a08843b8e_2",
+  "dc_identifier_s": "c91acab458b945119419200a08843b8e_2",
+  "dc_title_s": "Shellfish - Oyster Plantings (2000 to Present): Maryland",
+  "dc_description_s": "This is a MD iMAP hosted service. Find more information at http://imap.maryland.gov. This file was created for MDNR planning purposes, specifically for the purpose of tracking the Department's restoration efforts. Historic planting information (prior to the year 2000) can be found in a separate layer. (Bayplantings)Last Updated: 10/2014",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Maryland iMap"
+  ],
+  "dc_subject_sm": [
+    "Biota"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/c91acab458b945119419200a08843b8e_2\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://geodata.md.gov/imap/rest/services/Biota/MD_Shellfish/FeatureServer/2\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/c91acab458b945119419200a08843b8e_2.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016",
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "dct_spatial_sm": [
+    "Maryland, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4361885"
+  ],
+  "thumbnail_path_ss": "https://geodata.md.gov/imap/rest/services/Biota/MD_Shellfish/FeatureServer/info/thumbnail",
+  "layer_slug_s": "c91acab458b945119419200a08843b8e_2",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T21:15:54Z",
+  "centroid_s": "38.5732,-76.33745",
+  "solr_geom": "ENVELOPE(-76.9789, -75.696, 39.2079, 37.9385)",
+  "solr_year_i": 2000
+}

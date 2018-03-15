@@ -1,0 +1,45 @@
+{
+  "uuid": "06af6a03-de15-4031-8ac1-c5f54f4f107d",
+  "dc_identifier_s": "06af6a03-de15-4031-8ac1-c5f54f4f107d",
+  "dc_title_s": "Jermyn, Pennsylvania, 1912",
+  "dc_description_s": "Insurance maps of Jermyn, including Mayfield, Lackawanna County, Pennsylvania, June 1912. 1 map on 14 sheets : col. ; sheets 65 x 54 cm. . Scale approximately 1:600. 50 ft. to an in.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "JPEG",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Image",
+  "dc_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_creator_sm": "Sanborn Map Company",
+  "dc_subject_sm": [
+    "Fire insurance maps",
+    "Fire risk assessment",
+    "Real property"
+  ],
+  "dct_provenance_s": "Penn State",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/11861\",\"http://schema.org/downloadUrl\":\"http://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/11861\"}",
+  "dct_isPartOf_sm": "Sanborn Fire Insurance Maps",
+  "dct_issued_s": "1912",
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "dct_spatial_sm": [
+    "Jermyn, Pennsylvania, United States",
+    "Mayfield, Pennsylvania, United States",
+    "Lackawanna County, Pennsylvania, United States",
+    "Pennsylvania, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5196674",
+    "http://sws.geonames.org/6254927"
+  ],
+  "layer_slug_s": "06af6a03-de15-4031-8ac1-c5f54f4f107d",
+  "layer_geom_type_s": "Scanned Map",
+  "layer_modified_dt": "2018-3-9T18:52:37Z",
+  "centroid_s": "41.53458085,-75.52897905",
+  "solr_geom": "ENVELOPE(-75.55743, -75.5005281, 41.5540808, 41.5150809)",
+  "solr_year_i": 1912,
+  "thumbnail_path_ss": "http://collection1.libraries.psu.edu/utils/getthumbnail/collection/maps1/id/11861"
+}

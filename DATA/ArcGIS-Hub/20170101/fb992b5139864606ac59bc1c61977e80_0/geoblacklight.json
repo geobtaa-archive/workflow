@@ -1,0 +1,38 @@
+{
+  "uuid": "fb992b5139864606ac59bc1c61977e80_0",
+  "dc_identifier_s": "fb992b5139864606ac59bc1c61977e80_0",
+  "dc_title_s": "Archived Protected Lands Acquisitions - Rural Legacy 2007 Land Acquisitions General: Maryland",
+  "dc_description_s": "This is a MD iMAP hosted service. Find more information on http://imap.maryland.gov. The Rural Legacy Program provides the focus and funding necessary to protect large, contiguous tracts of land and other strategic areas from sprawl development and to enhance natural resource, agricultural, forestry and environmental protection through cooperative efforts among state and local governments and land trusts. Protection is provided through the acquisition of easements and fee estates from willing landowners and the supporting activities of Rural Legacy Sponsors and local governments. This file consists of properties that have been protected using Rural Legacy funds. In the case of a project with multiple parcels, the Identify results will indicate the total acreage and BPW amount for the project. Hence, you will see the same acreage, BPW amount and TEA result for each part of the project.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Maryland iMap"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/fb992b5139864606ac59bc1c61977e80_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://archive.geodata.md.gov/imap/rest/services/Environment/MD_ArchivedProtectedLandsAcquisitions/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/fb992b5139864606ac59bc1c61977e80_0.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016",
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "dct_spatial_sm": [
+    "Maryland, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4361885"
+  ],
+  "thumbnail_path_ss": "https://archive.geodata.md.gov/imap/rest/services/Environment/MD_ArchivedProtectedLandsAcquisitions/FeatureServer/info/thumbnail",
+  "layer_slug_s": "fb992b5139864606ac59bc1c61977e80_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T21:15:31Z",
+  "centroid_s": "38.89005,-77.37365",
+  "solr_geom": "ENVELOPE(-79.3289, -75.4184, 39.7193, 38.0608)",
+  "solr_year_i": 2007
+}

@@ -1,0 +1,37 @@
+{
+  "uuid": "57e776746bd3425282be2b59f801fc38_5",
+  "dc_identifier_s": "57e776746bd3425282be2b59f801fc38_5",
+  "dc_title_s": "Five-Year Program: 2019 Highways: Iowa",
+  "dc_description_s": "The Program contains the primary and interstate highway construction related investments planned for fiscal year (FY) 2019. To view the Program, visit the Iowa DOT s Program Management website. In general, contracts awarded during a fiscal year are constructed during the corresponding calendar year. This serves as the long range program for the primary road system and the annual accomplishment program as required by Iowa Code 307A.2(12). Created in June 2017.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Iowa Department of Transportation"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Iowa",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://public-iowadot.opendata.arcgis.com/datasets/57e776746bd3425282be2b59f801fc38_5\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://gis.iowadot.gov/public/rest/services/Program_Management/5_Year_Program/FeatureServer/5\",\"http://schema.org/downloadUrl\":\"http://public-iowadot.opendata.arcgis.com/datasets/57e776746bd3425282be2b59f801fc38_5.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015-12-09",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "dct_spatial_sm": [
+    "Iowa, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4862182"
+  ],
+  "layer_slug_s": "57e776746bd3425282be2b59f801fc38_5",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T21:21:52Z",
+  "centroid_s": "42.0429,-93.3108",
+  "solr_geom": "ENVELOPE(-96.522, -90.0996, 43.5005, 40.5853)",
+  "solr_year_i": 2019
+}

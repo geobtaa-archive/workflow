@@ -1,0 +1,38 @@
+{
+  "uuid": "b41551f53345445fa05b554cd77b3732_0",
+  "dc_identifier_s": "b41551f53345445fa05b554cd77b3732_0",
+  "dc_title_s": "Real Property: Baltimore, Maryland",
+  "dc_description_s": "This dataset represents the City of Baltimore parcel boundaries, with ownership, address, vaulation and other property information.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Baltimore, Maryland"
+  ],
+  "dc_creator_sm": "City of Baltimore, Maryland",
+  "dc_subject_sm": [
+    "Economy"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gis-baltimore.opendata.arcgis.com/datasets/b41551f53345445fa05b554cd77b3732_0\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.baltimorecity.gov/egis/rest/services/opengisdata/real_property/MapServer/0\",\"http://schema.org/downloadUrl\":\"https://gis-baltimore.opendata.arcgis.com/datasets/b41551f53345445fa05b554cd77b3732_0.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015-07-07",
+  "dct_spatial_sm": [
+    "Baltimore, Maryland, United States",
+    "Maryland, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4347778",
+    "http://sws.geonames.org/4361885"
+  ],
+  "thumbnail_path_ss": "https://gis.baltimorecity.gov/egis/rest/services/opengisdata/real_property/MapServer/info/thumbnail",
+  "layer_slug_s": "b41551f53345445fa05b554cd77b3732_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T21:3:45Z",
+  "centroid_s": "39.284878,-76.6204845",
+  "solr_geom": "ENVELOPE(-76.712018, -76.528951, 39.372553, 39.197203)",
+  "solr_year_i": 2015
+}

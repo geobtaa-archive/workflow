@@ -1,0 +1,35 @@
+{
+  "uuid": "f4c303e7e418488a9df98855cb40cfff_3",
+  "dc_identifier_s": "f4c303e7e418488a9df98855cb40cfff_3",
+  "dc_title_s": "Airport Part 77 Surfaces - Transitional (Precision): Iowa",
+  "dc_description_s": "7:1 side slope off the precision approach slope.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Iowa Department of Transportation"
+  ],
+  "dc_creator_sm": "Iowa DOT GIS Services",
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Iowa",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://public-iowadot.opendata.arcgis.com/datasets/f4c303e7e418488a9df98855cb40cfff_3\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://gis.iowadot.gov/public/rest/services/Aviation/Airport_Part77_Surfaces/FeatureServer/3\",\"http://schema.org/downloadUrl\":\"https://public-iowadot.opendata.arcgis.com/datasets/f4c303e7e418488a9df98855cb40cfff_3.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016-06-16",
+  "dct_spatial_sm": [
+    "Iowa, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4862182"
+  ],
+  "layer_slug_s": "f4c303e7e418488a9df98855cb40cfff_3",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T22:11:46Z",
+  "centroid_s": "41.85525,-93.42935",
+  "solr_geom": "ENVELOPE(-96.6, -90.2587, 43.2953, 40.4152)",
+  "solr_year_i": 2016
+}

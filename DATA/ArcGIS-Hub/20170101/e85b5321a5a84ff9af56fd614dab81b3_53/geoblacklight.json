@@ -1,0 +1,51 @@
+{
+  "uuid": "e85b5321a5a84ff9af56fd614dab81b3_53",
+  "dc_identifier_s": "e85b5321a5a84ff9af56fd614dab81b3_53",
+  "dc_title_s": "Metro Bus Stops: Washington, D.C.",
+  "dc_description_s": "This dataset represents Washington Metropolitan Area Transit Authority (WMATA) Regional Bus Stop locations (permanent and temporary). The dataset includes bus stop identification All WMATA GIS data is stored and exported in WMATA LDP NAD 1983 [NSRS2007] US Feet.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Location",
+    "Mass transit",
+    "Rail transit",
+    "Canopy",
+    "Parapet",
+    "WMATA",
+    "Bus route",
+    "Metro",
+    "Commute",
+    "Transit",
+    "Public transportation",
+    "Conservation",
+    "Bus stop",
+    "Subway",
+    "Bus line",
+    "Washington Metropolitan Area Transit Authority",
+    "Commute",
+    "Metro"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/e85b5321a5a84ff9af56fd614dab81b3_53\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Transportation_WebMercator/MapServer/53\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/e85b5321a5a84ff9af56fd614dab81b3_53.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015",
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "e85b5321a5a84ff9af56fd614dab81b3_53",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T20:29:39Z",
+  "centroid_s": "38.895,-77.036",
+  "solr_geom": "ENVELOPE(-77.176, -76.896, 39.035, 38.755)",
+  "solr_year_i": 2015
+}

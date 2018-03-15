@@ -1,0 +1,34 @@
+{
+  "uuid": "d6b2e23ce17f4264b0f7f46c48d03dd8_0",
+  "dc_identifier_s": "d6b2e23ce17f4264b0f7f46c48d03dd8_0",
+  "dc_title_s": "Maintenance District Boundaries: Iowa",
+  "dc_description_s": "Maintenance District Boundaries generated from the county-based district boundary layer and adjusted to match the road network based on which region is maintaining that area of the network.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Iowa Department of Transportation"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Iowa",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://public-iowadot.opendata.arcgis.com/datasets/d6b2e23ce17f4264b0f7f46c48d03dd8_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://gis.iowadot.gov/public/rest/services/Maintenance/Maintenance_District_Boundary/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://public-iowadot.opendata.arcgis.com/datasets/d6b2e23ce17f4264b0f7f46c48d03dd8_0.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016-06-16",
+  "dct_spatial_sm": [
+    "Iowa, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4862182"
+  ],
+  "layer_slug_s": "d6b2e23ce17f4264b0f7f46c48d03dd8_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T21:21:32Z",
+  "centroid_s": "41.9437,-93.36865",
+  "solr_geom": "ENVELOPE(-96.6779, -90.0594, 43.5411, 40.3463)",
+  "solr_year_i": 2016
+}

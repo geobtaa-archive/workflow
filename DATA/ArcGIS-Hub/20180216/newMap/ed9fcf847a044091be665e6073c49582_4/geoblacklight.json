@@ -1,0 +1,37 @@
+{
+  "uuid": "ed9fcf847a044091be665e6073c49582_4",
+  "dc_identifier_s": "ed9fcf847a044091be665e6073c49582_4",
+  "dc_title_s": "Topo Quad Boundaries: Michigan",
+  "dc_description_s": "The 1:24,000-scale (24K) U.S. Geological Survey (USGS) quadrangle boundary data set contains the following information. (1) The approximate boundaries of the various 24K USGS quadrangles. (2) The names and indexing codes associated with each 24K quadrangle.Topo Quads Metadata",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "State of Michigan"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://hub.arcgis.com/datasets/ed9fcf847a044091be665e6073c49582_4\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gisago.mcgi.state.mi.us/arcgis/rest/services/OpenData/elevation/MapServer/4\",\"http://schema.org/downloadUrl\":\"https://hub.arcgis.com/datasets/ed9fcf847a044091be665e6073c49582_4.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015-03-03",
+  "dct_spatial_sm": [
+    "Michigan, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5001836"
+  ],
+  "layer_slug_s": "ed9fcf847a044091be665e6073c49582_4",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T20:47:15Z",
+  "centroid_s": "44.9781,-86.32395",
+  "solr_geom": "ENVELOPE(-90.6567, -81.9912, 48.3986, 41.5576)",
+  "solr_year_i": 2015
+}

@@ -1,0 +1,37 @@
+{
+  "uuid": "79cbb40ab593414e860beab78adb9952_25",
+  "dc_identifier_s": "79cbb40ab593414e860beab78adb9952_25",
+  "dc_title_s": "Strategic Neighborhood Investment Program Areas: Washington, D.C.",
+  "dc_description_s": "Strategic Neighborhood Investment Program (SNIP) - A targeted investment policy wherein priority District neighborhoods or locations receive a series of comprehensive public actions or funds to complement and/or catalyze private sector investment",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": "District of Columbia GIS Program",
+  "dc_subject_sm": [
+    "Economy",
+    "Business",
+    "Neighborhood"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.dc.gov/datasets/79cbb40ab593414e860beab78adb9952_25\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Business_and_Economic_Development_WebMercator/MapServer/25\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/79cbb40ab593414e860beab78adb9952_25.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015",
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "79cbb40ab593414e860beab78adb9952_25",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T20:45:58Z",
+  "centroid_s": "38.90398211445,-76.99133823815",
+  "solr_geom": "ENVELOPE(-77.0368461021, -76.9458303742, 38.9846760735, 38.8232881554)",
+  "solr_year_i": 2015
+}
