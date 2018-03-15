@@ -1,0 +1,38 @@
+{
+  "uuid": "bd1890488c344537bea50eb2faf8ab80_0",
+  "dc_identifier_s": "bd1890488c344537bea50eb2faf8ab80_0",
+  "dc_title_s": "OC USDA Hardiness Zones: Oakland County, Michigan",
+  "dc_description_s": "Growers can determine which plants are most likely to thrive at a location. The map is based on the average annual minimum winter temperature, divided into 10-degree F zones.Plant Hardiness Zones derived the'USDA. Data generalized by Oakland County IT/GIS for viewing at larger scales.From the USDA:USDA Plant Hardiness Zone MapThe 2012 USDA Plant Hardiness Zone Map is the standard by which gardeners and growers can determine which plants are most likely to thrive at a location. The map is based on the average annual minimum winter temperature, divided into 10-degree F zones.More information can be found here: http://planthardiness.ars.usda.gov/PHZMWeb/About.aspx",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Oakland County, Michigan"
+  ],
+  "dc_subject_sm": [
+    "Farming",
+    "Climatology, Meteorology and Atmosphere"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://accessoakland.oakgov.com/datasets/bd1890488c344537bea50eb2faf8ab80_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/GE4Idg9FL97XBa3P/arcgis/rest/services/USDA_Generalized_HardinessZones/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://accessoakland.oakgov.com/datasets/bd1890488c344537bea50eb2faf8ab80_0.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016-06-16",
+  "dct_spatial_sm": [
+    "Oakland County, Michigan, United States",
+    "Michigan, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5004223",
+    "http://sws.geonames.org/5001836"
+  ],
+  "thumbnail_path_ss": "https://services1.arcgis.com/GE4Idg9FL97XBa3P/arcgis/rest/services/USDA_Generalized_HardinessZones/FeatureServer/info/thumbnail",
+  "layer_slug_s": "bd1890488c344537bea50eb2faf8ab80_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T21:21:13Z",
+  "centroid_s": "42.5352869745815,-83.6046627814404",
+  "solr_geom": "ENVELOPE(-85.43334431118276, -81.7759812516981, 43.679950056352844, 41.390623892810126)",
+  "solr_year_i": 2016
+}

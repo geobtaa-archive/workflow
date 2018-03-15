@@ -1,0 +1,39 @@
+{
+  "uuid": "895ddaaa080c472b8cda2d1ae22d153b_0",
+  "dc_identifier_s": "895ddaaa080c472b8cda2d1ae22d153b_0",
+  "dc_title_s": "Roadway Mile Markers - Roadway Mile Markers: Maryland",
+  "dc_description_s": "This is a MD iMAP hosted service layer. Find more information at http://imap. maryland. gov. Point features which represent the locations of mile marker signs along public roadways in the State of Maryland. Roadway Mile Markers data is developed as part of the Highway Performance Monitoring System (HPMS) which maintains and reports transportation related information to the Federal Highway Administration (FHWA) on an annual basis. HPMS is maintained by the Maryland Department of Transportation State Highway Administration (MDOT SHA), under the Office of Planning and Preliminary Engineering (OPPE) Data Services Division (DSD). This data is used by various modules throughout MDOT, as well as many other State and local government agencies for purposes such as planning, land use, transportation, data asset collection. Roadway Mile Markers data is published on an annual (yearly) basis for the prior year. This data is for the year 2015. Last Updated: 07/2016For additional information, contact the MDOT SHA Geospatial Technologies Team:GIS@sha. state. md. usFor additional information related to the Maryland Department of Transportation (MDOT):http://www. mdot. maryland. gov/ For additional information related to the Maryland Department of Transportation State Highway Administration (MDOT SHA):http://www. roads. maryland. gov/Home. aspx MDOT SHA Geospatial Data Legal Disclaimer:The Maryland Department of Transportation State Highway Administration (MDOT SHA) makes no warranty, expressed or implied, as to the use or appropriateness of geospatial data, and there are no warranties of merchantability or fitness for a particular purpose or use. The information contained in geospatial data is from publicly available sources, but no representation is made as to the accuracy or completeness of geospatial data. MDOT SHA shall not be subject to liability for human error, error due to software conversion, defect, or failure of machines, or any material used in the connection with the machines, including tapes, disks, CD-ROMs or DVD-ROMs and energy. MDOT SHA shall not be liable for any lost profits, consequential damages, or claims against MDOT SHA by third parties.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dc_creator_sm": "Maryland iMap",
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.imap.maryland.gov/datasets/895ddaaa080c472b8cda2d1ae22d153b_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://geodata.md.gov/imap/rest/services/Transportation/MD_RoadwayMileMarkers/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"https://data.imap.maryland.gov/datasets/895ddaaa080c472b8cda2d1ae22d153b_0.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2017-08-25",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "Maryland, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4361885"
+  ],
+  "thumbnail_path_ss": "https://geodata.md.gov/imap/rest/services/Transportation/MD_RoadwayMileMarkers/FeatureServer/info/thumbnail",
+  "layer_slug_s": "895ddaaa080c472b8cda2d1ae22d153b_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T22:0:43Z",
+  "centroid_s": "38.8671,-77.2682",
+  "solr_geom": "ENVELOPE(-79.459, -75.0774, 39.72, 38.0142)",
+  "solr_year_i": 2015
+}

@@ -1,0 +1,37 @@
+{
+  "uuid": "dc9e1971f2064826b299bc26e0aaeca3_15",
+  "dc_identifier_s": "dc9e1971f2064826b299bc26e0aaeca3_15",
+  "dc_title_s": "Major Watersheds-Subbasins: Michigan",
+  "dc_description_s": "This data set depicts the drainage areas of 20 square miles or greater at geographic features such as the mouth of a river or the location of a USGS stream flow collection station. It is used to determine hydrologic parameters for determining a range of flows in watershed analysis.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "State of Michigan"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://hub.arcgis.com/datasets/dc9e1971f2064826b299bc26e0aaeca3_15\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gisago.mcgi.state.mi.us/arcgis/rest/services/OpenData/hydro/MapServer/15\",\"http://schema.org/downloadUrl\":\"https://hub.arcgis.com/datasets/dc9e1971f2064826b299bc26e0aaeca3_15.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015-03-02",
+  "dct_spatial_sm": [
+    "Michigan, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5001836"
+  ],
+  "layer_slug_s": "dc9e1971f2064826b299bc26e0aaeca3_15",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T20:47:17Z",
+  "centroid_s": "44.72965,-86.3152",
+  "solr_geom": "ENVELOPE(-90.5583, -82.0721, 48.2616, 41.1977)",
+  "solr_year_i": 2015
+}

@@ -1,0 +1,42 @@
+{
+  "uuid": "29d27e70-d72c-40c4-b952-6e86c873441c",
+  "dc_identifier_s": "29d27e70-d72c-40c4-b952-6e86c873441c",
+  "dc_title_s": "Wilkes Barre, Pennsylvania, 1891",
+  "dc_description_s": "Wilkes Barre, Pennsylvania, 1891. 1 map on 55 sheets : col. ; sheets 65 x 54 cm. + title sheet. . Scale approximately 1:600. 50 ft. to an in.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "JPEG",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Image",
+  "dc_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_creator_sm": "Sanborn Map Company",
+  "dc_subject_sm": [
+    "Fire insurance maps",
+    "Fire risk assessment",
+    "Real property"
+  ],
+  "dct_provenance_s": "Penn State",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/23833\",\"http://schema.org/downloadUrl\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/23833\"}",
+  "dct_isPartOf_sm": "Sanborn Fire Insurance Maps",
+  "dct_issued_s": "1891",
+  "dct_temporal_sm": [
+    "1891"
+  ],
+  "dct_spatial_sm": [
+    "Wilkes Barre, Pennsylvania, United States",
+    "Pennsylvania, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/6255880"
+  ],
+  "layer_slug_s": "29d27e70-d72c-40c4-b952-6e86c873441c",
+  "layer_geom_type_s": "Paper Map",
+  "layer_modified_dt": "2018-3-12T23:23:16Z",
+  "centroid_s": "41.247331,-75.8760904",
+  "solr_geom": "ENVELOPE(-75.9257419, -75.8264389, 41.2729811, 41.2216809)",
+  "solr_year_i": 1891,
+  "thumbnail_path_ss": "https://collection1.libraries.psu.edu/utils/getthumbnail/collection/maps1/id/23833"
+}

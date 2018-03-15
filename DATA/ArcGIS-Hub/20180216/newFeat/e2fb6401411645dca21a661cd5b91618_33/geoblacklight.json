@@ -1,0 +1,36 @@
+{
+  "uuid": "e2fb6401411645dca21a661cd5b91618_33",
+  "dc_identifier_s": "e2fb6401411645dca21a661cd5b91618_33",
+  "dc_title_s": "Recreational Uses - Recreational Dive Fishing: Maryland",
+  "dc_description_s": "This is a MD iMAP hosted service layer. Find more information at http://imap.maryland.gov. As a member of the Mid-Atlantic Regional Council on the Ocean (MARCO), Maryland, through its Coastal Zone Management (CZM) Program is collecting information on how the public uses the Atlantic coast of Maryland. These baseline data will inform planning efforts being undertaken by the Maryland Department of Natural Recources to help develop a Maryland Ocean Plan. Collecting data on the variety of ways you use the Seaside Bays and Atlantic Ocean will help us plan for reducing use conflicts in our coastal waters, maximizing efficiency, and enhancing environmental and economic productivity. State and federally managed waters of Maryland and the U. S. are used in many ways: commercial fishing, aquaculture, shipping, military exercises, sand mining, habitat for wildlife, and recreation. With new and expanding coastal and ocean uses emerging such as energy production and increased shipping and considering Maryland coastal population is increasing, the pressure is mounting to ensure that there is space for both traditional and new uses and that conflicts are minimized. Some mapped human use data exist, but Maryland has limited recreational water use data for its Atlantic Coast and Coastal Bays. So basic data on how we use our coastal waters will be collected by inviting residents and experts to share their knowledge about recreational uses at workshops using geographical information systems technology. Last Updated: 7/1/2014",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dc_creator_sm": "Maryland iMap",
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.imap.maryland.gov/datasets/e2fb6401411645dca21a661cd5b91618_33\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://geodata.md.gov/imap/rest/services/Society/MD_RecreationalUses/FeatureServer/33\",\"http://schema.org/downloadUrl\":\"https://data.imap.maryland.gov/datasets/e2fb6401411645dca21a661cd5b91618_33.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016",
+  "dct_spatial_sm": [
+    "Maryland, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4361885"
+  ],
+  "thumbnail_path_ss": "https://geodata.md.gov/imap/rest/services/Society/MD_RecreationalUses/FeatureServer/info/thumbnail",
+  "layer_slug_s": "e2fb6401411645dca21a661cd5b91618_33",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T21:59:53Z",
+  "centroid_s": "38.0882,-74.66395",
+  "solr_geom": "ENVELOPE(-75.2447, -74.0832, 38.4512, 37.7252)",
+  "solr_year_i": 2016
+}

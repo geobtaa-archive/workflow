@@ -1,0 +1,39 @@
+{
+  "uuid": "a8eb3e26bfe546fcb97e6be8b64e2cfb_0",
+  "dc_identifier_s": "a8eb3e26bfe546fcb97e6be8b64e2cfb_0",
+  "dc_title_s": "Wooded Areas: Scott County, Minnesota",
+  "dc_description_s": "Wooded Areas within Scott County. This planimetric data was collected in 2003.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Scott County, Minnesota"
+  ],
+  "dc_subject_sm": [
+    "Environment"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.gis.co.scott.mn.us/datasets/a8eb3e26bfe546fcb97e6be8b64e2cfb_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/DqIh9WAsIZcPlBEF/arcgis/rest/services/Wooded_Areas/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://opendata.gis.co.scott.mn.us/datasets/a8eb3e26bfe546fcb97e6be8b64e2cfb_0.zip\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data",
+    "Minnesota Counties"
+  ],
+  "dct_issued_s": "2015-08-29",
+  "dct_spatial_sm": [
+    "Scott County, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5046749",
+    "http://sws.geonames.org/5037779"
+  ],
+  "layer_slug_s": "a8eb3e26bfe546fcb97e6be8b64e2cfb_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T21:17:29Z",
+  "centroid_s": "44.6778162837262,-93.5954234103782",
+  "solr_geom": "ENVELOPE(-93.91321995101463, -93.27762686974171, 44.8133009337009, 44.54233163375147)",
+  "solr_year_i": 2015
+}

@@ -1,0 +1,39 @@
+{
+  "uuid": "3cfdb871bf404c32a62935ca175c8faf_0",
+  "dc_identifier_s": "3cfdb871bf404c32a62935ca175c8faf_0",
+  "dc_title_s": "Parcel Property Scans: Washington, D.C.",
+  "dc_description_s": "Parcel property scanned images.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps",
+    "Parcels",
+    "Property",
+    "Real estate",
+    "Land",
+    "Planning"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/3cfdb871bf404c32a62935ca175c8faf_0\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/ParcelScan_WebMercator/MapServer/0\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/3cfdb871bf404c32a62935ca175c8faf_0.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016",
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "3cfdb871bf404c32a62935ca175c8faf_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T20:31:7Z",
+  "centroid_s": "38.89375,-77.01445",
+  "solr_geom": "ENVELOPE(-77.1199, -76.909, 38.996, 38.7915)",
+  "solr_year_i": 2016
+}

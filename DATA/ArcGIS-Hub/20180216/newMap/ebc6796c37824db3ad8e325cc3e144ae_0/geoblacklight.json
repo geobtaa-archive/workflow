@@ -1,0 +1,43 @@
+{
+  "uuid": "ebc6796c37824db3ad8e325cc3e144ae_0",
+  "dc_identifier_s": "ebc6796c37824db3ad8e325cc3e144ae_0",
+  "dc_title_s": "Parcels: Carlton County, Minnesota",
+  "dc_description_s": "Carlton County MN tax parcels. Tabular data is updated nightly and spatial updates are performed on an as needed basis.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Carlton County, Minnesota"
+  ],
+  "dc_creator_sm": "CarltonCountyGIS",
+  "dc_subject_sm": [
+    "Planning and Cadastral",
+    "Land ownership",
+    "Real property"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data-carltoncounty.opendata.arcgis.com/datasets/ebc6796c37824db3ad8e325cc3e144ae_0\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.co.carlton.mn.us/arcgis/rest/services/OpenData/Parcels_CarltonCountyMN/MapServer/0\",\"http://schema.org/downloadUrl\":\"https://data-carltoncounty.opendata.arcgis.com/datasets/ebc6796c37824db3ad8e325cc3e144ae_0.zip\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data",
+    "Minnesota Counties"
+  ],
+  "dct_issued_s": "2017-02-14",
+  "dct_spatial_sm": [
+    "Carlton County, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5020429",
+    "http://sws.geonames.org/5037779"
+  ],
+  "thumbnail_path_ss": "https://gis.co.carlton.mn.us/arcgis/rest/services/OpenData/Parcels_CarltonCountyMN/MapServer/info/thumbnail",
+  "layer_slug_s": "ebc6796c37824db3ad8e325cc3e144ae_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T20:47:56Z",
+  "centroid_s": "46.5931,-92.67755",
+  "solr_geom": "ENVELOPE(-93.0653, -92.2898, 46.7691, 46.4171)",
+  "solr_year_i": 2017
+}

@@ -1,0 +1,39 @@
+{
+  "uuid": "3089fba695824861834c205a81eefda5_55",
+  "dc_identifier_s": "3089fba695824861834c205a81eefda5_55",
+  "dc_title_s": "Memorials in DC: Washington, D.C.",
+  "dc_description_s": "The Chief Technology Office (OCTO) has captured locations for many of the District of Columbia's memorials including statues DC's cultural and memorial treasures are many and therefore this dataset should not be considered a complete list.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": "District of Columbia GIS Program",
+  "dc_subject_sm": [
+    "Locations",
+    "Historic",
+    "Cultural",
+    "Cultural",
+    "Arts"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.dc.gov/datasets/3089fba695824861834c205a81eefda5_55\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Cultural_and_Society_WebMercator/MapServer/55\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/3089fba695824861834c205a81eefda5_55.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015",
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "3089fba695824861834c205a81eefda5_55",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T20:46:40Z",
+  "centroid_s": "38.9095,-77.02895",
+  "solr_geom": "ENVELOPE(-77.0904, -76.9675, 38.9536, 38.8654)",
+  "solr_year_i": 2015
+}

@@ -1,0 +1,43 @@
+{
+  "uuid": "b65bce86-81ee-4250-94e4-eb50a665f5fe",
+  "dc_identifier_s": "b65bce86-81ee-4250-94e4-eb50a665f5fe",
+  "dc_title_s": "Sellersville, Pennsylvania, 1913",
+  "dc_description_s": "Sellersville, Bucks County, Pennsylvania, November 1913. 1 map on 6 sheets : col. ; sheets 65 x 54 cm. . Scale approximately 1:600. 50 ft. to an in.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "JPEG",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Image",
+  "dc_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_creator_sm": "Sanborn Map Company",
+  "dc_subject_sm": [
+    "Fire insurance maps",
+    "Fire risk assessment",
+    "Real property"
+  ],
+  "dct_provenance_s": "Penn State",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/24769\",\"http://schema.org/downloadUrl\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/24769\"}",
+  "dct_isPartOf_sm": "Sanborn Fire Insurance Maps",
+  "dct_issued_s": "1913",
+  "dct_temporal_sm": [
+    "1913"
+  ],
+  "dct_spatial_sm": [
+    "Sellersville, Pennsylvania, United States",
+    "Bucks County, Pennsylvania, United States",
+    "Pennsylvania, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/6255063"
+  ],
+  "layer_slug_s": "b65bce86-81ee-4250-94e4-eb50a665f5fe",
+  "layer_geom_type_s": "Paper Map",
+  "layer_modified_dt": "2018-3-12T23:23:16Z",
+  "centroid_s": "40.3593019,-75.3083134",
+  "solr_geom": "ENVELOPE(-75.3220148, -75.294612, 40.3696169, 40.3489869)",
+  "solr_year_i": 1913,
+  "thumbnail_path_ss": "https://collection1.libraries.psu.edu/utils/getthumbnail/collection/maps1/id/24769"
+}

@@ -1,0 +1,39 @@
+{
+  "uuid": "c7c2259a1a7d4bf4a7a9b34fc783e886_1",
+  "dc_identifier_s": "c7c2259a1a7d4bf4a7a9b34fc783e886_1",
+  "dc_title_s": "May Lease Auction Results Table: Michigan, 2017",
+  "dc_description_s": "Map Service for the 2017 May Lease Auction Interactive map and open data",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Michigan Department of Transportation"
+  ],
+  "dc_subject_sm": [
+    "Economy",
+    "Geoscientific Information"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://gis-mdot.opendata.arcgis.com/datasets/c7c2259a1a7d4bf4a7a9b34fc783e886_1\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services3.arcgis.com/Jdnp1TjADvSDxMAX/arcgis/rest/services/open_ogauction_2017_may/FeatureServer/1\",\"http://schema.org/downloadUrl\":\"http://gis-mdot.opendata.arcgis.com/datasets/c7c2259a1a7d4bf4a7a9b34fc783e886_1.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2017-08-31",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dct_spatial_sm": [
+    "Michigan, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5001836"
+  ],
+  "thumbnail_path_ss": "https://services3.arcgis.com/Jdnp1TjADvSDxMAX/arcgis/rest/services/open_ogauction_2017_may/FeatureServer/info/thumbnail",
+  "layer_slug_s": "c7c2259a1a7d4bf4a7a9b34fc783e886_1",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T21:22:46Z",
+  "centroid_s": "43.6461934581831,-84.6075044102306",
+  "solr_geom": "ENVELOPE(-85.46552963577646, -83.74947918468476, 45.184826115585366, 42.10756080078093)",
+  "solr_year_i": 2017
+}

@@ -1,0 +1,35 @@
+{
+  "uuid": "e1a974137d4b4100a5d8410e45273648_17",
+  "dc_identifier_s": "e1a974137d4b4100a5d8410e45273648_17",
+  "dc_title_s": "Snow Removal in the Last 30 Days: Washington, D.C.",
+  "dc_description_s": "Snow removal service requests in the last 30 days during the Winter season. As in other jurisdictions, public safety determines the priority for snow removal in the District. Clearing and salting efforts are focused first on major roads, commuter thoroughfares and designated Snow Emergency Routes.The District's Snow Team is committed to faster completion of plowing and salting along major roads and residential streets; residents are asked to please be patient and allow sufficient time for snow operations to be implemented.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": "District of Columbia GIS Program",
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.dc.gov/datasets/e1a974137d4b4100a5d8410e45273648_17\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_APPS/SR_30days_Open/MapServer/17\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/e1a974137d4b4100a5d8410e45273648_17.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015",
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "e1a974137d4b4100a5d8410e45273648_17",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T21:3:39Z",
+  "centroid_s": "38.895,-77.036",
+  "solr_geom": "ENVELOPE(-77.176, -76.896, 39.035, 38.755)",
+  "solr_year_i": 2015
+}

@@ -1,0 +1,40 @@
+{
+  "uuid": "96d49c0337bf48599d4cb454e088f408_0",
+  "dc_identifier_s": "96d49c0337bf48599d4cb454e088f408_0",
+  "dc_title_s": "Split Zoning: Scott County, Minnesota",
+  "dc_description_s": "Scott County Split Zoning. Zoning data falls into 1 of 12 categories:A-1 = Agricultural Preservation DistrictA-2 = Agricultural Woodlands DistrictA-3 = Agricultural Preservation Density DistrictC-1 = General Commercial DistrictI-1 = Rural Industrial DistrictRR-1 = Rural Residential Reserve DistrictRR-1C = Rural Residential Reserve Cluster DistrictRR-2 = Rural Residential Single Family DistrictRR-3 = Residential Suburban Single Family DistrictUBR = Urban Business Reserve DistrictUER = Urban Expansion Reserve DistrictUERC = Urban Expansion Reserve Cluster DistrictUTR = Urban Transition Reserve DistrictUTR-C = Urban Transition Reserve Cluster District",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Scott County, Minnesota"
+  ],
+  "dc_creator_sm": "Scott County Information Technology",
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.gis.co.scott.mn.us/datasets/96d49c0337bf48599d4cb454e088f408_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/DqIh9WAsIZcPlBEF/arcgis/rest/services/Split_Zoning/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"https://opendata.gis.co.scott.mn.us/datasets/96d49c0337bf48599d4cb454e088f408_0.zip\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data",
+    "Minnesota Counties"
+  ],
+  "dct_issued_s": "2016-08-10",
+  "dct_spatial_sm": [
+    "Scott County, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5046749",
+    "http://sws.geonames.org/5037779"
+  ],
+  "layer_slug_s": "96d49c0337bf48599d4cb454e088f408_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T22:6:5Z",
+  "centroid_s": "44.6655166296285,-93.584783413252",
+  "solr_geom": "ENVELOPE(-93.89458356569068, -93.27498326081356, 44.84336468840095, 44.48766857085602)",
+  "solr_year_i": 2016
+}

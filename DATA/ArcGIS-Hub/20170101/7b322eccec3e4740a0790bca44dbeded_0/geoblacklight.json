@@ -1,0 +1,35 @@
+{
+  "uuid": "7b322eccec3e4740a0790bca44dbeded_0",
+  "dc_identifier_s": "7b322eccec3e4740a0790bca44dbeded_0",
+  "dc_title_s": "Karst - Known and indicated karst locations of Ohio: Ohio",
+  "dc_description_s": "This data is to be used to locate known and indicated karst features, and to define the probable karst terranes.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Ohio Geographically Referenced Information Program"
+  ],
+  "dc_subject_sm": [
+    "Geoscientific Information"
+  ],
+  "dct_provenance_s": "Ohio",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/7b322eccec3e4740a0790bca44dbeded_0\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.ohiodnr.gov/arcgis/rest/services/DGS_Services/Karst_Geology_AGOL/MapServer/0\",\"http://schema.org/downloadUrl\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/7b322eccec3e4740a0790bca44dbeded_0.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2017-01-26",
+  "dct_spatial_sm": [
+    "Ohio, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5165418"
+  ],
+  "thumbnail_path_ss": "https://gis.ohiodnr.gov/arcgis/rest/services/DGS_Services/Karst_Geology_AGOL/MapServer/info/thumbnail",
+  "layer_slug_s": "7b322eccec3e4740a0790bca44dbeded_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T20:40:3Z",
+  "centroid_s": "40.2425,-82.675",
+  "solr_geom": "ENVELOPE(-85.037, -80.313, 42.296, 38.189)",
+  "solr_year_i": 2017
+}

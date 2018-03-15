@@ -1,0 +1,47 @@
+{
+  "uuid": "df49a3c2-4ee9-4919-82b5-c8704407eaa4",
+  "dc_identifier_s": "df49a3c2-4ee9-4919-82b5-c8704407eaa4",
+  "dc_title_s": "Turtle Creek Valley, Pennsylvania, 1906",
+  "dc_description_s": "Insurance maps of Turtle Creek Valley, including Pitcairn, Wall, Wilmerding, Turtle Creek, and East Pittsburg, Pennsylvania, May 1906. 1 map on 23 sheets : col. ; sheets 65 x 54 cm. . Scale approximately 1:600. 50 ft. to an in.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "JPEG",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Image",
+  "dc_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_creator_sm": "Sanborn Map Company",
+  "dc_subject_sm": [
+    "Fire insurance maps",
+    "Fire risk assessment",
+    "Real property"
+  ],
+  "dct_provenance_s": "Penn State",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/19467\",\"http://schema.org/downloadUrl\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/19467\"}",
+  "dct_isPartOf_sm": "Sanborn Fire Insurance Maps",
+  "dct_issued_s": "1906",
+  "dct_temporal_sm": [
+    "1906"
+  ],
+  "dct_spatial_sm": [
+    "Turtle Creek Valley, Pennsylvania, United States",
+    "Pitcairn, Pennsylvania, United States",
+    "Wall, Pennsylvania, United States",
+    "Wilmerding, Pennsylvania, United States",
+    "Turtle Creek, Pennsylvania, United States",
+    "East Pittsburgh, Pennsylvania, United States",
+    "Pennsylvania, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/6255752"
+  ],
+  "layer_slug_s": "df49a3c2-4ee9-4919-82b5-c8704407eaa4",
+  "layer_geom_type_s": "Paper Map",
+  "layer_modified_dt": "2018-3-12T23:22:38Z",
+  "centroid_s": "40.40418245,-79.80696895",
+  "solr_geom": "ENVELOPE(-79.84487, -79.7690679, 40.422596, 40.3857689)",
+  "solr_year_i": 1906,
+  "thumbnail_path_ss": "https://collection1.libraries.psu.edu/utils/getthumbnail/collection/maps1/id/19467"
+}

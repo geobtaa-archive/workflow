@@ -1,0 +1,36 @@
+{
+  "uuid": "78d7d5f08fe44a09ba980b71ca300e36_3",
+  "dc_identifier_s": "78d7d5f08fe44a09ba980b71ca300e36_3",
+  "dc_title_s": "Incentive Zones - BRAC Zones: Maryland",
+  "dc_description_s": "This is a MD iMAP hosted service. Find more information at http://imap.maryland.gov. The Maryland Department of Commerce (COMMERCE) identifies and maintains boundaries to identify designated areas of growth; provide local governments with financial assistance for public infrastructure in these well-defined areas and align other state resources and programs to local governments and businesses for a coordinated State effort on making the zones the focus of BRAC growth. Last Updated: 11/01/2013",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dc_creator_sm": "Maryland iMap",
+  "dc_subject_sm": [
+    "Economy"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.imap.maryland.gov/datasets/78d7d5f08fe44a09ba980b71ca300e36_3\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://geodata.md.gov/imap/rest/services/BusinessEconomy/MD_IncentiveZones/FeatureServer/3\",\"http://schema.org/downloadUrl\":\"https://data.imap.maryland.gov/datasets/78d7d5f08fe44a09ba980b71ca300e36_3.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016",
+  "dct_spatial_sm": [
+    "Maryland, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4361885"
+  ],
+  "thumbnail_path_ss": "https://geodata.md.gov/imap/rest/services/BusinessEconomy/MD_IncentiveZones/FeatureServer/info/thumbnail",
+  "layer_slug_s": "78d7d5f08fe44a09ba980b71ca300e36_3",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T22:0:52Z",
+  "centroid_s": "39.1615,-76.7768",
+  "solr_geom": "ENVELOPE(-77.4081, -76.1455, 39.5157, 38.8073)",
+  "solr_year_i": 2016
+}

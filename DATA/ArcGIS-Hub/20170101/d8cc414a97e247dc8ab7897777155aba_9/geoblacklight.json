@@ -1,0 +1,44 @@
+{
+  "uuid": "d8cc414a97e247dc8ab7897777155aba_9",
+  "dc_identifier_s": "d8cc414a97e247dc8ab7897777155aba_9",
+  "dc_title_s": "Moving Violations Summary: Washington, D.C., 2012",
+  "dc_description_s": "The Vision Zero data contained in this layer pertain to moving violations issued by the District of Columbia's Metropolitan Police Department (MPD) and partner agencies with the authority to do so. For example Locations of moving violations are identified from a database provided by the District Department of Motor Vehicles (DMV).The data is summarized by ticket counts based on time of day The summary form was created as a series of aggregated street segment data This is a temporal crosstab of violation types (defined below) by week and time of day (ranges defined below).Users are able to query by week to get a DC-wide yearly and weekly perspective on over 40 different combinations of violations. Create interesting street segment heat maps which can get quite specific to identify patterns and answer questions. For exampleField Definitions:Identification Weeknumber Week of Year",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Transportation",
+    "Society",
+    "Moving violations",
+    "Vision Zero",
+    "Public works",
+    "Police",
+    "Enforcement",
+    "Vision Zero"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/d8cc414a97e247dc8ab7897777155aba_9\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/ViolationsSummary/MapServer/9\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/d8cc414a97e247dc8ab7897777155aba_9.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016",
+  "dct_temporal_sm": [
+    "2012"
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "d8cc414a97e247dc8ab7897777155aba_9",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T20:29:44Z",
+  "centroid_s": "38.9042,-77.01305",
+  "solr_geom": "ENVELOPE(-77.1167, -76.9094, 38.9924, 38.816)",
+  "solr_year_i": 2012
+}

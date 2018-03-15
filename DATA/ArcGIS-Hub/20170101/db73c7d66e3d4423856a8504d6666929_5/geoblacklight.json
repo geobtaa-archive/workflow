@@ -1,0 +1,35 @@
+{
+  "uuid": "db73c7d66e3d4423856a8504d6666929_5",
+  "dc_identifier_s": "db73c7d66e3d4423856a8504d6666929_5",
+  "dc_title_s": "Shellfish - Oyster Sanctuaries: Maryland",
+  "dc_description_s": "This is a MD iMAP hosted service. Find more information at http://imap.maryland.gov. Polygon delineation of Maryland oyster sanctuaries. The document Oyster_Sanctuaries_of_the_Chespeake_Bay_and_Tidal_Tributaries_September 2010 is the source material for the features in this dataset. Section I of the document describes sanctuaries that were created prior to September 2010. Section II of the document describe sanctuaries that were created in September of 2010. Last Updated: 10/5/2012",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Maryland iMap"
+  ],
+  "dc_subject_sm": [
+    "Biota"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/db73c7d66e3d4423856a8504d6666929_5\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://geodata.md.gov/imap/rest/services/Biota/MD_Shellfish/FeatureServer/5\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/db73c7d66e3d4423856a8504d6666929_5.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016",
+  "dct_spatial_sm": [
+    "Maryland, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4361885"
+  ],
+  "thumbnail_path_ss": "https://geodata.md.gov/imap/rest/services/Biota/MD_Shellfish/FeatureServer/info/thumbnail",
+  "layer_slug_s": "db73c7d66e3d4423856a8504d6666929_5",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T21:15:46Z",
+  "centroid_s": "38.61835,-76.2532",
+  "solr_geom": "ENVELOPE(-76.822, -75.6844, 39.2737, 37.963)",
+  "solr_year_i": 2016
+}

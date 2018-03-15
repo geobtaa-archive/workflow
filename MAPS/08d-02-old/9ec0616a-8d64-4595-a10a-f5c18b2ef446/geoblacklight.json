@@ -1,0 +1,44 @@
+{
+  "uuid": "9ec0616a-8d64-4595-a10a-f5c18b2ef446",
+  "dc_identifier_s": "9ec0616a-8d64-4595-a10a-f5c18b2ef446",
+  "dc_title_s": "Hatboro, Pennsylvania, 1922",
+  "dc_description_s": "Hatboro, Montgomery County, Pennsylvania, September 1922. 1 map on 11 sheets : col. ; sheets 65 x 54 cm. + 1 title sheet. . Scale approximately 1:600. 50 ft. to an in. unless otherwise noted on individual sheets.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "JPEG",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Image",
+  "dc_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_creator_sm": "Sanborn Map Company",
+  "dc_subject_sm": [
+    "Fire insurance maps",
+    "Fire risk assessment",
+    "Real property"
+  ],
+  "dct_provenance_s": "Penn State",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/11039\",\"http://schema.org/downloadUrl\":\"http://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/11039\"}",
+  "dct_isPartOf_sm": "Sanborn Fire Insurance Maps",
+  "dct_issued_s": "1922",
+  "dct_temporal_sm": [
+    "1922"
+  ],
+  "dct_spatial_sm": [
+    "Hatboro, Pennsylvania, United States",
+    "Montgomery County, Pennsylvania, United States",
+    "Pennsylvania, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/201756",
+    "http://sws.geonames.org/6254927"
+  ],
+  "layer_slug_s": "9ec0616a-8d64-4595-a10a-f5c18b2ef446",
+  "layer_geom_type_s": "Scanned Map",
+  "layer_modified_dt": "2018-3-9T18:52:37Z",
+  "centroid_s": "40.1777064,-75.106606",
+  "solr_geom": "ENVELOPE(-75.123017, -75.090195, 40.1911039, 40.1643089)",
+  "solr_year_i": 1922,
+  "thumbnail_path_ss": "http://collection1.libraries.psu.edu/utils/getthumbnail/collection/maps1/id/11039"
+}

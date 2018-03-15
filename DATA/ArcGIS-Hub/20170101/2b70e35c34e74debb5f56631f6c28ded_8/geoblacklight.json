@@ -1,0 +1,35 @@
+{
+  "uuid": "2b70e35c34e74debb5f56631f6c28ded_8",
+  "dc_identifier_s": "2b70e35c34e74debb5f56631f6c28ded_8",
+  "dc_title_s": "Incentive Zones - Empowerment Zones: Maryland",
+  "dc_description_s": "This is a MD iMAP hosted service. Find more information at http://imap.maryland.gov. Introduced in 1993, the Empowerment Zone Initiative, along with Enterprise Community Initiative and Renewal Community Initiative, sought to reduce unemployment and generate economic growth through the designation of Federal tax incentives and award of grants to distressed communities. Local, Tribal and State government interested in participating in this program were required to present comprehensive plans that included the principles of: Strategic Visions for change, Community-Based Partnerships, Economic Opportunities and Sustainable Community Development. Communities selected to participate in this program embraced these principles and lef projects that promoted economic development in their distressed communities. Last Updated: 06/2014",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Maryland iMap"
+  ],
+  "dc_subject_sm": [
+    "Economy"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/2b70e35c34e74debb5f56631f6c28ded_8\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://geodata.md.gov/imap/rest/services/BusinessEconomy/MD_IncentiveZones/FeatureServer/8\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/2b70e35c34e74debb5f56631f6c28ded_8.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016",
+  "dct_spatial_sm": [
+    "Maryland, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4361885"
+  ],
+  "thumbnail_path_ss": "https://geodata.md.gov/imap/rest/services/BusinessEconomy/MD_IncentiveZones/FeatureServer/info/thumbnail",
+  "layer_slug_s": "2b70e35c34e74debb5f56631f6c28ded_8",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T21:17:9Z",
+  "centroid_s": "39.2707,-76.6092",
+  "solr_geom": "ENVELOPE(-76.6598, -76.5586, 39.3168, 39.2246)",
+  "solr_year_i": 2016
+}

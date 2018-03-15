@@ -1,0 +1,44 @@
+{
+  "uuid": "5543ccd321504cb484a7b618ea42999d_26",
+  "dc_identifier_s": "5543ccd321504cb484a7b618ea42999d_26",
+  "dc_title_s": "Potential Landmarks: Washington, D.C.",
+  "dc_description_s": "This dataset contains Historic Landmarks (by structure) officially designated by the District of Columbia. This is a consolidated collection of structures with historical significance within the District of Columbia as listed in the \"District of Columbia Inventory of Historic Sights\". It contains the locations and attributes of buildings Additional datasets are available of Historic Districts. The same records in this polygon-format dataset are also available in a point-format dataset.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": "District of Columbia GIS Program",
+  "dc_subject_sm": [
+    "Structure",
+    "Planning",
+    "Land use",
+    "Zoning",
+    "Historic preservation",
+    "Historic buildings",
+    "Historic",
+    "National Register",
+    "Historic structures",
+    "Historical designation"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.dc.gov/datasets/5543ccd321504cb484a7b618ea42999d_26\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Planning_Landuse_and_Zoning_WebMercator/MapServer/26\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/5543ccd321504cb484a7b618ea42999d_26.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015",
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "5543ccd321504cb484a7b618ea42999d_26",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T20:46:19Z",
+  "centroid_s": "38.9196861256,-76.9992996619",
+  "solr_geom": "ENVELOPE(-77.0826216286, -76.9159776952, 38.9773051975, 38.8620670537)",
+  "solr_year_i": 2015
+}

@@ -1,0 +1,35 @@
+{
+  "uuid": "647ca29870464c8783c6f4d408039eba_6",
+  "dc_identifier_s": "647ca29870464c8783c6f4d408039eba_6",
+  "dc_title_s": "Freight - Ethanol Plants: Iowa",
+  "dc_description_s": "This layer depicts the ethanol plants in the state. Note: not all of the plants have access to a railroad.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Iowa Department of Transportation"
+  ],
+  "dc_creator_sm": "Iowa DOT GIS Services",
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Iowa",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://public-iowadot.opendata.arcgis.com/datasets/647ca29870464c8783c6f4d408039eba_6\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://gis.iowadot.gov/public/rest/services/Systems_Planning/Freight/FeatureServer/6\",\"http://schema.org/downloadUrl\":\"https://public-iowadot.opendata.arcgis.com/datasets/647ca29870464c8783c6f4d408039eba_6.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016-06-15",
+  "dct_spatial_sm": [
+    "Iowa, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4862182"
+  ],
+  "layer_slug_s": "647ca29870464c8783c6f4d408039eba_6",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T22:10:52Z",
+  "centroid_s": "42.03885,-93.2082",
+  "solr_geom": "ENVELOPE(-96.2819, -90.1345, 43.4985, 40.5792)",
+  "solr_year_i": 2016
+}

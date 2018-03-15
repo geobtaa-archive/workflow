@@ -1,0 +1,39 @@
+{
+  "uuid": "833e2ef6bbbe4fc59defbec58f959dc9_2",
+  "dc_identifier_s": "833e2ef6bbbe4fc59defbec58f959dc9_2",
+  "dc_title_s": "Michigan DNR Forestry Site Conditions: Michigan",
+  "dc_description_s": "Michigan DNR Forestry Site Conditions",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "State of Michigan"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Environment",
+    "Economy"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://hub.arcgis.com/datasets/833e2ef6bbbe4fc59defbec58f959dc9_2\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services3.arcgis.com/Jdnp1TjADvSDxMAX/ArcGIS/rest/services/open_ForestInventory2/FeatureServer/2\",\"http://schema.org/downloadUrl\":\"https://hub.arcgis.com/datasets/833e2ef6bbbe4fc59defbec58f959dc9_2.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2017-01-20",
+  "dct_spatial_sm": [
+    "Michigan, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5001836"
+  ],
+  "thumbnail_path_ss": "https://services3.arcgis.com/Jdnp1TjADvSDxMAX/ArcGIS/rest/services/open_ForestInventory2/FeatureServer/info/thumbnail",
+  "layer_slug_s": "833e2ef6bbbe4fc59defbec58f959dc9_2",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T22:6:52Z",
+  "centroid_s": "45.4768,-86.03695",
+  "solr_geom": "ENVELOPE(-89.3864, -82.6875, 47.4739, 43.4797)",
+  "solr_year_i": 2017
+}

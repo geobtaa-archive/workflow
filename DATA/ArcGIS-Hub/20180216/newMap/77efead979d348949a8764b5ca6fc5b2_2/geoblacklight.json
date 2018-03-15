@@ -1,0 +1,38 @@
+{
+  "uuid": "77efead979d348949a8764b5ca6fc5b2_2",
+  "dc_identifier_s": "77efead979d348949a8764b5ca6fc5b2_2",
+  "dc_title_s": "Topography 10 Foot Contours: Washington, D.C.",
+  "dc_description_s": "10 foot contours. This dataset contains locations and attributes of 10-ft interval topography dataC. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies. In addition to the 2-ft contour data ancillary datasets containing an ESRI geodatabase of masspoints and breaklines. All DC GIS data is stored and exported in Maryland State Plane coordinates NAD 83 meters. METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": "District of Columbia GIS Program",
+  "dc_subject_sm": [
+    "Elevation",
+    "Topography",
+    "Contour",
+    "Breakline"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.dc.gov/datasets/77efead979d348949a8764b5ca6fc5b2_2\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Elevation_WebMercator/MapServer/2\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/77efead979d348949a8764b5ca6fc5b2_2.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015",
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "77efead979d348949a8764b5ca6fc5b2_2",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T20:45:59Z",
+  "centroid_s": "38.89964939885,-77.014380113",
+  "solr_geom": "ENVELOPE(-77.1194360235, -76.9093242025, 38.9957833206, 38.8035154771)",
+  "solr_year_i": 2015
+}

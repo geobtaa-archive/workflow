@@ -1,0 +1,37 @@
+{
+  "uuid": "83133feb396344a382802e49671228dc_0",
+  "dc_identifier_s": "83133feb396344a382802e49671228dc_0",
+  "dc_title_s": "Points Of Interest (HTTPS): Ohio",
+  "dc_description_s": "All Category/Type combinations for MORPC Points of Interest data, for 15-counties in Central Ohio, showing places of commercial activity, transportation, public places, hospitals, industrial (landfills, waste transfer stations, quarries, wastewater and water treatment), group quarters, government locations, and public places. Geography: 15 county Central Ohio region: Delaware, Fairfield, Fayette, Franklin, Hocking, Knox, Licking, Logan, Madison, Marion, Morrow, Perry, Pickaway, Ross, and Union Counties.Source: Sources vary by point category and type. Query source attribute on a specific point for more.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "State of Ohio"
+  ],
+  "dc_creator_sm": "Ohio Geographically Referenced Information Program",
+  "dc_subject_sm": [
+    "Economy",
+    "Location"
+  ],
+  "dct_provenance_s": "Ohio State",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://ogrip-geohio.opendata.arcgis.com/datasets/83133feb396344a382802e49671228dc_0\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://arcgiswebadp1.morpc.org/webadaptor/rest/services/poi/PointsOfInterest/MapServer/0\",\"http://schema.org/downloadUrl\":\"https://ogrip-geohio.opendata.arcgis.com/datasets/83133feb396344a382802e49671228dc_0.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2017-12-20",
+  "dct_spatial_sm": [
+    "Ohio, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5165418"
+  ],
+  "thumbnail_path_ss": "https://arcgiswebadp1.morpc.org/webadaptor/rest/services/poi/PointsOfInterest/MapServer/info/thumbnail",
+  "layer_slug_s": "83133feb396344a382802e49671228dc_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T21:3:48Z",
+  "centroid_s": "39.958,-83.06735",
+  "solr_geom": "ENVELOPE(-83.938, -82.1967, 40.7244, 39.1916)",
+  "solr_year_i": 2017
+}

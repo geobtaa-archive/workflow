@@ -1,0 +1,37 @@
+{
+  "uuid": "dab5051ee2e243e3a4a7a6fc9033325d_2",
+  "dc_identifier_s": "dab5051ee2e243e3a4a7a6fc9033325d_2",
+  "dc_title_s": "2010 Census Tracts, Indianapolis, Indiana",
+  "dc_description_s": "Polygon file representing the 2010 Census Tract boundaries in Marion County, IndianaData projection: NAD 1983 StatePlane Indiana East FIPS 1301 (US Feet)",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Indianapolis-Marion County"
+  ],
+  "dc_creator_sm": "City of Indianapolis-Marion County",
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "dct_provenance_s": "Indiana",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data1-indygis.opendata.arcgis.com/datasets/dab5051ee2e243e3a4a7a6fc9033325d_2\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://imaps.indy.gov/arcgis/rest/services/OpenData_PlanningZoning/MapServer/2\",\"http://schema.org/downloadUrl\":\"https://data1-indygis.opendata.arcgis.com/datasets/dab5051ee2e243e3a4a7a6fc9033325d_2.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015-11-24",
+  "dct_spatial_sm": [
+    "Indianapolis, Indiana, United States",
+    "State of Indiana, Indiana, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4259418",
+    "http://sws.geonames.org/4921868"
+  ],
+  "layer_slug_s": "dab5051ee2e243e3a4a7a6fc9033325d_2",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T20:47:31Z",
+  "centroid_s": "39.78,-86.1327",
+  "solr_geom": "ENVELOPE(-86.3291, -85.9363, 39.9278, 39.6322)",
+  "solr_year_i": 2016
+}

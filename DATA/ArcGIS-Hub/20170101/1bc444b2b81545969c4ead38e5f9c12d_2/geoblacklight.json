@@ -1,0 +1,38 @@
+{
+  "uuid": "1bc444b2b81545969c4ead38e5f9c12d_2",
+  "dc_identifier_s": "1bc444b2b81545969c4ead38e5f9c12d_2",
+  "dc_title_s": "OC Water Bodies and Swamps: Oakland County, Michigan",
+  "dc_description_s": "Water Area is a spatial representation of polygonal hydrography features (Stream/River over 8 feet wide, Lake/Pond, Canal/Ditch, Swamp/Marsh). This polygon feature class was originally derived from a line coverage that was stereo-compiled as part of the Oakland County Spring 2000 digital orthophotography project. Key attributes include the ReachCode and the GNISID as defined in the the National Hydrography Dataset (NHD). Previously called Waterbody. Note: Null Field values mean the Data is not Available or Not Researched.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Oakland County, Michigan"
+  ],
+  "dc_subject_sm": [
+    "Inland Waters",
+    "Environment"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://accessoakland.oakgov.com/datasets/1bc444b2b81545969c4ead38e5f9c12d_2\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gisservices.oakgov.com/arcgis/rest/services/Enterprise/EnterpriseHydrographyDataMapService/MapServer/2\",\"http://schema.org/downloadUrl\":\"http://accessoakland.oakgov.com/datasets/1bc444b2b81545969c4ead38e5f9c12d_2.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016-10-16",
+  "dct_spatial_sm": [
+    "Oakland County, Michigan, United States",
+    "Michigan, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5004223",
+    "http://sws.geonames.org/5001836"
+  ],
+  "thumbnail_path_ss": "https://gisservices.oakgov.com/arcgis/rest/services/Enterprise/EnterpriseHydrographyDataMapService/MapServer/info/thumbnail",
+  "layer_slug_s": "1bc444b2b81545969c4ead38e5f9c12d_2",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T20:39:39Z",
+  "centroid_s": "42.6598425,-83.3843095",
+  "solr_geom": "ENVELOPE(-83.694337, -83.074282, 42.893598, 42.426087)",
+  "solr_year_i": 2016
+}

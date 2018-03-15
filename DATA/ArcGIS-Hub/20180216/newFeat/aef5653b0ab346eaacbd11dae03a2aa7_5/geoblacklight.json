@@ -1,0 +1,35 @@
+{
+  "uuid": "aef5653b0ab346eaacbd11dae03a2aa7_5",
+  "dc_identifier_s": "aef5653b0ab346eaacbd11dae03a2aa7_5",
+  "dc_title_s": "I-80 Planning and Environmental Linkage (PEL) Resources - Conservation Lands: Iowa",
+  "dc_description_s": "This map shows known or potential conservation land resources within the I-80 Planning and Environmental Linkage (PEL) Study Area. The PEL study is being conducted by the Office of Location and Environment.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Iowa Department of Transportation"
+  ],
+  "dc_creator_sm": "Iowa DOT GIS Services",
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Iowa",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://public-iowadot.opendata.arcgis.com/datasets/aef5653b0ab346eaacbd11dae03a2aa7_5\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/8lRhdTsQyJpO52F1/ArcGIS/rest/services/I80PELResources/FeatureServer/5\",\"http://schema.org/downloadUrl\":\"https://public-iowadot.opendata.arcgis.com/datasets/aef5653b0ab346eaacbd11dae03a2aa7_5.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016-06-15",
+  "dct_spatial_sm": [
+    "Iowa, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4862182"
+  ],
+  "layer_slug_s": "aef5653b0ab346eaacbd11dae03a2aa7_5",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T22:10:46Z",
+  "centroid_s": "41.56445,-92.98375",
+  "solr_geom": "ENVELOPE(-95.6147, -90.3528, 41.7118, 41.4171)",
+  "solr_year_i": 2016
+}

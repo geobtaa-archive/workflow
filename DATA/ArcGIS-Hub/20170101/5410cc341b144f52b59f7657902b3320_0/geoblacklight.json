@@ -1,0 +1,38 @@
+{
+  "uuid": "5410cc341b144f52b59f7657902b3320_0",
+  "dc_identifier_s": "5410cc341b144f52b59f7657902b3320_0",
+  "dc_title_s": "Integrated Report of Surface Water Quality - Tidal Waters - Swimming/Bacteria Assessments only (2014): Maryland",
+  "dc_description_s": "This is a MD iMAP hosted service. Find more information on http://imap. maryland. gov. The TW_ContactRec feature class is the official geospatial record depicting water contact recreation areas that have been assessed (for the Integrated Report (IR)) in Maryland's tidal waters. This feature class also provides information on whether the waters are designated 'bathing beaches'. Since water contact recreational waters are assessed on such a variable scale, this feature class was developed with point geometry. As a result, points represent the general location of these assessed waters. In the case of beaches, a point generally represents the center of a bathing beach. For other recreational waters the point may represent the boundary or the centroid of the assessed waters. Please be sure to review additional IR information for a better description of the spatial extent of the assessment. Disclaimer: This feature class is not an authoritative source for the location of beaches. Nor should the information contained herein be solely used by swimmers/bathers to determine if their beach is safe for swimming. Instead, swimmers/bathers should consult MDE's Beaches website to get more up-to-date information on the safety of swimming at beaches. This website can be accessed at: http://www. marylandhealthybeaches. org/. In addition, swimmers/bathers should contact their local health department for real-time updates.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Maryland iMap"
+  ],
+  "dc_subject_sm": [
+    "Environment"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/5410cc341b144f52b59f7657902b3320_0\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://mdewin64.mde.state.md.us/arcgis/rest/services/MDE_Water_Quality/MD_IntegratedReport_SurfaceWaterQuality2014/MapServer/0\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/5410cc341b144f52b59f7657902b3320_0.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2017-08-22",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dct_spatial_sm": [
+    "Maryland, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4361885"
+  ],
+  "thumbnail_path_ss": "https://mdewin64.mde.state.md.us/arcgis/rest/services/MDE_Water_Quality/MD_IntegratedReport_SurfaceWaterQuality2014/MapServer/info/thumbnail",
+  "layer_slug_s": "5410cc341b144f52b59f7657902b3320_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T20:38:58Z",
+  "centroid_s": "38.67995,-76.10025",
+  "solr_geom": "ENVELOPE(-76.944, -75.2565, 39.3754, 37.9845)",
+  "solr_year_i": 2017
+}

@@ -1,0 +1,37 @@
+{
+  "uuid": "506abeca72cb4365bef0a1f3bbdad7b7_0",
+  "dc_identifier_s": "506abeca72cb4365bef0a1f3bbdad7b7_0",
+  "dc_title_s": "Enterprise Zone Focus Areas: Baltimore, Maryland",
+  "dc_description_s": "Enterprise Zones Focus Areas",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Baltimore, Maryland"
+  ],
+  "dc_subject_sm": [
+    "Economy"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://gis-baltimore.opendata.arcgis.com/datasets/506abeca72cb4365bef0a1f3bbdad7b7_0\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.baltimorecity.gov/egis/rest/services/cityview/EZ_FocusAreas/MapServer/0\",\"http://schema.org/downloadUrl\":\"http://gis-baltimore.opendata.arcgis.com/datasets/506abeca72cb4365bef0a1f3bbdad7b7_0.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015-07-07",
+  "dct_spatial_sm": [
+    "Baltimore, Maryland, United States",
+    "Maryland, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4347778",
+    "http://sws.geonames.org/4361885"
+  ],
+  "thumbnail_path_ss": "https://gis.baltimorecity.gov/egis/rest/services/cityview/EZ_FocusAreas/MapServer/info/thumbnail",
+  "layer_slug_s": "506abeca72cb4365bef0a1f3bbdad7b7_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T20:40:12Z",
+  "centroid_s": "39.28965,-76.59675",
+  "solr_geom": "ENVELOPE(-76.6507, -76.5428, 39.321, 39.2583)",
+  "solr_year_i": 2015
+}

@@ -1,0 +1,37 @@
+{
+  "uuid": "6f46622c852145448f8bd3667b9f0158_4",
+  "dc_identifier_s": "6f46622c852145448f8bd3667b9f0158_4",
+  "dc_title_s": "DNR Project Boundaries: Michigan",
+  "dc_description_s": "Project boundaries are geographic lines thathelp define the state's public lands acquisition and disposal strategy(Michigan's Managed Public Land Strategy). As part of the strategy, we willimprove project boundary alignments of public lands to more closely reflectactual land ownership. There currently are about 1.9 million acres of privatelyowned lands scattered within the project boundaries. These boundaries wereapproved by the Natural Resources Commission in May, 2004.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "State of Michigan"
+  ],
+  "dc_creator_sm": "Minnesota Department of Natural Resources",
+  "dc_subject_sm": [
+    "Environment",
+    "Boundaries"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://hub.arcgis.com/datasets/6f46622c852145448f8bd3667b9f0158_4\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services3.arcgis.com/Jdnp1TjADvSDxMAX/arcgis/rest/services/dnrRealEstate/FeatureServer/4\",\"http://schema.org/downloadUrl\":\"https://hub.arcgis.com/datasets/6f46622c852145448f8bd3667b9f0158_4.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2017-12-20",
+  "dct_spatial_sm": [
+    "Michigan, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5001836"
+  ],
+  "thumbnail_path_ss": "https://services3.arcgis.com/Jdnp1TjADvSDxMAX/arcgis/rest/services/dnrRealEstate/FeatureServer/info/thumbnail",
+  "layer_slug_s": "6f46622c852145448f8bd3667b9f0158_4",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T22:11:6Z",
+  "centroid_s": "44.53165,-86.09435",
+  "solr_geom": "ENVELOPE(-90.0586, -82.1301, 47.4311, 41.6322)",
+  "solr_year_i": 2017
+}

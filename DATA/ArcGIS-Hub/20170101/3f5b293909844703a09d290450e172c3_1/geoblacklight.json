@@ -1,0 +1,38 @@
+{
+  "uuid": "3f5b293909844703a09d290450e172c3_1",
+  "dc_identifier_s": "3f5b293909844703a09d290450e172c3_1",
+  "dc_title_s": "OC Farmland Agreement: Oakland County, Michigan",
+  "dc_description_s": "A spatial representation of land that is currently protected by a Farmland Development Rights Agreement (commonly known as PA 116) with the State of Michigan. The sites were located by a recorded document search through Land Access. Polygons were created using parcels as a base when applicable and by using coordinate geometry to digitize the legal description associated with agreement. The key attributes include the start and end date of the agreement, the name of the initiator, and the liber/page of the recorded document.Each agreement was located through Land Access, Oakland County's public records tool. A search was conducted to find all recorded documents where the State of Michigan is the Grantee and the document type is an Agreement. Each search result was verified to be a current Farmland Development Rights Agreement and was then digitized. When a parcel identification number (PIN) was available, the polygon was simply copied from the Tax Parcel Feature Class. If a PIN was not available, the polygon was created using coordinate geometry. If only part of a parcel is described in the legal description, then only that part is represented in the dataset. The attribute information was also collected from Land Access.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Oakland County, Michigan"
+  ],
+  "dc_subject_sm": [
+    "Farming",
+    "Planning and Cadastral"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://accessoakland.oakgov.com/datasets/3f5b293909844703a09d290450e172c3_1\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gisservices.oakgov.com/arcgis/rest/services/Enterprise/EnterpriseOpenPlanningMapService/MapServer/1\",\"http://schema.org/downloadUrl\":\"http://accessoakland.oakgov.com/datasets/3f5b293909844703a09d290450e172c3_1.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016-10-16",
+  "dct_spatial_sm": [
+    "Oakland County, Michigan, United States",
+    "Michigan, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5004223",
+    "http://sws.geonames.org/5001836"
+  ],
+  "thumbnail_path_ss": "https://gisservices.oakgov.com/arcgis/rest/services/Enterprise/EnterpriseOpenPlanningMapService/MapServer/info/thumbnail",
+  "layer_slug_s": "3f5b293909844703a09d290450e172c3_1",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T20:39:48Z",
+  "centroid_s": "42.6598425,-83.3843095",
+  "solr_geom": "ENVELOPE(-83.694337, -83.074282, 42.893598, 42.426087)",
+  "solr_year_i": 2016
+}

@@ -1,0 +1,37 @@
+{
+  "uuid": "f89db2f5ab0f4631ae0f3176caf3bf61_0",
+  "dc_identifier_s": "f89db2f5ab0f4631ae0f3176caf3bf61_0",
+  "dc_title_s": "Fiscal Dashboard General Fund Budget And Finances: South Bend, Indiana",
+  "dc_description_s": "There is no description available.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of South Bend"
+  ],
+  "dc_subject_sm": [
+    "Economy"
+  ],
+  "dct_provenance_s": "Purdue",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data-southbend.opendata.arcgis.com/datasets/f89db2f5ab0f4631ae0f3176caf3bf61_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/0n2NelSAfR7gTkr1/arcgis/rest/services/Fiscal_Dashboard_General_Fund_Budget_And_Finances/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://data-southbend.opendata.arcgis.com/datasets/f89db2f5ab0f4631ae0f3176caf3bf61_0.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016-05-27",
+  "dct_spatial_sm": [
+    "South Bend, Indiana, United States",
+    "Indiana, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4926563",
+    "http://sws.geonames.org/4921868"
+  ],
+  "thumbnail_path_ss": "https://services1.arcgis.com/0n2NelSAfR7gTkr1/arcgis/rest/services/Fiscal_Dashboard_General_Fund_Budget_And_Finances/FeatureServer/info/thumbnail",
+  "layer_slug_s": "f89db2f5ab0f4631ae0f3176caf3bf61_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T21:21:53Z",
+  "centroid_s": "41.679,-86.254",
+  "solr_geom": "ENVELOPE(-86.329, -86.179, 41.754, 41.604)",
+  "solr_year_i": 2016
+}

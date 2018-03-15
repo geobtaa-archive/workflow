@@ -1,0 +1,35 @@
+{
+  "uuid": "9156f8a60c2a42b9a7d0e740ecdcd7e3_8",
+  "dc_identifier_s": "9156f8a60c2a42b9a7d0e740ecdcd7e3_8",
+  "dc_title_s": "Shoreline Changes - Calvert 10 Years Shoreline Erosion Level: Maryland",
+  "dc_description_s": "This is a MD iMAP hosted service. Find more information on http://imap.maryland.gov. To quantify shoreline rates of change (erosion or accretion), Maryland Geological Survey (MGS) used historical and recent shorelines spanning 1993-2007 as input into the Digital Shoreline Analysis System (DSAS) Version 4. 3. DSAS, a computer program developed by the U. S. Geological Survey (USGS), determines linear rates of shoreline change along closely spaced, shore-normal transects. Based on DSAS output, MGS assigned generalized rate of change categories as attributes to a recent shoreline for Calvert County. This recent shoreline consisted of the National Oceanic and Atmospheric Administration (NOAA) Continually Updated Shoreline Product (CUSP) digital shoreline currently available for Calvert County; and 2) portions of the Maryland Department of Natural Resources (MD DNR) Critical Area Commission (CAC) digital shoreline for Calvert County. Based on the results of an End Point Rate (EPR) analysis on the ca. 1990s shoreline and the ca. 2000 shoreline (recent shoreline), MGS grouped the rate results into the following general categories: (a) No change (-0. 01 to 0. 01 feet/year), (b) Accretion (greater than 0. 01 feet/year), (c) Slight erosion rate (0 to -2 feet/year), (d) Low erosion rate (-2 to -4 feet/year), (e) Moderate erosion rate (-4 to -8 ft/yr), (f) High erosion rate (greater than -8 feet/year), (g) Protected, (h) No data (insufficient shorelines to calculate 10-year EPR rate), (i) No data (no transects cast; unprotected or unknown shoreline condition), and (j) Rates not delivered (calculated rates suspect). The NOAA CUSP shoreline represents the shoreline position in Calvert County between the years 2005-2006. The CAC shoreline represents the shoreline position in Calvert County in 2007. In Calvert County, the NOAA CUSP data set covered approximately 90% of the shoreline in the county. MGS supplemented the NOAA CUSP data with CAC data in the following areas where NOAA CUSP data was missing: Hunting Creek; upper 2/3 of Hall Creek; and Patuxent River, from approximately 1 kilometer south of the Merkle Wildlife Sanctuary, north to (and including) Lyons Creek. To identify which shoreline source is responsible for a shoreline segment, view the DSAS_SRC attribute table field -- CAC indicates a shoreline sourced from MD DNR CAC data set; NOAA CUSP indicates a shoreline sourced from the NOAA CUSP data set. Negative rate of change values indicate erosion, and positive values indicate accretion. In general, MGS tried to attribute lengths of shoreline of at least 80 meters in length sharing similar rates of change. Last Updated: 6/2017Map Service Link: http://geodata. md. gov/imap/rest/services/Hydrology/MD_ShorelineChanges/MapServer/8",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Maryland iMap"
+  ],
+  "dc_subject_sm": [
+    "Oceans"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/9156f8a60c2a42b9a7d0e740ecdcd7e3_8\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://geodata.md.gov/imap/rest/services/Hydrology/MD_ShorelineChanges/MapServer/8\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/9156f8a60c2a42b9a7d0e740ecdcd7e3_8.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2017",
+  "dct_spatial_sm": [
+    "Maryland, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4361885"
+  ],
+  "thumbnail_path_ss": "https://geodata.md.gov/imap/rest/services/Hydrology/MD_ShorelineChanges/MapServer/info/thumbnail",
+  "layer_slug_s": "9156f8a60c2a42b9a7d0e740ecdcd7e3_8",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T20:38:54Z",
+  "centroid_s": "38.537,-76.54125",
+  "solr_geom": "ENVELOPE(-76.7012, -76.3813, 38.7576, 38.3164)",
+  "solr_year_i": 2017
+}

@@ -1,0 +1,38 @@
+{
+  "uuid": "f3b770fd11da46a5ada9a009eec23c9f_0",
+  "dc_identifier_s": "f3b770fd11da46a5ada9a009eec23c9f_0",
+  "dc_title_s": "OC Land Use 1966: Oakland County, Michigan",
+  "dc_description_s": "The primary purpose of this data is to be used by Oakland County Planning and Economic Development Services, other County departments, and and local communities for planning purposes.  The two major uses are cartographic output and creating summaries at various spatial extents.The intent of this feature class was to provide a very general representation of a hard copy 1966 land use map.  The spatial accuracy and number of vertices used to represent each feature was limited by the intended purpose of the data.The land use features were heads-up digitized from a 1966 land use map that was scanned and georefereneced using each section corner as a control point.  The features were digitized at a scale not greater than 1:15,000, one square-mile section at a time.  After the entire county was completely digitized, the features were dissolved based on the Landuse.Right-of-Way was burned in to the final feature class using the following process.  First, the current RoadCenterline feature class was modifed to reflect roads in 1966 using the scanned 1966 land use map and 1963 orthophotography as a reference.  Next, the road lines were buffered at specified distanced based on the RoadCode attribute from RoadCenterline to create polygons.  Major Roads were split into two types (Perscriptive Easement and Dedicated) based on if the adjacent property was platted prior to 1966.  According to the Oakland County Register of Deeds, in 1966 Oakland County was recording documents in liber 120.  For the purpose of this feature class it was assumed that simultaneous conveyances recorded in liber 120 or earlier existed in 1966.  Major roads that intersected or were adjacent with these simultaneous conveyances were classified as Dedicated and the remainder of Major Roads were classified as a Perscriptive Easement.  The buffer distances, representing half the total Right-of-Way width, used for each road code are listed below:     Minor Road - 30 feet     Major Road (Perscriptive Easement) - 33 feet     Major Road (Dedicated) - 46.5 feet     State Highway - 46.5 feetU.S. Highway - 46.5 feet     Interstate - 60 feet feetThese Right-of-Way widths generally approximate those that actually existed in 1966 and are not intended to indicate the exact width of a specific Right-of-Way.  All areas completely surrounded by Right-of-Way such as between directions of travel of a boulevard or interstate or the area inside of a freeway interchange were manually attributed as Right-of-Way.Water features were burned in the final feature class using a modified version the of the Oakland County Waterbody feature class.  This data was modified to reflect waterbodies in 1966 using the 1966 land use map and 1963 orthophotography as a reference.Lastly, the features that intersected community boudaries were split using the Identity tool to increase cartographic and analytic performance.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Oakland County, Michigan"
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps",
+    "Planning and Cadastral"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://accessoakland.oakgov.com/datasets/f3b770fd11da46a5ada9a009eec23c9f_0\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gisservices.oakgov.com/arcgis/rest/services/Enterprise/EnterpriseLandUseMapService/MapServer/0\",\"http://schema.org/downloadUrl\":\"http://accessoakland.oakgov.com/datasets/f3b770fd11da46a5ada9a009eec23c9f_0.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016-10-16",
+  "dct_spatial_sm": [
+    "Oakland County, Michigan, United States",
+    "Michigan, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5004223",
+    "http://sws.geonames.org/5001836"
+  ],
+  "thumbnail_path_ss": "https://gisservices.oakgov.com/arcgis/rest/services/Enterprise/EnterpriseLandUseMapService/MapServer/info/thumbnail",
+  "layer_slug_s": "f3b770fd11da46a5ada9a009eec23c9f_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-12T20:39:47Z",
+  "centroid_s": "42.6598425,-83.3843095",
+  "solr_geom": "ENVELOPE(-83.694337, -83.074282, 42.893598, 42.426087)",
+  "solr_year_i": 2016
+}

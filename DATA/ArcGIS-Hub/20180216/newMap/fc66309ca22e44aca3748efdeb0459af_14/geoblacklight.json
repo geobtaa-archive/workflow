@@ -1,0 +1,40 @@
+{
+  "uuid": "fc66309ca22e44aca3748efdeb0459af_14",
+  "dc_identifier_s": "fc66309ca22e44aca3748efdeb0459af_14",
+  "dc_title_s": "Walkout Route Collection Points: Washington, D.C.",
+  "dc_description_s": "Walkout Route Collection Points. The dataset contains locations and attributes of walkout route collection points used as locations where evacuees can board buses to exit the cityC. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies. All DC GIS data is stored and exported in Maryland State Plane coordinates NAD 83 meters. METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": "District of Columbia GIS Program",
+  "dc_subject_sm": [
+    "Transportation",
+    "Public safety",
+    "Evacuation",
+    "Walkout route",
+    "Hazard",
+    "Emergency"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.dc.gov/datasets/fc66309ca22e44aca3748efdeb0459af_14\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Public_Safety_WebMercator/MapServer/14\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/fc66309ca22e44aca3748efdeb0459af_14.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015",
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "fc66309ca22e44aca3748efdeb0459af_14",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-16T20:44:49Z",
+  "centroid_s": "38.9009890995,-76.99660766995",
+  "solr_geom": "ENVELOPE(-77.0810260391, -76.9121893008, 38.9750447625, 38.8269334365)",
+  "solr_year_i": 2015
+}
