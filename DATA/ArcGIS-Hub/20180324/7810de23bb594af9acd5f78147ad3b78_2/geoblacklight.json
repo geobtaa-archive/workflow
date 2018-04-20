@@ -1,0 +1,39 @@
+{
+  "uuid": "7810de23bb594af9acd5f78147ad3b78_2",
+  "dc_identifier_s": "7810de23bb594af9acd5f78147ad3b78_2",
+  "dc_title_s": "Stream Health - Stream Reaches: Maryland",
+  "dc_description_s": "This is a MD iMAP hosted service layer. Find more information at http://imap.maryland.gov. The stream reaches are color coded according to the Combined Index of Biotic Integrity (CIBI) scores of the MBSS sites. The CIBI is the average of the fish IBI (FIBI) and the benthic IBI (BIBI). Anything below a CIBI score of 3. 0 is red (Poor), 3. 0-3. 9 is yellow (Fair), and 4. 0-5. 0 is green (Good). The Maryland Biological Stream Survey (MBSS) was Maryland's first probability-based or random design stream sampling program intended to provide unbiased estimates of stream conditions with known precision at various spatial scales ranging from large 6-digit river basins and medium-sized 8-digit watersheds to the entire state. Last Updated: 06/2010",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dc_creator_sm": "Maryland iMap",
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.imap.maryland.gov/datasets/7810de23bb594af9acd5f78147ad3b78_2\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://geodata.md.gov/imap/rest/services/Hydrology/MD_StreamHealth/FeatureServer/2\",\"http://schema.org/downloadUrl\":\"https://data.imap.maryland.gov/datasets/7810de23bb594af9acd5f78147ad3b78_2.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Maryland, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4361885"
+  ],
+  "layer_slug_s": "7810de23bb594af9acd5f78147ad3b78_2",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:39:25Z",
+  "centroid_s": "38.86155,-77.3205",
+  "solr_geom": "ENVELOPE(-79.4865, -75.1545, 39.723, 38.0001)",
+  "solr_year_i": 2016,
+  "thumbnail_path_ss": "https://geodata.md.gov/imap/rest/services/Hydrology/MD_StreamHealth/FeatureServer/info/thumbnail"
+}

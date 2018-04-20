@@ -1,0 +1,40 @@
+{
+  "uuid": "66982badbd654dedadf1b346d1a95dca_42",
+  "dc_identifier_s": "66982badbd654dedadf1b346d1a95dca_42",
+  "dc_title_s": "Wire Down or Power Outage: Washington, D.C., Last 30 Days",
+  "dc_description_s": "The Chief Technology Office shares service requests data feeds that come through http://311.dc.gov and the Mayor's 311 call center. These are locations for wire down or power outage service requests in the last 30 days.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": "District of Columbia GIS Program",
+  "dc_subject_sm": [
+    "Locations",
+    "Safety"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.dc.gov/datasets/66982badbd654dedadf1b346d1a95dca_42\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_APPS/SR_30days_Open/MapServer/42\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/66982badbd654dedadf1b346d1a95dca_42.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "https://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "66982badbd654dedadf1b346d1a95dca_42",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:38:20Z",
+  "centroid_s": "38.949,-77.0961",
+  "solr_geom": "ENVELOPE(-77.0961, -77.0961, 38.949, 38.949)",
+  "solr_year_i": 2015,
+  "thumbnail_path_ss": ""
+}

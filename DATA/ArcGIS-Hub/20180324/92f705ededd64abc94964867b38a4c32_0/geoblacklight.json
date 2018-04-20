@@ -1,0 +1,41 @@
+{
+  "uuid": "92f705ededd64abc94964867b38a4c32_0",
+  "dc_identifier_s": "92f705ededd64abc94964867b38a4c32_0",
+  "dc_title_s": "City Boundary: Minneapolis, Minnesota, 2016",
+  "dc_description_s": "If there are any issues with the data in this map, service, or shapefile please contact the Minneapolis GIS office. This data set shows the city boundary of Minneapolis.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Minneapolis, Minnesota"
+  ],
+  "dc_creator_sm": "MapIT Minneapolis",
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.minneapolismn.gov/datasets/92f705ededd64abc94964867b38a4c32_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Minneapolis_City_Limits/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"https://opendata.minneapolismn.gov/datasets/92f705ededd64abc94964867b38a4c32_0.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2012-03-09",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Minneapolis, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5037649",
+    "http://sws.geonames.org/5037779"
+  ],
+  "layer_slug_s": "92f705ededd64abc94964867b38a4c32_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:39:27Z",
+  "centroid_s": "44.970697,-93.2614785",
+  "solr_geom": "ENVELOPE(-93.329163, -93.193794, 45.05125, 44.890144)",
+  "solr_year_i": 2012,
+  "thumbnail_path_ss": ""
+}

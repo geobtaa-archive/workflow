@@ -1,0 +1,42 @@
+{
+  "uuid": "a99cbc8c-a850-4db4-814d-7d46616002ad",
+  "dc_identifier_s": "a99cbc8c-a850-4db4-814d-7d46616002ad",
+  "dc_title_s": "Coalmine location GIS Files: Iowa",
+  "dc_description_s": "Geodatabase of locations and footprints, if known.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Geodatabase",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Iowa Geodata"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Geoscientific Information"
+  ],
+  "dct_provenance_s": "Iowa",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.iowa.gov/dataset/coal-mines-iowa\",\"http://schema.org/downloadUrl\":\"http://iowageodata.s3.amazonaws.com/geoscientificInformation/mines/coalmines.zip\"}",
+  "dct_isPartOf_sm": "Iowa GeoData",
+  "dct_issued_s": [
+
+  ],
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Iowa, United States"
+  ],
+  "dc_relation_sm": [
+    "https://sws.geonames.org/4862258"
+  ],
+  "layer_slug_s": "a99cbc8c-a850-4db4-814d-7d46616002ad",
+  "layer_geom_type_s": "Mixed",
+  "layer_modified_dt": "2018-3-19T23:7:4Z",
+  "centroid_s": "41.9383,-93.3974",
+  "solr_geom": "ENVELOPE(-96.6395, -90.1401, 43.5088, 40.3754)",
+  "solr_year_i": 2018
+}

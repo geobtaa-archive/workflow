@@ -1,0 +1,42 @@
+{
+  "uuid": "6df97228024144ef81c1ab126c04bedf_4",
+  "dc_identifier_s": "6df97228024144ef81c1ab126c04bedf_4",
+  "dc_title_s": "OC Simultaneous Conveyance: Oakland County, Michigan",
+  "dc_description_s": "A spatial representation of simultaneous conveyances (subdivisions and condominiums). This polygon feature class is maintained in an enterprise geodatabase using topology with other LandManagement feature classes. The key attributes include the name of the subdivision or condominium (Name) and the Oakland County Condominium Plan (OCCP) number, if present.For the purpose of this document, simultaneous conveyances are subdivisions and condominiums. A simultaneously created boundary results when several parcels of land are created in the same legal instant by the same person, persons, or agency and by the same instrument (Brown, 1995, page 295). This polygon feature class represents the extent of the simultaneous conveyances as of the most recent recording.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Oakland County, Michigan"
+  ],
+  "dc_creator_sm": "Access Oakland",
+  "dc_subject_sm": [
+    "Planning and Cadastral",
+    "Boundaries"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://accessoakland.oakgov.com/datasets/6df97228024144ef81c1ab126c04bedf_4\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gisservices.oakgov.com/arcgis/rest/services/Enterprise/EnterpriseOpenParcelDataMapService/MapServer/4\",\"http://schema.org/downloadUrl\":\"https://accessoakland.oakgov.com/datasets/6df97228024144ef81c1ab126c04bedf_4.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016-10-16",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Oakland County, Michigan, United States",
+    "Michigan, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5004223",
+    "http://sws.geonames.org/5001836"
+  ],
+  "layer_slug_s": "6df97228024144ef81c1ab126c04bedf_4",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:38:21Z",
+  "centroid_s": "42.6598425,-83.3843095",
+  "solr_geom": "ENVELOPE(-83.694337, -83.074282, 42.893598, 42.426087)",
+  "solr_year_i": 2016,
+  "thumbnail_path_ss": "https://gisservices.oakgov.com/arcgis/rest/services/Enterprise/EnterpriseOpenParcelDataMapService/MapServer/info/thumbnail"
+}

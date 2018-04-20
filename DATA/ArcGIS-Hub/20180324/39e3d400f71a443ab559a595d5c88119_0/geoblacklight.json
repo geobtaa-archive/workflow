@@ -1,0 +1,43 @@
+{
+  "uuid": "39e3d400f71a443ab559a595d5c88119_0",
+  "dc_identifier_s": "39e3d400f71a443ab559a595d5c88119_0",
+  "dc_title_s": "Tennis Court Sites: Washington, D.C.",
+  "dc_description_s": "District of Columbia recreation facilities: tennis court sites. The dataset contains other recreation facilities based on locations of the District of Columbia Department of Parks and Recreation dataC. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies. All DC GIS data is stored and exported in Maryland State Plane coordinates NAD 83 meters. METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": "District of Columbia GIS Program",
+  "dc_subject_sm": [
+    "Society",
+    "Recreation center",
+    "Tennis court",
+    "Government facility",
+    "Recreation center"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.dc.gov/datasets/39e3d400f71a443ab559a595d5c88119_0\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Recreation_WebMercator/MapServer/0\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/39e3d400f71a443ab559a595d5c88119_0.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "https://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "39e3d400f71a443ab559a595d5c88119_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:38:20Z",
+  "centroid_s": "38.8939338982,-77.0251973513",
+  "solr_geom": "ENVELOPE(-77.1054414956, -76.944953207, 38.9704142837, 38.8174535127)",
+  "solr_year_i": 2015,
+  "thumbnail_path_ss": ""
+}

@@ -1,0 +1,41 @@
+{
+  "uuid": "312ced4e958541128ef6c0f01b290632_3",
+  "dc_identifier_s": "312ced4e958541128ef6c0f01b290632_3",
+  "dc_title_s": "Oil Gas Test Well Surface Hole Locations: Michigan",
+  "dc_description_s": "S Surface Location - Surface locations (wellhead) of all oil gas test wells whether directionally drilled or straight (vertical) holes.'D Surface locations (wellhead) of all oil gas test wells whether directionally drilled or straight (vertical) holes. These are extracted from the Michigan DEQ Oil, Gas Minerals RBDMS database on a nightly basis.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "State of Michigan"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Geoscientific Information"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://hub.arcgis.com/datasets/312ced4e958541128ef6c0f01b290632_3\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gisago.mcgi.state.mi.us/arcgis/rest/services/OpenData/geology/MapServer/3\",\"http://schema.org/downloadUrl\":\"https://hub.arcgis.com/datasets/312ced4e958541128ef6c0f01b290632_3.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2017-08-09",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Michigan, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5001836"
+  ],
+  "layer_slug_s": "312ced4e958541128ef6c0f01b290632_3",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:38:21Z",
+  "centroid_s": "42.1545,-3.7487",
+  "solr_geom": "ENVELOPE(-89.9288, 82.4314, 47.948, 36.361)",
+  "solr_year_i": 2018,
+  "thumbnail_path_ss": ""
+}

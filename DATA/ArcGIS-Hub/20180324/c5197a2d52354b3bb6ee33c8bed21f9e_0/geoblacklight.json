@@ -1,0 +1,43 @@
+{
+  "uuid": "c5197a2d52354b3bb6ee33c8bed21f9e_0",
+  "dc_identifier_s": "c5197a2d52354b3bb6ee33c8bed21f9e_0",
+  "dc_title_s": "Connections 2040 Transportation Vision: Delaware Valley",
+  "dc_description_s": "The Connections 2040 Plan for Greater Philadelphia assesses regional trends and forecasts and sets forth a vision for the future. The Plan establishes goals and identifies strategies to achieve its core principles: managing growth and protecting natural resources, creating livable communities, building the economy, and establishing a modern, multimodal transportation system. The Plan identifies a set of transportation investments that are needed to preserve and maintain the existing system, as well as other critical improvements that make the system operate more efficiently and expand capacity. The passage of Act 89 in November 2013 will provide additional funding for transportation investments in the Pennsylvania portion of the DVRPC region. The Plan is being amended to include additional projects in the Pennsylvania subregionA key role of the Plan is to outline a vision and strategy for how the region will invest in transportation infrastructure over the next 27 years. This section lays out a vision for maintaining and improving the transportation system to achieve the future potential for Greater Philadelphia. Since we can?t afford all identified needs, the financial plan prioritizes projects for funding by developing forecasts of reasonably anticipated revenue, allocating the revenue to project categories based on need and policy, and evaluating and selecting specific major regionally significant projects for funding in the Plan. This chapter also considers how to address the transportation funding gap.DVRPC worked with PennDOT, NJ DOT, SEPTA, NJ Transit, PATCO/DRPA, and other regional stakeholders to determine what investments need to be made over the life of Connections 2040 to maintain and modernize the region?s transportation system. At the heart of this exercise was an in-depth needs assessment utilizing asset management systems that collect detailed data and monitor the various components of the network. The needs assessment identified what is required to bring the roadway and transit systems to a state-of-good repair, and also what types of operational and system expansion projects are necessary for the region to continue to grow and prosper in the future.The needs assessment determined the projects that are necessary to achieve the goals outlined in Connections 2040. Roadway, bike and pedestrian, and transit investments are grouped into the following categories:ROADWAY SYSTEM PRESERVATIONROADWAY OPERATIONAL IMPROVEMENTSTRANSIT SYSTEM PRESERVATIONTRANSIT OPERATIONAL IMPROVEMENTSTRANSIT SYSTEM EXPANSIONROADWAY SYSTEM EXPANSIONBIKE AND PEDESTRIANFor more information, see Chaper 5 of Connections 2040 document and Amended Transportation Investments in Amended Transportation Investsments document http://www.dvrpc.org/reports/14049.pdf**PLEASE NOTE: GEOGRAPHY IS FOR ILLUSTRATIVE PURPOSES ONLY AND HAS NOT BEEN VERIFIED WITH INDIVIDUAL PARTIES**http://www.dvrpc.org/Connections2040/",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Delaware Valley Regional Planning Commission"
+  ],
+  "dc_creator_sm": "Delaware Valley Regional Planning Commission",
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/c5197a2d52354b3bb6ee33c8bed21f9e_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://arcgis.dvrpc.org/arcgis/rest/services/Planning/Connections2040TransVision/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/c5197a2d52354b3bb6ee33c8bed21f9e_0.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015-07-16",
+  "dct_temporal_sm": [
+    "2040"
+  ],
+  "dct_spatial_sm": [
+    "Delaware River, Delaware, United States",
+    "Delaware, United States",
+    "Pennsylvania, United States",
+    "Maryland, United States"
+  ],
+  "dc_relation_sm": [
+    "https://sws.geonames.org/4142210",
+    "https://sws.geonames.org/4142224"
+  ],
+  "layer_slug_s": "c5197a2d52354b3bb6ee33c8bed21f9e_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:39:25Z",
+  "centroid_s": "39.9958,-75.2124",
+  "solr_geom": "ENVELOPE(-76.0416, -74.3832, 40.4387, 39.5529)",
+  "solr_year_i": 2040,
+  "thumbnail_path_ss": ""
+}

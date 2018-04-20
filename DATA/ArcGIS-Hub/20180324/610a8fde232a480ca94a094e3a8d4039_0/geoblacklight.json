@@ -1,0 +1,39 @@
+{
+  "uuid": "610a8fde232a480ca94a094e3a8d4039_0",
+  "dc_identifier_s": "610a8fde232a480ca94a094e3a8d4039_0",
+  "dc_title_s": "Historic Digital Orthophoto Quads Index Grid - Color Infrared DOQ Index Grid: Maryland",
+  "dc_description_s": "This is a MD iMAP hosted service. Find more information on http://imap.maryland.gov. This database provides the pertinent details of the color infrared digital orthophoto quarter quad (CIR DOOQ) maps and wetlands (DNR_Wetlands) maps produced by the Maryland Department of Natural Resources. This database provides a simple and effective means of documenting the exact dates of the source material and other quality and reference information. This is a supplement to the metadata files for the DOQQs and wetlands files. Map Service Layer:http://imagery. geodata. md. gov/imap/rest/services/DOQs/DOQIndexGrids/MapServer/0",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dc_creator_sm": "Maryland iMap",
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.imap.maryland.gov/datasets/610a8fde232a480ca94a094e3a8d4039_0\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://imagery.geodata.md.gov/imap/rest/services/DOQs/DOQIndexGrids/MapServer/0\",\"http://schema.org/downloadUrl\":\"https://data.imap.maryland.gov/datasets/610a8fde232a480ca94a094e3a8d4039_0.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Maryland, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4361885"
+  ],
+  "layer_slug_s": "610a8fde232a480ca94a094e3a8d4039_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:38:21Z",
+  "centroid_s": "38.8131,-77.2504",
+  "solr_geom": "ENVELOPE(-79.5003, -75.0005, 39.7506, 37.8756)",
+  "solr_year_i": 2016,
+  "thumbnail_path_ss": "https://imagery.geodata.md.gov/imap/rest/services/DOQs/DOQIndexGrids/MapServer/info/thumbnail"
+}

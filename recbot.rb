@@ -14,7 +14,7 @@ records = doc.count
 i = 1
 while i <= records do
 output = "output #{i}"
-uuid = doc["#{output}"][0]["uuid"]
+uuid = doc["#{output}"][0]["layer_slug_s"]
 dir1 = uuid
 
 

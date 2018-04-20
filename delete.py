@@ -54,7 +54,7 @@ log.addHandler(ch)
 class CSWToGeoBlacklight(object):
 
     def __init__(self, SOLR_URL, SOLR_USERNAME, SOLR_PASSWORD, INST=None,
-                 max_records=None, COLLECTION=None, UUID=None, PUBLISHER=None):
+                 max_records=None, COLLECTION=None, UUID=None, PUBLISHER=None, SUBJECT=None):
 
         if SOLR_USERNAME and SOLR_PASSWORD:
             SOLR_URL = SOLR_URL.format(
@@ -97,7 +97,7 @@ class CSWToGeoBlacklight(object):
         }
 
         self.identifier = {
-            "id": '"enterUUIDhere"'
+            "rec": '"d27e47b845f0415a8caed25871a5d03c_1"'
 
 
         }
@@ -108,16 +108,20 @@ class CSWToGeoBlacklight(object):
 
         }
 
+        self.subject = {
+            "del": '"DELETE"'
+
+        }
+
+
         self.collection = {
             "arc": '"ArcGIS Open Data"',
             "01c-01": '"Bloomington Open Data"',
 			"01c-02": '"Indianapolis Open Data"',
 			"01d-01": '"Indiana Historic Maps"',
 			"02a-01": '"Illinois Geospatial Data Clearinghouse"',
-			"02c-01": '"City of Chicago Data Portal"',
-			"03a-01": '"IowaDNR Infrastructure Records"',
 			"03a-02": '"IowaDOT"',
-			"03a-03": '"Iowa Geodata"',
+			"03a-03": '"Iowa GeoData"',
 			"03d-01": '"Iowa Historical County Atlases"',
 			"03d-02": '"Hixson Plat Map Atlases of Iowa"',
 			"04a-01": '"Maryland iMap"',
@@ -164,7 +168,10 @@ class CSWToGeoBlacklight(object):
 			"10a-03": '"Wisconsin Department of Natural Resources (DNR)"',
 			"10a-04": '"WI LTSB"',
 			"10a-05": '"WI LiDAR/Imagery"',
-			"10b-01": '"WI Counties"'
+			"10b-01": '"WI Counties"',
+			"11d-01": '"Byrd Polar Research Center"',
+			"12b-01": '"Cook County Open Data"',
+			"12c-01": '"City of Chicago Data Portal"'
         }
 
 
@@ -191,6 +198,11 @@ class CSWToGeoBlacklight(object):
         """
         self.solr.delete_query("dc_publisher_sm:" + self.publisher[publisher])
 
+    def delete_records_subject(self, subject):
+        """
+        Delete records from Solr.
+        """
+        self.solr.delete_query("dc_subject_sm:" + self.subject[subject])
 
     def update_one_record(self, uuid):
         url = self.CSW_URL.format(virtual_csw_name="publication")
@@ -292,6 +304,10 @@ def main():
         "-ds",
         "--delete-one-record")
 
+    group.add_argument(
+        "-dsub",
+        "--delete-records-subject")
+
     args = parser.parse_args()
     interface = CSWToGeoBlacklight(
         config.SOLR_URL, config.SOLR_USERNAME, config.SOLR_PASSWORD,
@@ -310,6 +326,9 @@ def main():
 
     elif args.delete_publisher:
         interface.delete_publisher(args.delete_publisher)
+
+    elif args.delete_subject:
+        interface.delete_subject(args.delete_subject)
 
     else:
         sys.exit(parser.print_help())

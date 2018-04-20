@@ -1,0 +1,42 @@
+{
+  "uuid": "f1c149c2a96f41cda85d64354599715e_0",
+  "dc_identifier_s": "f1c149c2a96f41cda85d64354599715e_0",
+  "dc_title_s": "Buildings Oakland: Michigan",
+  "dc_description_s": "SEMCOG's buildings data layer represents the digital footprint of each building in Southeast Michigan, as of April 2015, along with associated attributes of each building. The building footprints were originally compiled using heads-up digitizing of 2010 aerial photography, and then attributed with additional information on their location and physical characteristics using a variety of sources.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "State of Michigan"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Structure",
+    "Location"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://hub.arcgis.com/datasets/f1c149c2a96f41cda85d64354599715e_0\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://arcgisserver.semcog.org/arcgis/rest/services/OpenData/Buildings_Oakland/MapServer/0\",\"http://schema.org/downloadUrl\":\"https://hub.arcgis.com/datasets/f1c149c2a96f41cda85d64354599715e_0.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016-09-26",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Michigan, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5001836"
+  ],
+  "layer_slug_s": "f1c149c2a96f41cda85d64354599715e_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:38:22Z",
+  "centroid_s": "42.6599,-83.38425",
+  "solr_geom": "ENVELOPE(-83.694, -83.0745, 42.8932, 42.4266)",
+  "solr_year_i": 2016,
+  "thumbnail_path_ss": "https://arcgisserver.semcog.org/arcgis/rest/services/OpenData/Buildings_Oakland/MapServer/info/thumbnail"
+}

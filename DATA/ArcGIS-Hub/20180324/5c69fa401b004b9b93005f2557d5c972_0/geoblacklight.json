@@ -1,0 +1,39 @@
+{
+  "uuid": "5c69fa401b004b9b93005f2557d5c972_0",
+  "dc_identifier_s": "5c69fa401b004b9b93005f2557d5c972_0",
+  "dc_title_s": "Submerged Aquatic Vegetation - SAV 2015: Maryland",
+  "dc_description_s": "This is a MD iMAP hosted service. Find more information at http://imap.maryland.gov. The 2014 Chesapeake Bay SAV Coverage was mapped from 1:24,000 black and white aerial photography and digital multispectral imagery with a 25cm GSD to assess water quality in the Bay. Each area of SAV was interpreted from the rectified photography and classified into one of four density classes by the percentage of cover. The SAV beds were entered into an SDE GIS fetaure class using the quality control procedures documented below. The dataset contains all SAV areas that were identified from the areas flown. Some areas that are presumed to contain no SAV were not flown. Some small beds, particularly along narrow tributaries may not have been distinguishable on the aerial photography. Last Updated: 2015",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dc_creator_sm": "Maryland iMap",
+  "dc_subject_sm": [
+    "Biota"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.imap.maryland.gov/datasets/5c69fa401b004b9b93005f2557d5c972_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://geodata.md.gov/imap/rest/services/Biota/MD_SubmergedAquaticVegetation/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"https://data.imap.maryland.gov/datasets/5c69fa401b004b9b93005f2557d5c972_0.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "Maryland, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4361885"
+  ],
+  "layer_slug_s": "5c69fa401b004b9b93005f2557d5c972_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:39:26Z",
+  "centroid_s": "38.26275,-76.24495",
+  "solr_geom": "ENVELOPE(-77.386, -75.1039, 39.6134, 36.9121)",
+  "solr_year_i": 2015,
+  "thumbnail_path_ss": "https://geodata.md.gov/imap/rest/services/Biota/MD_SubmergedAquaticVegetation/FeatureServer/info/thumbnail"
+}

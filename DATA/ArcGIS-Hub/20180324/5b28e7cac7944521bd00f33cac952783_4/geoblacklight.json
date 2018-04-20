@@ -1,0 +1,40 @@
+{
+  "uuid": "5b28e7cac7944521bd00f33cac952783_4",
+  "dc_identifier_s": "5b28e7cac7944521bd00f33cac952783_4",
+  "dc_title_s": "Michigan Public Recreational Vehicle Scramble Areas: Michigan",
+  "dc_description_s": "Recreational vehicle scramble areas open for public use.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "State of Michigan"
+  ],
+  "dc_creator_sm": "Michigan Department of Transportation",
+  "dc_subject_sm": [
+    "Environment",
+    "Society"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://hub.arcgis.com/datasets/5b28e7cac7944521bd00f33cac952783_4\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gisago.mcgi.state.mi.us/arcgis/rest/services/DNR/dnrParksAndRecreation/MapServer/4\",\"http://schema.org/downloadUrl\":\"https://hub.arcgis.com/datasets/5b28e7cac7944521bd00f33cac952783_4.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015-05-13",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Michigan, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5001836"
+  ],
+  "layer_slug_s": "5b28e7cac7944521bd00f33cac952783_4",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:38:21Z",
+  "centroid_s": "44.3308,-85.00785",
+  "solr_geom": "ENVELOPE(-86.5348, -83.4809, 45.5387, 43.1229)",
+  "solr_year_i": 2015,
+  "thumbnail_path_ss": "https://gisago.mcgi.state.mi.us/arcgis/rest/services/DNR/dnrParksAndRecreation/MapServer/info/thumbnail"
+}

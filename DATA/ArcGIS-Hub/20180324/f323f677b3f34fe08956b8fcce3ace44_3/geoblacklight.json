@@ -1,0 +1,45 @@
+{
+  "uuid": "f323f677b3f34fe08956b8fcce3ace44_3",
+  "dc_identifier_s": "f323f677b3f34fe08956b8fcce3ace44_3",
+  "dc_title_s": "Points of Interest MAR Aliases: Washington, D.C.",
+  "dc_description_s": "Address Alias Point locations. The dataset contains locations and attributes of Address Alias pointsC. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies. It contains the addresses alias names in the District of Columbia which are typically placed on the buildings. These alias names represent named features such as: - Schools - Federal Buildings - Military Installations - Hospitals - Museums - Monuments - University Structures - Fire and Police Stations - Libraries - Metro Facilities - Historical Landmarks - Recreation Centers All DC GIS data is stored and exported in Maryland State Plane coordinates NAD 83 meters. METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": "District of Columbia GIS Program",
+  "dc_subject_sm": [
+    "Location",
+    "Street Address",
+    "Address",
+    "Street Number",
+    "Quadrant",
+    "Address point",
+    "Street Type"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.dc.gov/datasets/f323f677b3f34fe08956b8fcce3ace44_3\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Location_WebMercator/MapServer/3\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/f323f677b3f34fe08956b8fcce3ace44_3.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "https://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "f323f677b3f34fe08956b8fcce3ace44_3",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:38:19Z",
+  "centroid_s": "38.89273331355,-77.01324663695",
+  "solr_geom": "ENVELOPE(-77.1143061884, -76.9121870855, 38.9922755836, 38.7931910435)",
+  "solr_year_i": 2015,
+  "thumbnail_path_ss": ""
+}

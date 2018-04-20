@@ -1,0 +1,40 @@
+{
+  "uuid": "baa14b73ba2f4d39b575713db8b42bb9_8",
+  "dc_identifier_s": "baa14b73ba2f4d39b575713db8b42bb9_8",
+  "dc_title_s": "Forest Health Points: Michigan",
+  "dc_description_s": "Point data derived from the coordinates or section centroid entered into the Forest Health Citrix App.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "State of Michigan"
+  ],
+  "dc_creator_sm": "Michigan Department of Transportation",
+  "dc_subject_sm": [
+    "Environment",
+    "Economy"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://hub.arcgis.com/datasets/baa14b73ba2f4d39b575713db8b42bb9_8\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gisago.mcgi.state.mi.us/arcgis/rest/services/DNR/dnrForestHealthAndPlanning/MapServer/8\",\"http://schema.org/downloadUrl\":\"https://hub.arcgis.com/datasets/baa14b73ba2f4d39b575713db8b42bb9_8.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015-10-29",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Michigan, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5001836"
+  ],
+  "layer_slug_s": "baa14b73ba2f4d39b575713db8b42bb9_8",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:38:21Z",
+  "centroid_s": "44.34595,-86.2922",
+  "solr_geom": "ENVELOPE(-90.2912, -82.2932, 46.9972, 41.6947)",
+  "solr_year_i": 2015,
+  "thumbnail_path_ss": "https://gisago.mcgi.state.mi.us/arcgis/rest/services/DNR/dnrForestHealthAndPlanning/MapServer/info/thumbnail"
+}

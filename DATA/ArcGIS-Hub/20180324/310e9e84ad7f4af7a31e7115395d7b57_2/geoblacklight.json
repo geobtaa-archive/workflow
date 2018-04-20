@@ -1,0 +1,44 @@
+{
+  "uuid": "310e9e84ad7f4af7a31e7115395d7b57_2",
+  "dc_identifier_s": "310e9e84ad7f4af7a31e7115395d7b57_2",
+  "dc_title_s": "City Service Requests: Washington, D.C., 2011",
+  "dc_description_s": "Data provided here are from the DC's 311 service request center. They represent all service requests such as abandoned automobiles Requests are received by the Office of Unified Communications (OUC) through the Mayor's Call Center (311)dc.govThe Office of Unified Communications (OUC) oversees the designated call center for all 311 calls and for all District 911 calls.Please also visit the DC 311 Service Request Map which allows the public to see service requests in the last 30 days. Users can view requests by Ward within charts. Just set the area filter to select service requests. Click on a service request to view details.http://311.dc.gov",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": "District of Columbia GIS Program",
+  "dc_subject_sm": [
+    "Environment",
+    "Resident",
+    "311",
+    "Service requests",
+    "Public Service",
+    "Call center"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.dc.gov/datasets/310e9e84ad7f4af7a31e7115395d7b57_2\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/ServiceRequests/MapServer/2\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/310e9e84ad7f4af7a31e7115395d7b57_2.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016",
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "https://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "310e9e84ad7f4af7a31e7115395d7b57_2",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:38:20Z",
+  "centroid_s": "38.895,-77.036",
+  "solr_geom": "ENVELOPE(-77.176, -76.896, 39.035, 38.755)",
+  "solr_year_i": 2011,
+  "thumbnail_path_ss": ""
+}

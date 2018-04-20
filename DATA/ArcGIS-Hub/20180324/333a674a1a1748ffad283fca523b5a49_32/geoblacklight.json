@@ -1,0 +1,39 @@
+{
+  "uuid": "333a674a1a1748ffad283fca523b5a49_32",
+  "dc_identifier_s": "333a674a1a1748ffad283fca523b5a49_32",
+  "dc_title_s": "Historical Parcel Lots: Washington, D.C.",
+  "dc_description_s": "The dataset contains locations and attributes of historical or retired Parcel Lot polygons, created as part of the DC Geographic Information System (DC GIS) for the D.C. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies. These features are created when a property transaction occurs that changes the lot. Please visit http://vpm.dc.gov/ for additional information.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": "City of Washington, DC",
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/333a674a1a1748ffad283fca523b5a49_32\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Property_and_Land_WebMercator/MapServer/32\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/333a674a1a1748ffad283fca523b5a49_32.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015-02-27",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "https://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "333a674a1a1748ffad283fca523b5a49_32",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:38:19Z",
+  "centroid_s": "38.8992,-77.0157",
+  "solr_geom": "ENVELOPE(-77.0996, -76.9317, 38.9877, 38.8106)",
+  "solr_year_i": 2015,
+  "thumbnail_path_ss": "https://www.arcgis.com/sharing/rest/content/items/333a674a1a1748ffad283fca523b5a49/info/thumbnail/thumbnail.gif"
+}

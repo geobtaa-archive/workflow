@@ -1,0 +1,44 @@
+{
+  "uuid": "111b31a212814aad9320d301ccf9d6a9_20",
+  "dc_identifier_s": "111b31a212814aad9320d301ccf9d6a9_20",
+  "dc_title_s": "High Technology Development Zones: Washington, D.C.",
+  "dc_description_s": "High Tech Development Zones. The dataset contains locations and attributes of High Tech Development ZonesC. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies. The legislation and sources from the DC Executive Office of the Mayor (EOM) for Planning and Economic Development identified High Tech Development Zones and DC GIS staff geo-processed the data. All DC GIS data is stored and exported in Maryland State Plane coordinates NAD 83 meters. METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": "District of Columbia GIS Program",
+  "dc_subject_sm": [
+    "Planning and Cadastral",
+    "Economy",
+    "Incentive",
+    "Poverty",
+    "Development",
+    "Business"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.dc.gov/datasets/111b31a212814aad9320d301ccf9d6a9_20\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Business_and_Economic_Development_WebMercator/MapServer/20\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/111b31a212814aad9320d301ccf9d6a9_20.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "https://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "111b31a212814aad9320d301ccf9d6a9_20",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:38:20Z",
+  "centroid_s": "38.89373684835,-77.01447334625",
+  "solr_geom": "ENVELOPE(-77.1199125793, -76.9090341132, 38.99596369, 38.7915100067)",
+  "solr_year_i": 2015,
+  "thumbnail_path_ss": ""
+}

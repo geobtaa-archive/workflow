@@ -1,0 +1,42 @@
+{
+  "uuid": "bc047164e3f64081b15ab5056f3ef7ab_27",
+  "dc_identifier_s": "bc047164e3f64081b15ab5056f3ef7ab_27",
+  "dc_title_s": "Great Lakes Assessment Units: Michigan",
+  "dc_description_s": "Great Lakes Assessment Units",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "State of Michigan"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Environment",
+    "Inland Waters"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://hub.arcgis.com/datasets/bc047164e3f64081b15ab5056f3ef7ab_27\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gisago.mcgi.state.mi.us/arcgis/rest/services/OpenData/hydro/MapServer/27\",\"http://schema.org/downloadUrl\":\"https://hub.arcgis.com/datasets/bc047164e3f64081b15ab5056f3ef7ab_27.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2017-04-27",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Michigan, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5001836"
+  ],
+  "layer_slug_s": "bc047164e3f64081b15ab5056f3ef7ab_27",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:38:21Z",
+  "centroid_s": "44.8218,-87.1045",
+  "solr_geom": "ENVELOPE(-92.2091, -81.9999, 48.1134, 41.5302)",
+  "solr_year_i": 2017,
+  "thumbnail_path_ss": "https://gisago.mcgi.state.mi.us/arcgis/rest/services/OpenData/hydro/MapServer/info/thumbnail"
+}

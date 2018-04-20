@@ -1,0 +1,41 @@
+{
+  "uuid": "26021bbc3c0541e09cb9c449fc7041f3_0",
+  "dc_identifier_s": "26021bbc3c0541e09cb9c449fc7041f3_0",
+  "dc_title_s": "Traffic Restrictions: South Bend, Indiana",
+  "dc_description_s": "Traffic restrictions in the City of South Bend. This data may not include all road restrictions. Locations and dates are subject to change.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of South Bend, Indiana"
+  ],
+  "dc_creator_sm": "City of South Bend, Indiana",
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Purdue",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data-southbend.opendata.arcgis.com/datasets/26021bbc3c0541e09cb9c449fc7041f3_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/0n2NelSAfR7gTkr1/arcgis/rest/services/Traffic_Restrictions/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"https://data-southbend.opendata.arcgis.com/datasets/26021bbc3c0541e09cb9c449fc7041f3_0.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016-05-27",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "South Bend, Indiana, United States",
+    "Indiana, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4926563",
+    "http://sws.geonames.org/4921868"
+  ],
+  "layer_slug_s": "26021bbc3c0541e09cb9c449fc7041f3_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:39:26Z",
+  "centroid_s": "41.679,-86.254",
+  "solr_geom": "ENVELOPE(-86.329, -86.179, 41.754, 41.604)",
+  "solr_year_i": 2016,
+  "thumbnail_path_ss": "https://services1.arcgis.com/0n2NelSAfR7gTkr1/arcgis/rest/services/Traffic_Restrictions/FeatureServer/info/thumbnail"
+}

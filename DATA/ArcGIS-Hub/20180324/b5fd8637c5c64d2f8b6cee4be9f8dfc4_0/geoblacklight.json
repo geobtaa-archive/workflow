@@ -1,0 +1,39 @@
+{
+  "uuid": "b5fd8637c5c64d2f8b6cee4be9f8dfc4_0",
+  "dc_identifier_s": "b5fd8637c5c64d2f8b6cee4be9f8dfc4_0",
+  "dc_title_s": "Toll Plazas - Toll Express Lanes: Maryland",
+  "dc_description_s": "This is a MD iMAP hosted service. Find more information on http://imap.maryland.govThis service displays the line data of all the Toll Express Lanes in Maryland Last updated: 08/2016",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dc_creator_sm": "Maryland iMap",
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.imap.maryland.gov/datasets/b5fd8637c5c64d2f8b6cee4be9f8dfc4_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://geodata.md.gov/imap/rest/services/Transportation/MD_TollPlazas/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"https://data.imap.maryland.gov/datasets/b5fd8637c5c64d2f8b6cee4be9f8dfc4_0.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Maryland, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4361885"
+  ],
+  "layer_slug_s": "b5fd8637c5c64d2f8b6cee4be9f8dfc4_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:39:25Z",
+  "centroid_s": "39.22795,-76.80345",
+  "solr_geom": "ENVELOPE(-77.1682, -76.4387, 39.3888, 39.0671)",
+  "solr_year_i": 2016,
+  "thumbnail_path_ss": "https://geodata.md.gov/imap/rest/services/Transportation/MD_TollPlazas/FeatureServer/info/thumbnail"
+}

@@ -1,0 +1,42 @@
+{
+  "uuid": "4bcb804f09fb4267a2ac3eeb7ba35e47_0",
+  "dc_identifier_s": "4bcb804f09fb4267a2ac3eeb7ba35e47_0",
+  "dc_title_s": "311 Svc Requests: Minneapolis, Minnesota, 2013",
+  "dc_description_s": "The data provided are public-facing service requests that were taken by 311 contact center agents, or through online and mobile applications, and entered the Lagan CRM system during 2016. The two main identifiers of data, with which users of the open data should converse with 311, are the Case ID and the Type Name field. Type name is the common used title for a service request among city staff, 311, and the community at large.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Minneapolis, Minnesota"
+  ],
+  "dc_creator_sm": "MapIT Minneapolis",
+  "dc_subject_sm": [
+    "Location",
+    "Utilities and Communication"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/4bcb804f09fb4267a2ac3eeb7ba35e47_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Public_311_2013/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/4bcb804f09fb4267a2ac3eeb7ba35e47_0.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2018-03-01",
+  "dct_temporal_sm": [
+    "2013"
+  ],
+  "dct_spatial_sm": [
+    "Minneapolis, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "dc_relation_sm": [
+    "https://sws.geonames.org/5037649",
+    "https://sws.geonames.org/5037779"
+  ],
+  "layer_slug_s": "4bcb804f09fb4267a2ac3eeb7ba35e47_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:39:25Z",
+  "centroid_s": "44.9705,-93.2637",
+  "solr_geom": "ENVELOPE(-93.3293, -93.1981, 45.0512, 44.8898)",
+  "solr_year_i": 2013,
+  "thumbnail_path_ss": "https://www.arcgis.com/sharing/rest/content/items/4bcb804f09fb4267a2ac3eeb7ba35e47/info/thumbnail/thumbnail.png"
+}

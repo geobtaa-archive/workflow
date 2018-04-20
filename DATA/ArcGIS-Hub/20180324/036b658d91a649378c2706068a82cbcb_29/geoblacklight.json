@@ -1,0 +1,44 @@
+{
+  "uuid": "036b658d91a649378c2706068a82cbcb_29",
+  "dc_identifier_s": "036b658d91a649378c2706068a82cbcb_29",
+  "dc_title_s": "Highway Plan Lines: Washington, D.C.",
+  "dc_description_s": "Highway Plan Lines. The dataset contains locations and attributes of highway planning linesC. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies. There are lines that occurred on the city' 1901-1905 set of master plans for all proposed roads. Very few of the actual lines have been captured in this dataset. Please visit http://vpm.dc.gov/ for additional information. All DC GIS data is stored and exported in Maryland State Plane coordinates NAD 83 meters. METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": "District of Columbia GIS Program",
+  "dc_subject_sm": [
+    "Planning and Cadastral",
+    "Location",
+    "Lot",
+    "Square",
+    "Property",
+    "Land"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.dc.gov/datasets/036b658d91a649378c2706068a82cbcb_29\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Property_and_Land_WebMercator/MapServer/29\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/036b658d91a649378c2706068a82cbcb_29.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "https://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "036b658d91a649378c2706068a82cbcb_29",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:38:20Z",
+  "centroid_s": "38.89549251545,-77.0210582077",
+  "solr_geom": "ENVELOPE(-77.0985542567, -76.9435621587, 38.9428692441, 38.8481157868)",
+  "solr_year_i": 2015,
+  "thumbnail_path_ss": ""
+}

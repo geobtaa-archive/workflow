@@ -1,0 +1,38 @@
+{
+  "uuid": "c71abe33-1e5e-4f26-8157-47557adc0acf",
+  "dc_identifier_s": "c71abe33-1e5e-4f26-8157-47557adc0acf",
+  "dc_title_s": "Designated Wetlands: Iowa",
+  "dc_description_s": "Designated Wetlands This zip file contains a shapefile of the designated wetlands and their setback requirements.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Iowa Geodata"
+  ],
+  "dc_creator_sm": "Iowa Department of Natural Resources",
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "dct_provenance_s": "Iowa",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.iowa.gov/dataset/designated-wetlands\",\"http://schema.org/downloadUrl\":\"http://iowageodata.s3.amazonaws.com/inlandWaters/designated_wetlands.zip\"}",
+  "dct_isPartOf_sm": "Iowa GeoData",
+  "dct_issued_s": "2017-12-29",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dct_spatial_sm": [
+    "Iowa, United States"
+  ],
+  "dc_relation_sm": [
+    "https://sws.geonames.org/4862219"
+  ],
+  "layer_slug_s": "c71abe33-1e5e-4f26-8157-47557adc0acf",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-19T23:7:4Z",
+  "centroid_s": "41.9383,-93.3935",
+  "solr_geom": "ENVELOPE(-96.6395, -90.1401, 43.5049, 40.3754)",
+  "solr_year_i": 2017
+}

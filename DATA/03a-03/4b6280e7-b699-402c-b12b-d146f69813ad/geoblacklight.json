@@ -1,0 +1,38 @@
+{
+  "uuid": "4b6280e7-b699-402c-b12b-d146f69813ad",
+  "dc_identifier_s": "4b6280e7-b699-402c-b12b-d146f69813ad",
+  "dc_title_s": "County-wide Mosaics of 7.5 Minute USGS Topographic Maps: Iowa",
+  "dc_description_s": "Topographic Maps Each zip file contains a MrSid compressed image of the topographic quads of a certain Iowa county.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Raster Dataset",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Iowa Geodata"
+  ],
+  "dc_creator_sm": "Iowa Department of Natural Resources",
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "dct_provenance_s": "Iowa",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.iowa.gov/dataset/topographic-maps\",\"http://schema.org/downloadUrl\":\"https://iowageodata.s3.amazonaws.com/imageryBaseMapsEarthCover/baseMaps/USGS_Topographic_Maps/County_Topos/USGS_Topos_County_Downloads.html\"}",
+  "dct_isPartOf_sm": "Iowa GeoData",
+  "dct_issued_s": "2018-02-20",
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dct_spatial_sm": [
+    "Iowa, United States"
+  ],
+  "dc_relation_sm": [
+    "https://sws.geonames.org/4862240"
+  ],
+  "layer_slug_s": "4b6280e7-b699-402c-b12b-d146f69813ad",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2018-3-19T23:7:4Z",
+  "centroid_s": "41.9383,-93.3956",
+  "solr_geom": "ENVELOPE(-96.6395, -90.1401, 43.5070, 40.3754)",
+  "solr_year_i": 2018
+}

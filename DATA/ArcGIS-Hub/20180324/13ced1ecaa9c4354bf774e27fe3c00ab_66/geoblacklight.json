@@ -1,0 +1,42 @@
+{
+  "uuid": "13ced1ecaa9c4354bf774e27fe3c00ab_66",
+  "dc_identifier_s": "13ced1ecaa9c4354bf774e27fe3c00ab_66",
+  "dc_title_s": "Bicycle Count Locations: Washington, D.C.",
+  "dc_description_s": "Bicycle Count Locations. The dataset contains locations and attributes of Bicycle Count Locations It reflects the current count locations being conducted by MWCOG. All DC GIS data is stored and exported in Maryland State Plane coordinates NAD 83 meters. METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": "District of Columbia GIS Program",
+  "dc_subject_sm": [
+    "Transportation",
+    "Count",
+    "Bicycles",
+    "Traffic"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.dc.gov/datasets/13ced1ecaa9c4354bf774e27fe3c00ab_66\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Transportation_WebMercator/MapServer/66\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/13ced1ecaa9c4354bf774e27fe3c00ab_66.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "https://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "13ced1ecaa9c4354bf774e27fe3c00ab_66",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:38:20Z",
+  "centroid_s": "38.9175437126,-77.02746407265",
+  "solr_geom": "ENVELOPE(-77.1138907282, -76.9410374171, 38.9661320122, 38.868955413)",
+  "solr_year_i": 2015,
+  "thumbnail_path_ss": ""
+}

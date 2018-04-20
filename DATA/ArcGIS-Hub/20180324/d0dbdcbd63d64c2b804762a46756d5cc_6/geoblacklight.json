@@ -1,0 +1,42 @@
+{
+  "uuid": "d0dbdcbd63d64c2b804762a46756d5cc_6",
+  "dc_identifier_s": "d0dbdcbd63d64c2b804762a46756d5cc_6",
+  "dc_title_s": "OC Recreational Facility: Oakland County, Michigan",
+  "dc_description_s": "The data was created by geocoding to parcels a list compiled from the Oakland County Emergency Preparedness and Response Division using the address information provided in the list. The list was compiled in May 2002 and has not been updated since. Key attributes include name and address for each facility.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Oakland County, Michigan"
+  ],
+  "dc_creator_sm": "Access Oakland",
+  "dc_subject_sm": [
+    "Structure",
+    "Society"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://accessoakland.oakgov.com/datasets/d0dbdcbd63d64c2b804762a46756d5cc_6\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gisservices.oakgov.com/arcgis/rest/services/Enterprise/EnterpriseFacilitiesDataMapService/MapServer/6\",\"http://schema.org/downloadUrl\":\"https://accessoakland.oakgov.com/datasets/d0dbdcbd63d64c2b804762a46756d5cc_6.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016-10-16",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Oakland County, Michigan, United States",
+    "Michigan, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5004223",
+    "http://sws.geonames.org/5001836"
+  ],
+  "layer_slug_s": "d0dbdcbd63d64c2b804762a46756d5cc_6",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:38:21Z",
+  "centroid_s": "42.6598425,-83.3843095",
+  "solr_geom": "ENVELOPE(-83.694337, -83.074282, 42.893598, 42.426087)",
+  "solr_year_i": 2016,
+  "thumbnail_path_ss": "https://gisservices.oakgov.com/arcgis/rest/services/Enterprise/EnterpriseFacilitiesDataMapService/MapServer/info/thumbnail"
+}

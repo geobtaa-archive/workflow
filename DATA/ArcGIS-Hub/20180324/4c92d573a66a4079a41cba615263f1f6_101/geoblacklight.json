@@ -1,0 +1,39 @@
+{
+  "uuid": "4c92d573a66a4079a41cba615263f1f6_101",
+  "dc_identifier_s": "4c92d573a66a4079a41cba615263f1f6_101",
+  "dc_title_s": "Bus Parking: Washington, D.C.",
+  "dc_description_s": "Bus Parking location. The dataset contains locations and attributes of locations for Bus Parking locations Each location was collected manually",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": "District of Columbia GIS Program",
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.dc.gov/datasets/4c92d573a66a4079a41cba615263f1f6_101\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Transportation_WebMercator/MapServer/101\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/4c92d573a66a4079a41cba615263f1f6_101.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "https://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "4c92d573a66a4079a41cba615263f1f6_101",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:38:20Z",
+  "centroid_s": "38.8967450118,-77.01447879645",
+  "solr_geom": "ENVELOPE(-77.0708828659, -76.958074727, 38.9333543234, 38.8601357002)",
+  "solr_year_i": 2015,
+  "thumbnail_path_ss": ""
+}

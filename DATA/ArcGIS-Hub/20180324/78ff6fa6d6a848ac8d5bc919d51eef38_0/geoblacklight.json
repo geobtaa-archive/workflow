@@ -1,0 +1,43 @@
+{
+  "uuid": "78ff6fa6d6a848ac8d5bc919d51eef38_0",
+  "dc_identifier_s": "78ff6fa6d6a848ac8d5bc919d51eef38_0",
+  "dc_title_s": "Equity Through Access - Priority Score: Delaware Valley",
+  "dc_description_s": "The Equity Through Access (ETA) project of the Delaware Valley Regional Planning Commission (DVRPC) is an update to the region's Coordinated Human Services Transportation Plan (CHSTP). The ETA project engaged a variety of stakeholders to identify unmet needs and service gaps, recommend innovative transportation access solutions, and empower communities to climb ladders of opportunity towards greater social and economic mobility.As part of the ETA project, DVRPC developed the Priority Score to visualize where gaps in service may be occurring. The data in this dataset is used in the ETA Map ToolkitThis Census block group level dataset aims to highlight:areas of vulnerable populations; areas of essential services; where there's a spatial mismatch between vulnerable populations and essential services; areas of low transit accessibility; areas where there's a greater need for transit services to improve mobility for vulnerable populations to essential services",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Delaware Valley Regional Planning Commission"
+  ],
+  "dc_creator_sm": "Delaware Valley Regional Planning Commission",
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/78ff6fa6d6a848ac8d5bc919d51eef38_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://arcgis.dvrpc.org/arcgis/rest/services/Planning/DVRPC_ETA_PScore/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/78ff6fa6d6a848ac8d5bc919d51eef38_0.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2017-04-14",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dct_spatial_sm": [
+    "Delaware River, Delaware, United States",
+    "Delaware, United States",
+    "Pennsylvania, United States",
+    "Maryland, United States"
+  ],
+  "dc_relation_sm": [
+    "https://sws.geonames.org/4142210",
+    "https://sws.geonames.org/4142224"
+  ],
+  "layer_slug_s": "78ff6fa6d6a848ac8d5bc919d51eef38_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:39:25Z",
+  "centroid_s": "40.059,-75.26635",
+  "solr_geom": "ENVELOPE(-76.1514, -74.3813, 40.6087, 39.5093)",
+  "solr_year_i": 2017,
+  "thumbnail_path_ss": ""
+}

@@ -1,0 +1,41 @@
+{
+  "uuid": "9b842741ed5d4a678172d4c9415e352b_12",
+  "dc_identifier_s": "9b842741ed5d4a678172d4c9415e352b_12",
+  "dc_title_s": "Indiana University Health People Mover, Indianapolis, Indiana",
+  "dc_description_s": "Line file representing the monorail in Indianapolis, Indiana. Data projection: NAD 1983 StatePlane Indiana East FIPS 1301 (US Feet)",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Indianapolis-Marion County"
+  ],
+  "dc_creator_sm": "City of Indianapolis-Marion County",
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Indiana",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data1-indygis.opendata.arcgis.com/datasets/9b842741ed5d4a678172d4c9415e352b_12\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://imaps.indy.gov/arcgis/rest/services/OpenData_Transportation/FeatureServer/12\",\"http://schema.org/downloadUrl\":\"https://data1-indygis.opendata.arcgis.com/datasets/9b842741ed5d4a678172d4c9415e352b_12.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015-12-17",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Indianapolis, Indiana, United States",
+    "Indiana, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4259418",
+    "http://sws.geonames.org/4921868"
+  ],
+  "layer_slug_s": "9b842741ed5d4a678172d4c9415e352b_12",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:39:25Z",
+  "centroid_s": "39.78295,-86.1706",
+  "solr_geom": "ENVELOPE(-86.1782, -86.163, 39.7886, 39.7773)",
+  "solr_year_i": 2017,
+  "thumbnail_path_ss": ""
+}

@@ -1,0 +1,41 @@
+{
+  "uuid": "673e398341e246ecb47c1d4b61cec362_0",
+  "dc_identifier_s": "673e398341e246ecb47c1d4b61cec362_0",
+  "dc_title_s": "Snow Emergency Jane Tags: Minneapolis, Minnesota, 2017",
+  "dc_description_s": "This is the information about the number and location of tags (parking tickets) during this snow emergency. Tag data will be retained for all Snow Emergencies in each snow season, until there is five full seasons of snow emergencies. Disclaimer: At this point we only have the tag data enclosed for day 2 and day 3 the snow emergencies. Day 1 tag data is collected manually and is not available at this time electronically. There is also an expected address error rate of between 5 and 10 percent. Snow Emergency Tags 2016/2017 Season #2 Jane (1/11/17 thru 1/13/17)",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Minneapolis, Minnesota"
+  ],
+  "dc_creator_sm": "MapIT Minneapolis",
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.minneapolismn.gov/datasets/673e398341e246ecb47c1d4b61cec362_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/SnowEmergencyJaneTags/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"https://opendata.minneapolismn.gov/datasets/673e398341e246ecb47c1d4b61cec362_0.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2017-01-24",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dct_spatial_sm": [
+    "Minneapolis, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5037649",
+    "http://sws.geonames.org/5037779"
+  ],
+  "layer_slug_s": "673e398341e246ecb47c1d4b61cec362_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:39:26Z",
+  "centroid_s": "44.970697,-93.2614785",
+  "solr_geom": "ENVELOPE(-93.329163, -93.193794, 45.05125, 44.890144)",
+  "solr_year_i": 2017,
+  "thumbnail_path_ss": ""
+}

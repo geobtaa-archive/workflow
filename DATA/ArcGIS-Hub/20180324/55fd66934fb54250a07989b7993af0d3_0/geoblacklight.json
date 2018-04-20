@@ -1,0 +1,43 @@
+{
+  "uuid": "55fd66934fb54250a07989b7993af0d3_0",
+  "dc_identifier_s": "55fd66934fb54250a07989b7993af0d3_0",
+  "dc_title_s": "Road Safety Audits: Delaware Valley",
+  "dc_description_s": "Road safety audit study locations in the DVRPC region.? Road Safety Audits - Focused analysis to make high-crash road sections safer for all users, conducted in close coordination with municipalities, counties, and state agencies",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Delaware Valley Regional Planning Commission"
+  ],
+  "dc_creator_sm": "Delaware Valley Regional Planning Commission",
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/55fd66934fb54250a07989b7993af0d3_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://arcgis.dvrpc.org/arcgis/rest/services/Transportation/RoadSafetyAudit/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/55fd66934fb54250a07989b7993af0d3_0.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016-01-21",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "Delaware River, Delaware, United States",
+    "Delaware, United States",
+    "Pennsylvania, United States",
+    "Maryland, United States"
+  ],
+  "dc_relation_sm": [
+    "https://sws.geonames.org/4142210",
+    "https://sws.geonames.org/4142224"
+  ],
+  "layer_slug_s": "55fd66934fb54250a07989b7993af0d3_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:39:25Z",
+  "centroid_s": "40.07185,-75.1985",
+  "solr_geom": "ENVELOPE(-75.9618, -74.4352, 40.5581, 39.5856)",
+  "solr_year_i": 2016,
+  "thumbnail_path_ss": ""
+}

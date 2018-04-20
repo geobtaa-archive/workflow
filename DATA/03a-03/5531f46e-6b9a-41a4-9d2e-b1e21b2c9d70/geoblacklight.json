@@ -1,0 +1,44 @@
+{
+  "uuid": "5531f46e-6b9a-41a4-9d2e-b1e21b2c9d70",
+  "dc_identifier_s": "5531f46e-6b9a-41a4-9d2e-b1e21b2c9d70",
+  "dc_title_s": "Groundwater Quality Characteristics: Iowa",
+  "dc_description_s": [
+
+  ],
+  "dc_rights_s": "Public",
+  "dc_format_s": "Geodatabase",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Iowa Geodata"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "dct_provenance_s": "Iowa",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.iowa.gov/dataset/characteristics-iowas-groundwater-aquifers\",\"http://schema.org/downloadUrl\":\"https://iowageodata.s3.amazonaws.com/inlandWaters/ground_water/GW_Quality.zip\"}",
+  "dct_isPartOf_sm": "Iowa GeoData",
+  "dct_issued_s": [
+
+  ],
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Iowa, United States"
+  ],
+  "dc_relation_sm": [
+    "https://sws.geonames.org/4862272"
+  ],
+  "layer_slug_s": "5531f46e-6b9a-41a4-9d2e-b1e21b2c9d70",
+  "layer_geom_type_s": "Mixed",
+  "layer_modified_dt": "2018-3-19T23:7:4Z",
+  "centroid_s": "41.9383,-93.3988",
+  "solr_geom": "ENVELOPE(-96.6395, -90.1401, 43.5102, 40.3754)",
+  "solr_year_i": 2018
+}

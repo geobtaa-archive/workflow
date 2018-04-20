@@ -1,0 +1,46 @@
+{
+  "uuid": "7e688a52e65d49c0beef48289860f465_0",
+  "dc_identifier_s": "7e688a52e65d49c0beef48289860f465_0",
+  "dc_title_s": "Parking Violations: Washington, D.C., January 2016",
+  "dc_description_s": "Parking citation locations in the District of Columbia. TheVision Zero data contained in this layer pertain to parking violations issued by the District of Columbia'sMetropolitan Police Department (MPD) and partner agencies with the authority. For exampleParking violation locations are summarized ticket counts based on time of dayData was originally downloaded from the District Department of Motor Vehicle's eTIMS meter work order management system. Data was exported into DDOT s SQL server Data was then visualized using the street segment centroid coordinates.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": "District of Columbia GIS Program",
+  "dc_subject_sm": [
+    "Transportation",
+    "Vision Zero",
+    "Public works",
+    "Police",
+    "Enforcement",
+    "Parking",
+    "Parking violation",
+    "Parking enforcement"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.dc.gov/datasets/7e688a52e65d49c0beef48289860f465_0\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Violations_Parking_2016/MapServer/0\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/7e688a52e65d49c0beef48289860f465_0.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "https://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "7e688a52e65d49c0beef48289860f465_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:38:20Z",
+  "centroid_s": "38.895,-77.036",
+  "solr_geom": "ENVELOPE(-77.176, -76.896, 39.035, 38.755)",
+  "solr_year_i": 2016,
+  "thumbnail_path_ss": ""
+}

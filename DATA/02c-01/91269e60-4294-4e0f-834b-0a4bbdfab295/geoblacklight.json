@@ -1,0 +1,38 @@
+{
+  "uuid": "91269e60-4294-4e0f-834b-0a4bbdfab295",
+  "dc_identifier_s": "91269e60-4294-4e0f-834b-0a4bbdfab295",
+  "dc_title_s": "Ward Offices: Chicago, Illinois",
+  "dc_description_s": "Ward office locations for aldermen. The data can be viewed on the Chicago Data Portal with a web browser. However, to view or use the files outside of a web browser, you will need to use compression software and special GIS software, such as ESRI ArcGIS (shapefile) or Google Earth (KML or KMZ).",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Chicago, Illinois"
+  ],
+  "dc_creator_sm": "City of Chicago",
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "dct_provenance_s": "Illinois",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.cityofchicago.org/d/fwns-qqic\",\"http://schema.org/downloadUrl\":\"https://data.cityofchicago.org/api/geospatial/fwns-qqic?method=export&format=Original\"}",
+  "dct_isPartOf_sm": "City of Chicago Data Portal",
+  "dct_issued_s": "2015-07-16",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "Chicago, Illinois, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4887398"
+  ],
+  "layer_slug_s": "91269e60-4294-4e0f-834b-0a4bbdfab295",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2018-3-19T19:12:57Z",
+  "centroid_s": "41.8533005,-87.67122",
+  "solr_geom": "ENVELOPE(-87.9402669, -87.523661, 42.023190, 41.6443349)",
+  "solr_year_i": 2015
+}

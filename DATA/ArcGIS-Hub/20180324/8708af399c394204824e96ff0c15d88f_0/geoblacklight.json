@@ -1,0 +1,41 @@
+{
+  "uuid": "8708af399c394204824e96ff0c15d88f_0",
+  "dc_identifier_s": "8708af399c394204824e96ff0c15d88f_0",
+  "dc_title_s": "Building Footprint: Maryland",
+  "dc_description_s": "There is no description available.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Baltimore, Maryland"
+  ],
+  "dc_creator_sm": "City of Baltimore, Maryland",
+  "dc_subject_sm": [
+    "Structure"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gis-baltimore.opendata.arcgis.com/datasets/8708af399c394204824e96ff0c15d88f_0\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.baltimorecity.gov/egis/rest/services/opengisdata/Building_Footprint/MapServer/0\",\"http://schema.org/downloadUrl\":\"https://gis-baltimore.opendata.arcgis.com/datasets/8708af399c394204824e96ff0c15d88f_0.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2017-12-08",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Baltimore, Maryland, United States",
+    "Maryland, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4347778",
+    "http://sws.geonames.org/4361885"
+  ],
+  "layer_slug_s": "8708af399c394204824e96ff0c15d88f_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:38:22Z",
+  "centroid_s": "39.28665,-76.62015",
+  "solr_geom": "ENVELOPE(-76.7122, -76.5281, 39.3727, 39.2006)",
+  "solr_year_i": 2017,
+  "thumbnail_path_ss": "http://gis.baltimorecity.gov/egis/rest/services/opengisdata/Building_Footprint/MapServer/info/thumbnail"
+}

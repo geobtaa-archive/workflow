@@ -1,0 +1,45 @@
+{
+  "uuid": "dd571b8f95ac4077b3d4b90efe8dd13d_22",
+  "dc_identifier_s": "dd571b8f95ac4077b3d4b90efe8dd13d_22",
+  "dc_title_s": "Public Use Microdata Areas (PUMA): Washington, D.C.",
+  "dc_description_s": "The TIGER/Line Shapefiles are an extract of selected geographic and cartographic information from the Census MAF/TIGER database. The Census MAF/TIGER database represents a seamless national file with no overlaps or gaps between parts. However Public Use Microdata Area (PUMA)",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": "District of Columbia GIS Program",
+  "dc_subject_sm": [
+    "Boundaries",
+    "Demographic",
+    "People",
+    "Tract",
+    "Census tract",
+    "County or Equivalent Entity",
+    "County or Equivalent Entity"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.dc.gov/datasets/dd571b8f95ac4077b3d4b90efe8dd13d_22\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Demographic_WebMercator/MapServer/22\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/dd571b8f95ac4077b3d4b90efe8dd13d_22.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "https://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "dd571b8f95ac4077b3d4b90efe8dd13d_22",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:38:19Z",
+  "centroid_s": "38.8935742644,-77.0145621122",
+  "solr_geom": "ENVELOPE(-77.1198618046, -76.9092624198, 38.9955551888, 38.79159334)",
+  "solr_year_i": 2015,
+  "thumbnail_path_ss": ""
+}

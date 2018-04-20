@@ -1,0 +1,41 @@
+{
+  "uuid": "a657b34942564aa8b06f293cb0934cbd_1",
+  "dc_identifier_s": "a657b34942564aa8b06f293cb0934cbd_1",
+  "dc_title_s": "Building Footprints: Washington, D.C.",
+  "dc_description_s": "Building. The dataset contains polygons representing planimetric buildingsC. Office of the Chief Technology Officer (OCTO). This is a complete new capture from aerial photography flown in mid to Late April This is part of a comprehensive sensor collection effort to sychronize orthophotos The following planimetric layers were updated: - Barrier Lines- Building Polygons- Bridge and Tunnel Polygons- Curb Lines- Grate Points- Horizontal and Vertical Control Points- Hydrography Lines- Obscured Area Polygons- Railroad Lines- Road FOR THESE AREAS",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": "District of Columbia GIS Program",
+  "dc_subject_sm": [
+    "Structure",
+    "Building",
+    "Planimetrics"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.dc.gov/datasets/a657b34942564aa8b06f293cb0934cbd_1\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Facility_and_Structure/MapServer/1\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/a657b34942564aa8b06f293cb0934cbd_1.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "https://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "a657b34942564aa8b06f293cb0934cbd_1",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:38:20Z",
+  "centroid_s": "38.9029913357,-77.0123806248",
+  "solr_geom": "ENVELOPE(-77.115184957, -76.9095762926, 38.995622468, 38.8103602034)",
+  "solr_year_i": 2015,
+  "thumbnail_path_ss": ""
+}

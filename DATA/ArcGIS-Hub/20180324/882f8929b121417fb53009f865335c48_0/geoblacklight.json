@@ -1,0 +1,43 @@
+{
+  "uuid": "882f8929b121417fb53009f865335c48_0",
+  "dc_identifier_s": "882f8929b121417fb53009f865335c48_0",
+  "dc_title_s": "Indicators of Potential Disadvantage: Delaware Valley",
+  "dc_description_s": "2015 Tract-level Indicators of Potential Disadvantage for the DVRPC RegionTitle VI of the Civil Rights Act and the Executive Order on Environmental Justice (#12898) do not provide specific guidance to evaluate EJ issues within a region's transportation planning process. Therefore, MPOs must devise their own methods for ensuring that EJ issues are investigated and evaluated in transportation decision-making. In 2001, DVRPC developed an EJ technical assessment to identify direct and disparate impacts of its plans, programs, and planning process on defined population groups in the Delaware Valley region. This assessment, called the Indicators of Potential Disadvantage Methodology, is utilized in a variety of DVRPC plans and programs. DVRPC currently assesses the following population groups, defined by the U.S. Census Bureau:Non-Hispanic MinorityCarless HouseholdsHouseholds in PovertyFemale Head of Household with ChildElderly (over 75 years)HispanicLimited English ProficiencyPersons with DisabilitiesCensus tables used to gather data from the 2011 - 2015 American Community Survey 5-Year EstimatesUniverse: PopulationTotal PopulationElderly (over 75 years)B01001_ElderlyNon-Hispanic MinorityB03002_Non-Hispanic MinorityHispanic or LatinoB03003_HispanicUniverse: Civilian Noninstitutionalized PopulationTotal Civilian Noninstitutionalized PopulationPersons with Physical DisabilitiesS1810_DisabilityUniverse: HouseholdsTotal HouseholdsFemale Head of Household with ChildB11005_FemHoHwithChildHouseholds in PovertyB17017_HHinPovCarless HouseholdsB25044_CarlessHHUniverse: Population, 5 years and olderPopulation 5yrs+Limited English ProficiencyB16004_LimitedEngProfUsing U.S. Census American Community Survey data, the population groups listed above are identified and located at the census tract level. Data is gathered at the regional level, combining populations from each of the nine counties, for either individuals or households, depending on the indicator. From there, the total number of persons in each demographic group is divided by the appropriate universe (either population or households) for the nine-county region, providing a regional average for that population group. Any census tract that meets or exceeds the regional average level, or threshold, is considered an EJ-sensitive tract for that group.Census tables used to gather data from the 2011 - 2015 American Community Survey 5-Year EstimatesFor more information and for methodology, visit DVRPC's website:http://www.dvrpc.org/GetInvolved/TitleVI/Source of tract boundaries: US Census Bureau. The TIGER/Line Files",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Delaware Valley Regional Planning Commission"
+  ],
+  "dc_creator_sm": "Delaware Valley Regional Planning Commission",
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/882f8929b121417fb53009f865335c48_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://arcgis.dvrpc.org/arcgis/rest/services/Demographics/IPD/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/882f8929b121417fb53009f865335c48_0.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015-07-15",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "Delaware River, Delaware, United States",
+    "Delaware, United States",
+    "Pennsylvania, United States",
+    "Maryland, United States"
+  ],
+  "dc_relation_sm": [
+    "https://sws.geonames.org/4142210",
+    "https://sws.geonames.org/4142224"
+  ],
+  "layer_slug_s": "882f8929b121417fb53009f865335c48_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:39:25Z",
+  "centroid_s": "40.059,-75.26635",
+  "solr_geom": "ENVELOPE(-76.1514, -74.3813, 40.6087, 39.5093)",
+  "solr_year_i": 2015,
+  "thumbnail_path_ss": ""
+}

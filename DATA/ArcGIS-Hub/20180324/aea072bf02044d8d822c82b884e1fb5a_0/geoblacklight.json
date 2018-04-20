@@ -1,0 +1,39 @@
+{
+  "uuid": "aea072bf02044d8d822c82b884e1fb5a_0",
+  "dc_identifier_s": "aea072bf02044d8d822c82b884e1fb5a_0",
+  "dc_title_s": "Barrier Deficiency Point: Iowa",
+  "dc_description_s": "Inventory of Barrier Deficiency points in State of Iowa.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Iowa Department of Transportation"
+  ],
+  "dc_creator_sm": "Iowa DOT GIS Services",
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Iowa",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://public-iowadot.opendata.arcgis.com/datasets/aea072bf02044d8d822c82b884e1fb5a_0\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.iowadot.gov/public/rest/services/Maintenance/Traffic_Barriers/MapServer/0\",\"http://schema.org/downloadUrl\":\"https://public-iowadot.opendata.arcgis.com/datasets/aea072bf02044d8d822c82b884e1fb5a_0.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016-11-23",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Iowa, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4862182"
+  ],
+  "layer_slug_s": "aea072bf02044d8d822c82b884e1fb5a_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:38:22Z",
+  "centroid_s": "41.938366,-93.3898885",
+  "solr_geom": "ENVELOPE(-96.639717, -90.14006, 43.501133, 40.375599)",
+  "solr_year_i": 2016,
+  "thumbnail_path_ss": ""
+}

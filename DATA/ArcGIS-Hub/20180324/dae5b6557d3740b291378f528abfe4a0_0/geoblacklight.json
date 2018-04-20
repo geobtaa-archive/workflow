@@ -1,0 +1,41 @@
+{
+  "uuid": "dae5b6557d3740b291378f528abfe4a0_0",
+  "dc_identifier_s": "dae5b6557d3740b291378f528abfe4a0_0",
+  "dc_title_s": "South Bend Businesses Open to All Customers: South Bend, Indiana",
+  "dc_description_s": "These businesses are committed to a welcoming environment for everyone regardless of race, religion, or sexual orientation.All submissions are subject to review prior to being published. View the Businesses Open to All Customers listing: https://data.southbendin.gov/Business/South-Bend-Businesses-Open-to-All-Customers/mqet-2q6r",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of South Bend, Indiana"
+  ],
+  "dc_creator_sm": "City of South Bend, Indiana",
+  "dc_subject_sm": [
+    "Economy"
+  ],
+  "dct_provenance_s": "Purdue",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data-southbend.opendata.arcgis.com/datasets/dae5b6557d3740b291378f528abfe4a0_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/0n2NelSAfR7gTkr1/arcgis/rest/services/South_Bend_Businesses_Open_to_All_Customers/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"https://data-southbend.opendata.arcgis.com/datasets/dae5b6557d3740b291378f528abfe4a0_0.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016-05-27",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "South Bend, Indiana, United States",
+    "Indiana, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4926563",
+    "http://sws.geonames.org/4921868"
+  ],
+  "layer_slug_s": "dae5b6557d3740b291378f528abfe4a0_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:39:26Z",
+  "centroid_s": "41.679,-86.254",
+  "solr_geom": "ENVELOPE(-86.329, -86.179, 41.754, 41.604)",
+  "solr_year_i": 2016,
+  "thumbnail_path_ss": "https://services1.arcgis.com/0n2NelSAfR7gTkr1/arcgis/rest/services/South_Bend_Businesses_Open_to_All_Customers/FeatureServer/info/thumbnail"
+}

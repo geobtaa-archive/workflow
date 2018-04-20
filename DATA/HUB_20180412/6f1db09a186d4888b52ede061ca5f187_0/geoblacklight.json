@@ -1,0 +1,46 @@
+{
+  "uuid": "6f1db09a186d4888b52ede061ca5f187_0",
+  "dc_identifier_s": "6f1db09a186d4888b52ede061ca5f187_0",
+  "dc_title_s": "Sewer Manholes: Stark County, Ohio",
+  "dc_description_s": "This dataset represents Sewer Manholes in the Stark County sanitary sewer system. Most features were placed with a handheld GPS unit with +/- 3 ft accuracy. There is no vertical element to this dataset. These points are for REFERENCE ONLY and represent a close approximation to the actual location.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "State of Ohio"
+  ],
+  "dc_creator_sm": [
+    "Ohio Geographically Referenced Information Program"
+  ],
+  "dc_subject_sm": [
+    "Utilities and Communication",
+    "Location"
+  ],
+  "dct_provenance_s": "Ohio",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/6f1db09a186d4888b52ede061ca5f187_0\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://scgisa.starkcountyohio.gov/arcgis/rest/services/SanitaryEngineer/SewerNetwork/MapServer/0\",\"http://schema.org/downloadUrl\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/6f1db09a186d4888b52ede061ca5f187_0.zip\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2018-03-26",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Stark County, Ohio, United States",
+    "Ohio, United States"
+  ],
+  "layer_slug_s": "6f1db09a186d4888b52ede061ca5f187_0",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2018-04-12T16:46:41Z",
+  "solr_geom": "ENVELOPE(-81.6198, -81.1261, 40.9905, 40.6475)",
+  "solr_year_i": 2018,
+  "centroid_ss": "40.8190,-81.3730",
+  "b1g_geonames_sm": [
+
+  ],
+  "thumbnail_path_ss": "",
+  "geoblacklight_version": "1.0"
+}

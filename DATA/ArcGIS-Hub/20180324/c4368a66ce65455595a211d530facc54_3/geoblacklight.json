@@ -1,0 +1,41 @@
+{
+  "uuid": "c4368a66ce65455595a211d530facc54_3",
+  "dc_identifier_s": "c4368a66ce65455595a211d530facc54_3",
+  "dc_title_s": "Basic Business License: Washington, D.C., 2012",
+  "dc_description_s": "Basic Business Licenses. In order to operate legally in District of Columbiadc.gov/DC/DCRA\">Department of Consumer and Regulatory Affairs (DCRA). The Basic Business License (BBL) Program streamlines District of Columbia business licensing procedures. The BBL groups licenses by the type of business activity and regulatory approvals required. The dataset shows issued business licenses from 2012 in the following categories: all housing licensesThese data are shared via an automated process where addresses are batch matched (geocoded) to the District's Master Address Repository. Users may find that some data points will contain 0 Addresses for these data points could not be automatically geocoded and will need to be manually geocoded to 'best fit' locations in DC. Use the MAR Geocoder to help complete this.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": "District of Columbia GIS Program",
+  "dc_subject_sm": [
+    "Economy",
+    "Feeds",
+    "Basic Business License"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.dc.gov/datasets/c4368a66ce65455595a211d530facc54_3\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/MapServer/3\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/c4368a66ce65455595a211d530facc54_3.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+    "2012"
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "https://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "c4368a66ce65455595a211d530facc54_3",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:38:20Z",
+  "centroid_s": "38.895,-77.036",
+  "solr_geom": "ENVELOPE(-77.176, -76.896, 39.035, 38.755)",
+  "solr_year_i": 2012,
+  "thumbnail_path_ss": ""
+}

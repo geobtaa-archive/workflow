@@ -1,0 +1,41 @@
+{
+  "uuid": "33c3db3ad6bc49599f1fc81c1a3ba499_0",
+  "dc_identifier_s": "33c3db3ad6bc49599f1fc81c1a3ba499_0",
+  "dc_title_s": "Historic Preservation Commission Landmarks: Minneapolis, Minnesota",
+  "dc_description_s": "Field Descriptions HIST_NAME = historic name HIST_USE = historic use; CUR_NAME = current name; CUR_USE = current use; CONST_YEAR = year constructed (if known); ARCHITECTS = architects who designed project; CONTRACTOR = contractor who worked on project; STYLE = architectural styleLOCAL_DESI = year locally designated SIGNIFICAN = historic criteria in which it is significant For questions about this data please contact CPEDOpenData@minneapolismn.gov",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Minneapolis, Minnesota"
+  ],
+  "dc_creator_sm": "MapIT Minneapolis",
+  "dc_subject_sm": [
+    "Location"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.minneapolismn.gov/datasets/33c3db3ad6bc49599f1fc81c1a3ba499_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/HPC_Landmarks/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"https://opendata.minneapolismn.gov/datasets/33c3db3ad6bc49599f1fc81c1a3ba499_0.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2017-03-15",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Minneapolis, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5037649",
+    "http://sws.geonames.org/5037779"
+  ],
+  "layer_slug_s": "33c3db3ad6bc49599f1fc81c1a3ba499_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:39:27Z",
+  "centroid_s": "44.970697,-93.2614785",
+  "solr_geom": "ENVELOPE(-93.329163, -93.193794, 45.05125, 44.890144)",
+  "solr_year_i": 2017,
+  "thumbnail_path_ss": ""
+}

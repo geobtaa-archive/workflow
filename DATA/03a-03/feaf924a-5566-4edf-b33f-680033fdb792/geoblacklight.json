@@ -1,0 +1,42 @@
+{
+  "uuid": "feaf924a-5566-4edf-b33f-680033fdb792",
+  "dc_identifier_s": "feaf924a-5566-4edf-b33f-680033fdb792",
+  "dc_title_s": "Four-Band Aerial Photography Dates: Iowa, 2007, 2009, 2010",
+  "dc_description_s": [
+
+  ],
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Iowa Geodata"
+  ],
+  "dc_creator_sm": "Iowa Department of Natural Resources",
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "dct_provenance_s": "Iowa",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.iowa.gov/dataset/2007-2009-and-2010-four-band-aerial-photography-iowa\",\"http://schema.org/downloadUrl\":\"http://iowageodata.s3.amazonaws.com/imageryBaseMapsEarthCover/imagery/imagery_2007-09-10_2x4/Airphotos_2007_2x4_dates.zip\"}",
+  "dct_isPartOf_sm": "Iowa GeoData",
+  "dct_issued_s": [
+
+  ],
+  "dct_temporal_sm": [
+    "2007, 2009, 2010"
+  ],
+  "dct_spatial_sm": [
+    "Iowa, United States"
+  ],
+  "dc_relation_sm": [
+    "https://sws.geonames.org/4862253"
+  ],
+  "layer_slug_s": "feaf924a-5566-4edf-b33f-680033fdb792",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-19T23:7:4Z",
+  "centroid_s": "41.9383,-93.3969",
+  "solr_geom": "ENVELOPE(-96.6395, -90.1401, 43.5083, 40.3754)",
+  "solr_year_i": 2007
+}

@@ -1,0 +1,41 @@
+{
+  "uuid": "ANT-REF-MK2508-002",
+  "dc_identifier_s": "ANT-REF-MK2508-002",
+  "dc_title_s": "Bryan Coast - Ellsworth Land: Antarctica",
+  "dc_description_s": "Projection: Polar Stereographic Projection: Standard Parallel -71°; Series: USGS Sketch Maps",
+  "dc_rights_s": "Public",
+  "dc_format_s": "GeoTIFF",
+  "dc_language_s": [
+
+  ],
+  "dc_type_s": "Image",
+  "dc_publisher_sm": [
+    "United States Geological Survey"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Sketch maps"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://maps.apps.pgc.umn.edu/id/108\",\"http://schema.org/downloadUrl\":\"http://data.pgc.umn.edu/maps/antarctica/usgs/08/geo/Bryan Coast to Ellsworth Land.zip\"}",
+  "dct_isPartOf_sm": "Polar Geospatial Center",
+  "dct_issued_s": "1967",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Antarctica"
+  ],
+  "dc_relation_sm": [
+    "https://sws.geonames.org/6255152"
+  ],
+  "layer_slug_s": "ANT-REF-MK2508-002",
+  "layer_geom_type_s": "Scanned Map",
+  "layer_modified_dt": "2018-3-20T22:12:9Z",
+  "centroid_s": "-74,-82.5",
+  "solr_geom": "ENVELOPE(-75, -90, -72, -76)",
+  "solr_year_i": 1967,
+  "thumbnail_path_ss": "http://data.pgc.umn.edu/maps/antarctica/usgs/08/preview/Bryan Coast to Ellsworth Land.jpg"
+}

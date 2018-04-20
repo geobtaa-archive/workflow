@@ -1,0 +1,39 @@
+{
+  "uuid": "d0c39bcc92cf4c128d373cde385ca812_2",
+  "dc_identifier_s": "d0c39bcc92cf4c128d373cde385ca812_2",
+  "dc_title_s": "Emergency Work Requests (via DDOT TOPs): Washington, D.C.",
+  "dc_description_s": "This data sets shows emergency work requests from DDOT's Transportation Online Permitting System. https://tops.ddot.dc.gov/",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": "District of Columbia GIS Program",
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.dc.gov/datasets/d0c39bcc92cf4c128d373cde385ca812_2\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DDOT/MapServer/2\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/d0c39bcc92cf4c128d373cde385ca812_2.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2014",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "https://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "d0c39bcc92cf4c128d373cde385ca812_2",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:38:20Z",
+  "centroid_s": "38.9042,-77.012",
+  "solr_geom": "ENVELOPE(-77.1143, -76.9097, 38.995, 38.8134)",
+  "solr_year_i": 2014,
+  "thumbnail_path_ss": ""
+}

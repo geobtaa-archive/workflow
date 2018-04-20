@@ -1,0 +1,39 @@
+{
+  "uuid": "e64d3571cd794118bcd63dbcc80f96ef_3",
+  "dc_identifier_s": "e64d3571cd794118bcd63dbcc80f96ef_3",
+  "dc_title_s": "Moving Violations Issued in April 2013: Washington, D.C.",
+  "dc_description_s": "Moving citation locations in the District of Columbia. The Vision Zero data contained in this layer pertain to moving violations issued by the District of Columbia's Metropolitan Police Department (MPD) and partner agencies with the authority. For example, DC's enforcement camera program cites speeders, blocking the box, and other moving offenses..Moving violation locations are summarized ticket counts based on time of day, week of year, year, and category of violation.Data was originally downloaded from the District Department of Motor Vehicle's eTIMS meter work order management system. Data was exported into DDOT s SQL server, where theOffice of the Chief Technology Officer (OCTO) geocoded citation data to the street segment level. Data was then visualized using the street segment centroid coordinates.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": "District of Columbia GIS Program",
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.dc.gov/datasets/e64d3571cd794118bcd63dbcc80f96ef_3\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Violations_Moving_2013/MapServer/3\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/e64d3571cd794118bcd63dbcc80f96ef_3.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016",
+  "dct_temporal_sm": [
+    "2013"
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "https://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "e64d3571cd794118bcd63dbcc80f96ef_3",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:38:21Z",
+  "centroid_s": "38.90445,-77.0107",
+  "solr_geom": "ENVELOPE(-77.1118, -76.9096, 38.9923, 38.8166)",
+  "solr_year_i": 2013,
+  "thumbnail_path_ss": ""
+}

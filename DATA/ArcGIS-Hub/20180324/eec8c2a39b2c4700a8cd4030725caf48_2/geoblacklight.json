@@ -1,0 +1,49 @@
+{
+  "uuid": "eec8c2a39b2c4700a8cd4030725caf48_2",
+  "dc_identifier_s": "eec8c2a39b2c4700a8cd4030725caf48_2",
+  "dc_title_s": "Moving Violations: Washington, D.C., March 2016",
+  "dc_description_s": "Moving citation locations in the District of Columbia. TheVision Zero data contained in this layer pertain to moving violations issued by the District of Columbia'sMetropolitan Police Department (MPD) and partner agencies with the authority. For example.Moving violation locations are summarized ticket counts based on time of dayData was originally downloaded from the District Department of Motor Vehicle's eTIMS meter work order management system. Data was exported into DDOT s SQL server Data was then visualized using the street segment centroid coordinates.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": "District of Columbia GIS Program",
+  "dc_subject_sm": [
+    "Transportation",
+    "Society",
+    "Moving violations",
+    "Vision Zero",
+    "Public works",
+    "Police",
+    "Enforcement",
+    "Vision Zero",
+    "Parking",
+    "Parking violation",
+    "Parking enforcement"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.dc.gov/datasets/eec8c2a39b2c4700a8cd4030725caf48_2\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Violations_Moving_2016/MapServer/2\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/eec8c2a39b2c4700a8cd4030725caf48_2.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "https://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "eec8c2a39b2c4700a8cd4030725caf48_2",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:38:19Z",
+  "centroid_s": "38.895,-77.036",
+  "solr_geom": "ENVELOPE(-77.176, -76.896, 39.035, 38.755)",
+  "solr_year_i": 2016,
+  "thumbnail_path_ss": ""
+}

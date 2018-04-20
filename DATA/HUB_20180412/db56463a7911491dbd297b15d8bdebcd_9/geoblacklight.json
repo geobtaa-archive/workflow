@@ -1,0 +1,44 @@
+{
+  "uuid": "db56463a7911491dbd297b15d8bdebcd_9",
+  "dc_identifier_s": "db56463a7911491dbd297b15d8bdebcd_9",
+  "dc_title_s": "ODOT Active Railroad Network: Ohio",
+  "dc_description_s": "The rail file illustrates the rail network in Ohio.  This file is supplied by PUCO/Ohio Rail Commission.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "State of Ohio"
+  ],
+  "dc_creator_sm": [
+    "Ohio Geographically Referenced Information Program"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Ohio",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/db56463a7911491dbd297b15d8bdebcd_9\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"http://geo.oit.ohio.gov/arcgis/rest/services/ODOT/ODOT_Features/FeatureServer/9\",\"http://schema.org/downloadUrl\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/db56463a7911491dbd297b15d8bdebcd_9.zip\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2014-10-21",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Ohio, United States"
+  ],
+  "layer_slug_s": "db56463a7911491dbd297b15d8bdebcd_9",
+  "layer_geom_type_s": "Line",
+  "layer_modified_dt": "2018-04-12T16:47:35Z",
+  "solr_geom": "ENVELOPE(-84.9180, -80.4803, 41.9870, 38.3680)",
+  "solr_year_i": 2014,
+  "centroid_ss": "40.1775,-82.6992",
+  "b1g_geonames_sm": [
+
+  ],
+  "thumbnail_path_ss": "",
+  "geoblacklight_version": "1.0"
+}

@@ -1,0 +1,39 @@
+{
+  "uuid": "6fe6ffbb9cc8400da7403bebe4b5f669_19",
+  "dc_identifier_s": "6fe6ffbb9cc8400da7403bebe4b5f669_19",
+  "dc_title_s": "Archived Protected Lands Acquisitions - Environmental Trust 2009 Land Acquisitions Detail: Maryland",
+  "dc_description_s": "This is a MD iMAP hosted service. Find more information on http://imap.maryland.gov. The Maryland Environmental Trust (MET) is a statewide local land trust governed by a citizen Board of Trustees. Since its creation by the General Assembly in 1967, MET's main goal is the preservation of open land, such as farmland, forest land, and significant natural resources. The primary tool for doing this is the conservation easement, a voluntary agreement between a landowner and the MET Board of Trustees.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dc_creator_sm": "Maryland iMap",
+  "dc_subject_sm": [
+    "Environment"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.imap.maryland.gov/datasets/6fe6ffbb9cc8400da7403bebe4b5f669_19\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://archive.geodata.md.gov/imap/rest/services/Environment/MD_ArchivedProtectedLandsAcquisitions/FeatureServer/19\",\"http://schema.org/downloadUrl\":\"https://data.imap.maryland.gov/datasets/6fe6ffbb9cc8400da7403bebe4b5f669_19.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016",
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "dct_spatial_sm": [
+    "Maryland, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4361885"
+  ],
+  "layer_slug_s": "6fe6ffbb9cc8400da7403bebe4b5f669_19",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:39:26Z",
+  "centroid_s": "38.9793,-77.5273",
+  "solr_geom": "ENVELOPE(-79.3631, -75.6915, 39.721, 38.2376)",
+  "solr_year_i": 2009,
+  "thumbnail_path_ss": "https://archive.geodata.md.gov/imap/rest/services/Environment/MD_ArchivedProtectedLandsAcquisitions/FeatureServer/info/thumbnail"
+}

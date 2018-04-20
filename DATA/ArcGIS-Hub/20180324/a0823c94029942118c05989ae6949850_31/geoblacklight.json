@@ -1,0 +1,67 @@
+{
+  "uuid": "a0823c94029942118c05989ae6949850_31",
+  "dc_identifier_s": "a0823c94029942118c05989ae6949850_31",
+  "dc_title_s": "Census Blocks Centroid: Washington, D.C., 2010",
+  "dc_description_s": "Census blocks centroids created from the 2010 census blocks. The overall metadata describes the process and content of the block boundary file. Centroids were generated from it post-processing.The TIGER/Line Files are shapefiles and related database files (.dbf) that are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB).",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": "District of Columbia GIS Program",
+  "dc_subject_sm": [
+    "Boundaries",
+    "Census",
+    "Blocks",
+    "Demographic",
+    "Population",
+    "108th congressional district Code",
+    "Elementary school district local education agency code",
+    "106th congressional district Code",
+    "3 digit ZIP Code tabulation area code",
+    "Voting district code",
+    "5 digit ZIP Code tabulation area code",
+    "Topological faces",
+    "State Legislative District Upper Chamber Code",
+    "Tribal Subdivision Code",
+    "Legislative Session year",
+    "Tabulation block number",
+    "State Legislative District Lower Chamber Code",
+    "County or Equivalent Entity",
+    "County or Equivalent Entity",
+    "Unified School District Local Education Agency Code",
+    "Urban area code",
+    "Block group",
+    "Traffic analysis zone code",
+    "Secondary School District local education agency code",
+    "Number",
+    "Landwater flag",
+    "Census Tract Number",
+    "Rreservation or Offreservation Trust Land Indicator",
+    "Table"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.dc.gov/datasets/a0823c94029942118c05989ae6949850_31\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Demographic_WebMercator/MapServer/31\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/a0823c94029942118c05989ae6949850_31.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016",
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "https://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "a0823c94029942118c05989ae6949850_31",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:38:20Z",
+  "centroid_s": "38.8931,-77.0145",
+  "solr_geom": "ENVELOPE(-77.1187, -76.9103, 38.9936, 38.7926)",
+  "solr_year_i": 2010,
+  "thumbnail_path_ss": ""
+}

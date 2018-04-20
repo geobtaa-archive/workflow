@@ -1,0 +1,38 @@
+{
+  "uuid": "af93e918-d36a-47fb-a38d-e04691b3b998",
+  "dc_identifier_s": "af93e918-d36a-47fb-a38d-e04691b3b998",
+  "dc_title_s": "Chicago Transit Authority (CTA) Bus Stops: Chicago, Illinois",
+  "dc_description_s": "Map representing locations of CTA bus stops.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Chicago, Illinois"
+  ],
+  "dc_creator_sm": "City of Chicago",
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Illinois",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.cityofchicago.org/d/hvnx-qtky\",\"http://schema.org/downloadUrl\":\"https://data.cityofchicago.org/api/geospatial/hvnx-qtky?method=export&format=Original\"}",
+  "dct_isPartOf_sm": "City of Chicago Data Portal",
+  "dct_issued_s": "2017-02-26",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dct_spatial_sm": [
+    "Chicago, Illinois, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4887398"
+  ],
+  "layer_slug_s": "af93e918-d36a-47fb-a38d-e04691b3b998",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2018-3-19T19:12:57Z",
+  "centroid_s": "41.854429,-87.704998",
+  "solr_geom": "ENVELOPE(-87.9402669, -87.523661, 42.023201, 41.6443349)",
+  "solr_year_i": 2017
+}

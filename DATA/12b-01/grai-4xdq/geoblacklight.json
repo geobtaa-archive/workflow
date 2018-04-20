@@ -1,0 +1,46 @@
+{
+  "uuid": "grai-4xdq",
+  "dc_identifier_s": "grai-4xdq",
+  "dc_title_s": "Cemetery Points: Cook County, Illinois",
+  "dc_description_s": "The purpose of this dataset is to indicate a central location within (when a single feature) or among all the polygons (when a multi-part feature) that constitute that complete cultural feature area of each cemetery in Cook County, Illinois.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Cook County, Illinois"
+  ],
+  "dc_creator_sm": [
+    "Cook County GIS Department"
+  ],
+  "dc_subject_sm": [
+    "Location",
+    "Society"
+  ],
+  "dct_provenance_s": "Chicago",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://datacatalog.cookcountyil.gov/d/grai-4xdq\",\"http://schema.org/downloadUrl\":\"https://datacatalog.cookcountyil.gov/api/geospatial/grai-4xdq?method=export&format=Shapefile\"}",
+  "dct_isPartOf_sm": [
+    "Cook County Open Data"
+  ],
+  "dct_issued_s": "2014-02-28",
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "dct_spatial_sm": [
+    "Cook County, Illinois, United States",
+    "Illinois, United States"
+  ],
+  "layer_slug_s": "grai-4xdq",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2018-04-12T20:46:20Z",
+  "solr_geom": "ENVELOPE(-88.2635, -87.5237, 42.1543, 41.6443)",
+  "solr_year_i": 2014,
+  "centroid_ss": "41.8993,-87.8936",
+  "b1g_geonames_sm": [
+
+  ],
+  "thumbnail_path_ss": "",
+  "geoblacklight_version": "1.0"
+}

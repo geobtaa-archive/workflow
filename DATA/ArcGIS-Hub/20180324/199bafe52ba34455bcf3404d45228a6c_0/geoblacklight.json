@@ -1,0 +1,40 @@
+{
+  "uuid": "199bafe52ba34455bcf3404d45228a6c_0",
+  "dc_identifier_s": "199bafe52ba34455bcf3404d45228a6c_0",
+  "dc_title_s": "Designated Water Trails: Michigan",
+  "dc_description_s": "Feature service of DNR managed GIS data to be published on the MI DNR Open Data site.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "State of Michigan"
+  ],
+  "dc_creator_sm": "Minnesota Department of Natural Resources",
+  "dc_subject_sm": [
+    "Environment",
+    "Inland Waters"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://hub.arcgis.com/datasets/199bafe52ba34455bcf3404d45228a6c_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services3.arcgis.com/Jdnp1TjADvSDxMAX/arcgis/rest/services/open_Trails/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"https://hub.arcgis.com/datasets/199bafe52ba34455bcf3404d45228a6c_0.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2017-04-27",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Michigan, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5001836"
+  ],
+  "layer_slug_s": "199bafe52ba34455bcf3404d45228a6c_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:39:27Z",
+  "centroid_s": "44.5905,-86.28855",
+  "solr_geom": "ENVELOPE(-90.2544, -82.3227, 47.4852, 41.6958)",
+  "solr_year_i": 2017,
+  "thumbnail_path_ss": "https://services3.arcgis.com/Jdnp1TjADvSDxMAX/arcgis/rest/services/open_Trails/FeatureServer/info/thumbnail"
+}

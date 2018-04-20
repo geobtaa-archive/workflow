@@ -1,0 +1,39 @@
+{
+  "uuid": "08103b01d0414cdd97e9407fe067ed51_3",
+  "dc_identifier_s": "08103b01d0414cdd97e9407fe067ed51_3",
+  "dc_title_s": "Network - Commercial and Industrial: Iowa",
+  "dc_description_s": "Commercial and Industrial Network information for the centerline road segments in the State of Iowa.1. Purpose. It is the purpose of this section to enhance opportunities for the development and diversification of the state s economy through the identification and improvement of a network of commercial and industrial highways. The network shall consist of interconnected routes which provide long distance route continuity. The purpose of this highway network shall be to improve the flow of commerce; to make travel more convenient, safe, and efficient; and to better connect Iowa with regional, national, and international markets. The commission shall concentrate a major portion of its annual construction budget on this network of commercial and industrial highways. In order to ensure the greatest possible availability of funds for the improvement of the network, primary highway funds shall not be spent beyond continuing maintenance for improvements to route segments that will be bypassed by the relocation of portions of the commercial and industrial highway network.\t2. Network selection.a. The commission shall identify, within the primary road system, a network of commercial and industrial highways. The commission shall consider all of the following factors in the identification of this network: i. The connection by the most direct routes feasible of major urban areas and regions of the state to each other and to the national system of interstate and defense highways and priority routes in adjacent states. ii. The existence of high volumes of total traffic and commercial traffic. iii. Long distance traffic movements. iv. Area coverage and balance of spacing with service to major growth centers within the state. v. Metropolitan area bypasses consistent with metropolitan or regional area plans established through cooperation by the department and local officials.b. The network of commercial and industrial highways shall not exceed two thousand six hundred miles including municipal extensions of these highways.\t3. Standards. The department shall establish standards pertaining to the specific location, design, and access control for each segment of the commercial and industrial highways.\t4. Network development. In establishing priorities for improvement projects, the department shall take into consideration the following additional criteria: urban area bypasses that improve urban or regional accessibility or improve corridor travel; projects consistent with regional or metropolitan transportation plans established through cooperation by the department and local officials; and the willingness of local officials to provide financial or other assistance for the development of projects.Source: Iowa Code Section 313.2A Primary Roads: Commercial and Industrial Highways. http://search.legis.state.ia.us/nxt/gateway.dll/ic/1/13/10856/10857/11188/11191 f=templatesfn=default.htm.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Iowa Department of Transportation"
+  ],
+  "dc_creator_sm": "Iowa DOT GIS Services",
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Iowa",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://public-iowadot.opendata.arcgis.com/datasets/08103b01d0414cdd97e9407fe067ed51_3\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://gis.iowadot.gov/public/rest/services/Systems_Planning/Network/FeatureServer/3\",\"http://schema.org/downloadUrl\":\"https://public-iowadot.opendata.arcgis.com/datasets/08103b01d0414cdd97e9407fe067ed51_3.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016-11-08",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Iowa, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4862182"
+  ],
+  "layer_slug_s": "08103b01d0414cdd97e9407fe067ed51_3",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:39:26Z",
+  "centroid_s": "41.94915,-93.3779",
+  "solr_geom": "ENVELOPE(-96.6697, -90.0861, 43.5411, 40.3572)",
+  "solr_year_i": 2016,
+  "thumbnail_path_ss": ""
+}

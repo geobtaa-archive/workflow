@@ -1,0 +1,42 @@
+{
+  "uuid": "2f2b52c8-ce76-408b-a50a-a78e9c51909d",
+  "dc_identifier_s": "2f2b52c8-ce76-408b-a50a-a78e9c51909d",
+  "dc_title_s": "St. Louis World's Fair Louisiana Purchase Exposition, May to December, 1904.",
+  "dc_description_s": "Subjects: Maps.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "JPEG",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Image",
+  "dc_publisher_sm": [
+    "J.N. Matthews Co., the Matthews-Northrup Works"
+  ],
+  "dc_creator_sm": "J.N. Matthews Co.",
+  "dc_subject_sm": [
+
+  ],
+  "dct_provenance_s": "Penn State",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30216\",\"http://schema.org/downloadUrl\":\"https://collection1.libraries.psu.edu/utils/getdownloaditem/collection/maps1/id/30216/type/singleitem/filename/30385.jp2/width/8320/height/5698/mapsto/image/filesize/82281747/title/30385/size/fullSize\"}",
+  "dct_isPartOf_sm": "Penn State Rare Maps",
+  "dct_issued_s": [
+
+  ],
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "dct_spatial_sm": [
+    "Saint Louis, Missouri, United States",
+    "Missouri, United States"
+  ],
+  "dc_relation_sm": [
+
+  ],
+  "layer_slug_s": "2f2b52c8-ce76-408b-a50a-a78e9c51909d",
+  "layer_geom_type_s": "Scanned Map",
+  "layer_modified_dt": "2018-3-28T19:17:25Z",
+  "centroid_s": "38.6386115,-90.284722",
+  "solr_geom": "ENVELOPE(-90.304444, -90.265, 38.648056, 38.629167)",
+  "solr_year_i": 1903,
+  "thumbnail_path_ss": "https://collection1.libraries.psu.edu/utils/getthumbnail/collection/maps1/id/30216"
+}

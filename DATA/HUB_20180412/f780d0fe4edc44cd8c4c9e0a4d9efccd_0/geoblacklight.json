@@ -1,0 +1,45 @@
+{
+  "uuid": "f780d0fe4edc44cd8c4c9e0a4d9efccd_0",
+  "dc_identifier_s": "f780d0fe4edc44cd8c4c9e0a4d9efccd_0",
+  "dc_title_s": "Planning & Primary Zoning: Minneapolis, Minnesota",
+  "dc_description_s": "This dataset shows the latest Primary Zoning information for the City of Minneapolis.  Please refer to the City's Zoning Code webpage for more details about what each of the zoning codes mean and the type of uses allowed in each of the designated areas.  This information will be updated as changes are made to the underlying data.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Minneapolis, Minnesota"
+  ],
+  "dc_creator_sm": [
+    "MapIT Minneapolis"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/f780d0fe4edc44cd8c4c9e0a4d9efccd_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Planning_Primary_Zoning/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/f780d0fe4edc44cd8c4c9e0a4d9efccd_0.zip\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2018-03-27",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Minneapolis, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "f780d0fe4edc44cd8c4c9e0a4d9efccd_0",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2018-04-12T16:47:35Z",
+  "solr_geom": "ENVELOPE(-93.3291, -93.1943, 45.0512, 44.8906)",
+  "solr_year_i": 2018,
+  "centroid_ss": "44.9709,-93.2617",
+  "b1g_geonames_sm": [
+
+  ],
+  "thumbnail_path_ss": "",
+  "geoblacklight_version": "1.0"
+}

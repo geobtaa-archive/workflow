@@ -1,0 +1,46 @@
+{
+  "uuid": "e7b2cf859b584a899ca3a3fe67095695_59",
+  "dc_identifier_s": "e7b2cf859b584a899ca3a3fe67095695_59",
+  "dc_title_s": "Food Waste Drop-Off Sites at Participating Farmer's Markets: Washington, DC",
+  "dc_description_s": "The locations of farmer's markets participating in the Department of Public Works' (DPW) Food Waste Drop-Off program. District residents may drop off food waste at these locations during the designated hours, which will then be converted to compost. DPW seeks to host one drop-off location for each ward, although this is subject to change from year to year and based on the seasonality of farmers' markets. Layer was compiled by the Office of Planning based on DPW's public listing of dropoff sites. Due to the frequent changing of these locations for farmers' market seasonal openings and closings, check DPW's website at https://dpw.dc.gov/foodwastedropoff for the most up-to-date locations.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Health"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/e7b2cf859b584a899ca3a3fe67095695_59\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Public_Service_WebMercator/MapServer/59\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/e7b2cf859b584a899ca3a3fe67095695_59.zip\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2018-03-19",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington, DC, District of Columbia, United States",
+    "District of Columbia, United States"
+  ],
+  "layer_slug_s": "e7b2cf859b584a899ca3a3fe67095695_59",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2018-04-12T16:46:41Z",
+  "solr_geom": "ENVELOPE(-77.0687, -76.9489, 38.9562, 38.8424)",
+  "solr_year_i": 2018,
+  "centroid_ss": "38.8993,-77.0088",
+  "b1g_geonames_sm": [
+
+  ],
+  "thumbnail_path_ss": "",
+  "geoblacklight_version": "1.0"
+}

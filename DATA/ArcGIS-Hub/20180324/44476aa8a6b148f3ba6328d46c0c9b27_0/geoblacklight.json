@@ -1,0 +1,42 @@
+{
+  "uuid": "44476aa8a6b148f3ba6328d46c0c9b27_0",
+  "dc_identifier_s": "44476aa8a6b148f3ba6328d46c0c9b27_0",
+  "dc_title_s": "Snow Tows-Xerxes: Minneapolis, Minnesota, 2018",
+  "dc_description_s": "This is the information about the number and location of tows during this snow emergency. Tow data will be retained for all Snow Emergencies in each snow season, until there is five full seasons of snow emergencies. Disclaimer: There is an expected address error rate of between 8 and 14 percent. Snow Emergency Tows--2017/2018. Season #3 Xerxes (2/23/18 thru 2/25/18).",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Minneapolis, Minnesota"
+  ],
+  "dc_creator_sm": "MapIT Minneapolis",
+  "dc_subject_sm": [
+    "Location",
+    "Climatology, Meteorology and Atmosphere"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/44476aa8a6b148f3ba6328d46c0c9b27_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Snow_Emergency_Xerxes_Tows_2018/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/44476aa8a6b148f3ba6328d46c0c9b27_0.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2018-03-05",
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dct_spatial_sm": [
+    "Minneapolis, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "dc_relation_sm": [
+    "https://sws.geonames.org/5037649",
+    "https://sws.geonames.org/5037779"
+  ],
+  "layer_slug_s": "44476aa8a6b148f3ba6328d46c0c9b27_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:39:25Z",
+  "centroid_s": "44.9661,-93.2639",
+  "solr_geom": "ENVELOPE(-93.3189, -93.2088, 45.0399, 44.8923)",
+  "solr_year_i": 2018,
+  "thumbnail_path_ss": "https://www.arcgis.com/sharing/rest/content/items/44476aa8a6b148f3ba6328d46c0c9b27/info/thumbnail/thumbnail.png"
+}

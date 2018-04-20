@@ -1,0 +1,44 @@
+{
+  "uuid": "d10b2767-7211-4a6f-b2c0-d793354a344e",
+  "dc_identifier_s": "d10b2767-7211-4a6f-b2c0-d793354a344e",
+  "dc_title_s": "Recentis Romæ ichnographia et hypsographia sive planta et facies ad magnificentiam : qva svb Alexandro VII P.M. vrbs ipsa directa excvlta et decorata est.",
+  "dc_description_s": "Subjects: Rome (Italy)--Maps--Early works to 1800",
+  "dc_rights_s": "Public",
+  "dc_format_s": "JPEG",
+  "dc_language_s": [
+    "lat"
+  ],
+  "dc_type_s": "Image",
+  "dc_publisher_sm": [
+
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+
+  ],
+  "dct_provenance_s": "Penn State",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30286\",\"http://schema.org/downloadUrl\":\"https://collection1.libraries.psu.edu/utils/getdownloaditem/collection/maps1/id/30286/type/singleitem/filename/30423.jp2/width/8320/height/5698/mapsto/image/filesize/82281747/title/30423/size/fullSize\"}",
+  "dct_isPartOf_sm": "Penn State Rare Maps",
+  "dct_issued_s": [
+
+  ],
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Rome, Italy",
+    "Italy"
+  ],
+  "dc_relation_sm": [
+
+  ],
+  "layer_slug_s": "d10b2767-7211-4a6f-b2c0-d793354a344e",
+  "layer_geom_type_s": "Scanned Map",
+  "layer_modified_dt": "2018-3-28T19:17:25Z",
+  "centroid_s": "41.90986111,12.535972225",
+  "solr_geom": "ENVELOPE(12.34166667, 12.73027778, 42.05027778, 41.76944444)",
+  "solr_year_i": 9999,
+  "thumbnail_path_ss": "https://collection1.libraries.psu.edu/utils/getthumbnail/collection/maps1/id/30286"
+}

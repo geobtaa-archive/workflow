@@ -119,10 +119,9 @@
     <!--ONE TO ONE CROSSWALKED ELEMENTS -->
 
     <xsl:text>{&#xa;</xsl:text>
+
     <xsl:text>"uuid": "</xsl:text>
     <xsl:value-of select="$uuid"/>
-
-
     <xsl:text>",&#xa;</xsl:text>
 
     <xsl:text>"dc_identifier_s": "</xsl:text>
@@ -197,10 +196,10 @@
     <xsl:text>English",&#xa;</xsl:text>
 
 
-    <xsl:text>"dct_isPartOf_sm": "</xsl:text>
+    <xsl:text>"dct_isPartOf_sm": ["</xsl:text>
     <xsl:value-of
       select="gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:citation/gmd:CI_Citation/gmd:collectiveTitle"/>
-    <xsl:text>",&#xa;</xsl:text>
+    <xsl:text>"],&#xa;</xsl:text>
 
 
 
@@ -209,14 +208,14 @@
 
 
     <!--Thumbnail-->
-<!--
+
      <xsl:choose>
       <xsl:when test="gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:graphicOverview/gmd:MD_BrowseGraphic/gmd:fileName">
         <xsl:text>"thumbnail_path_ss": "</xsl:text>
         <xsl:value-of select="gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:graphicOverview/gmd:MD_BrowseGraphic/gmd:fileName"/>
         <xsl:text>",</xsl:text>
       </xsl:when>
-    </xsl:choose> -->
+    </xsl:choose>
 
 
 
@@ -602,7 +601,7 @@
     <xsl:choose>
       <xsl:when
         test="gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:extent/gmd:EX_Extent/gmd:temporalElement/gmd:EX_TemporalExtent/gmd:extent/gml:TimePeriod/gml:beginPosition/text() != ''">
-        <xsl:text>"dct_temporal_sm": "</xsl:text>
+        <xsl:text>"dct_temporal_sm": ["</xsl:text>
         <xsl:value-of
           select="substring(gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:extent/gmd:EX_Extent/gmd:temporalElement/gmd:EX_TemporalExtent/gmd:extent/gml:TimePeriod/gml:beginPosition, 1, 4)"/>
         <xsl:if
@@ -612,15 +611,15 @@
             select="substring(gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:extent/gmd:EX_Extent/gmd:temporalElement/gmd:EX_TemporalExtent/gmd:extent/gml:TimePeriod/gml:endPosition, 1, 4)"
           />
         </xsl:if>
-        <xsl:text>",&#xa;</xsl:text>
+        <xsl:text>"],&#xa;</xsl:text>
       </xsl:when>
 
       <xsl:when
         test="gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:extent/gmd:EX_Extent/gmd:temporalElement/gmd:EX_TemporalExtent/gmd:extent/gml:TimeInstant">
-        <xsl:text>"dct_temporal_sm": "</xsl:text>
+        <xsl:text>"dct_temporal_sm": ["</xsl:text>
         <xsl:value-of
           select="substring(gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:extent/gmd:EX_Extent/gmd:temporalElement/gmd:EX_TemporalExtent/gmd:extent/gml:TimeInstant/gml:timePosition, 1, 4)"/>
-        <xsl:text>",&#xa;</xsl:text>
+        <xsl:text>"],&#xa;</xsl:text>
       </xsl:when>
     </xsl:choose>
 
@@ -638,7 +637,7 @@
 
     <!--calculates centroid -->
 
-    <xsl:text>"centroid_s": "</xsl:text>
+    <xsl:text>"b1g_centroid_ss": "</xsl:text>
     <xsl:value-of select="($y1 + $y2) div 2"/>
     <xsl:text>,</xsl:text>
     <xsl:value-of select="($x1 + $x2) div 2"/>

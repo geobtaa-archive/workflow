@@ -1,0 +1,46 @@
+{
+  "uuid": "42e0fc6c1070401081e8683752fc3c66_4",
+  "dc_identifier_s": "42e0fc6c1070401081e8683752fc3c66_4",
+  "dc_title_s": "Pedestrian Counts at Intersection Screen Lines: Hennepin County, Minnesota",
+  "dc_description_s": "This data shows the location of intersection screen lines used to count bicycle and pedestrian traffic. There are two screen lines at each intersection. In order to capture pedestrian and bicycle traffic in both directions, volunteers count the number of pedestrians and bicyclists that cross each screen line. Screen lines are linked to intersections by a count location ID. Link to Attribute Table Information: http://gis.hennepin.us/OpenData/Metadata/PedestrianCountScreenLines.pdf. Data updated: annually.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Hennepin County, Minnesota"
+  ],
+  "dc_creator_sm": [
+    "Hennepin County"
+  ],
+  "dc_subject_sm": [
+    "Transportation",
+    "Planning and Cadastral"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://gis-hennepin.opendata.arcgis.com/datasets/42e0fc6c1070401081e8683752fc3c66_4\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.hennepin.us/arcgis/rest/services/HennepinData/TRANSPORTATION/MapServer/4\",\"http://schema.org/downloadUrl\":\"http://gis-hennepin.opendata.arcgis.com/datasets/42e0fc6c1070401081e8683752fc3c66_4.zip\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2018-03-20",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Hennepin County, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "42e0fc6c1070401081e8683752fc3c66_4",
+  "layer_geom_type_s": "Line",
+  "layer_modified_dt": "2018-04-12T16:46:41Z",
+  "solr_geom": "ENVELOPE(-93.4119, -93.2482, 45.0951, 44.8650)",
+  "solr_year_i": 2018,
+  "centroid_ss": "44.9801,-93.3301",
+  "b1g_geonames_sm": [
+
+  ],
+  "thumbnail_path_ss": "",
+  "geoblacklight_version": "1.0"
+}

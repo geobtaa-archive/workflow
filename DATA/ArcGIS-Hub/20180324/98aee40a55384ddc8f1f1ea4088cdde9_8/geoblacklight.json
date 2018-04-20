@@ -1,0 +1,41 @@
+{
+  "uuid": "98aee40a55384ddc8f1f1ea4088cdde9_8",
+  "dc_identifier_s": "98aee40a55384ddc8f1f1ea4088cdde9_8",
+  "dc_title_s": "National Parks by name: Washington, D.C.",
+  "dc_description_s": "Digital version of the National Park Service Map A All DC GIS data is stored and exported in Maryland State Plane coordinates NAD 83 meters. METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": "District of Columbia GIS Program",
+  "dc_subject_sm": [
+    "Location",
+    "Society",
+    "Park"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.dc.gov/datasets/98aee40a55384ddc8f1f1ea4088cdde9_8\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Recreation_WebMercator/MapServer/8\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/98aee40a55384ddc8f1f1ea4088cdde9_8.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "https://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "98aee40a55384ddc8f1f1ea4088cdde9_8",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:38:20Z",
+  "centroid_s": "38.89930315825,-77.0209259004",
+  "solr_geom": "ENVELOPE(-77.1194130491, -76.9224387517, 38.9955306332, 38.8030756833)",
+  "solr_year_i": 2015,
+  "thumbnail_path_ss": ""
+}

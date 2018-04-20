@@ -1,0 +1,42 @@
+{
+  "uuid": "f6c703ebe2534fc3800609a07bad8f5b_17",
+  "dc_identifier_s": "f6c703ebe2534fc3800609a07bad8f5b_17",
+  "dc_title_s": "Neighborhood Clusters: Washington, D.C.",
+  "dc_description_s": "This data set describes the 39 Neighborhood Clusters currently used for community planning and related purposes in the District of Columbia. <a href=\"http://geospatial.dcgis.dc.gov/dc_kmz/metadata/NbhClusPly.html\" target=\"_blank\">Metadata",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": "District of Columbia GIS Program",
+  "dc_subject_sm": [
+    "Planning and Cadastral",
+    "Boundaries",
+    "Political",
+    "Administrative"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.dc.gov/datasets/f6c703ebe2534fc3800609a07bad8f5b_17\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Administrative_Other_Boundaries_WebMercator/MapServer/17\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/f6c703ebe2534fc3800609a07bad8f5b_17.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "https://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "f6c703ebe2534fc3800609a07bad8f5b_17",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:38:19Z",
+  "centroid_s": "38.9069548676,-77.01422832185",
+  "solr_geom": "ENVELOPE(-77.119440308, -76.9090163357, 38.9959674032, 38.817942332)",
+  "solr_year_i": 2015,
+  "thumbnail_path_ss": ""
+}

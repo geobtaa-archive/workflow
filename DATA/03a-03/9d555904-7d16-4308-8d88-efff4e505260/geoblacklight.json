@@ -1,0 +1,40 @@
+{
+  "uuid": "9d555904-7d16-4308-8d88-efff4e505260",
+  "dc_identifier_s": "9d555904-7d16-4308-8d88-efff4e505260",
+  "dc_title_s": "SSURGO Soils Counties: Iowa",
+  "dc_description_s": "Obtained from USDA's Web Soil Survey on December 6, 2017.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Iowa Geodata"
+  ],
+  "dc_creator_sm": "USDA",
+  "dc_subject_sm": [
+    "Geoscientific Information"
+  ],
+  "dct_provenance_s": "Iowa",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.iowa.gov/dataset/soils-iowa\",\"http://schema.org/downloadUrl\":\"https://iowageodata.s3.amazonaws.com/geoscientificInformation/surficial/soils/Soils_SSURGO/SSURGO_Soils_County_Downloads.html\"}",
+  "dct_isPartOf_sm": "Iowa GeoData",
+  "dct_issued_s": [
+
+  ],
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Iowa, United States"
+  ],
+  "dc_relation_sm": [
+    "https://sws.geonames.org/4862285"
+  ],
+  "layer_slug_s": "9d555904-7d16-4308-8d88-efff4e505260",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-19T23:7:4Z",
+  "centroid_s": "41.9383,-93.4001",
+  "solr_geom": "ENVELOPE(-96.6395, -90.1401, 43.5115, 40.3754)",
+  "solr_year_i": 2018
+}

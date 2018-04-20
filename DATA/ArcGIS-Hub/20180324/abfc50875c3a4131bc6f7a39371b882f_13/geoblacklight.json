@@ -1,0 +1,41 @@
+{
+  "uuid": "abfc50875c3a4131bc6f7a39371b882f_13",
+  "dc_identifier_s": "abfc50875c3a4131bc6f7a39371b882f_13",
+  "dc_title_s": "Rodent/Insect Control: Washington, D.C., Last 30 Days",
+  "dc_description_s": "This data layer shows 311 Service Requests in the last 30 days for rodent and insect control on public property. Insect reports on private property must be reported to a private company for abatement.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": "District of Columbia GIS Program",
+  "dc_subject_sm": [
+    "Environment",
+    "311",
+    "Service requests"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.dc.gov/datasets/abfc50875c3a4131bc6f7a39371b882f_13\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_APPS/SR_30days_Open/MapServer/13\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/abfc50875c3a4131bc6f7a39371b882f_13.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "https://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "abfc50875c3a4131bc6f7a39371b882f_13",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:38:20Z",
+  "centroid_s": "38.91373827075,-77.00288371345",
+  "solr_geom": "ENVELOPE(-77.0845332988, -76.9212341281, 38.9883036865, 38.839172855)",
+  "solr_year_i": 2015,
+  "thumbnail_path_ss": ""
+}

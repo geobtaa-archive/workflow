@@ -1,0 +1,40 @@
+{
+  "uuid": "ad5aa5068b164d759b6d140aad73cfbd_3",
+  "dc_identifier_s": "ad5aa5068b164d759b6d140aad73cfbd_3",
+  "dc_title_s": "Aerial Survey 2001 Severity: Michigan",
+  "dc_description_s": "Aerial Survey 2001 Severity",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "State of Michigan"
+  ],
+  "dc_creator_sm": "Minnesota Department of Natural Resources",
+  "dc_subject_sm": [
+    "Environment",
+    "Economy"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://hub.arcgis.com/datasets/ad5aa5068b164d759b6d140aad73cfbd_3\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services3.arcgis.com/Jdnp1TjADvSDxMAX/ArcGIS/rest/services/ForestHealthAerialSurveys/FeatureServer/3\",\"http://schema.org/downloadUrl\":\"https://hub.arcgis.com/datasets/ad5aa5068b164d759b6d140aad73cfbd_3.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016-07-07",
+  "dct_temporal_sm": [
+    "2001"
+  ],
+  "dct_spatial_sm": [
+    "Michigan, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5001836"
+  ],
+  "layer_slug_s": "ad5aa5068b164d759b6d140aad73cfbd_3",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:39:27Z",
+  "centroid_s": "45.2298,-86.84475",
+  "solr_geom": "ENVELOPE(-90.5379, -83.1516, 48.1735, 42.2861)",
+  "solr_year_i": 2016,
+  "thumbnail_path_ss": "https://services3.arcgis.com/Jdnp1TjADvSDxMAX/ArcGIS/rest/services/ForestHealthAerialSurveys/FeatureServer/info/thumbnail"
+}

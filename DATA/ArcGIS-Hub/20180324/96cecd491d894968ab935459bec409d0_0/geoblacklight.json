@@ -1,0 +1,39 @@
+{
+  "uuid": "96cecd491d894968ab935459bec409d0_0",
+  "dc_identifier_s": "96cecd491d894968ab935459bec409d0_0",
+  "dc_title_s": "Website Analytics Daily Page Views: Washington, D.C.",
+  "dc_description_s": "This dataset is a direct export from DC government's Google Analytics report of daily page views on the'http://www.dc.gov'web portal. This shows daily page views, per year, on DC.gov from 2008 to 2016. It is identified by the part of the URL after the dc.gov domain path where users have visited.More information at'http://support.google.com",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": "District of Columbia GIS Program",
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.dc.gov/datasets/96cecd491d894968ab935459bec409d0_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://opendata.arcgis.com/datasets/96cecd491d894968ab935459bec409d0_0/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/96cecd491d894968ab935459bec409d0_0.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2017-11-21",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "dc_relation_sm": [
+    "https://sws.geonames.org/4138106"
+  ],
+  "layer_slug_s": "96cecd491d894968ab935459bec409d0_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:39:26Z",
+  "centroid_s": "38.89,-77.032",
+  "solr_geom": "ENVELOPE(-77.136, -76.928, 38.994, 38.786)",
+  "solr_year_i": 2017,
+  "thumbnail_path_ss": "http://opendata.arcgis.com/datasets/96cecd491d894968ab935459bec409d0_0/FeatureServer/info/thumbnail"
+}

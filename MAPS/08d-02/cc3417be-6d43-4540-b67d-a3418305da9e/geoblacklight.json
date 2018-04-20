@@ -34,7 +34,7 @@
     "http://sws.geonames.org/6255416"
   ],
   "layer_slug_s": "cc3417be-6d43-4540-b67d-a3418305da9e",
-  "layer_geom_type_s": "Paper Map",
+  "layer_geom_type_s": "Scanned Map",
   "layer_modified_dt": "2018-3-12T23:23:15Z",
   "centroid_s": "41.17033895,-76.87338645",
   "solr_geom": "ENVELOPE(-76.8871719, -76.859601, 41.1780389, 41.162639)",

@@ -1,0 +1,39 @@
+{
+  "uuid": "dcf48a4fe7cf4be387154ae7aa70df1c_27",
+  "dc_identifier_s": "dcf48a4fe7cf4be387154ae7aa70df1c_27",
+  "dc_title_s": "Alternative Service Locations - Restroom (Not 24-Hour): Iowa",
+  "dc_description_s": "Iowa Department of Transportation statewide rest area data. This layer displays alternative service locations that have restrooms that are not open 24 hours a day.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Iowa Department of Transportation"
+  ],
+  "dc_creator_sm": "Iowa DOT GIS Services",
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Iowa",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://public-iowadot.opendata.arcgis.com/datasets/dcf48a4fe7cf4be387154ae7aa70df1c_27\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.iowadot.gov/public/rest/services/Facilities/IaDOT_Statewide_Rest_Area/MapServer/27\",\"http://schema.org/downloadUrl\":\"https://public-iowadot.opendata.arcgis.com/datasets/dcf48a4fe7cf4be387154ae7aa70df1c_27.zip\"}",
+  "dct_isPartOf_sm": "ArcGIS Open Data",
+  "dct_issued_s": "2016-08-19",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Iowa, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/4862182"
+  ],
+  "layer_slug_s": "dcf48a4fe7cf4be387154ae7aa70df1c_27",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-3-21T21:38:22Z",
+  "centroid_s": "42.01265,-93.4025",
+  "solr_geom": "ENVELOPE(-96.5211, -90.2839, 43.4474, 40.5779)",
+  "solr_year_i": 2016,
+  "thumbnail_path_ss": ""
+}
