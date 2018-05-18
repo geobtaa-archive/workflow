@@ -1,24 +1,28 @@
 {
   "uuid": "8c83b68f-4150-44e3-b46f-b0feffae3314",
   "dc_identifier_s": "8c83b68f-4150-44e3-b46f-b0feffae3314",
-  "dc_title_s": "Division of Fisheries Administrative Areas: Minnesota",
-  "dc_description_s": "This data layer shows the management boundaries of the MNDNR Fisheries Administrative Areas for the State of Minnesota. Boundaries are current as of 6/2/16. Mille Lacs Lake is now it's own Fisheries Management Area in Region 3.",
+  "dc_title_s": "Department of natural Resources Division of Fisheries Administrative Areas: Minnesota",
+  "dc_description_s": "This data layer shows the management boundaries of the MNDNR Fisheries Administrative Areas for the State of Minnesota.  Boundaries are current as of 6/2/16. Mille Lacs Lake is now it's own Fisheries Management Area in Region 3.",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_s": [
+  "dc_language_sm": [
     "English"
   ],
   "dc_type_s": "Dataset",
   "dc_publisher_sm": [
-    "Natural Resources Department, Minnesota"
+    "Minnesota Department of Natural Resources (DNR)"
   ],
-  "dc_creator_sm": "Minnesota Department of Natural Resources",
+  "dc_creator_sm": [
+    "Minnesota Department of Natural Resources (DNR) - Division of Fish and Wildlife - Fisheries Unit"
+  ],
   "dc_subject_sm": [
     "Boundaries"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-dnr-fisheries-admin\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_dnr_fisheries_admin/shp_bdry_dnr_fisheries_admin.zip\"}",
-  "dct_isPartOf_sm": "Minnesota Geospatial Commons",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/8c83b68f-4150-44e3-b46f-b0feffae3314\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_dnr_fisheries_admin/fgdb_bdry_dnr_fisheries_admin.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/bdry_dnr_fisheries_admin/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
   "dct_issued_s": "2014-12-10T09:01:28.450735",
   "dct_temporal_sm": [
     "2016"
@@ -26,14 +30,15 @@
   "dct_spatial_sm": [
     "Minnesota, United States"
   ],
-  "dc_relation_sm": [
+  "layer_slug_s": "8c83b68f-4150-44e3-b46f-b0feffae3314",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)",
+  "solr_year_i": 2016,
+  "centroid_s": "46.435,-93.38",
+  "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_dnr_fisheries_admin/metadata/preview.jpg",
-  "layer_slug_s": "8c83b68f-4150-44e3-b46f-b0feffae3314",
-  "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-2-19T23:58:37Z",
-  "centroid_s": "46.435,-93.38",
-  "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)",
-  "solr_year_i": 2016
+  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/71cbd2abd4ec231112558bdcd13a9b86.jpg",
+  "geoblacklight_version": "1.0"
 }

@@ -1,0 +1,44 @@
+{
+  "uuid": "25f4024d-9546-44bd-a069-8018bd041208",
+  "dc_identifier_s": "25f4024d-9546-44bd-a069-8018bd041208",
+  "dc_title_s": "Public Land Survey API Service: Minnesota",
+  "dc_description_s": "The PLS (public land survey) API (application programming interface) service provides public land survey descriptions, UTM coordinates, and some place names for point locations in Minnesota. An interactive webpage lets you type in coordinates (UTM, geographic, or PLS) or place names (county, quad name, township name) for a point location and then displays all of those coordinates and place names for that point.  The PLS API homepage links to the interactive webpage and to a technical description of the API service.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Mixed Files",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Minnesota Geospatial Information Center (MnGeo)"
+  ],
+  "dc_creator_sm": [
+    "Minnesota Geospatial Information Office"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/25f4024d-9546-44bd-a069-8018bd041208\",\"http://schema.org/downloadUrl\":\"https://gisdata.mn.gov/dataset/25f4024d-9546-44bd-a069-8018bd041208\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/apps/pub/us_mn_state_mngeo/loc_pls_api_service/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2015-01-13T09:01:47.433843",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "25f4024d-9546-44bd-a069-8018bd041208",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)",
+  "solr_year_i": 2015,
+  "centroid_s": "46.435,-93.38",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5051907"
+  ],
+  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/fd9fbde03ed8f2846ba81496594fa64b.jpg",
+  "geoblacklight_version": "1.0"
+}

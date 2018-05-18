@@ -1,0 +1,44 @@
+{
+  "uuid": "29ee9b50-e849-424b-94f5-caaf99df0150",
+  "dc_identifier_s": "29ee9b50-e849-424b-94f5-caaf99df0150",
+  "dc_title_s": "County Parks: Dakota County, Minnesota",
+  "dc_description_s": "This dataset contains polygons that represent the overall park boundary and polygons that represent private properties within the park boundary. Created using parcels and road centerlines.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Dakota County"
+  ],
+  "dc_creator_sm": [
+    "Dakota County GIS, Dakota County GIS, Staff"
+  ],
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/29ee9b50-e849-424b-94f5-caaf99df0150\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_co_dakota/bdry_county_parks/shp_bdry_county_parks.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_co_dakota/bdry_county_parks/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2015-09-11T10:02:04.977628",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "Dakota County, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "29ee9b50-e849-424b-94f5-caaf99df0150",
+  "layer_geom_type_s": "Mixed",
+  "layer_modified_dt": "2018-05-01T17:26:20Z",
+  "solr_geom": "ENVELOPE(-93.204928, -92.781535, 44.912482, 44.509236)",
+  "solr_year_i": 2016,
+  "centroid_s": "44.710859,-92.9932315",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5023752"
+  ],
+  "geoblacklight_version": "1.0"
+}

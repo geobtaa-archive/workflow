@@ -1,24 +1,28 @@
 {
   "uuid": "088c7781-f06f-4a01-929a-e04a210bdaea",
   "dc_identifier_s": "088c7781-f06f-4a01-929a-e04a210bdaea",
-  "dc_title_s": "Historic Home Owners' Loan Corporation Neighborhood Appraisal Map:Metro Twin Cities, Minnesota",
-  "dc_description_s": "In 1934, the Federal Housing Administration created a financial mortgage system that rated mortgage risks for properties based on various criteria but was centered on race and ethnicity. This rating system propagated racial segregation that in many ways persists today.The FHA Underwriting Handbook incorporated color-coded real estate investment maps that classified neighborhoods based on assumptions about a community, primarily their racial and ethnic composition, and not on the financial ability of the residents to satisfy the obligations of a mortgage loan. These maps, created by the Home Owners Loan Corporation (HOLC) were used to determine where mortgages could or could not be issued. The neighborhoods were categoriezed into four types:Type A : Best - newer or areas stil in demandType B : Still Desirable - areas expected to remain stable for many yearsType C : Definitely Declining - areas in transitionType D : Hazardous - older areas considered riskyNeighborhoods shaded red were deemed too hazardous for federally-back loans. These \"red-lined\" neighborhoods were where most African American residents lived. Many have argued tha the HOLC maps institutionalized discriminating lending practices which not only perpetuated racial segregation but also led to neighborhood disinvestment. Today, neighborhoods classified as Type C and Type D in 2934 make up the majority of neighborhoods in 2016 that are Areas of Concentrated Poverty where 50% or More are People of Color.",
+  "dc_title_s": "Historic Home Owners' Loan Corporation Neighborhood Appraisal Map: Metro Twin Cities, Minnesota",
+  "dc_description_s": "In 1934, the Federal Housing Administration created a financial mortgage system that rated mortgage risks for properties based on various criteria but was centered on race and ethnicity. This rating system propagated racial segregation that in many ways persists today.  The FHA Underwriting Handbook incorporated color-coded real estate investment maps that classified neighborhoods based on assumptions about a community, primarily their racial and ethnic composition, and not on the financial ability of the residents to satisfy the obligations of a mortgage loan. These maps, created by the Home Owners Loan Corporation (HOLC) were used to determine where mortgages could or could not be issued.   The neighborhoods were categoriezed into four types: Type A : Best - newer or areas stil in demand Type B : Still Desirable - areas expected to remain stable for many years Type C : Definitely Declining - areas in transition Type D : Hazardous - older areas considered risky  Neighborhoods shaded red were deemed too hazardous for federally-back loans. These \"red-lined\" neighborhoods were where most African American residents lived.   Many have argued tha the HOLC maps institutionalized discriminating lending practices which not only perpetuated racial segregation but also led to neighborhood disinvestment. Today, neighborhoods classified as Type C and Type D in 2934 make up the majority of neighborhoods in 2016 that are Areas of Concentrated Poverty where 50% or More are People of Color.",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_s": [
+  "dc_language_sm": [
     "English"
   ],
   "dc_type_s": "Dataset",
   "dc_publisher_sm": [
-    "Metropolitan Council, Minnesota"
+    "Metropolitan Council"
   ],
-  "dc_creator_sm": "Metropolitan Council",
+  "dc_creator_sm": [
+    "Metropolitan Council"
+  ],
   "dc_subject_sm": [
     "Planning and Cadastral"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-plan-historic-holc-appraisal\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/plan_historic_holc_appraisal/shp_plan_historic_holc_appraisal.zip\"}",
-  "dct_isPartOf_sm": "Minnesota Geospatial Commons",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/088c7781-f06f-4a01-929a-e04a210bdaea\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/plan_historic_holc_appraisal/fgdb_plan_historic_holc_appraisal.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_metc/plan_historic_holc_appraisal/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
   "dct_issued_s": "2016-06-10T10:02:18.971857",
   "dct_temporal_sm": [
     "1934"
@@ -26,14 +30,15 @@
   "dct_spatial_sm": [
     "Minnesota, United States"
   ],
-  "dc_relation_sm": [
+  "layer_slug_s": "088c7781-f06f-4a01-929a-e04a210bdaea",
+  "layer_geom_type_s": "Mixed",
+  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
+  "solr_year_i": 1934,
+  "centroid_s": "44.943,-93.372",
+  "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "",
-  "layer_slug_s": "088c7781-f06f-4a01-929a-e04a210bdaea",
-  "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-2-19T23:58:57Z",
-  "centroid_s": "44.943,-93.372",
-  "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
-  "solr_year_i": 1934
+  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/ac5e6e84175ff05fa351e6486183622a.jpg",
+  "geoblacklight_version": "1.0"
 }

@@ -1,0 +1,45 @@
+{
+  "uuid": "af8e66dc-2e26-4c5e-b9f6-725a98195e6f",
+  "dc_identifier_s": "af8e66dc-2e26-4c5e-b9f6-725a98195e6f",
+  "dc_title_s": "Impaired Waterbodies: Minnesota, 2018 (Proposed)",
+  "dc_description_s": "This is a set of the impaired waterbodies as determined by MPCA's surface water quality assessment process proposed for the 2018 reporting cycle to US Environmental Protection Agency (EPA). Waterbodies declared impaired prior to 2018 are also included in this dataset unless they have been delisted. The waterbodies included in the dataset will be submitted to EPA as part of the impaired waters list. EPA evaluates the list and either approves it as-is or modifies it, which may result in changes to this spatial data.  Note that for the purpose of submitting the impaired waters list to EPA, waterbodies partially or wholly within Indian reservation boundaries are published in separate datasets. The MPCA still considers these waters impaired and has an interest in restoring them. The MPCA respectfully requests that the waters partially or wholly within Indian reservations be symbolized differently on map products so that viewers can differentiate them from waters not intersecting Indian reservations.   These waterbodies are a subset and enhancement of the 1:24,000 scale National Hydrography Dataset (NHD). In cases where the NHD does not include a feature that MPCA has assessed, a feature is added by MPCA. Since the impaired waterbodies are a small subset of the NHD, only that subset is included in the dataset. This dataset includes impaired waterbodies that have not yet had a TMDL plan approved by the US EPA.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Minnesota Pollution Control Agency"
+  ],
+  "dc_creator_sm": [
+    "Minnesota Pollution Control Agency"
+  ],
+  "dc_subject_sm": [
+    "Environment",
+    "Inland Waters"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/af8e66dc-2e26-4c5e-b9f6-725a98195e6f\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_pca/env_impaired_proposed_water_2018/gpkg_env_impaired_proposed_water_2018.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_pca/env_impaired_proposed_water_2018/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2018-04-11T10:02:23.731173",
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "af8e66dc-2e26-4c5e-b9f6-725a98195e6f",
+  "layer_geom_type_s": "Mixed",
+  "layer_modified_dt": "2018-04-30T14:29:16Z",
+  "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)",
+  "solr_year_i": 2018,
+  "centroid_s": "46.435,-93.38",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5051907"
+  ],
+  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/fd9fbde03ed8f2846ba81496594fa64b.jpg",
+  "geoblacklight_version": "1.0"
+}

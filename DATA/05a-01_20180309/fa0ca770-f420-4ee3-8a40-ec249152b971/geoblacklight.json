@@ -1,0 +1,39 @@
+{
+  "uuid": "fa0ca770-f420-4ee3-8a40-ec249152b971",
+  "dc_identifier_s": "fa0ca770-f420-4ee3-8a40-ec249152b971",
+  "dc_title_s": "Original Land Survey Bearing Trees: Minnesota",
+  "dc_description_s": "A point database of bearing trees used as referrences or landmarks during the original Minnesota Public Land Srvey (PLS). A variety of information are stored about bearing trees that aid in their use as indicators of vegetation conditions present at the time of the survey. This database is described in greater detail in the publication: 'Minnesota's Bearing Tree Database', by John Almendinger, Biological Report No. 56, Minnesota Department of Natural Resources, 1997.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Natural Resources Department, Minnesota"
+  ],
+  "dc_creator_sm": "Minnesota Department of Natural Resources (DNR)",
+  "dc_subject_sm": [
+    "Biota"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/biota-original-pls-bearing-trees\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/biota_original_pls_bearing_trees/shp_biota_original_pls_bearing_trees.zip\"}",
+  "dct_isPartOf_sm": "Minnesota Geospatial Commons",
+  "dct_issued_s": "2014-10-07T13:08:06.235264",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "thumbnail_path_ss": "ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/biota_original_pls_bearing_trees/metadata/preview.jpg",
+  "layer_slug_s": "fa0ca770-f420-4ee3-8a40-ec249152b971",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-19T23:58:31Z",
+  "centroid_s": "46.386414,-93.1520255",
+  "solr_geom": "ENVELOPE(-96.829007, -89.475044, 49.334994, 43.437834)",
+  "solr_year_i": 2014
+}

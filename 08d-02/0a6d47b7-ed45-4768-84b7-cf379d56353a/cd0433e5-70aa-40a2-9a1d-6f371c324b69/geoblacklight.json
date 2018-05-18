@@ -1,0 +1,55 @@
+{
+  "uuid": "cd0433e5-70aa-40a2-9a1d-6f371c324b69",
+  "dc_identifier_s": "cd0433e5-70aa-40a2-9a1d-6f371c324b69",
+  "dc_title_s": "Spangler, Pennsylvania, 1910",
+  "dc_description_s": "Spangler, Cambria County, Pennsylvania, January 1910. 1 map on 5 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "JPEG",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Image",
+  "dc_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_subject_sm": [
+    "Fire insurance maps",
+    "Fire risk assessment",
+    "Real property"
+  ],
+  "dct_provenance_s": "Penn State",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/19930\",\"http://schema.org/downloadUrl\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/19930\"}",
+  "dct_isPartOf_sm": [
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_issued_s": [
+
+  ],
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "dct_spatial_sm": [
+    "Spangler, Pennsylvania, United States",
+    "Cambria County, Pennsylvania, United States",
+    "Pennsylvania, United States"
+  ],
+  "layer_slug_s": "cd0433e5-70aa-40a2-9a1d-6f371c324b69",
+  "layer_geom_type_s": "Scanned Map",
+  "layer_modified_dt": "2018-05-18T17:19:05Z",
+  "solr_geom": "ENVELOPE(-78.7888116, -78.7567968, 40.6513117, 40.6343787)",
+  "solr_year_i": 1910,
+  "centroid_s": "40.6428452,-78.7728042",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/6255083"
+  ],
+  "b1g_collection_sm": [
+    "08d-02"
+  ],
+  "thumbnail_path_ss": [
+    "https://collection1.libraries.psu.edu/utils/getthumbnail/collection/maps1/id/19930"
+  ],
+  "geoblacklight_version": "1.0"
+}

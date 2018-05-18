@@ -1,24 +1,28 @@
 {
   "uuid": "423678a2-ffe1-45f6-a3de-87893f36acb1",
   "dc_identifier_s": "423678a2-ffe1-45f6-a3de-87893f36acb1",
-  "dc_title_s": "Senate District Boundaries, 2012: Minnesota",
+  "dc_title_s": "Senate District Boundaries: Minnesota, 20112",
   "dc_description_s": "This is a polygon data set of the 2012 Senate District Boundaries. It displays county names and district numbers with associated members. It was derived from U.S. Census Bureau 2010 TIGER/Line files as a result of 2010 redistricting efforts.",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_s": [
+  "dc_language_sm": [
     "English"
   ],
   "dc_type_s": "Dataset",
   "dc_publisher_sm": [
-    "Legislative GIS Office, Minnesota"
+    "Minnesota Legislative Coordinating Commission"
   ],
-  "dc_creator_sm": "Minnesota Legislative Coordinating Commission - Geographic Information Services Office (LCC- GIS)",
+  "dc_creator_sm": [
+    "Minnesota Legislative Coordinating Commission - Geographic Information Services Office (LCC- GIS)"
+  ],
   "dc_subject_sm": [
     "Boundaries"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-senatedistricts2012\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_lcc/bdry_senatedistricts2012/shp_bdry_senatedistricts2012.zip\"}",
-  "dct_isPartOf_sm": "Minnesota Geospatial Commons",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/423678a2-ffe1-45f6-a3de-87893f36acb1\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_lcc/bdry_senatedistricts2012/geojson_bdry_senatedistricts2012.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_lcc/bdry_senatedistricts2012/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
   "dct_issued_s": "2017-01-26T11:01:57.482547",
   "dct_temporal_sm": [
     "2012"
@@ -26,14 +30,15 @@
   "dct_spatial_sm": [
     "Minnesota, United States"
   ],
-  "dc_relation_sm": [
+  "layer_slug_s": "423678a2-ffe1-45f6-a3de-87893f36acb1",
+  "layer_geom_type_s": "Mixed",
+  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)",
+  "solr_year_i": 2012,
+  "centroid_s": "46.435,-93.38",
+  "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_lcc/bdry_senatedistricts2012/metadata/preview.jpg",
-  "layer_slug_s": "423678a2-ffe1-45f6-a3de-87893f36acb1",
-  "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-2-19T23:58:17Z",
-  "centroid_s": "46.435,-93.38",
-  "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)",
-  "solr_year_i": 2012
+  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/f7d5f9533b00c9f3240513fe6dbd0f46.jpg",
+  "geoblacklight_version": "1.0"
 }

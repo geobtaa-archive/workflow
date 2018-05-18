@@ -1,0 +1,40 @@
+{
+  "uuid": "c2756227-455c-43de-a37b-f27142d6ce99",
+  "dc_identifier_s": "c2756227-455c-43de-a37b-f27142d6ce99",
+  "dc_title_s": "Forest Stand Inventory: Minnesota",
+  "dc_description_s": "This layer is a digital inventory of individual forest stands. The data is collected by MNDNR Foresters in each MNDNR Forestry Administrative Area, and is updated on a continuous basis, as needed. Most stands are field checked and their characteristics described. Follows internal MNDNR classification schema. This data originates from the MNDNR's \"Forest Inventory Management\" system (also referred to as FIM).",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Natural Resources Department, Minnesota"
+  ],
+  "dc_creator_sm": "Minnesota Department of Natural Resources (MNDNR) - Division of Forestry",
+  "dc_subject_sm": [
+    "Biota",
+    "Environment"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/biota-dnr-forest-stand-inventory\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/biota_dnr_forest_stand_inventory/shp_biota_dnr_forest_stand_inventory.zip\"}",
+  "dct_isPartOf_sm": "Minnesota Geospatial Commons",
+  "dct_issued_s": "2014-06-25T21:28:55.503506",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "thumbnail_path_ss": "ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/biota_dnr_forest_stand_inventory/preview/preview.jpg",
+  "layer_slug_s": "c2756227-455c-43de-a37b-f27142d6ce99",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-19T23:58:37Z",
+  "centroid_s": "46.3941885,-93.213587",
+  "solr_geom": "ENVELOPE(-96.664399, -89.762775, 49.34524, 43.443137)",
+  "solr_year_i": 2017
+}

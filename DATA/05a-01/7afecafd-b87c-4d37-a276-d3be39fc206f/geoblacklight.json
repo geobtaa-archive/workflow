@@ -2,23 +2,27 @@
   "uuid": "7afecafd-b87c-4d37-a276-d3be39fc206f",
   "dc_identifier_s": "7afecafd-b87c-4d37-a276-d3be39fc206f",
   "dc_title_s": "Regionally Significant Ecological Areas and Regional Ecological Corridors - MLCCS derived 2008: Minnesota",
-  "dc_description_s": "mlccs_regionally_significant_ecological_areas_2008: This is an analysis of regionally significant Terrestrial and Wetland Ecological Areas in the seven county metropolitan area. Individual forest, grassland and wetland models were integrated to identify and rank the Terrestrial and Wetland Ecological Areas. The scores are determined by examining important ecological attributes of the ecological patches including size, shape, cover type diversity, and adjacent land use. The results represent a probability that the modeled conditions exist in any given area, due to limitations of the data layers. The ecological models were run on the most current Minnesota Land Cover Classification System (MLCCS) data available - currently spring 2008.mlccs_regional_ecological_corridors_2008: Identification of potential ecological corridors between the MLCCS derived ecological patches. This was generated using cost / distance analysis, finding the shortest connection through the best land cover types between the patches. Natural and semi-natural areas were the preferred route, followed by agriculture land, then areas with low imperviousness (little development). Connections through developed areas were made if that was the only choice. Only patches within 5 kilometers of each other were connected.",
+  "dc_description_s": "mlccs_regionally_significant_ecological_areas_2008: This is an analysis of regionally significant Terrestrial and Wetland Ecological Areas in the seven county metropolitan area. Individual forest, grassland and wetland models were integrated to identify and rank the Terrestrial and Wetland Ecological Areas. The scores are determined by examining important ecological attributes of the ecological patches including size, shape, cover type diversity, and adjacent land use. The results represent a probability that the modeled conditions exist in any given area, due to limitations of the data layers. The ecological models were run on the most current Minnesota Land Cover Classification System (MLCCS) data available - currently spring 2008.  mlccs_regional_ecological_corridors_2008: Identification of potential ecological corridors between the MLCCS derived ecological patches. This was generated using cost / distance analysis, finding the shortest connection through the best land cover types between the patches. Natural and semi-natural areas were the preferred route, followed by agriculture land, then areas with low imperviousness (little development). Connections through developed areas were made if that was the only choice. Only patches within 5 kilometers of each other were connected.",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_s": [
+  "dc_language_sm": [
     "English"
   ],
   "dc_type_s": "Dataset",
   "dc_publisher_sm": [
-    "Natural Resources Department, Minnesota"
+    "Minnesota Department of Natural Resources (DNR)"
   ],
-  "dc_creator_sm": "Minnesota Department of Natural Resources (DNR)",
+  "dc_creator_sm": [
+    "Minnesota Department of Natural Resources (DNR)"
+  ],
   "dc_subject_sm": [
     "Environment"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-mlccs-regional-corr-areas\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_mlccs_regional_corr_areas/shp_env_mlccs_regional_corr_areas.zip\"}",
-  "dct_isPartOf_sm": "Minnesota Geospatial Commons",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/7afecafd-b87c-4d37-a276-d3be39fc206f\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_mlccs_regional_corr_areas/fgdb_env_mlccs_regional_corr_areas.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/env_mlccs_regional_corr_areas/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
   "dct_issued_s": "2015-03-18T08:01:53.606786",
   "dct_temporal_sm": [
     "2008"
@@ -26,14 +30,15 @@
   "dct_spatial_sm": [
     "Minnesota, United States"
   ],
-  "dc_relation_sm": [
+  "layer_slug_s": "7afecafd-b87c-4d37-a276-d3be39fc206f",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "solr_geom": "ENVELOPE(-94.00493, -92.728689, 45.415601, 44.469261)",
+  "solr_year_i": 2008,
+  "centroid_s": "44.942431,-93.3668095",
+  "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_mlccs_regional_corr_areas/metadata/preview.jpg",
-  "layer_slug_s": "7afecafd-b87c-4d37-a276-d3be39fc206f",
-  "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-2-19T23:58:22Z",
-  "centroid_s": "44.942431,-93.3668095",
-  "solr_geom": "ENVELOPE(-94.00493, -92.728689, 45.415601, 44.469261)",
-  "solr_year_i": 2008
+  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/10e40c574cc3f9902bae4427494474a1.jpg",
+  "geoblacklight_version": "1.0"
 }

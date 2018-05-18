@@ -2,38 +2,43 @@
   "uuid": "5c974e40-e057-4df0-a814-ac99c35ecb72",
   "dc_identifier_s": "5c974e40-e057-4df0-a814-ac99c35ecb72",
   "dc_title_s": "Right of Way Plat and Commissioner's Graphic Order - Raster Image File Footprints: Minnesota",
-  "dc_description_s": "The Right of Way Plat and Commissioner's Graphic Orders footprints layer is a statewide data set. The footprints are constructed from the scanned right of way plat images (raster data) that were georeferenced using the Department of Natural Resource's Control Point Generated Public Land Survey Coverage (vector data), MnDOT's Statewide Basemap (vector data), and other reference data sets as necessary to support the positioning of the images.",
+  "dc_description_s": "The Right of Way Plat and Commissioner's Graphic Orders footprints layer is a statewide data set.  The footprints are constructed from the scanned right of way plat images (raster data) that were georeferenced using the Department of Natural Resource's Control Point Generated Public Land Survey Coverage (vector data), MnDOT's Statewide Basemap (vector data), and other reference data sets as necessary to support the positioning of the images.",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_s": [
+  "dc_language_sm": [
     "English"
   ],
   "dc_type_s": "Dataset",
   "dc_publisher_sm": [
-    "Transportation Department, Minnesota"
+    "Minnesota Department of Transportation"
   ],
-  "dc_creator_sm": "Minnesota Department of Transportation, Office of Land Management",
+  "dc_creator_sm": [
+    "Minnesota Department of Transportation, Office of Land Management"
+  ],
   "dc_subject_sm": [
     "Transportation"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/trans-georef-frwplat-footprints\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dot/trans_georef_frwplat_footprints/shp_trans_georef_frwplat_footprints.zip\"}",
-  "dct_isPartOf_sm": "Minnesota Geospatial Commons",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/5c974e40-e057-4df0-a814-ac99c35ecb72\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dot/trans_georef_frwplat_footprints/shp_trans_georef_frwplat_footprints.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dot/trans_georef_frwplat_footprints/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
   "dct_issued_s": "2015-04-15T20:27:54.832780",
   "dct_temporal_sm": [
-
+    "2018"
   ],
   "dct_spatial_sm": [
     "Minnesota, United States"
   ],
-  "dc_relation_sm": [
+  "layer_slug_s": "5c974e40-e057-4df0-a814-ac99c35ecb72",
+  "layer_geom_type_s": "Mixed",
+  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "solr_geom": "ENVELOPE(-97.5, -89, 49.5, 43)",
+  "solr_year_i": 2015,
+  "centroid_s": "46.25,-93.25",
+  "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dot/trans_georef_frwplat_footprints/metadata/preview.jpg",
-  "layer_slug_s": "5c974e40-e057-4df0-a814-ac99c35ecb72",
-  "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-2-19T23:58:21Z",
-  "centroid_s": "46.25,-93.25",
-  "solr_geom": "ENVELOPE(-97.5, -89, 49.5, 43)",
-  "solr_year_i": 2015
+  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/bc761ab915d7c558d133de23001b8182.jpg",
+  "geoblacklight_version": "1.0"
 }

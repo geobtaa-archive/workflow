@@ -1,0 +1,44 @@
+{
+  "uuid": "89a537aa-d3e9-4a53-add4-9bd8ea915aa1",
+  "dc_identifier_s": "89a537aa-d3e9-4a53-add4-9bd8ea915aa1",
+  "dc_title_s": "Aerial Photography: Dakota County, Minnesota, 2015",
+  "dc_description_s": "Low level (6-inch) aerial photography for Dakota County flown in Spring 2015.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Mixed Files",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Dakota County"
+  ],
+  "dc_creator_sm": [
+    "Dakota County"
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/89a537aa-d3e9-4a53-add4-9bd8ea915aa1\",\"http://schema.org/downloadUrl\":\"https://gisdata.mn.gov/dataset/89a537aa-d3e9-4a53-add4-9bd8ea915aa1\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_co_dakota/base_aerialphotography_2015_serv/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2015-11-13T11:02:12.806541",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "89a537aa-d3e9-4a53-add4-9bd8ea915aa1",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2018-04-30T14:29:16Z",
+  "solr_geom": "ENVELOPE(-93.329853, -92.729236, 44.923499, 44.468748)",
+  "solr_year_i": 2015,
+  "centroid_s": "44.6961235,-93.0295445",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5051907"
+  ],
+  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/cda3e38641794df9c1715d6c761c97ad.jpg",
+  "geoblacklight_version": "1.0"
+}

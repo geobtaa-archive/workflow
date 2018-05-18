@@ -1,0 +1,43 @@
+{
+  "uuid": "abc0f165-42b4-4649-9700-a008c0d9fc56",
+  "dc_identifier_s": "abc0f165-42b4-4649-9700-a008c0d9fc56",
+  "dc_title_s": "Travel Behavior Inventory (TBI) Transit On Board Survey: Minnesota, 2016",
+  "dc_description_s": "Transit On-Board Survey conducted in 2016.  The On Board Survey was conducted in 2016 to support model development and analysis of the regional transit system. It includes origin-destination records for 30,605 transit trips across all regional routes and providers. The correct unlinked expansion factor is Unlinked_Weight-AE  Please refer to documentation for information about sample plan, survey instruments, field implementation, and data expansion.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Mixed Files",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Metropolitan Council"
+  ],
+  "dc_creator_sm": [
+    "Metropolitan Council"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/abc0f165-42b4-4649-9700-a008c0d9fc56\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/society_tbi_transit_onboard2016/csv_society_tbi_transit_onboard2016.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_metc/society_tbi_transit_onboard2016/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2018-02-27T11:02:14.597571",
+  "dct_temporal_sm": [
+    "April 2016 - January 2017"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "abc0f165-42b4-4649-9700-a008c0d9fc56",
+  "layer_geom_type_s": "Mixed",
+  "layer_modified_dt": "2018-05-01T17:26:20Z",
+  "solr_geom": "ENVELOPE(-95.846, -91.533, 46.776, 41.284)",
+  "solr_year_i": 0,
+  "centroid_s": "44.03,-93.6895",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5051907"
+  ],
+  "geoblacklight_version": "1.0"
+}

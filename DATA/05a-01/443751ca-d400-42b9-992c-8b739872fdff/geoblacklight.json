@@ -1,24 +1,28 @@
 {
   "uuid": "443751ca-d400-42b9-992c-8b739872fdff",
   "dc_identifier_s": "443751ca-d400-42b9-992c-8b739872fdff",
-  "dc_title_s": "Emergency Location Markers, Dakota and Ramsey County: Dakota County, Minnesota",
+  "dc_title_s": "Emergency Location Markers: Dakota and Ramsey County, Minnesota",
   "dc_description_s": "On going inventory of the Emergency Location Markers (ELM) in Dakota County and Ramsey County. These are signs in place, maintained by Dakota County, Ramsey County and their cities.",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_s": [
+  "dc_language_sm": [
     "English"
   ],
   "dc_type_s": "Dataset",
   "dc_publisher_sm": [
-    "Dakota County, Minnesota"
+    "Dakota County"
   ],
-  "dc_creator_sm": "Dakota County GIS, Dakota County GIS, Staff",
+  "dc_creator_sm": [
+    "Dakota County GIS, Dakota County GIS, Staff"
+  ],
   "dc_subject_sm": [
     "Health"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-co-dakota-health-pubhealthsafe-elm\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_co_dakota/health_pubhealthsafe_elm/shp_health_pubhealthsafe_elm.zip\"}",
-  "dct_isPartOf_sm": "Minnesota Geospatial Commons",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/443751ca-d400-42b9-992c-8b739872fdff\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_co_dakota/health_pubhealthsafe_elm/shp_health_pubhealthsafe_elm.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_co_dakota/health_pubhealthsafe_elm/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
   "dct_issued_s": "2015-07-29T18:33:47.119022",
   "dct_temporal_sm": [
     "2017"
@@ -27,15 +31,15 @@
     "Dakota County, Minnesota, United States",
     "Minnesota, United States"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/5023752",
-    "http://sws.geonames.org/5037779"
-  ],
-  "thumbnail_path_ss": "ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_co_dakota/health_pubhealthsafe_elm/metadata/preview.jpg",
   "layer_slug_s": "443751ca-d400-42b9-992c-8b739872fdff",
-  "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-2-19T23:59:5Z",
-  "centroid_s": "44.8034355,-93.1216195",
+  "layer_geom_type_s": "Mixed",
+  "layer_modified_dt": "2018-04-30T14:29:17Z",
   "solr_geom": "ENVELOPE(-93.166706, -93.076533, 44.924714, 44.682157)",
-  "solr_year_i": 2017
+  "solr_year_i": 2017,
+  "centroid_s": "44.8034355,-93.1216195",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5023752"
+  ],
+  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/3c27881ddb313fad06fb14442fee1fc3.jpg",
+  "geoblacklight_version": "1.0"
 }

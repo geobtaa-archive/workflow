@@ -1,0 +1,39 @@
+{
+  "uuid": "0ca2b157-9e12-476c-b5b0-a820d9ee35b5",
+  "dc_identifier_s": "0ca2b157-9e12-476c-b5b0-a820d9ee35b5",
+  "dc_title_s": "Assessed Streams: Minnesota, 2012",
+  "dc_description_s": "These are the streams assessed by MPCA in 2011 for the 2012 303(d)/305(b) integrated report to EPA. The streams are a subset and enhancement of the 1:24,000 scale National Hydrography Dataset (NHD). MPCA adds additional streams. Since the assessed streams are a small subset of the NHD streams, only that subset is included in the dataset.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Pollution Control Agency, Minnesota"
+  ],
+  "dc_creator_sm": "Minnesota Pollution Control Agency",
+  "dc_subject_sm": [
+    "Environment"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/env-assessed-streams-2012\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_pca/env_assessed_streams_2012/shp_env_assessed_streams_2012.zip\"}",
+  "dct_isPartOf_sm": "Minnesota Geospatial Commons",
+  "dct_issued_s": "2014-06-25T21:29:10.624097",
+  "dct_temporal_sm": [
+    "2013"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "thumbnail_path_ss": "ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_pca/env_assessed_streams_2012/preview/preview.jpg",
+  "layer_slug_s": "0ca2b157-9e12-476c-b5b0-a820d9ee35b5",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-19T23:59:27Z",
+  "centroid_s": "46.256939,-93.3705925",
+  "solr_geom": "ENVELOPE(-97.241921, -89.499264, 49.078448, 43.43543)",
+  "solr_year_i": 2013
+}

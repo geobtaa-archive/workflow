@@ -5,20 +5,24 @@
   "dc_description_s": "This is a polygon coverage of Wild Rice Lakes and Rivers in Minnesota. Lakes and rivers were selected out from the DNR 100k Lakes and Rivers shapefile based upon intersection with nri_wricept2 .",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_s": [
+  "dc_language_sm": [
     "English"
   ],
   "dc_type_s": "Dataset",
   "dc_publisher_sm": [
-    "Natural Resources Department, Minnesota"
+    "Minnesota Department of Natural Resources (DNR)"
   ],
-  "dc_creator_sm": "Minnesota DNR - Division of Fish & Wildlife - Wildlife Unit",
+  "dc_creator_sm": [
+    "Minnesota Department of Natural Resources (DNR) - Division of Fish & Wildlife - Wildlife Unit"
+  ],
   "dc_subject_sm": [
     "Biota"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/biota-wild-rice-lakes-dnr-wld\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/biota_wild_rice_lakes_dnr_wld/shp_biota_wild_rice_lakes_dnr_wld.zip\"}",
-  "dct_isPartOf_sm": "Minnesota Geospatial Commons",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/f1a46828-7a2f-4392-8134-551e64a71dc5\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/biota_wild_rice_lakes_dnr_wld/gpkg_biota_wild_rice_lakes_dnr_wld.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/biota_wild_rice_lakes_dnr_wld/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
   "dct_issued_s": "2014-12-23T09:01:33.865451",
   "dct_temporal_sm": [
     "2014"
@@ -26,14 +30,15 @@
   "dct_spatial_sm": [
     "Minnesota, United States"
   ],
-  "dc_relation_sm": [
+  "layer_slug_s": "f1a46828-7a2f-4392-8134-551e64a71dc5",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "solr_geom": "ENVELOPE(-96.120787, -89.561945, 49.353394, 43.49044)",
+  "solr_year_i": 2014,
+  "centroid_s": "46.421917,-92.841366",
+  "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/biota_wild_rice_lakes_dnr_wld/metadata/preview.jpg",
-  "layer_slug_s": "f1a46828-7a2f-4392-8134-551e64a71dc5",
-  "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-2-19T23:57:57Z",
-  "centroid_s": "46.421917,-92.841366",
-  "solr_geom": "ENVELOPE(-96.120787, -89.561945, 49.353394, 43.49044)",
-  "solr_year_i": 2014
+  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/db6a567c260bd79fe3b77a622e87fc37.jpg",
+  "geoblacklight_version": "1.0"
 }

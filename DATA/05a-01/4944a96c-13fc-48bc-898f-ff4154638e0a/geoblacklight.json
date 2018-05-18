@@ -2,23 +2,27 @@
   "uuid": "4944a96c-13fc-48bc-898f-ff4154638e0a",
   "dc_identifier_s": "4944a96c-13fc-48bc-898f-ff4154638e0a",
   "dc_title_s": "Lake Basin Morphology: Minnesota",
-  "dc_description_s": "Lake Basin MorphologyLake polygons with an attribute table of morphometric indices which describe the physical form and structure (morphology) of a lake.Lake Basin Fetch and Maximum Length/WidthLinear features representing the Fetch, Maximum Length and Maximum Width of a lake basin. Fetch, maximum length and average width are calcuated from the lake polygon outline. Fetch is defined as the longest unbroken stretch of open water on a lake. It may also be referred to as the \"wind-effective length\". Maximum Length is the longest shoreline-to-shoreline distance regardless of whether or not the line is broken by a shoreline feature or island. Maximum width is the widest section of a lake perpendicular to the axis of maximum length. These parameters were derived from individual lake bathmetry outlines where each vertex of the outline was compared to every other vertex. For calculating fetch, islands were included; for maximum length and maximum width, islands were not included.",
+  "dc_description_s": "<b>Lake Basin Morphology</b> Lake polygons with an attribute table of morphometric indices which describe the physical form and structure (morphology) of a lake.  <b>Lake Basin Fetch and Maximum Length/Width</b> Linear features representing the Fetch, Maximum Length and Maximum Width of a lake basin. Fetch, maximum length and average width are calcuated from the lake polygon outline. Fetch is defined as the longest unbroken stretch of open water on a lake. It may also be referred to as the \"wind-effective length\". Maximum Length is the longest shoreline-to-shoreline distance regardless of whether or not the line is broken by a shoreline feature or island. Maximum width is the widest section of a lake perpendicular to the axis of maximum length. These parameters were derived from individual lake bathmetry outlines where each vertex of the outline was compared to every other vertex. For calculating fetch, islands were included; for maximum length and maximum width, islands were not included.",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_s": [
+  "dc_language_sm": [
     "English"
   ],
   "dc_type_s": "Dataset",
   "dc_publisher_sm": [
-    "Natural Resources Department, Minnesota"
+    "Minnesota Department of Natural Resources (DNR)"
   ],
-  "dc_creator_sm": "Minnesota Department of Natural Resources (DNR)",
+  "dc_creator_sm": [
+    "Minnesota DNR, Division of Fish and Wildlife"
+  ],
   "dc_subject_sm": [
     "Inland Waters"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/water-lake-basin-morphology\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/water_lake_basin_morphology/shp_water_lake_basin_morphology.zip\"}",
-  "dct_isPartOf_sm": "Minnesota Geospatial Commons",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/4944a96c-13fc-48bc-898f-ff4154638e0a\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/water_lake_basin_morphology/shp_water_lake_basin_morphology.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/water_lake_basin_morphology/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
   "dct_issued_s": "2014-11-15T12:01:22.341765",
   "dct_temporal_sm": [
     "2014"
@@ -26,14 +30,15 @@
   "dct_spatial_sm": [
     "Minnesota, United States"
   ],
-  "dc_relation_sm": [
+  "layer_slug_s": "4944a96c-13fc-48bc-898f-ff4154638e0a",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "solr_geom": "ENVELOPE(-96.718276, -89.998884, 48.556443, 43.460469)",
+  "solr_year_i": 2014,
+  "centroid_s": "46.008456,-93.35858",
+  "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/water_lake_basin_morphology/metadata/preview.jpg",
-  "layer_slug_s": "4944a96c-13fc-48bc-898f-ff4154638e0a",
-  "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-2-19T23:58:53Z",
-  "centroid_s": "46.008456,-93.35858",
-  "solr_geom": "ENVELOPE(-96.718276, -89.998884, 48.556443, 43.460469)",
-  "solr_year_i": 2014
+  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/2a7acf0a767441f49d785b166e5c1938.jpg",
+  "geoblacklight_version": "1.0"
 }

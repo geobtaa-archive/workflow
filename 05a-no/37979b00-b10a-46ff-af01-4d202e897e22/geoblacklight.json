@@ -1,0 +1,45 @@
+{
+  "uuid": "37979b00-b10a-46ff-af01-4d202e897e22",
+  "dc_identifier_s": "37979b00-b10a-46ff-af01-4d202e897e22",
+  "dc_title_s": "Drinking Water Supply Management Area for Surface Water (DWSMA-SW): Minnesota",
+  "dc_description_s": "Drinking water supply management area for a surface water intake (DWSMA-SW) is the Minnesota Department of Health (MDH) endorsed surface and subsurface area surrounding a public water supply intake that contains the scientifically calculated surface water protection area and is managed by the entity identified in a surface water protection plan. The boundaries of a DWSMA-SW are delineated by identifiable physical features, landmarks or political and administrative boundaries.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Minnesota Department of Health"
+  ],
+  "dc_creator_sm": [
+    "Minnesota Department of Health"
+  ],
+  "dc_subject_sm": [
+    "Environment",
+    "Health",
+    "Inland Waters"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/37979b00-b10a-46ff-af01-4d202e897e22\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_health/water_mgmnt_area_surface_water/fgdb_water_mgmnt_area_surface_water.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_health/water_mgmnt_area_surface_water/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2015-07-01T08:01:33.335557",
+  "dct_temporal_sm": [
+    "2009-03"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "37979b00-b10a-46ff-af01-4d202e897e22",
+  "layer_geom_type_s": "Mixed",
+  "layer_modified_dt": "2018-05-01T17:26:20Z",
+  "solr_geom": "ENVELOPE(-95.322875, -92.867608, 46.240745, 44.634733)",
+  "solr_year_i": 1969,
+  "centroid_s": "45.437739,-94.0952415",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "geoblacklight_version": "1.0"
+}

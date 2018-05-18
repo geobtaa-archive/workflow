@@ -1,0 +1,43 @@
+{
+  "uuid": "39d4f121-56f0-453b-83a6-b1d2ce810aa0",
+  "dc_identifier_s": "39d4f121-56f0-453b-83a6-b1d2ce810aa0",
+  "dc_title_s": "Decennial Census 2010: Metro Twin Cities, Minnesota",
+  "dc_description_s": "Decennial Census 2010 includes tabulations of housing units, total population and adult population by race and Hispanicity. Geographies nationwide can be obtained from Census, with disaggregate geographic detail down to Block-level. Metropolitan Council is publishing files for 2010 Blocks, Block Groups and Tracts. Only data files are included; they can be joined to shapefiles available elsewhere on this site.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Metropolitan Council"
+  ],
+  "dc_creator_sm": [
+    "U.S. Census Bureau"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/39d4f121-56f0-453b-83a6-b1d2ce810aa0\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/society_census2010population/fgdb_society_census2010population.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_metc/society_census2010population/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2015-09-03T10:02:00.436019",
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "39d4f121-56f0-453b-83a6-b1d2ce810aa0",
+  "layer_geom_type_s": "Mixed",
+  "layer_modified_dt": "2018-05-01T17:26:20Z",
+  "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)",
+  "solr_year_i": 2010,
+  "centroid_s": "46.435,-93.38",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "geoblacklight_version": "1.0"
+}

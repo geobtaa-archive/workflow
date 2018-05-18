@@ -1,0 +1,43 @@
+{
+  "uuid": "6c170eab-6f37-4dbc-95da-7917e13e7f4e",
+  "dc_identifier_s": "6c170eab-6f37-4dbc-95da-7917e13e7f4e",
+  "dc_title_s": "Local Origin-Destination Employment Statistics - Workplace Area Characteristics: Metro Twin Cities, Minnesota",
+  "dc_description_s": "Local Origin-Destination Employment Statistics - Workplace Area Characteristics provides local approximation of employment levels and characteristics.  This dataset is an administrative records data mining product of U.S. Census Bureau.  The Bureau obtains incumbent worker characteristics and home locations from Social Security Administration. Worksite locations, employment counts, quarterly wage totals and other worksite characteristics are obtained from Unemployment Insurance payroll data maintained by State employment security agencies.   U.S. Census Bureau geocodes most worksite locations. Geocoded locations are then \"fuzzed\" or randomly moved from true locations in order to obscure the identity of individual employers and worksites. Those worksites that cannot be geocoded are assigned probable locations through a Bayesian imputation process. Finally, the resulting employment distributions are summarized to Census blocks. Local Origin-Destination Employment Statistics serves as a reasonable approximation of local employment distributions and journey-to-work patterns.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Metropolitan Council"
+  ],
+  "dc_creator_sm": [
+    "U.S. Census Bureau"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/6c170eab-6f37-4dbc-95da-7917e13e7f4e\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/society_census_wrkplac_area_char/shp_society_census_wrkplac_area_char.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_metc/society_census_wrkplac_area_char/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2015-09-04T10:01:50.587696",
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "6c170eab-6f37-4dbc-95da-7917e13e7f4e",
+  "layer_geom_type_s": "Mixed",
+  "layer_modified_dt": "2018-05-01T17:26:20Z",
+  "solr_geom": "ENVELOPE(-94.63, -92.13, 45.73, 44.19)",
+  "solr_year_i": 2015,
+  "centroid_s": "44.96,-93.38",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "geoblacklight_version": "1.0"
+}

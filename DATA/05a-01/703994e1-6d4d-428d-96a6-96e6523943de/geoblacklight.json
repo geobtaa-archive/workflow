@@ -2,23 +2,27 @@
   "uuid": "703994e1-6d4d-428d-96a6-96e6523943de",
   "dc_identifier_s": "703994e1-6d4d-428d-96a6-96e6523943de",
   "dc_title_s": "Average Annual Groundwater Recharge: Metro Twin Cities, Minnesota",
-  "dc_description_s": "This dataset contains long-term average (1975-2003) annual recharge estimates for the seven-county Twin Cities metropolitan area. Values are in inches per year. Recharge was estimated using a daily soil-water balance (SWB) model developed by the Wisconsin Geological and Natural History Survey in conjuction with a regional groundwater flow model developed for the Twin Cities metropolitan area. This dataset was developed by Barr Engineering Company for the Metropolitan Council to support the development of the Twin Cities metropolitan area regional groundwater flow model (Metro Model 2).More information about this process is provided in the 2009 Metropolitan Council report 'Twin Cities Metropolitan Area Regional Groundwater Flow Model Version 2.00 - Technical Report in Support of the Metropolitan Area Master Water Supply Plan', which is available online at www.metrocouncil.org/environment/WaterSupply/metrogroundwatermodeldatasets.htm.",
+  "dc_description_s": "This dataset contains long-term average (1975-2003) annual recharge estimates for the seven-county Twin Cities metropolitan area. Values are in inches per year. Recharge was estimated using a daily soil-water balance (SWB) model developed by the Wisconsin Geological and Natural History Survey in conjuction with a regional groundwater flow model developed for the Twin Cities metropolitan area. This dataset was developed by Barr Engineering Company for the Metropolitan Council to support the development of the Twin Cities metropolitan area regional groundwater flow model (Metro Model 2).  More information about this process is provided in the 2009 Metropolitan Council report 'Twin Cities Metropolitan Area Regional Groundwater Flow Model Version 2.00 - Technical Report in Support of the Metropolitan Area Master Water Supply Plan', which is available online at www.metrocouncil.org/environment/WaterSupply/metrogroundwatermodeldatasets.htm.",
   "dc_rights_s": "Public",
-  "dc_format_s": "Geodatabase",
-  "dc_language_s": [
+  "dc_format_s": "ArcGRID",
+  "dc_language_sm": [
     "English"
   ],
   "dc_type_s": "Dataset",
   "dc_publisher_sm": [
-    "Metropolitan Council, Minnesota"
+    "Metropolitan Council"
   ],
-  "dc_creator_sm": "Barr Engineering Company",
+  "dc_creator_sm": [
+    "Barr Engineering Company"
+  ],
   "dc_subject_sm": [
     "Inland Waters"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-water-ave-anual-gwtr-recharge\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/water_ave_anual_gwtr_recharge/fgdb_water_ave_anual_gwtr_recharge.zip\"}",
-  "dct_isPartOf_sm": "Minnesota Geospatial Commons",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/703994e1-6d4d-428d-96a6-96e6523943de\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/water_ave_anual_gwtr_recharge/fgdb_water_ave_anual_gwtr_recharge.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_metc/water_ave_anual_gwtr_recharge/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
   "dct_issued_s": "2015-08-05T10:01:35.911947",
   "dct_temporal_sm": [
     "2009"
@@ -26,14 +30,15 @@
   "dct_spatial_sm": [
     "Minnesota, United States"
   ],
-  "dc_relation_sm": [
+  "layer_slug_s": "703994e1-6d4d-428d-96a6-96e6523943de",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2018-04-30T14:29:18Z",
+  "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
+  "solr_year_i": 2009,
+  "centroid_s": "44.943,-93.372",
+  "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "",
-  "layer_slug_s": "703994e1-6d4d-428d-96a6-96e6523943de",
-  "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-2-19T23:59:22Z",
-  "centroid_s": "44.943,-93.372",
-  "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
-  "solr_year_i": 2009
+  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/239cdd34129e1010085b3b705b1d19eb.jpg",
+  "geoblacklight_version": "1.0"
 }

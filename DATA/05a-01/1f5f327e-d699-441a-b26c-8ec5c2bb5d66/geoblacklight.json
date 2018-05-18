@@ -2,23 +2,27 @@
   "uuid": "1f5f327e-d699-441a-b26c-8ec5c2bb5d66",
   "dc_identifier_s": "1f5f327e-d699-441a-b26c-8ec5c2bb5d66",
   "dc_title_s": "County Boundaries: Minnesota",
-  "dc_description_s": "This is the standard Minnesota State County Boundary dataset that is used by MNDNR and many other state agencies. It is maintained by the MNDNR Lands and Minerals Division.Please read at the accuracy and lineage sections of this metadata to make sure this dataset is appropriate for your application!",
+  "dc_description_s": "This is the standard Minnesota State County Boundary dataset that is used by MNDNR and many other state agencies. It is maintained by the MNDNR Lands and Minerals Division.  Please read at the accuracy and lineage sections of this metadata to make sure this dataset is appropriate for your application!",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_s": [
+  "dc_language_sm": [
     "English"
   ],
   "dc_type_s": "Dataset",
   "dc_publisher_sm": [
-    "Natural Resources Department, Minnesota"
+    "Minnesota Department of Natural Resources (DNR)"
   ],
-  "dc_creator_sm": "Minnesota Department of Natural Resources (MNDNR)",
+  "dc_creator_sm": [
+    "Minnesota Department of Natural Resources (Minnesota Department of Natural Resources (DNR))"
+  ],
   "dc_subject_sm": [
     "Boundaries"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-counties-in-minnesota\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_counties_in_minnesota/shp_bdry_counties_in_minnesota.zip\"}",
-  "dct_isPartOf_sm": "Minnesota Geospatial Commons",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/1f5f327e-d699-441a-b26c-8ec5c2bb5d66\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_counties_in_minnesota/gpkg_bdry_counties_in_minnesota.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/bdry_counties_in_minnesota/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
   "dct_issued_s": "2014-06-25T21:29:04.264575",
   "dct_temporal_sm": [
     "2013"
@@ -26,14 +30,15 @@
   "dct_spatial_sm": [
     "Minnesota, United States"
   ],
-  "dc_relation_sm": [
+  "layer_slug_s": "1f5f327e-d699-441a-b26c-8ec5c2bb5d66",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2018-04-30T14:29:18Z",
+  "solr_geom": "ENVELOPE(-96.824784, -90.836301, 49.267794, 43.438259)",
+  "solr_year_i": 2013,
+  "centroid_s": "46.3530265,-93.8305425",
+  "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_counties_in_minnesota/preview/preview.jpg",
-  "layer_slug_s": "1f5f327e-d699-441a-b26c-8ec5c2bb5d66",
-  "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-2-19T23:59:16Z",
-  "centroid_s": "46.3530265,-93.8305425",
-  "solr_geom": "ENVELOPE(-96.824784, -90.836301, 49.267794, 43.438259)",
-  "solr_year_i": 2013
+  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/e1d3863ec00a73ca221763ebffad980a.jpg",
+  "geoblacklight_version": "1.0"
 }

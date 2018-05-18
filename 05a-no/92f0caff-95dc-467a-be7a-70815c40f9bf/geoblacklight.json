@@ -1,0 +1,43 @@
+{
+  "uuid": "92f0caff-95dc-467a-be7a-70815c40f9bf",
+  "dc_identifier_s": "92f0caff-95dc-467a-be7a-70815c40f9bf",
+  "dc_title_s": "Potential Water Supply Issues By Watershed: Metro Twin Cities, Minnesota",
+  "dc_description_s": "The Potential Water Supply Issues dataset encompasses the seven county Twin Cities (Minneapolis and St. Paul) Metropolitan Area in Minnesota.  The dataset was developed by the Metropolitan Council, a regional governmental organization that deals, in part, with regional issues and long range planning for the Twin Cities area.  The data were interpreted from several existing state agencies datasets.  This dataset is composed of one feature class and three standalone tables.  - PotentialWaterSupplyIssues = Detailed potential water supply issue polygons - PotentialWaterSupplyIssuesByCTU = Standalone table with summary of potential water supply issues by CTU - PotentialWaterSupplyIssuesByCounty = Standalone table with summary of potential water supply issues by county - PotentialWaterSupplyIssuesByWatershed = Standalone table with summary of potential water supply issues by Watershed Management District or Organization  See \"Attributes\" section of the metadata for a detailed description of each of these water supply issue categories.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Metropolitan Council"
+  ],
+  "dc_creator_sm": [
+    "Metropolitan Council"
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/92f0caff-95dc-467a-be7a-70815c40f9bf\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/water_potential_sply_issue/shp_water_potential_sply_issue.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_metc/water_potential_sply_issue/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2015-10-23T10:02:02.525732",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "92f0caff-95dc-467a-be7a-70815c40f9bf",
+  "layer_geom_type_s": "Mixed",
+  "layer_modified_dt": "2018-05-01T17:26:20Z",
+  "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
+  "solr_year_i": 2015,
+  "centroid_s": "44.943,-93.372",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "geoblacklight_version": "1.0"
+}

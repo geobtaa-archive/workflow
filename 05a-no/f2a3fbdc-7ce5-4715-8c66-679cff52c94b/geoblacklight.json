@@ -1,0 +1,43 @@
+{
+  "uuid": "f2a3fbdc-7ce5-4715-8c66-679cff52c94b",
+  "dc_identifier_s": "f2a3fbdc-7ce5-4715-8c66-679cff52c94b",
+  "dc_title_s": "Digital Orthoimagery, Southern, Spring 2011; Meeker County, Spring 2013; 0.5-m Resolution: Minnesota",
+  "dc_description_s": "This dataset contains leaf-off 4-band red, green, blue, infrared (RGBI) digital orthophoto imagery produced at half-meter (50 cm) resolution from new aerial photography captured in Spring 2011 (Meeker Co., Spring 2013). The imagery covers 38 counties in southern Minnesota: Dodge, Faribault, Fillmore, Freeborn, Goodhue, Houston, Jackson, Kandiyohi, Lac qui Parle, Le Sueur, Lincoln, Lyon, Martin, McLeod, Meeker, Mower, Murray, Nicollet, Nobles, Olmsted, Pipestone, Redwood, Renville, Rice, Rock, Sibley, Steele, Swift, Wabasha, Waseca, Watonwan, Winona and Yellow Medicine.  Funding for this data was provided by the Minnesota Natural Heritage Fund, the Minnesota Clean Water Legacy Act, and The Environmental and Natural Resources Trust Fund.   This metadata record was created by the Minnesota Geospatial Information Office (MnGeo) using information supplied by Surdex Corporation.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Mixed Files",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Minnesota Geospatial Information Center (MnGeo)"
+  ],
+  "dc_creator_sm": [
+    "Minnesota Department of Natural Resources (Minnesota Department of Natural Resources (DNR)), Surdex Corporation"
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/f2a3fbdc-7ce5-4715-8c66-679cff52c94b\",\"http://schema.org/downloadUrl\":\"https://gisdata.mn.gov/dataset/f2a3fbdc-7ce5-4715-8c66-679cff52c94b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_mngeo/base_saip_so2011_50cm_airphotos/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2015-02-05T09:01:48.462787",
+  "dct_temporal_sm": [
+    "2011-04"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "f2a3fbdc-7ce5-4715-8c66-679cff52c94b",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2018-05-01T17:26:20Z",
+  "solr_geom": "ENVELOPE(-97, -91, 45.75, 43.5)",
+  "solr_year_i": 2011,
+  "centroid_s": "44.625,-94",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5051907"
+  ],
+  "geoblacklight_version": "1.0"
+}

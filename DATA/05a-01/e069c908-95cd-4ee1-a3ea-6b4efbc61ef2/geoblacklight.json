@@ -5,20 +5,24 @@
   "dc_description_s": "This dataset represents the geospatial public drainage system records (as defined by Minnesota Statute 103E) of Waseca County, Minnesota.",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_s": [
+  "dc_language_sm": [
     "English"
   ],
   "dc_type_s": "Dataset",
   "dc_publisher_sm": [
-    "Waseca County, Minnesota"
+    "Waseca County"
   ],
-  "dc_creator_sm": "Waseca County, MN",
+  "dc_creator_sm": [
+    "Waseca County, MN"
+  ],
   "dc_subject_sm": [
     "Inland Waters"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-co-waseca-water-public-drainage-systems\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_co_waseca/water_public_drainage_systems/shp_water_public_drainage_systems.zip\"}",
-  "dct_isPartOf_sm": "Minnesota Geospatial Commons",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/e069c908-95cd-4ee1-a3ea-6b4efbc61ef2\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_co_waseca/water_public_drainage_systems/shp_water_public_drainage_systems.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_co_waseca/water_public_drainage_systems/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
   "dct_issued_s": "2016-10-27T10:02:22.614154",
   "dct_temporal_sm": [
     "2016"
@@ -27,15 +31,15 @@
     "Waseca County, Minnesota, United States",
     "Minnesota, United States"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/5051907",
-    "http://sws.geonames.org/5037779"
-  ],
-  "thumbnail_path_ss": "",
   "layer_slug_s": "e069c908-95cd-4ee1-a3ea-6b4efbc61ef2",
-  "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-2-19T23:58:26Z",
-  "centroid_s": "44.0074235,-93.58954",
+  "layer_geom_type_s": "Mixed",
+  "layer_modified_dt": "2018-04-30T14:29:17Z",
   "solr_geom": "ENVELOPE(-93.772017, -93.407063, 44.168728, 43.846119)",
-  "solr_year_i": 2016
+  "solr_year_i": 2016,
+  "centroid_s": "44.0074235,-93.58954",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5051907"
+  ],
+  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/2aefe312e5e225c5cb29bbe190c4c427.jpg",
+  "geoblacklight_version": "1.0"
 }

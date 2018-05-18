@@ -1,0 +1,49 @@
+{
+  "uuid": "8b1cb8ab-5b75-4b56-aa3c-dde85f9e2baf",
+  "dc_identifier_s": "8b1cb8ab-5b75-4b56-aa3c-dde85f9e2baf",
+  "dc_title_s": "Total intensity aeromagnetic map of Gibson County, Indiana: relative to arbitrary datum",
+  "dc_description_s": "Includes text and location map. Scale approximately 1:63,360.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "JPEG",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Image",
+  "dc_publisher_sm": [
+    "The Survey"
+  ],
+  "dc_creator_sm": [
+    "Henderson,  John R., cartographer."
+  ],
+  "dc_subject_sm": [
+    "Thematic maps",
+    "Geomagnetism"
+  ],
+  "dct_provenance_s": "Indiana",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00228\",\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/screen/VAC3073-M-00228\"}",
+  "dct_isPartOf_sm": [
+    "Indiana Historic Maps"
+  ],
+  "dct_issued_s": [
+
+  ],
+  "dct_temporal_sm": [
+    "1950"
+  ],
+  "dct_spatial_sm": [
+    "Gibson County, Indiana, United States",
+    "Indiana, United States"
+  ],
+  "layer_slug_s": "8b1cb8ab-5b75-4b56-aa3c-dde85f9e2baf",
+  "layer_geom_type_s": "Scanned Map",
+  "layer_modified_dt": "2018-04-26T22:47:24Z",
+  "solr_geom": "ENVELOPE(-87.98, -87.3001, 38.53, 38.1501)",
+  "solr_year_i": 1950,
+  "centroid_s": "38.34005,-87.64005",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/4257948",
+    "http://sws.geonames.org/4921868"
+  ],
+  "thumbnail_path_ss": "https://btaagdp.org/maps/files/original/2d87b7257bf152595f31dc10836e10d3.jpg",
+  "geoblacklight_version": "1.0"
+}

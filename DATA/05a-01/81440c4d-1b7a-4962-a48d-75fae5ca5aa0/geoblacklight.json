@@ -5,37 +5,41 @@
   "dc_description_s": "This layer contains lines showing all public (and many private) roads in Dakota County, Minnesota. The lines are generally collected from plats and aerial photography.",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_s": [
+  "dc_language_sm": [
     "English"
   ],
   "dc_type_s": "Dataset",
   "dc_publisher_sm": [
-    "Dakota County, Minnesota"
+    "Dakota County"
   ],
-  "dc_creator_sm": "Dakota County GIS, Dakota County GIS, Staff",
+  "dc_creator_sm": [
+    "Dakota County GIS, Dakota County GIS, Staff"
+  ],
   "dc_subject_sm": [
     "Transportation"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-co-dakota-trans-trans-streets\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_co_dakota/trans_trans_streets/shp_trans_trans_streets.zip\"}",
-  "dct_isPartOf_sm": "Minnesota Geospatial Commons",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/81440c4d-1b7a-4962-a48d-75fae5ca5aa0\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_co_dakota/trans_trans_streets/shp_trans_trans_streets.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_co_dakota/trans_trans_streets/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
   "dct_issued_s": "2015-08-14T10:01:48.942041",
   "dct_temporal_sm": [
-    "2017"
+    "2018"
   ],
   "dct_spatial_sm": [
     "Dakota County, Minnesota, United States",
     "Minnesota, United States"
   ],
-  "dc_relation_sm": [
-    "http://sws.geonames.org/5023752",
-    "http://sws.geonames.org/5037779"
-  ],
-  "thumbnail_path_ss": "ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_co_dakota/trans_trans_streets/metadata/preview.jpg",
   "layer_slug_s": "81440c4d-1b7a-4962-a48d-75fae5ca5aa0",
-  "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-2-19T23:58:21Z",
-  "centroid_s": "44.6961235,-93.0295445",
+  "layer_geom_type_s": "Mixed",
+  "layer_modified_dt": "2018-04-30T14:29:17Z",
   "solr_geom": "ENVELOPE(-93.329853, -92.729236, 44.923499, 44.468748)",
-  "solr_year_i": 2017
+  "solr_year_i": 2017,
+  "centroid_s": "44.6961235,-93.0295445",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5023752"
+  ],
+  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/bc761ab915d7c558d133de23001b8182.jpg",
+  "geoblacklight_version": "1.0"
 }

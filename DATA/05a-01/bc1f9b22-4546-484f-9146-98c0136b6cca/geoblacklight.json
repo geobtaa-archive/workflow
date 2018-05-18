@@ -1,24 +1,28 @@
 {
   "uuid": "bc1f9b22-4546-484f-9146-98c0136b6cca",
   "dc_identifier_s": "bc1f9b22-4546-484f-9146-98c0136b6cca",
-  "dc_title_s": "House District Boundaries, 2002: Minnesota",
+  "dc_title_s": "House District Boundaries: Minnesota, 2002",
   "dc_description_s": "This is a polygon data set of 2002 Minnesota House Legislative District Boundaries. It displays district numbers. Includes house districts associated attributes. It was derived from U.S. Census Bureau 2000 TIGER/Line files as a result of 2000 redistricting efforts.",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_s": [
+  "dc_language_sm": [
     "English"
   ],
   "dc_type_s": "Dataset",
   "dc_publisher_sm": [
-    "Legislative GIS Office, Minnesota"
+    "Minnesota Legislative Coordinating Commission"
   ],
-  "dc_creator_sm": "Minnesota Legislative Coordinating Commission - Geographic Information Services Office (LCC- GIS)",
+  "dc_creator_sm": [
+    "Minnesota Legislative Coordinating Commission - Geographic Information Services Office (LCC- GIS)"
+  ],
   "dc_subject_sm": [
     "Boundaries"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdry-housedistricts2002\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_lcc/bdry_housedistricts2002/shp_bdry_housedistricts2002.zip\"}",
-  "dct_isPartOf_sm": "Minnesota Geospatial Commons",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bc1f9b22-4546-484f-9146-98c0136b6cca\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_lcc/bdry_housedistricts2002/kmz_bdry_housedistricts2002.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_lcc/bdry_housedistricts2002/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
   "dct_issued_s": "2017-02-16T11:01:59.108405",
   "dct_temporal_sm": [
     "2002"
@@ -26,14 +30,15 @@
   "dct_spatial_sm": [
     "Minnesota, United States"
   ],
-  "dc_relation_sm": [
+  "layer_slug_s": "bc1f9b22-4546-484f-9146-98c0136b6cca",
+  "layer_geom_type_s": "Mixed",
+  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)",
+  "solr_year_i": 2002,
+  "centroid_s": "46.435,-93.38",
+  "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_lcc/bdry_housedistricts2002/metadata/preview.jpg",
-  "layer_slug_s": "bc1f9b22-4546-484f-9146-98c0136b6cca",
-  "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-2-19T23:58:56Z",
-  "centroid_s": "46.435,-93.38",
-  "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)",
-  "solr_year_i": 2002
+  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/b87c560b59ea4e2658026ecce88f1608.jpg",
+  "geoblacklight_version": "1.0"
 }

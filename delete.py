@@ -97,7 +97,7 @@ class CSWToGeoBlacklight(object):
         }
 
         self.identifier = {
-            "rec": '"d27e47b845f0415a8caed25871a5d03c_1"'
+            "rec": '"13b126e1-c3ad-4ba9-ac03-abdb642151d5"'
 
 
         }

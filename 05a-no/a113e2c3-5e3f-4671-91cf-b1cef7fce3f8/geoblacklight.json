@@ -1,0 +1,43 @@
+{
+  "uuid": "a113e2c3-5e3f-4671-91cf-b1cef7fce3f8",
+  "dc_identifier_s": "a113e2c3-5e3f-4671-91cf-b1cef7fce3f8",
+  "dc_title_s": "Bobcat, Fisher, and Marten Zone: Minnesota",
+  "dc_description_s": "Bobcat, Fisher, and Marten Zone",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Minnesota Department of Natural Resources (DNR)"
+  ],
+  "dc_creator_sm": [
+    "Minnesota Department of Natural Resources (DNR) - Fish and Wildlife"
+  ],
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/a113e2c3-5e3f-4671-91cf-b1cef7fce3f8\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_fisher_marten_bobcat_zones/gpkg_bdry_fisher_marten_bobcat_zones.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/bdry_fisher_marten_bobcat_zones/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2016-10-13T10:02:29.236305",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "a113e2c3-5e3f-4671-91cf-b1cef7fce3f8",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2018-05-01T17:26:20Z",
+  "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)",
+  "solr_year_i": 2016,
+  "centroid_s": "46.435,-93.38",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "geoblacklight_version": "1.0"
+}

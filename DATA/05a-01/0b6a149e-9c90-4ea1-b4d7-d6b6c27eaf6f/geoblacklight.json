@@ -1,0 +1,44 @@
+{
+  "uuid": "0b6a149e-9c90-4ea1-b4d7-d6b6c27eaf6f",
+  "dc_identifier_s": "0b6a149e-9c90-4ea1-b4d7-d6b6c27eaf6f",
+  "dc_title_s": "National Pipeline Mapping System: Minnesota",
+  "dc_description_s": "The National Pipeline Mapping System (NPMS) is a geographic information system (GIS) created by the U.S. Department of Transportation, Pipeline and Hazardous Materials Safety Administration (PHMSA), Office of Pipeline Safety (OPS) in cooperation with other federal and state governmental agencies and the pipeline industry.  The NPMS consists of geospatial data, attribute data, public contact information, and metadata pertaining to the interstate and intrastate hazardous liquid trunklines and hazardous liquid low-stress lines as well as gas transmission pipelines, liquefied natural gas (LNG) plants, and hazardous liquid breakout tanks jurisdictional to PHMSA.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Mixed Files",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Minnesota Geospatial Information Center (MnGeo)"
+  ],
+  "dc_creator_sm": [
+    "U.S. Department of Transportation"
+  ],
+  "dc_subject_sm": [
+    "Utilities and Communication"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/0b6a149e-9c90-4ea1-b4d7-d6b6c27eaf6f\",\"http://schema.org/downloadUrl\":\"https://gisdata.mn.gov/dataset/0b6a149e-9c90-4ea1-b4d7-d6b6c27eaf6f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_mngeo/util_npms/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2014-06-25T21:28:56.280000",
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "0b6a149e-9c90-4ea1-b4d7-d6b6c27eaf6f",
+  "layer_geom_type_s": "Mixed",
+  "layer_modified_dt": "2018-04-30T14:29:16Z",
+  "solr_geom": "ENVELOPE(-179, -66, 73, 18)",
+  "solr_year_i": 2014,
+  "centroid_s": "45.5,-122.5",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5051907"
+  ],
+  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/fd9fbde03ed8f2846ba81496594fa64b.jpg",
+  "geoblacklight_version": "1.0"
+}

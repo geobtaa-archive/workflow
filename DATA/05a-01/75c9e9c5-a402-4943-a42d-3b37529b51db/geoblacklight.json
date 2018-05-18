@@ -2,23 +2,27 @@
   "uuid": "75c9e9c5-a402-4943-a42d-3b37529b51db",
   "dc_identifier_s": "75c9e9c5-a402-4943-a42d-3b37529b51db",
   "dc_title_s": "Historical Transit Facilities: Metro Twin Cities, Minnesota",
-  "dc_description_s": "The Historical Transit Facilities layer contains streetcar, ferry and horsecar facilities dating back to about 1872. One shape and one corresponding record exists for each route segment.The point work was derived referencing the Functional Class Roads dataset from the Metropolitan Council. Attributes include facility name, type of facility, year opened and year closed.",
+  "dc_description_s": "The Historical Transit Facilities layer contains streetcar, ferry and horsecar facilities dating back to about 1872.  One shape and one corresponding record exists for each route segment.  The point work was derived referencing the Functional Class Roads dataset from the Metropolitan Council.  Attributes include facility name, type of facility, year opened and year closed.",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_s": [
+  "dc_language_sm": [
     "English"
   ],
   "dc_type_s": "Dataset",
   "dc_publisher_sm": [
-    "Metropolitan Council, Minnesota"
+    "Metropolitan Council"
   ],
-  "dc_creator_sm": "Metropolitan Council",
+  "dc_creator_sm": [
+    "Metropolitan Council"
+  ],
   "dc_subject_sm": [
     "Transportation"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metc-trans-historical-transit-facilty\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/trans_historical_transit_facilty/shp_trans_historical_transit_facilty.zip\"}",
-  "dct_isPartOf_sm": "Minnesota Geospatial Commons",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/75c9e9c5-a402-4943-a42d-3b37529b51db\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/trans_historical_transit_facilty/fgdb_trans_historical_transit_facilty.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_metc/trans_historical_transit_facilty/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
   "dct_issued_s": "2015-08-12T10:01:38.773946",
   "dct_temporal_sm": [
     "2007"
@@ -26,14 +30,15 @@
   "dct_spatial_sm": [
     "Minnesota, United States"
   ],
-  "dc_relation_sm": [
+  "layer_slug_s": "75c9e9c5-a402-4943-a42d-3b37529b51db",
+  "layer_geom_type_s": "Line",
+  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
+  "solr_year_i": 2007,
+  "centroid_s": "44.943,-93.372",
+  "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/trans_historical_transit_facilty/metadata/preview.jpg",
-  "layer_slug_s": "75c9e9c5-a402-4943-a42d-3b37529b51db",
-  "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-2-19T23:58:56Z",
-  "centroid_s": "44.943,-93.372",
-  "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
-  "solr_year_i": 2007
+  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/37ab00c574d2cfba5c2cc31de3ad38a2.jpg",
+  "geoblacklight_version": "1.0"
 }

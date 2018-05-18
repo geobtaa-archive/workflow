@@ -1,0 +1,43 @@
+{
+  "uuid": "fd59237e-87ce-491a-bc38-e1e812bfb10f",
+  "dc_identifier_s": "fd59237e-87ce-491a-bc38-e1e812bfb10f",
+  "dc_title_s": "North-western portion of the Tabula terrae novae. : from the Ptolemy of 1513.",
+  "dc_description_s": "Subjects: West Indies--Maps--Early works to 1800",
+  "dc_rights_s": "Public",
+  "dc_format_s": "JPEG",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Image",
+  "dc_publisher_sm": [
+
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+
+  ],
+  "dct_provenance_s": "Penn State",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30360\",\"http://schema.org/downloadUrl\":\"https://collection1.libraries.psu.edu/utils/getdownloaditem/collection/maps1/id/30360/type/singleitem/filename/30532.jp2/width/8320/height/5698/mapsto/image/filesize/82281747/title/30532/size/fullSize\"}",
+  "dct_isPartOf_sm": "Penn State Rare Maps",
+  "dct_issued_s": [
+
+  ],
+  "dct_temporal_sm": [
+    "1890?"
+  ],
+  "dct_spatial_sm": [
+    "West Indies"
+  ],
+  "b1g_geonames_sm": [
+
+  ],
+  "layer_slug_s": "fd59237e-87ce-491a-bc38-e1e812bfb10f",
+  "layer_geom_type_s": "Scanned Map",
+  "layer_modified_dt": "2018-3-28T19:17:25Z",
+  "centroid_s": "18.6166666665,-72.29166667",
+  "solr_geom": "ENVELOPE(-85.16666667, -59.41666667, 27.25, 9.983333333)",
+  "solr_year_i": 1890,
+  "thumbnail_path_ss": "https://collection1.libraries.psu.edu/utils/getthumbnail/collection/maps1/id/30360"
+}

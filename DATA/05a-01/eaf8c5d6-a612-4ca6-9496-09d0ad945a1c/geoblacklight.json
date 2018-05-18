@@ -2,23 +2,27 @@
   "uuid": "eaf8c5d6-a612-4ca6-9496-09d0ad945a1c",
   "dc_identifier_s": "eaf8c5d6-a612-4ca6-9496-09d0ad945a1c",
   "dc_title_s": "MetroGIS Address Points Dataset - Twin Cities Metropolitan Area: Minnesota",
-  "dc_description_s": "This dataset is a compilation of address point data from metro area address authorities, which are predominantly cities. The dataset is intended to contain a point location and the official address (as defined by the address authority) for all occupiable units and any other official addresses within the jurisdictional boundary of each address authority. A number of other attributes are available in the dataset, but may not be populated by some address authorities. Metro area counties are playing a coordinative role to work with cities to create, maintain and aggregate address points. Currently this dataset contains points for Carver, Dakota, Hennepin, Ramsey and Scott Counties. It will grow over time as more counties contribute data. Some jurisdictions in this dataset contain parcel points and not complete address points. See Completeness in Section 2 of this metadata for more information.",
+  "dc_description_s": "This dataset is a compilation of address point data from metro area address authorities, which are predominantly cities. The dataset is intended to contain a point location and the official address (as defined by the address authority) for all occupiable units and any other official addresses within the jurisdictional boundary of each address authority. A number of other attributes are available in the dataset, but may not be populated by some address authorities.   Metro area counties are playing a coordinative role to work with cities to create, maintain and aggregate address points. Currently this dataset contains points for Carver, Dakota, Hennepin, Ramsey and Scott Counties. It will grow over time as more counties contribute data.   Some jurisdictions in this dataset contain parcel points and not complete address points.  See Completeness in Section 2 of this metadata for more information.",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_s": [
+  "dc_language_sm": [
     "English"
   ],
   "dc_type_s": "Dataset",
   "dc_publisher_sm": [
-    "MetroGIS, Minnesota"
+    "MetroGIS"
   ],
-  "dc_creator_sm": "Municipalities and Counties in the Twin Cities metropolitan area.",
+  "dc_creator_sm": [
+    "Counties of Anoka, Carver, Dakota, Hennepin, Ramsey, Scott and Washington"
+  ],
   "dc_subject_sm": [
     "Location"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/us-mn-state-metrogis-loc-address-points\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metrogis/loc_address_points/shp_loc_address_points.zip\"}",
-  "dct_isPartOf_sm": "Minnesota Geospatial Commons",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/eaf8c5d6-a612-4ca6-9496-09d0ad945a1c\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metrogis/loc_address_points/fgdb_loc_address_points.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_metrogis/loc_address_points/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
   "dct_issued_s": "2015-09-22T10:01:59.217991",
   "dct_temporal_sm": [
     "2017"
@@ -26,14 +30,15 @@
   "dct_spatial_sm": [
     "Minnesota, United States"
   ],
-  "dc_relation_sm": [
+  "layer_slug_s": "eaf8c5d6-a612-4ca6-9496-09d0ad945a1c",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
+  "solr_year_i": 2017,
+  "centroid_s": "44.943,-93.372",
+  "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "",
-  "layer_slug_s": "eaf8c5d6-a612-4ca6-9496-09d0ad945a1c",
-  "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-2-19T23:58:44Z",
-  "centroid_s": "44.943,-93.372",
-  "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
-  "solr_year_i": 2017
+  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/fd9526fcfb96162156778c587798212e.jpg",
+  "geoblacklight_version": "1.0"
 }

@@ -1,0 +1,44 @@
+{
+  "uuid": "c69f5b6b-ca0b-455b-811b-0e230865152e",
+  "dc_identifier_s": "c69f5b6b-ca0b-455b-811b-0e230865152e",
+  "dc_title_s": "LiDAR Elevation: Arrowhead Region NE, Minnesota, 2011",
+  "dc_description_s": "The project vendor, Woolpert, Inc., acquired highly accurate Light Detection and Ranging (LiDAR) elevation data for the Arrowhead Region in Northeast Minnesota in Spring 2011. The data cover Carlton, Cook, Lake and St. Louis counties, part of Itasca County, and Voyageurs National Park in Koochiching County.  LiDAR data are in the UTM Zone 15 coordinate system, NAD83 96 NAVD88 Geoid09, meters. The tiling scheme is 16th USGS 1:24,000 quadrangle tiles.  The vendor delivered the data to the Minnesota Department of Natural Resources (DNR) in several formats:  1) One-meter digital elevation model 2) Edge-of-water breaklines 3) Classified LAS formatted point cloud data  DNR staff created two additional products: two-foot contours and building outlines.  Note: This metadata record was created at the Minnesota Geospatial Information Office by combining information supplied by Woolpert and DNR.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Mixed Files",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Minnesota Geospatial Information Center (MnGeo)"
+  ],
+  "dc_creator_sm": [
+    "Minnesota Department of Natural Resources"
+  ],
+  "dc_subject_sm": [
+    "Elevation"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/c69f5b6b-ca0b-455b-811b-0e230865152e\",\"http://schema.org/downloadUrl\":\"https://gisdata.mn.gov/dataset/c69f5b6b-ca0b-455b-811b-0e230865152e\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_mngeo/elev_lidar_arrowhead2011/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2014-08-27T13:06:43.263350",
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "c69f5b6b-ca0b-455b-811b-0e230865152e",
+  "layer_geom_type_s": "Mixed",
+  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "solr_geom": "ENVELOPE(-93.23431, -89.562, 48.664343, 46.34806)",
+  "solr_year_i": 2011,
+  "centroid_s": "47.5062015,-91.398155",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5051907"
+  ],
+  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/fd9fbde03ed8f2846ba81496594fa64b.jpg",
+  "geoblacklight_version": "1.0"
+}

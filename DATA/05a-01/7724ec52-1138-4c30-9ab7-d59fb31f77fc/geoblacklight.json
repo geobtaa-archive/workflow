@@ -1,0 +1,44 @@
+{
+  "uuid": "7724ec52-1138-4c30-9ab7-d59fb31f77fc",
+  "dc_identifier_s": "7724ec52-1138-4c30-9ab7-d59fb31f77fc",
+  "dc_title_s": "High Resolution Orthoimagery: Dakota County, Minnesota, 2013",
+  "dc_description_s": "This dataset consists of 0.15-meter (approximately 0.5-foot), natural color and false color infrared orthoimages covering Dakota County. Data were collected by Aerometric (now Quantum Spatial).",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Mixed Files",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Minnesota Geospatial Information Center (MnGeo)"
+  ],
+  "dc_creator_sm": [
+    "Dakota County, Minnesota"
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/7724ec52-1138-4c30-9ab7-d59fb31f77fc\",\"http://schema.org/downloadUrl\":\"https://gisdata.mn.gov/dataset/7724ec52-1138-4c30-9ab7-d59fb31f77fc\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_mngeo/base_dakota_2013_airphotos/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2015-03-20T08:01:54.713345",
+  "dct_temporal_sm": [
+    "2013"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "7724ec52-1138-4c30-9ab7-d59fb31f77fc",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "solr_geom": "ENVELOPE(-93.33, -92.73, 44.93, 44.47)",
+  "solr_year_i": 2013,
+  "centroid_s": "44.7,-93.03",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5051907"
+  ],
+  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/fd9fbde03ed8f2846ba81496594fa64b.jpg",
+  "geoblacklight_version": "1.0"
+}
