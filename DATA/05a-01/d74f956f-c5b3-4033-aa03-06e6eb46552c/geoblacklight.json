@@ -1,5 +1,4 @@
 {
-  "uuid": "d74f956f-c5b3-4033-aa03-06e6eb46552c",
   "dc_identifier_s": "d74f956f-c5b3-4033-aa03-06e6eb46552c",
   "dc_title_s": "Sewersheds: Metro Twin Cities, Minnesota",
   "dc_description_s": "This layer contains the rough boundaries of the sewersheds for the Twin Cities metropolitan area.  A sewershed is a defined area that is tributary to a single point along an MCES interceptor pipe (a community connection to an interceptor) or is tributary to a single lift station.  Community boundaries are also used to define sewer-shed boundaries.  The data are derived from community comprehensive sewer plans.    Notes: -  The sewersheds are estimated.  The actual sewersheds may be different. -  Not all records contain county or MCD information.",
@@ -8,7 +7,10 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
   "dc_publisher_sm": [
     "Metropolitan Council"
   ],
@@ -19,7 +21,7 @@
     "Utilities and Communication"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/d74f956f-c5b3-4033-aa03-06e6eb46552c\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/util_sanitary_sewersheds/fgdb_util_sanitary_sewersheds.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_metc/util_sanitary_sewersheds/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/d74f956f-c5b3-4033-aa03-06e6eb46552c\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/util_sanitary_sewersheds/fgdb_util_sanitary_sewersheds.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_metc/util_sanitary_sewersheds/metadata/preview.jpg\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Utilities/MapServer/3\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_metc/util_sanitary_sewersheds/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -32,13 +34,20 @@
   ],
   "layer_slug_s": "d74f956f-c5b3-4033-aa03-06e6eb46552c",
   "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
   "solr_year_i": 2016,
-  "centroid_s": "44.943,-93.372",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.943,-93.372",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/f09853510b1e70761fb1b51721c32077.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_metc/util_sanitary_sewersheds/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

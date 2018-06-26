@@ -1,5 +1,4 @@
 {
-  "uuid": "3d48ea52-eacc-498c-8690-ad806a4e2b13",
   "dc_identifier_s": "3d48ea52-eacc-498c-8690-ad806a4e2b13",
   "dc_title_s": "Parcel Points: Rice County, Minnesota",
   "dc_description_s": "Centroid point of parcels in Rice County, Minnesota.  This layer include includes leased land.",
@@ -8,9 +7,9 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
-    "Rice County"
+    "Rice County, Minnesota"
   ],
   "dc_creator_sm": [
     "Rice County, Minnesota"
@@ -19,7 +18,7 @@
     "Planning and Cadastral"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/3d48ea52-eacc-498c-8690-ad806a4e2b13\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_co_rice/plan_parcel_points/fgdb_plan_parcel_points.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_co_rice/plan_parcel_points/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/3d48ea52-eacc-498c-8690-ad806a4e2b13\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_co_rice/plan_parcel_points/fgdb_plan_parcel_points.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_co_rice/plan_parcel_points/metadata/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_co_rice/plan_parcel_points/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -32,14 +31,21 @@
     "Minnesota, United States"
   ],
   "layer_slug_s": "3d48ea52-eacc-498c-8690-ad806a4e2b13",
-  "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-93.53, -93.03, 44.55, 44.19)",
-  "solr_year_i": 2017,
-  "centroid_s": "44.37,-93.28",
+  "solr_year_i": 2018,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.37,-93.28",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5043007"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/09fcbe987e1158da337840bf36c6a028.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_co_rice/plan_parcel_points/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

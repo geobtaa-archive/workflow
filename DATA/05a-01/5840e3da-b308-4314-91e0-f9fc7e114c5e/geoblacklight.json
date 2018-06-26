@@ -1,5 +1,4 @@
 {
-  "uuid": "5840e3da-b308-4314-91e0-f9fc7e114c5e",
   "dc_identifier_s": "5840e3da-b308-4314-91e0-f9fc7e114c5e",
   "dc_title_s": "Pollution Sensitivity of Near-Surface Materials: Minnesota",
   "dc_description_s": "This dataset estimates the pollution sensitivity of near-surface materials from the transmission time of water through 3 feet of soil and 7 feet of surficial geology, to a depth of 10 feet from the land surface.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Department of Natural Resources (DNR)"
   ],
@@ -20,7 +19,7 @@
     "Geoscientific Information"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/5840e3da-b308-4314-91e0-f9fc7e114c5e\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/geos_hydrogeology_atlas_hg02/fgdb_geos_hydrogeology_atlas_hg02.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/geos_hydrogeology_atlas_hg02/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/5840e3da-b308-4314-91e0-f9fc7e114c5e\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/geos_hydrogeology_atlas_hg02/fgdb_geos_hydrogeology_atlas_hg02.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/geos_hydrogeology_atlas_hg02/metadata/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/geos_hydrogeology_atlas_hg02/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -33,13 +32,20 @@
   ],
   "layer_slug_s": "5840e3da-b308-4314-91e0-f9fc7e114c5e",
   "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)",
   "solr_year_i": 2016,
-  "centroid_s": "46.435,-93.38",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Mixed"
+  ],
+  "b1g_centroid_ss": "46.435,-93.38",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/88282de96026376619add584f6cae97d.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/geos_hydrogeology_atlas_hg02/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

@@ -1,5 +1,4 @@
 {
-  "uuid": "c2041944-4ba4-45ff-951f-df164ee39546",
   "dc_identifier_s": "c2041944-4ba4-45ff-951f-df164ee39546",
   "dc_title_s": "Better Bus Stops: Metro Twin Cities, Minnesota",
   "dc_description_s": "Identifies the bus stops considered for improvements under Metro Transit’s Better Bus Stop program:  http://www.metrotransit.org/better-bus-stops   Bus stop improvements can be a combination of a shelter, light, or heat, or an ADA landing pad. The dataset identifies bus stops being considered for improvements, bus stops that were recently improved, and bus stops no longer under consideration for improvement.  Metro Transit’s goal is to add up to 150 shelters and improve an additional 75 existing shelters with light or heat as part of the agency’s work to advance the Equity Outcome from Thrive MSP 2040, the region’s policy plan.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Metropolitan Council"
   ],
@@ -31,14 +30,21 @@
     "Minnesota, United States"
   ],
   "layer_slug_s": "c2041944-4ba4-45ff-951f-df164ee39546",
-  "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:18Z",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-06-26T17:12:31Z",
   "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
-  "solr_year_i": 2015,
-  "centroid_s": "44.943,-93.372",
+  "solr_year_i": 2018,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.943,-93.372",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/8a88887055d52e437496aa84d2a02909.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

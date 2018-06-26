@@ -1,5 +1,4 @@
 {
-  "uuid": "f37dec13-ebdb-432e-ac2e-6dc364aa466c",
   "dc_identifier_s": "f37dec13-ebdb-432e-ac2e-6dc364aa466c",
   "dc_title_s": "Transit Patterns by Street Segments: Metro Twin Cities, Minnesota",
   "dc_description_s": "The Transit Patterns layer contains all fixed patterns serving the Twin Cities regional metropolitan area. A single route has multiple patterns often characterized by different terminals or branches. One shape and one corresponding record exists for each individual road segment that compose the pattern.   The line work for the dataset was derived from NCompasses Street Centerline and Address Range dataset. A small number of line segments have been added to those available from the NCompass dataset to completely depict all patterns traveled by fixed-route transit vehicles.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Metropolitan Council"
   ],
@@ -31,14 +30,21 @@
     "Minnesota, United States"
   ],
   "layer_slug_s": "f37dec13-ebdb-432e-ac2e-6dc364aa466c",
-  "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
-  "solr_year_i": 2015,
-  "centroid_s": "44.943,-93.372",
+  "solr_year_i": 2018,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.943,-93.372",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/1ba8aa26840dac5c7b188e40254ab349.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

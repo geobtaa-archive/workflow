@@ -1,0 +1,45 @@
+{
+  "uuid": "0280922c-c366-4367-8384-bfbb24ba6b14",
+  "dc_identifier_s": "0280922c-c366-4367-8384-bfbb24ba6b14",
+  "dc_title_s": "Road Centerlines: Lake County, Minnesota, 2016",
+  "dc_description_s": "This dataset contains retraced paths of most navigable roads in Lake County, Minnesota.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Lake County"
+  ],
+  "dc_creator_sm": [
+    "Lake County"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/0280922c-c366-4367-8384-bfbb24ba6b14\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_co_lake/trans_road_centerlines/shp_trans_road_centerlines.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_co_lake/trans_road_centerlines/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2015-07-25T08:01:30.800724",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "Lake County, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "0280922c-c366-4367-8384-bfbb24ba6b14",
+  "layer_geom_type_s": "Mixed",
+  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "solr_geom": "ENVELOPE(-91.802091, -91.019052, 47.989238, 46.940831)",
+  "solr_year_i": 2016,
+  "centroid_s": "47.4650345,-91.4105715",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5033738"
+  ],
+  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/bc761ab915d7c558d133de23001b8182.jpg",
+  "geoblacklight_version": "1.0"
+}

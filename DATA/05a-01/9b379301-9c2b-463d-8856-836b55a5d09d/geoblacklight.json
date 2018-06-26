@@ -1,5 +1,4 @@
 {
-  "uuid": "9b379301-9c2b-463d-8856-836b55a5d09d",
   "dc_identifier_s": "9b379301-9c2b-463d-8856-836b55a5d09d",
   "dc_title_s": "Metropolitan Council Transitways; Publicly Owned Parcels (Pilot Project): Metro Twin Cities, Minnesota",
   "dc_description_s": "This dataset was derived from the MetroGIS Regional Parcel dataset, (see link below) and is the result of a pilot project conducted by Metro Transit's Transit Oriented Development Office (TOD) to identify publicly owned parcels within a 1/2-mile distance of select existing and planned transit facilities. The May 2017 update also includes public parcels within a 1/2 mile distance of Metro Transit-owned Park and Ride facilities. Additional publicly owned parcel data will be added to this dataset as the transit network expands and data becomes available. The purpose of this pilot project is to increase awareness of publicly owned parcel locations relative to transit facility areas and facilitate transit oriented development analyses.  This dataset is a compilation of parcel polygons assembled into a common coordinate system from Twin Cities, Minnesota metropolitan area counties. No attempt has been made to edgematch or rubbersheet between counties. A standard set of attribute fields is included for each county plus one additional field for ownership level (See section 5 of the metadata). Not all attributes are populated for all counties. Summary attribute information is in the Attributes Overview section. Detailed attribute information can be found in the METROGIS Regional Parcel Dataset - (Updated Quarterly) MetroGIS Regional Parcel Dataset: https://gisdata.mn.gov/dataset/us-mn-state-metrogis-plan-regonal-prcls-open MetroGIS Parcel Attributes Document: ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metrogis/plan_regonal_prcls_open/metadata/MetroGIS_Regional_Parcels_Attributes.pdf",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Metropolitan Council"
   ],
@@ -19,7 +18,7 @@
     "Planning and Cadastral"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/9b379301-9c2b-463d-8856-836b55a5d09d\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/plan_tod_transitway_pub_prcls/fgdb_plan_tod_transitway_pub_prcls.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_metc/plan_tod_transitway_pub_prcls/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/9b379301-9c2b-463d-8856-836b55a5d09d\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/plan_tod_transitway_pub_prcls/fgdb_plan_tod_transitway_pub_prcls.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_metc/plan_tod_transitway_pub_prcls/metadata/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_metc/plan_tod_transitway_pub_prcls/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "9b379301-9c2b-463d-8856-836b55a5d09d",
   "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_modified_dt": "2018-06-26T17:12:31Z",
   "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
   "solr_year_i": 2017,
-  "centroid_s": "44.943,-93.372",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.943,-93.372",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/8adf608f10ca9ebdc1b66187db715cb2.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_metc/plan_tod_transitway_pub_prcls/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

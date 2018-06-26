@@ -1,5 +1,4 @@
 {
-  "uuid": "1464cf26-d8ba-42e1-b6b0-b67937a60168",
   "dc_identifier_s": "1464cf26-d8ba-42e1-b6b0-b67937a60168",
   "dc_title_s": "Public Land Survey System (PLSS) Townships: Itasca County, Minnesota",
   "dc_description_s": "This dataset represents the PLSS Townships for Itasca County. The Itasca County PLSS data is based on the best and most current survey records available. This data is used to create the parcel dataset. Data users should be aware that Itasca County is continually updating this dataset.  Updates to this dataset are expected as horizontal control positions from GPS are added.",
@@ -8,12 +7,12 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
-    "Itasca County"
+    "Itasca County, Minnesota"
   ],
   "dc_creator_sm": [
-    "Itasca County"
+
   ],
   "dc_subject_sm": [
     "Planning and Cadastral"
@@ -32,14 +31,21 @@
     "Minnesota, United States"
   ],
   "layer_slug_s": "1464cf26-d8ba-42e1-b6b0-b67937a60168",
-  "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-94.419272199455, -93.0555277417487, 47.8989785603538, 47.0251605088806)",
-  "solr_year_i": 2017,
-  "centroid_s": "47.4620695346,-93.7373999706",
+  "solr_year_i": 2018,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "47.4620695346,-93.7373999706",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5031616"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/2aefe312e5e225c5cb29bbe190c4c427.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

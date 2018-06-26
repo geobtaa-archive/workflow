@@ -1,5 +1,4 @@
 {
-  "uuid": "d8de4445-9a33-469e-aa7a-2db4a99f2b14",
   "dc_identifier_s": "d8de4445-9a33-469e-aa7a-2db4a99f2b14",
   "dc_title_s": "Property Subdivisions: Dakota County, Minnesota",
   "dc_description_s": "Subdivision polygons in Dakota County for the purpose of labeling. CIC's will not be labeled as they are part of their original underlying subdivision plat.",
@@ -8,9 +7,9 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
-    "Dakota County"
+    "Dakota County, Minnesota"
   ],
   "dc_creator_sm": [
     "Dakota County GIS, Dakota County GIS, Staff"
@@ -19,7 +18,7 @@
     "Planning and Cadastral"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/d8de4445-9a33-469e-aa7a-2db4a99f2b14\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_co_dakota/plan_propertysubdivisions/gpkg_plan_propertysubdivisions.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_co_dakota/plan_propertysubdivisions/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/d8de4445-9a33-469e-aa7a-2db4a99f2b14\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_co_dakota/plan_propertysubdivisions/gpkg_plan_propertysubdivisions.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_co_dakota/plan_propertysubdivisions/metadata/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_co_dakota/plan_propertysubdivisions/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -32,14 +31,21 @@
     "Minnesota, United States"
   ],
   "layer_slug_s": "d8de4445-9a33-469e-aa7a-2db4a99f2b14",
-  "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-93.329706, -92.732113, 44.923499, 44.469961)",
-  "solr_year_i": 2017,
-  "centroid_s": "44.69673,-93.0309095",
+  "solr_year_i": 2018,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.69673,-93.0309095",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5023752"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/2aefe312e5e225c5cb29bbe190c4c427.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_co_dakota/plan_propertysubdivisions/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

@@ -1,14 +1,13 @@
 {
-  "uuid": "b1c33d9b-ced5-4f3d-a0df-661b4f6edb4b",
   "dc_identifier_s": "b1c33d9b-ced5-4f3d-a0df-661b4f6edb4b",
   "dc_title_s": "Digital Orthoimagery, East-Central, Spring 2010,  0.5-m Resolution: Minnesota",
   "dc_description_s": "This dataset contains leaf-off 4 Band, red, green, blue, infrared (RGBI) digital orthophoto imagery of Chisago, Isanti, Sherburne and Wright counties in east-central Minnesota. It was produced at half-meter (50 cm) resolution from new aerial photography captured in Spring 2010.  Funding for this data was provided by the Minnesota Natural Heritage Fund, the Minnesota Clean Water Legacy Act, and The Environmental and Natural Resources Trust Fund.   This metadata record was created by MnGeo using information supplied by Surdex Corporation.",
   "dc_rights_s": "Public",
-  "dc_format_s": "Mixed Files",
+  "dc_format_s": "Files",
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Geospatial Information Center (MnGeo)"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "b1c33d9b-ced5-4f3d-a0df-661b4f6edb4b",
   "layer_geom_type_s": "Raster",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-94.34, -92.62, 45.75, 44.43)",
-  "solr_year_i": 0,
-  "centroid_s": "45.09,-93.48",
+  "solr_year_i": 2010,
+  "b1g_genre_sm": [
+    "Aerial imagery"
+  ],
+  "b1g_geom_type_sm": [
+    "Raster data"
+  ],
+  "b1g_centroid_ss": "45.09,-93.48",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5051907"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/fd9fbde03ed8f2846ba81496594fa64b.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

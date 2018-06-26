@@ -1,0 +1,46 @@
+{
+  "uuid": "2c7fe613-8978-4694-9de0-8b948b9d0627",
+  "dc_identifier_s": "2c7fe613-8978-4694-9de0-8b948b9d0627",
+  "dc_title_s": "Culvert Inventory: Lake County, Minnesota",
+  "dc_description_s": "This layer contains data collected to contribute to a culvert inventory of Lake County, Minnesota. Information includes: stream name, road name, stream alignment, culvert measurements, water depth, primary condition, bankfull, deposition, erosion, barrier to fish passage, and outlet drop. \t<b>Learn more about this effort</b>: <a href=\"fact_sheet.pdf\">Lake County Culvert Inventory Fact Sheet</a><br />",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Lake County"
+  ],
+  "dc_creator_sm": [
+    "Lake County"
+  ],
+  "dc_subject_sm": [
+    "Environment",
+    "Inland Waters"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/2c7fe613-8978-4694-9de0-8b948b9d0627\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_co_lake/water_culvert_inv/kmz_water_culvert_inv.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_co_lake/water_culvert_inv/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2017-03-21T10:02:00.178255",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "Lake County, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "2c7fe613-8978-4694-9de0-8b948b9d0627",
+  "layer_geom_type_s": "Mixed",
+  "layer_modified_dt": "2018-04-30T14:29:18Z",
+  "solr_geom": "ENVELOPE(-91.8, -91.02, 48.21, 46.92)",
+  "solr_year_i": 2016,
+  "centroid_s": "47.565,-91.41",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5033738"
+  ],
+  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/2dee1d5703978bd2f7d047689b8c1b84.jpg",
+  "geoblacklight_version": "1.0"
+}

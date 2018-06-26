@@ -1,5 +1,4 @@
 {
-  "uuid": "720c7982-d924-4bd1-ab58-6d5cac99c310",
   "dc_identifier_s": "720c7982-d924-4bd1-ab58-6d5cac99c310",
   "dc_title_s": "Public Lands Survey (PLSS) Data, Ramsey County: Minnesota",
   "dc_description_s": "This file geodatabase contains datasets that represent public land survey (PLSS) data.  The following links can be used to obtain individual metadata pages:  Benchmark:    <a href=\"loc_benchmark.html\">loc_benchmark.html</a> Corner:    <a href=\"loc_plss_corner.html\">loc_plss_corner.html</a> Section Line:    <a href=\"plan_plss_sectionline.html\">plan_plss_sectionline.html</a> Government Lot:    <a href=\"plan_plss_governmentlot.html\">plan_plss_governmentlot.html</a> Half Section:    <a href=\"plan_plss_halfsection.html\">plan_plss_halfsection.html</a> Quarter Quarter Section:    <a href=\"plan_plss_qtrqtrsection.html\">plan_plss_qtrqtrsection.html</a> Quarter Section:    <a href=\"plan_plss_qtrsection.html\">plan_plss_qtrsection.html</a> Section:    <a href=\"plan_plss_section.html\">plan_plss_section.html</a> Township:    <a href=\"plan_plss_township.html\">plan_plss_township.html</a>",
@@ -8,12 +7,12 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Ramsey County"
   ],
   "dc_creator_sm": [
-    "Ramsey County"
+
   ],
   "dc_subject_sm": [
     "Planning and Cadastral"
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "720c7982-d924-4bd1-ab58-6d5cac99c310",
   "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:16Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-93.228202, -92.982974, 45.124277, 44.890922)",
   "solr_year_i": 2016,
-  "centroid_s": "45.0075995,-93.105588",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Mixed"
+  ],
+  "b1g_centroid_ss": "45.0075995,-93.105588",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5051907"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/fd9fbde03ed8f2846ba81496594fa64b.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

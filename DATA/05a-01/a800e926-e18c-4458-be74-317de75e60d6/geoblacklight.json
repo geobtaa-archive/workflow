@@ -1,5 +1,4 @@
 {
-  "uuid": "a800e926-e18c-4458-be74-317de75e60d6",
   "dc_identifier_s": "a800e926-e18c-4458-be74-317de75e60d6",
   "dc_title_s": "Environmental Data, Ramsey County: Minnesota",
   "dc_description_s": "This file geodatabase contains datasets that include soil survey (SSURGO) and open water.  The following links can be used to obtain individual metadata pages:  Water Bodies:    <a href=\"env_waterbody.html\">env_waterbody.html</a> Water Lines:    <a href=\"env_waterline.html\">env_waterline.html</a> SSURGO:    <a href=\"env_ssurgo.html\">env_ssurgo.html</a>",
@@ -8,12 +7,12 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Ramsey County"
   ],
   "dc_creator_sm": [
-    "Ramsey County"
+
   ],
   "dc_subject_sm": [
     "Environment"
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "a800e926-e18c-4458-be74-317de75e60d6",
   "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:16Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-93.228202, -92.982974, 45.124277, 44.890922)",
   "solr_year_i": 2016,
-  "centroid_s": "45.0075995,-93.105588",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Mixed"
+  ],
+  "b1g_centroid_ss": "45.0075995,-93.105588",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5051907"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/fd9fbde03ed8f2846ba81496594fa64b.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

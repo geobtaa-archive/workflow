@@ -1,5 +1,4 @@
 {
-  "uuid": "478a724a-0f2c-45be-9763-5d38262c0e7a",
   "dc_identifier_s": "478a724a-0f2c-45be-9763-5d38262c0e7a",
   "dc_title_s": "Parcel Data, Ramsey County: Minnesota",
   "dc_description_s": "This file geodatabase contains parcel data including plat boundaries, tax parcels, easements and road right of ways.  Attributed Parcel Point and Polygon data represent property descriptions (legal descriptions) and land ownership in Ramsey County joined to tax parcels.  The following links can be used to obtain individual metadata pages:   Attributed Parcel Point:    <a href=\"plan_attributedparcelpoint.html\">plan_attributedparcelpoint.html</a> Attributed Parcel Poly:    <a href=\"plan_attributedparcelpoly.html\">plan_attributedparcelpoly.html</a> Common Interest:    <a href=\"plan_commoninterest.html\">plan_commoninterest.html</a> Subdivision:    <a href=\"plan_subdivision.html\">plan_subdivision.html</a> Tax Parcels:    <a href=\"plan_taxparcel.html\">plan_taxparcel.html</a> Conveyance Division:    <a href=\"plan_conveyancedivision.html\">plan_conveyancedivision.html</a> Special Survey:    <a href=\"plan_specialsurvey.html\">plan_specialsurvey.html</a> Parcel Info:    <a href=\"plan_parcelinfo.html\">plan_parcelinfo.html</a> Easement:    <a href=\"plan_easement.html\">plan_easement.html</a> Landtie:    <a href=\"plan_landtie.html\">plan_landtie.html</a> Right of Way:    <a href=\"plan_rightofway.html\">plan_rightofway.html</a> Historic Right of Way:    <a href=\"plan_historicrightofway.html\">plan_historicrightofway.html</a>",
@@ -8,12 +7,12 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Ramsey County"
   ],
   "dc_creator_sm": [
-    "Ramsey County"
+
   ],
   "dc_subject_sm": [
     "Planning and Cadastral"
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "478a724a-0f2c-45be-9763-5d38262c0e7a",
   "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:16Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-93.228202, -92.982974, 45.124277, 44.890922)",
   "solr_year_i": 2016,
-  "centroid_s": "45.0075995,-93.105588",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Mixed"
+  ],
+  "b1g_centroid_ss": "45.0075995,-93.105588",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5051907"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/fd9fbde03ed8f2846ba81496594fa64b.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

@@ -1,14 +1,13 @@
 {
-  "uuid": "f1200e67-83db-4587-bb62-8c50433d534c",
   "dc_identifier_s": "f1200e67-83db-4587-bb62-8c50433d534c",
   "dc_title_s": "High Resolution Orthoimagery: Scott County, Minnesota, 2013",
   "dc_description_s": "This dataset consists of 0.15-meter (approximately 0.5-foot), natural color and false color infrared orthoimages covering Scott County. Data were collected by Aerometric (now Quantum Spatial).",
   "dc_rights_s": "Public",
-  "dc_format_s": "Mixed Files",
+  "dc_format_s": "Files",
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Geospatial Information Center (MnGeo)"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "f1200e67-83db-4587-bb62-8c50433d534c",
   "layer_geom_type_s": "Raster",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-93.92, -93.27, 44.82, 44.54)",
   "solr_year_i": 2013,
-  "centroid_s": "44.68,-93.595",
+  "b1g_genre_sm": [
+    "Aerial imagery"
+  ],
+  "b1g_geom_type_sm": [
+    "Raster data"
+  ],
+  "b1g_centroid_ss": "44.68,-93.595",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5051907"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/fd9fbde03ed8f2846ba81496594fa64b.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

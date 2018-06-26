@@ -1,5 +1,4 @@
 {
-  "uuid": "aaa94ac9-5ad4-4bc2-951d-5f2061170838",
   "dc_identifier_s": "aaa94ac9-5ad4-4bc2-951d-5f2061170838",
   "dc_title_s": "Census Tract Correspondence and Combined Tracts: Metro Twin Cities, Minnesota, 1990-2000",
   "dc_description_s": "This dataset consists of a correspondence table and shape file of the combined 1990 and 2000 Census tracts.  Note:  Census tracts from 1990 and 2000 do not match in all areas.  This dataset is an attempt to match them.  Some combining and splitting of tracts was necessary.  See the Lineage in Section 2 of the metadata for more information.",
@@ -8,7 +7,10 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
   "dc_publisher_sm": [
     "Metropolitan Council"
   ],
@@ -19,7 +21,7 @@
     "Society"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/aaa94ac9-5ad4-4bc2-951d-5f2061170838\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/society_census_trt_comb1990_2000/fgdb_society_census_trt_comb1990_2000.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_metc/society_census_trt_comb1990_2000/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/aaa94ac9-5ad4-4bc2-951d-5f2061170838\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/society_census_trt_comb1990_2000/fgdb_society_census_trt_comb1990_2000.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_metc/society_census_trt_comb1990_2000/metadata/preview.jpg\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Census2000/MapServer/1\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_metc/society_census_trt_comb1990_2000/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -32,13 +34,20 @@
   ],
   "layer_slug_s": "aaa94ac9-5ad4-4bc2-951d-5f2061170838",
   "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2018-04-30T14:29:18Z",
+  "layer_modified_dt": "2018-06-26T17:12:31Z",
   "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
   "solr_year_i": 1990,
-  "centroid_s": "44.943,-93.372",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.943,-93.372",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/518d6baab8f211859538eb18640f518f.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_metc/society_census_trt_comb1990_2000/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

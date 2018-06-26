@@ -1,5 +1,4 @@
 {
-  "uuid": "496a5a55-cf9c-472a-a631-86058d1d4c63",
   "dc_identifier_s": "496a5a55-cf9c-472a-a631-86058d1d4c63",
   "dc_title_s": "Department of natural Resources Watershed Suite: Minnesota",
   "dc_description_s": "The MNDNR Watershed Suite is a collection of watershed delineations at various levels, flow network lines, and pour points. Follow the links below to the individual metadata pages for each layer:  <b>MNDNR Watersheds</b> MNDNR Level 01 - HUC 02: <a href=\"dnr_watersheds_dnr_level_01_huc_02.html\">dnr_watersheds_dnr_level_01_huc_02.html</a> MNDNR Level 02 - HUC 04: <a href=\"dnr_watersheds_dnr_level_02_huc_04.html\">dnr_watersheds_dnr_level_02_huc_04.html</a> MNDNR Level 04 - HUC 08 - Majors: <a href=\"dnr_watersheds_dnr_level_04_huc_08_majors.html\">dnr_watersheds_dnr_level_04_huc_08_majors.html</a> MNDNR Level 07 - Minors: <a href=\"dnr_watersheds_dnr_level_07_minors.html\">dnr_watersheds_dnr_level_07_minors.html</a> MNDNR Level 08 - All Catchments: <a href=\"dnr_watersheds_dnr_level_08_all_catchments.html\">dnr_watersheds_dnr_level_08_all_catchments.html</a> MNDNR Level 09 - DNR AutoCatchments: <a href=\"dnr_watersheds_auto_catchments.html\">dnr_watersheds_auto_catchments.html</a>  <b>Minnesota Hydrologic Units</b> Flow Network Lines: <a href=\"dnr_watersheds_catchment_flow_lines.html\">dnr_watersheds_catchment_flow_lines.html</a> Pour Points: <a href=\"dnr_watersheds_catchment_pour_points.html\">dnr_watersheds_catchment_pour_points.html</a>",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Department of Natural Resources (DNR)"
   ],
@@ -20,7 +19,7 @@
     "Inland Waters"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/496a5a55-cf9c-472a-a631-86058d1d4c63\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/geos_dnr_watersheds/fgdb_geos_dnr_watersheds.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/geos_dnr_watersheds/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/496a5a55-cf9c-472a-a631-86058d1d4c63\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/geos_dnr_watersheds/fgdb_geos_dnr_watersheds.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/geos_dnr_watersheds/preview/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/geos_dnr_watersheds/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -33,13 +32,20 @@
   ],
   "layer_slug_s": "496a5a55-cf9c-472a-a631-86058d1d4c63",
   "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)",
   "solr_year_i": 2014,
-  "centroid_s": "46.435,-93.38",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "46.435,-93.38",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/8929f24e54ca6e01d870afe7cb1f5056.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/geos_dnr_watersheds/preview/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

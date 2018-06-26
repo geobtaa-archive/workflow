@@ -1,14 +1,13 @@
 {
-  "uuid": "c69f5b6b-ca0b-455b-811b-0e230865152e",
   "dc_identifier_s": "c69f5b6b-ca0b-455b-811b-0e230865152e",
   "dc_title_s": "LiDAR Elevation: Arrowhead Region NE, Minnesota, 2011",
   "dc_description_s": "The project vendor, Woolpert, Inc., acquired highly accurate Light Detection and Ranging (LiDAR) elevation data for the Arrowhead Region in Northeast Minnesota in Spring 2011. The data cover Carlton, Cook, Lake and St. Louis counties, part of Itasca County, and Voyageurs National Park in Koochiching County.  LiDAR data are in the UTM Zone 15 coordinate system, NAD83 96 NAVD88 Geoid09, meters. The tiling scheme is 16th USGS 1:24,000 quadrangle tiles.  The vendor delivered the data to the Minnesota Department of Natural Resources (DNR) in several formats:  1) One-meter digital elevation model 2) Edge-of-water breaklines 3) Classified LAS formatted point cloud data  DNR staff created two additional products: two-foot contours and building outlines.  Note: This metadata record was created at the Minnesota Geospatial Information Office by combining information supplied by Woolpert and DNR.",
   "dc_rights_s": "Public",
-  "dc_format_s": "Mixed Files",
+  "dc_format_s": "Files",
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Geospatial Information Center (MnGeo)"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "c69f5b6b-ca0b-455b-811b-0e230865152e",
   "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-93.23431, -89.562, 48.664343, 46.34806)",
   "solr_year_i": 2011,
-  "centroid_s": "47.5062015,-91.398155",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Mixed"
+  ],
+  "b1g_centroid_ss": "47.5062015,-91.398155",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5051907"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/fd9fbde03ed8f2846ba81496594fa64b.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

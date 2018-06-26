@@ -1,5 +1,4 @@
 {
-  "uuid": "74d8eadc-3672-4d0f-8be4-e4ad0ad32915",
   "dc_identifier_s": "74d8eadc-3672-4d0f-8be4-e4ad0ad32915",
   "dc_title_s": "Agricultural Preserves: Metro Twin Cities, Minnesota, 2008",
   "dc_description_s": "This dataset includes parcels that are enrolled in the Metropolitan Agricultural Preserves Act, Minnesota Statute 473H. The goal of this act is to encourage preservation of agricultural lands by providing a package of benefits to keep land in long-term agricultural use. At the request of the Metropolitan Council, a table is created by each county to reflect the status of parcels in the program at the end of each calendar year. The Council links these tables to the MetroGIS Regional Parcel Dataset to create a shape file of Agricultural Preserves.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Metropolitan Council"
   ],
@@ -19,7 +18,7 @@
     "Farming"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/74d8eadc-3672-4d0f-8be4-e4ad0ad32915\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/agri_agricultural_preserves2008/fgdb_agri_agricultural_preserves2008.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_metc/agri_agricultural_preserves2008/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/74d8eadc-3672-4d0f-8be4-e4ad0ad32915\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/agri_agricultural_preserves2008/fgdb_agri_agricultural_preserves2008.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_metc/agri_agricultural_preserves2008/metadata/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_metc/agri_agricultural_preserves2008/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "74d8eadc-3672-4d0f-8be4-e4ad0ad32915",
   "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2018-04-30T14:29:18Z",
+  "layer_modified_dt": "2018-06-26T17:12:31Z",
   "solr_geom": "ENVELOPE(-94.022062, -92.74902, 45.392463, 44.467198)",
   "solr_year_i": 2008,
-  "centroid_s": "44.9298305,-93.385541",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.9298305,-93.385541",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/b9a44a136f5e383a02738952a45b1623.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_metc/agri_agricultural_preserves2008/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

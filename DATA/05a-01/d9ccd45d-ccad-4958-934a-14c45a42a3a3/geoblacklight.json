@@ -1,5 +1,4 @@
 {
-  "uuid": "d9ccd45d-ccad-4958-934a-14c45a42a3a3",
   "dc_identifier_s": "d9ccd45d-ccad-4958-934a-14c45a42a3a3",
   "dc_title_s": "Drinking Water Supply Management Areas: Minnesota",
   "dc_description_s": "These sets of data include the drinking water supply management area boundaries and the vulnerability levels within each management area in Minnesota.  More information can be found at: http://www.health.state.mn.us/divs/eh/water/swp/maps/index.htm   Follow the links below to the access the individual metadata pages for each layer:  <b>Drinking Water Supply Management Areas:</b> <a href=\"drinking_water_supply_management_areas.html\">drinking_water_supply_management_areas.html</a>  <b>Drinking Water Supply Management Areas Vulnerability:</b> <a href=\"drinking_water_supply_management_area_vulnerability.html\">drinking_water_supply_management_area_vulnerability.html</a>",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Department of Health"
   ],
@@ -20,7 +19,7 @@
     "Inland Waters"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/d9ccd45d-ccad-4958-934a-14c45a42a3a3\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_health/water_drinking_water_supply/fgdb_water_drinking_water_supply.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_health/water_drinking_water_supply/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/d9ccd45d-ccad-4958-934a-14c45a42a3a3\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_health/water_drinking_water_supply/fgdb_water_drinking_water_supply.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_health/water_drinking_water_supply/metadata/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_health/water_drinking_water_supply/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -32,14 +31,21 @@
     "Minnesota, United States"
   ],
   "layer_slug_s": "d9ccd45d-ccad-4958-934a-14c45a42a3a3",
-  "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-06-26T17:12:31Z",
   "solr_geom": "ENVELOPE(-97.072169, -91.139865, 48.805032, 43.432979)",
   "solr_year_i": 2017,
-  "centroid_s": "46.1190055,-94.106017",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "46.1190055,-94.106017",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/e59678252cc90b36f11ff2819f239460.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_health/water_drinking_water_supply/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

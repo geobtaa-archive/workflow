@@ -1,5 +1,4 @@
 {
-  "uuid": "bb164aee-f885-4cbf-bbb3-4dcd8baa8547",
   "dc_identifier_s": "bb164aee-f885-4cbf-bbb3-4dcd8baa8547",
   "dc_title_s": "Metro Collaborative Trails and Bikeways: Minnesota",
   "dc_description_s": "This dataset was created by the Metro Trails and Bikeways Collaborative, a joint collaborative project involving the technical and managerial GIS staff from the Seven Metropolitan Counties (Anoka, Carver, Dakota, Hennepin, Ramsey, Scott and Washington). Data were gathered from local, state, and federal partners by the project team and put into the metro data model.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "MetroGIS"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "bb164aee-f885-4cbf-bbb3-4dcd8baa8547",
   "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:16Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
   "solr_year_i": 2017,
-  "centroid_s": "44.943,-93.372",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Mixed"
+  ],
+  "b1g_centroid_ss": "44.943,-93.372",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5051907"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/fd9fbde03ed8f2846ba81496594fa64b.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

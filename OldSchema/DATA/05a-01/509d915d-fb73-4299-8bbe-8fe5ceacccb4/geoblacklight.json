@@ -1,0 +1,44 @@
+{
+  "uuid": "509d915d-fb73-4299-8bbe-8fe5ceacccb4",
+  "dc_identifier_s": "509d915d-fb73-4299-8bbe-8fe5ceacccb4",
+  "dc_title_s": "Travel Behavior Inventory (TBI) Household Interview Survey: Minnesota, 2010",
+  "dc_description_s": "Household travel survey conducted from fall 2010 to spring 2012 as part of the 2010 Travel Behavior Inventory (TBI).    The TBI is a battery of surveys conducted 2010-2012 to support transportation planning and transportation forecast model development.  Dataset includes record surveyed in 2010, as well as some records from 2005 for routes that were not surveyed in 2010.  Four expansion factors were developed, all matching systemwide totals: Allsys- All records, at route level ODsys-All records with O/D information, at route level ODTPsys- All records with O/D and purpose information, at route level ODTP_Geosys- All records with O/D and purpose information, at segment level  Please refer to documentation for information about sample plan, survey instruments, field implementation, and data expansion.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Mixed Files",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Metropolitan Council"
+  ],
+  "dc_creator_sm": [
+    "Metropolitan Council"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/509d915d-fb73-4299-8bbe-8fe5ceacccb4\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/society_tbi_home_interview2010/xlsx_society_tbi_home_interview2010.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_metc/society_tbi_home_interview2010/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2015-10-15T10:02:21.595518",
+  "dct_temporal_sm": [
+    "November 2010 - March 2012"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "509d915d-fb73-4299-8bbe-8fe5ceacccb4",
+  "layer_geom_type_s": "Mixed",
+  "layer_modified_dt": "2018-04-30T14:29:16Z",
+  "solr_geom": "ENVELOPE(-95.846, -91.533, 46.776, 41.284)",
+  "solr_year_i": 0,
+  "centroid_s": "44.03,-93.6895",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5051907"
+  ],
+  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/fd9fbde03ed8f2846ba81496594fa64b.jpg",
+  "geoblacklight_version": "1.0"
+}

@@ -1,5 +1,4 @@
 {
-  "uuid": "33332e32-04c9-4872-b09b-1920fe743a11",
   "dc_identifier_s": "33332e32-04c9-4872-b09b-1920fe743a11",
   "dc_title_s": "Prairie Change Analysis: Minnesota, 1991-2008",
   "dc_description_s": "This dataset displays the results of a prairie/savanna change analysis study completed in May 2010.  The area reviewed consists of 1,521 sites identified by Minnesota County Biological Survey as prairie or savanna habitat prior to 1994 as well as a predetermined buffer area. Data is made up of landuse codes and descriptions for 1991 and 2008 (as determined from aerial photography).",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Department of Natural Resources (DNR)"
   ],
@@ -19,7 +18,7 @@
     "Environment"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/33332e32-04c9-4872-b09b-1920fe743a11\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_prairie_change_analysis_2008/fgdb_env_prairie_change_analysis_2008.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/env_prairie_change_analysis_2008/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/33332e32-04c9-4872-b09b-1920fe743a11\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_prairie_change_analysis_2008/fgdb_env_prairie_change_analysis_2008.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/env_prairie_change_analysis_2008/metadata/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/env_prairie_change_analysis_2008/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "33332e32-04c9-4872-b09b-1920fe743a11",
   "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-96.720359, -91.59736, 49.050237, 43.646481)",
   "solr_year_i": 1991,
-  "centroid_s": "46.348359,-94.1588595",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "46.348359,-94.1588595",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/1b2032c1cf51b903a8a0bf884b84b6eb.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/env_prairie_change_analysis_2008/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

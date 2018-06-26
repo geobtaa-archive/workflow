@@ -1,5 +1,4 @@
 {
-  "uuid": "94db2b6e-b826-4938-941e-c7875ab3f884",
   "dc_identifier_s": "94db2b6e-b826-4938-941e-c7875ab3f884",
   "dc_title_s": "Hunter Walking Trails: Minnesota",
   "dc_description_s": "Hunter walking trails are managed to provide non-motorized hunting opportunities.  Management may include maintenance of parking lots, gates, signs, mowing, and habitat management for wildlife.  Some of these trails are managed in cooperation with other landowners.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Department of Natural Resources (DNR)"
   ],
@@ -19,7 +18,7 @@
     "Transportation"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/94db2b6e-b826-4938-941e-c7875ab3f884\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/trans_hunter_walking_trails/fgdb_trans_hunter_walking_trails.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/trans_hunter_walking_trails/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/94db2b6e-b826-4938-941e-c7875ab3f884\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/trans_hunter_walking_trails/fgdb_trans_hunter_walking_trails.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/trans_hunter_walking_trails/metadata/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/trans_hunter_walking_trails/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "94db2b6e-b826-4938-941e-c7875ab3f884",
   "layer_geom_type_s": "Line",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_modified_dt": "2018-06-26T17:12:31Z",
   "solr_geom": "ENVELOPE(-96.217078, -90.319982, 49.013563, 46.040941)",
   "solr_year_i": 2017,
-  "centroid_s": "47.527252,-93.26853",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "47.527252,-93.26853",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/4b12294a65dea9e72ca39e826018a518.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/trans_hunter_walking_trails/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

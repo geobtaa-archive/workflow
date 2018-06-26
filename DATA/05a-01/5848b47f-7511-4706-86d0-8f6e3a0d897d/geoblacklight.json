@@ -1,5 +1,4 @@
 {
-  "uuid": "5848b47f-7511-4706-86d0-8f6e3a0d897d",
   "dc_identifier_s": "5848b47f-7511-4706-86d0-8f6e3a0d897d",
   "dc_title_s": "Potentially Undisturbed Land (Virgin Sod) - FSA Common Land Unit Derived: Minnesota",
   "dc_description_s": "Project Description:   South Dakota State University has developed a rigorous system for identifying undisturbed land (virgin sod) by utilizing Farm Services Agency (FSA) Common Land Unit (CLU) data to determine the extent of known tillage history.  Through a process of deductive assessment that incorporates USDA/NAIP aerial imagery (instead of the more common NASS satellite imagery) the project identifies and removes all tillage and physical land disturbance history to accurately identify the location of lands with the highest probability of being truly native (virgin) sod.  This deductive approach is unlike any grassland modeling project ever conducted.  Conservation organizations across the region are excited about the results and using the data as a key foundational 'cornerstone' tool for refining and creating protocols for targeted grassland conservation programs, species-specific research, and long-term conservation planning.     Project Location Description:  Currently this assessment has been done for eastern South Dakota and the Prairie Coteau and Lac Qui Parle landscapes in western and southwestern Minnesota, with the intent of creating a template for all of the Great Plains. The work in Minnesota was commissioned by the Local Technical Teams implementing the Minnesota Prairie Conservation Plan.  Funding was provided by the DNR Section of Wildlife's Working Lands Initiative. Data from the assessment of Eastern South Dakota can be found here: http://openprairie.sdstate.edu/data_land-easternSD/1/",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Department of Natural Resources (DNR)"
   ],
@@ -19,7 +18,7 @@
     "Environment"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/5848b47f-7511-4706-86d0-8f6e3a0d897d\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_potentially_undisturbed_land/gpkg_env_potentially_undisturbed_land.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/env_potentially_undisturbed_land/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/5848b47f-7511-4706-86d0-8f6e3a0d897d\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_potentially_undisturbed_land/gpkg_env_potentially_undisturbed_land.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/env_potentially_undisturbed_land/metadata/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/env_potentially_undisturbed_land/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -31,14 +30,21 @@
     "Minnesota, United States"
   ],
   "layer_slug_s": "5848b47f-7511-4706-86d0-8f6e3a0d897d",
-  "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-97.96, -94.21, 47.61, 42.2)",
   "solr_year_i": 2015,
-  "centroid_s": "44.905,-96.085",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.905,-96.085",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/1b2032c1cf51b903a8a0bf884b84b6eb.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/env_potentially_undisturbed_land/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

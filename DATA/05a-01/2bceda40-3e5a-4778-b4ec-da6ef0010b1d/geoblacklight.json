@@ -1,5 +1,4 @@
 {
-  "uuid": "2bceda40-3e5a-4778-b4ec-da6ef0010b1d",
   "dc_identifier_s": "2bceda40-3e5a-4778-b4ec-da6ef0010b1d",
   "dc_title_s": "Department of natural Resources Native Prairies: Minnesota",
   "dc_description_s": "Native prairie polygons are a subset of a larger database of DNR Native Plant Communities and are the result of that classification system and protocol.   As a subset of the DNR Native Plant Communities dataset, this dataset contains selected native plant community classifications (prairies) that result from the Minnesota Biological Survey (MBS), State Park land cover data, Forestry native plant community data, and Wildlife Management Areas  land cover data. It includes polygons representing the highest quality native prairie communities remaining in surveyed areas. These native prairie communities are important areas for conservation.  Native plant communities (sometimes also referred to as \"natural communities\") are groups of native plants that interact with each other and their surrounding environment in ways not greatly altered by modern human activity or by introduced plant or animal species. These groups of native species form recognizable units, such as an oak forest, a prairie, or a marsh, that tend to repeat across the landscape and over time.  Native plant communities are generally classified and described by considering vegetation, hydrology, land forms, soils, and natural disturbance regimes. The native plant community types and subtypes in this data layer are classified primarily by vegetation and major habitat features.  Areas that are not mapped as native plant community polygons primarily represent: 1) land where modern human activities such as farming, overgrazing, wetland drainage, recent logging and residential and commercial development have destroyed or greatly altered the natural vegetation; and 2) native plant community polygons that were below minimal size criteria.  Note: some areas that are not mapped are important for conservation. They may include habitat for native plants and animals, corridors for animal movement, buffers surrounding high quality natural areas and open space, and target areas for restoration.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Department of Natural Resources (DNR)"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "2bceda40-3e5a-4778-b4ec-da6ef0010b1d",
   "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-96.810633, -89.787973, 49.015581, 43.436939)",
-  "solr_year_i": 2017,
-  "centroid_s": "46.22626,-93.299303",
+  "solr_year_i": 2018,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "46.22626,-93.299303",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/8929f24e54ca6e01d870afe7cb1f5056.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

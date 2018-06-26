@@ -1,14 +1,13 @@
 {
-  "uuid": "2944cffe-95dd-4091-9ab4-a907e0a0a719",
   "dc_identifier_s": "2944cffe-95dd-4091-9ab4-a907e0a0a719",
   "dc_title_s": "LiDAR Elevation: Stearns County, Minnesota, 2006",
   "dc_description_s": "The LiDAR data for Stearns County was collected under contract by the county. Thus, the data format is not entirely consistent with some of the other LiDAR data collected by the State of Minnesota. Specifically, the Stearns County collect required classification of only Bare Earth returns in the LiDAR LAS files, so there is no information on buildings, vegetation, or model key points.  Breaklines captured as part of this effort are also a bit different. In Stearns County, the breaklines are 3D Polyline features rather than 3D Polygon features. They also include road centerlines, stream courses and other features that are not part of the Statewide collect specifications.  The following data was delivered to the Minnesota Department of Natural Resources (DNR):   1. Bare Earth LAS files  2. 1-foot DEMs  3. Breaklines (edge of water, curb and centerlines)   DNR staff created the two-foot contours.  Note: This metadata record was created at the Minnesota Geospatial Information Office using information supplied by DNR and Merrick & Co.",
   "dc_rights_s": "Public",
-  "dc_format_s": "Mixed Files",
+  "dc_format_s": "Files",
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Geospatial Information Center (MnGeo)"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "2944cffe-95dd-4091-9ab4-a907e0a0a719",
   "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-95.13, -94.05, 45.79, 45.27)",
   "solr_year_i": 2006,
-  "centroid_s": "45.53,-94.59",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Mixed"
+  ],
+  "b1g_centroid_ss": "45.53,-94.59",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5051907"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/fd9fbde03ed8f2846ba81496594fa64b.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

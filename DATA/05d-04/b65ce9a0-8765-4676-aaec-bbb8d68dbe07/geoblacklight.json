@@ -1,0 +1,54 @@
+{
+  "dc_identifier_s": "b65ce9a0-8765-4676-aaec-bbb8d68dbe07",
+  "dc_title_s": "C-30 Geologic Atlas of Wright County, Minnesota [Part A]",
+  "dc_description_s": "Plate 1, Data Base, Plate 2, Bedrock geology, Plate 3, Surficial geology, Plate 4 Quaternary stratigraphy, Plate 5 Sand distribution models, Plate 6 Bedrock topography and depth-to-bedrock, Scale 1:100,000. Additional data added 2015, raster data sets of the elevation of the top and bottom, and the thickness of bedrock units in Wright County.; Surface and subsurface geology of Wright County, Mn. includes bedrock topography and depth-to-bedrock. Additional data added 2015; raster data sets of the elevation of the top and bottom, and the thickness of bedrock units in Wright County.; The Wright County Board of Commissioners, and the Minnesota Environment and Natural Resources Trust Fund as Recommended by the Legislative-Citizen Commission on Minnesota Resources.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Files",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": "Dataset",
+  "dc_publisher_sm": [
+    "Minnesota Geological Survey"
+  ],
+  "dc_creator_sm": [
+    "Tipping, Robert G"
+  ],
+  "dc_subject_sm": [
+    "Geoscientific Information"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://hdl.handle.net/11299/159422\",\"http://schema.org/downloadUrl\":\"https://hdl.handle.net/11299/159422\",\"http://schema.org/image\":\"https://conservancy.umn.edu/bitstream/handle/11299/159422/pl1_db.pdf.jpg\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geological Survey County Atlas Series",
+    "Minnesota Geological Survey"
+  ],
+  "dct_issued_s": "2013-10-31",
+  "dct_temporal_sm": [
+    "2013"
+  ],
+  "dct_spatial_sm": [
+    "Wright County, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "b65ce9a0-8765-4676-aaec-bbb8d68dbe07",
+  "layer_geom_type_s": "Mixed",
+  "layer_modified_dt": "2018-06-26T17:17:08Z",
+  "solr_geom": "ENVELOPE(-94.263123, -93.5149, 45.423988, 44.978474)",
+  "solr_year_i": 2013,
+  "b1g_genre_sm": [
+    "Geospatial data",
+    "Maps"
+  ],
+  "b1g_geom_type_sm": [
+    "Mixed"
+  ],
+  "b1g_centroid_ss": "45.201231,-93.8890115",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5053485",
+    "http://sws.geonames.org/5037779"
+  ],
+  "b1g_image_ss": "https://conservancy.umn.edu/bitstream/handle/11299/159422/pl1_db.pdf.jpg",
+  "b1g_collection_sm": "05d-04",
+  "geoblacklight_version": "1.0"
+}

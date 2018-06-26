@@ -1,0 +1,44 @@
+{
+  "uuid": "a61b1242-4966-4527-974e-25d67bfa77be",
+  "dc_identifier_s": "a61b1242-4966-4527-974e-25d67bfa77be",
+  "dc_title_s": "Aerial Photography: Dakota County, Minnesota, 2013",
+  "dc_description_s": "County wide ortho photography at 6-inch pixel resolution. The photography was exposed on 4/29/13, 5/12/2013, 5/14/2013, 5/16/13 and 5/23/13. Rectification was done in INPHO OrthoMaster using the aerotriangulation data, raw images, and existing LiDAR DEM data which was reviewed and edited by AeroMetric. These rectified images were used to automatically generate seamlines which were then fully reviewed and edited. The rectified images were mosaicked, balanced, and cut into final image tiles. The final tiles were reviewed 100% and artifacts were removed as well as other edits performed.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Mixed Files",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Dakota County"
+  ],
+  "dc_creator_sm": [
+    "Dakota County"
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/a61b1242-4966-4527-974e-25d67bfa77be\",\"http://schema.org/downloadUrl\":\"https://gisdata.mn.gov/dataset/a61b1242-4966-4527-974e-25d67bfa77be\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_co_dakota/base_aerialphotography_2013_serv/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2015-09-16T10:02:01.655186",
+  "dct_temporal_sm": [
+    "2013"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "a61b1242-4966-4527-974e-25d67bfa77be",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2018-04-30T14:29:16Z",
+  "solr_geom": "ENVELOPE(-93.329853, -92.729236, 44.923499, 44.468748)",
+  "solr_year_i": 2013,
+  "centroid_s": "44.6961235,-93.0295445",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5051907"
+  ],
+  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/fd9fbde03ed8f2846ba81496594fa64b.jpg",
+  "geoblacklight_version": "1.0"
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "34b2f4df-ac28-43c6-8c78-1abcad0ff3e1",
+  "dc_identifier_s": "34b2f4df-ac28-43c6-8c78-1abcad0ff3e1",
+  "dc_title_s": "Department of Natural Resources Hydrography - Fisheries Surveyed Lakes: Minnesota",
+  "dc_description_s": "This layer represents lakes previously surveyed by DNR Fisheries Lake Survey staff. Lakes included in this dataset have been surveyed at least once from 1947 - 2006, and have data stored in the DNR Fisheries Lake Survey Oracle database. The date of the most recent survey for each lake is recorded in the attribute table.  Lakes that have been redigitized to match recent aerial photos have the imagery source listed in the Redig_src field (i.e., 1991 DOQ or 2004 FSA).  Some lakes are surveyed on a rotating year basis, and new surveys will be added each year. Most recent survey dates will be updated accordingly.     This layer is a subset of the DNR 100K Lakes and Rivers layer, and follows the same history.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Minnesota Department of Natural Resources (DNR)"
+  ],
+  "dc_creator_sm": [
+    "Minnesota Department of Natural Resources (DNR) - Division of Fish & Wildlife - Fisheries Unit"
+  ],
+  "dc_subject_sm": [
+    "Environment"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/34b2f4df-ac28-43c6-8c78-1abcad0ff3e1\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_lakes_surveyed_by_mndnr/fgdb_env_lakes_surveyed_by_mndnr.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/env_lakes_surveyed_by_mndnr/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2014-10-07T13:08:05.823813",
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "34b2f4df-ac28-43c6-8c78-1abcad0ff3e1",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "solr_geom": "ENVELOPE(-96.717361, -89.394166, 49.348276, 43.449311)",
+  "solr_year_i": 2014,
+  "centroid_s": "46.3987935,-93.0557635",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/db711097b3534757b57d6528065827fb.jpg",
+  "geoblacklight_version": "1.0"
+}

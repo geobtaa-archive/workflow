@@ -1,5 +1,4 @@
 {
-  "uuid": "4e900c73-d013-4dc1-bca6-d09384b4e0a3",
   "dc_identifier_s": "4e900c73-d013-4dc1-bca6-d09384b4e0a3",
   "dc_title_s": "Department of natural Resources Native Plant Communities: Minnesota",
   "dc_description_s": "This dataset contains 3 main feature classes. See the detailed description of each feature class in the individual metadata files below: <a href=\"npc_metadata.html\" target=_blank>MNDNR Native Plant Communities</a> <a href=\"ewr_npc_metadata.html\" target=_blank>DNR NPC and Land Cover - EWR</a> <a href=\"dnr_npc_land_cover_pat.html\" target=_blank>DNR NPC and Land Cover - Parks and Trails</a>",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Department of Natural Resources (DNR)"
   ],
@@ -20,7 +19,7 @@
     "Environment"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/4e900c73-d013-4dc1-bca6-d09384b4e0a3\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/biota_dnr_native_plant_comm/shp_biota_dnr_native_plant_comm.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/biota_dnr_native_plant_comm/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/4e900c73-d013-4dc1-bca6-d09384b4e0a3\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/biota_dnr_native_plant_comm/shp_biota_dnr_native_plant_comm.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/biota_dnr_native_plant_comm/preview/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/biota_dnr_native_plant_comm/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -33,13 +32,20 @@
   ],
   "layer_slug_s": "4e900c73-d013-4dc1-bca6-d09384b4e0a3",
   "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-96.810633, -89.787973, 49.015581, 43.436939)",
-  "solr_year_i": 2017,
-  "centroid_s": "46.22626,-93.299303",
+  "solr_year_i": 2018,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "46.22626,-93.299303",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/72f0290ea7b9d95f4c263f9f9235d519.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/biota_dnr_native_plant_comm/preview/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

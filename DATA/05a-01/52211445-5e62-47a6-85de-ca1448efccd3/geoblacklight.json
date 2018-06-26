@@ -1,5 +1,4 @@
 {
-  "uuid": "52211445-5e62-47a6-85de-ca1448efccd3",
   "dc_identifier_s": "52211445-5e62-47a6-85de-ca1448efccd3",
   "dc_title_s": "Census Geography 1990 - TLG Aligned; Blocks, Block Groups & Tracts: Metro Twin Cities, Minnesota",
   "dc_description_s": "The Lawrence Group, under contract with Metropolitan Council, created a 1990 Census Bureau block polygon dataset for the Twin Cities Metropolitan Area (Anoka, Carver, Dakota, Hennepin, Ramsey, Scott and Washington Counties).  This dataset is coincident with and developed using the TLG Street Centerline and Landmarks databases where 1990 block boundaries fall on those features.  For those block boundaries that are defined by features not included in TLG databases, TLG used other digital resources to generate these boundaries, such as orthophotography or additional features from city and county GIS databases.  TLG used it's best judgement to digitize block boundaries when the block boundaries followed nonvisible features or street extensions.  This is a MetroGIS Regionally Endorsed dataset.",
@@ -8,7 +7,10 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
   "dc_publisher_sm": [
     "Metropolitan Council"
   ],
@@ -19,7 +21,7 @@
     "Society"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/52211445-5e62-47a6-85de-ca1448efccd3\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/society_census1990tlg/gpkg_society_census1990tlg.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_metc/society_census1990tlg/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/52211445-5e62-47a6-85de-ca1448efccd3\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/society_census1990tlg/gpkg_society_census1990tlg.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Demographics/MapServer/1\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_metc/society_census1990tlg/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -32,13 +34,20 @@
   ],
   "layer_slug_s": "52211445-5e62-47a6-85de-ca1448efccd3",
   "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2018-04-30T14:29:18Z",
+  "layer_modified_dt": "2018-06-26T17:12:31Z",
   "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
   "solr_year_i": 1990,
-  "centroid_s": "44.943,-93.372",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.943,-93.372",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/767d0d57e1be1f1df056f83d99dabf87.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

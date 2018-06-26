@@ -1,5 +1,4 @@
 {
-  "uuid": "e10d17d4-b237-4142-ad47-38936611b130",
   "dc_identifier_s": "e10d17d4-b237-4142-ad47-38936611b130",
   "dc_title_s": "State Aquatic Management Area (AMA) Aquisitions: Minnesota",
   "dc_description_s": "This data layer shows lands acquired by MNDNR Fisheries through purchase, donation and easement for establishment as <b>Aquatic Management Areas (AMAs)</b>.     AMAs are established to <i>\"protect, develop and manage lakes, rivers, streams, and adjacent wetlands and lands that are critical for fish and other aquatic life for water quality, and for their intrinsic biological value, public fishing, or other compatible outdoor recreational uses.\"</i>  (MN Statutes 86A Subd. 14)  Some features in this layer are hyperlinked to the scanned county deed documents that describe the original acquisitions. Use ArcMap's <i>Hyperlink Tool (yellow lightning bolt)</i>  to access deed documents. (To set up the hyperlink, open <i>Layer Properties: Display</i> tab, check the Hyperlinks box and choose the field [WEB_LINK1].)  For more information about AMA's, see the following: <b>MN Statutes 86A:</b>   http://www.revisor.mn.gov/statutes/?id=86A.05 <b>MN Rules 6270.0200:</b>  http://www.revisor.mn.gov/rules/?id=6270.0200 <b> MN AMA Acquisition Plan 2008-2033:</b>  http://files.dnr.state.mn.us/fish_wildlife/ama/AMA_Acquisition_Report.pdf",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Department of Natural Resources (DNR)"
   ],
@@ -20,7 +19,7 @@
     "Planning and Cadastral"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/e10d17d4-b237-4142-ad47-38936611b130\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/plan_mndnr_fisheries_acquisition/shp_plan_mndnr_fisheries_acquisition.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/plan_mndnr_fisheries_acquisition/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/e10d17d4-b237-4142-ad47-38936611b130\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/plan_mndnr_fisheries_acquisition/shp_plan_mndnr_fisheries_acquisition.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/plan_mndnr_fisheries_acquisition/preview/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/plan_mndnr_fisheries_acquisition/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -33,13 +32,20 @@
   ],
   "layer_slug_s": "e10d17d4-b237-4142-ad47-38936611b130",
   "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)",
-  "solr_year_i": 2017,
-  "centroid_s": "46.435,-93.38",
+  "solr_year_i": 2018,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "46.435,-93.38",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/743b3bc13faf9c16bed0704f3ed96f89.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/plan_mndnr_fisheries_acquisition/preview/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

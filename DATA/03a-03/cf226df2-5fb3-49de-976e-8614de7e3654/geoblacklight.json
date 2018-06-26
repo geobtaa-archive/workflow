@@ -1,16 +1,15 @@
 {
-  "uuid": "cf226df2-5fb3-49de-976e-8614de7e3654",
   "dc_identifier_s": "cf226df2-5fb3-49de-976e-8614de7e3654",
   "dc_title_s": "LiDAR Dates: Iowa",
   "dc_description_s": "Collection dates for individual tiles.",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_s": [
+  "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
-    "Iowa Geodata"
+    "State of Iowa"
   ],
   "dc_creator_sm": [
 
@@ -20,23 +19,32 @@
   ],
   "dct_provenance_s": "Iowa",
   "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.iowa.gov/dataset/iowa-lidar-project-2007-2010\",\"http://schema.org/downloadUrl\":\"http://iowageodata.s3.amazonaws.com/elevation/LiDAR_2007_2010/LiDAR_dates_2007_2010.zip\"}",
-  "dct_isPartOf_sm": "Iowa GeoData",
-  "dct_issued_s": [
-
+  "dct_isPartOf_sm": [
+    "Iowa GeoData"
   ],
+  "dct_issued_s": "",
   "dct_temporal_sm": [
-
+    "2018"
   ],
   "dct_spatial_sm": [
     "Iowa, United States"
   ],
-  "dc_relation_sm": [
-    "https://sws.geonames.org/4862275"
-  ],
   "layer_slug_s": "cf226df2-5fb3-49de-976e-8614de7e3654",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-3-19T23:7:4Z",
-  "centroid_s": "41.9383,-93.3991",
+  "layer_modified_dt": "2018-06-26T17:11:42Z",
   "solr_geom": "ENVELOPE(-96.6395, -90.1401, 43.5105, 40.3754)",
-  "solr_year_i": 2018
+  "solr_year_i": 2018,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "41.94295,-93.3898",
+  "b1g_geonames_sm": [
+    "https://sws.geonames.org/4862275"
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "03a-03",
+  "geoblacklight_version": "1.0"
 }

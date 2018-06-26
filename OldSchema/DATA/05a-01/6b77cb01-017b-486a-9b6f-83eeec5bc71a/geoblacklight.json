@@ -1,0 +1,44 @@
+{
+  "uuid": "6b77cb01-017b-486a-9b6f-83eeec5bc71a",
+  "dc_identifier_s": "6b77cb01-017b-486a-9b6f-83eeec5bc71a",
+  "dc_title_s": "Aerial Photography, Leaf-on: Dakota County, Minnesota, 2016",
+  "dc_description_s": "Ayres Associates provided Dakota County with low level (6-inch) digital, color orthoimagery services in 2016. The aerial imagery was collected on August 5th, 6th, 8th,13th, 14th, 16th, 17th, 22nd, and 25th using an Microsoft Vexcel UltraCam Falcon sensor mounted in a fixed-wing aircraft. Aerial imagery was collected to support 0.1524 meter ground sample distance (GSD) orthoimagery to meet ASPRS Class II horizontal accuracy specifications at 1\" = 100' map scale. The horizontal accuracy meets or exceeds 2.0 feet RMSE using the National Standard for Spatial Data Accuracy (NSSDA) standards. Resultant orthoimagery was rectified to a DEM surface created using 2011 Twin Cities Metro data as part of the Statewide Minnesota LiDAR program. Orthoimagery was delivered in PLSS section GeoTiff and MrSID tiles and a project-wide MrSID mosaic. The orthoimgery was delivered according to a section tile schematic.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Mixed Files",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Dakota County"
+  ],
+  "dc_creator_sm": [
+    "Dakota County"
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/6b77cb01-017b-486a-9b6f-83eeec5bc71a\",\"http://schema.org/downloadUrl\":\"https://gisdata.mn.gov/dataset/6b77cb01-017b-486a-9b6f-83eeec5bc71a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_co_dakota/base_aerialphotography_2016_lfon/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2017-01-25T11:01:57.958594",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "6b77cb01-017b-486a-9b6f-83eeec5bc71a",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2018-04-30T14:29:16Z",
+  "solr_geom": "ENVELOPE(-93.329853, -92.729236, 44.923499, 44.468748)",
+  "solr_year_i": 2016,
+  "centroid_s": "44.6961235,-93.0295445",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5051907"
+  ],
+  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/3545a737d0e9f59e1a3039b8246c17de.jpg",
+  "geoblacklight_version": "1.0"
+}

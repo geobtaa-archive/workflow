@@ -1,5 +1,4 @@
 {
-  "uuid": "79893370-6a48-46b2-a6d5-5351d3e42012",
   "dc_identifier_s": "79893370-6a48-46b2-a6d5-5351d3e42012",
   "dc_title_s": "Transportation Analysis Zones (Official TAZ System w/3,030 Zones) with Current Forecasts: Metro Twin Cities, Minnesota",
   "dc_description_s": "This file shows the most current Metropolitan Council Transportation Analysis Zone (TAZ) 2020-2040 forecasts for cities and townships within the 7-County Metropolitan Area.  The TAZ system in this shapefile is the most recent, official TAZ system (with 3,030 zones).    This shapefile title has been renamed; the previous name was Transportation Analysis Zones (TAZ) 2010 with Current Forecasts  Note: Forecasts for the older TAZ system with 1,566 zones are available in theTransportation Analysis Zones (Legacy TAZ System w/1,566 Zones) with Current Forecasts shapefile.  IMPORTANT NOTES:   These TAZ forecasts will change multiple times over the next few years.   The Metropolitan Council will ask cities and townships to allocate their TAZ forecasts as part of their 2018 Comprehensive Plan Update (go to  http://www.metrocouncil.org/Handbook/Plan-Elements/Transportation.aspx  for more information about this process). Communities may also revise their current TAZ forecasts before the 2018 Comprehensive Plan Update.   In the meantime, the Council provides these Current TAZ forecasts for transportation planning.  If you are using TAZ forecasts for analysis and/or transportation planning, please download the latest version of this shapefile to ensure you are using the most up-to-date data.  If you represent a community that wants to revise your TAZ forecasts, please contact your community's sector representative or  Dennis Farmer (see contact information at the end of this document).",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Metropolitan Council"
   ],
@@ -31,14 +30,21 @@
     "Minnesota, United States"
   ],
   "layer_slug_s": "79893370-6a48-46b2-a6d5-5351d3e42012",
-  "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
-  "solr_year_i": 2016,
-  "centroid_s": "44.943,-93.372",
+  "solr_year_i": 2018,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.943,-93.372",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/e06b20db6e3e29c52d15e59e4a2d3624.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

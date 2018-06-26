@@ -1,5 +1,4 @@
 {
-  "uuid": "7695eadc-c48b-4de8-a222-2c2ef9c8eb28",
   "dc_identifier_s": "7695eadc-c48b-4de8-a222-2c2ef9c8eb28",
   "dc_title_s": "Moose Range in: Minnesota",
   "dc_description_s": "Spatial representation of the Primary Moose Range in Minnesota, as delineated by MNDNR Section of Wildlife, Field and Research Staff.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Department of Natural Resources (DNR)"
   ],
@@ -20,7 +19,7 @@
     "Environment"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/7695eadc-c48b-4de8-a222-2c2ef9c8eb28\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_mn_moose_range/shp_env_mn_moose_range.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/env_mn_moose_range/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/7695eadc-c48b-4de8-a222-2c2ef9c8eb28\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_mn_moose_range/shp_env_mn_moose_range.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/env_mn_moose_range/preview/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/env_mn_moose_range/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -32,14 +31,21 @@
     "Minnesota, United States"
   ],
   "layer_slug_s": "7695eadc-c48b-4de8-a222-2c2ef9c8eb28",
-  "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-92.650996, -89.470583, 48.314695, 47.03759)",
   "solr_year_i": 2017,
-  "centroid_s": "47.6761425,-91.0607895",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "47.6761425,-91.0607895",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/3c7ebe76020eba43a8531b4d1bd9cefb.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/env_mn_moose_range/preview/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

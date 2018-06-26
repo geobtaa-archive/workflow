@@ -1,0 +1,44 @@
+{
+  "uuid": "311fe284-c185-4ad4-8be5-a6b3d945c34d",
+  "dc_identifier_s": "311fe284-c185-4ad4-8be5-a6b3d945c34d",
+  "dc_title_s": "Senate District Boundaries: Minnesota, 2002",
+  "dc_description_s": "This is a polygon data set of the 2002 Senate District Boundaries. It displays district numbers. Includes senate districts associated attributes. It was derived from U.S. Census Bureau 2000 TIGER/Line files as a result of redistricting efforts.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Minnesota Legislative Coordinating Commission"
+  ],
+  "dc_creator_sm": [
+    "Minnesota Legislative Coordinating Commission - Geographic Information Services Office (LCC- GIS)"
+  ],
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/311fe284-c185-4ad4-8be5-a6b3d945c34d\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_lcc/bdry_senatedistricts2002/geojson_bdry_senatedistricts2002.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_lcc/bdry_senatedistricts2002/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2017-02-16T11:01:55.878376",
+  "dct_temporal_sm": [
+    "2002"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "311fe284-c185-4ad4-8be5-a6b3d945c34d",
+  "layer_geom_type_s": "Mixed",
+  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)",
+  "solr_year_i": 2002,
+  "centroid_s": "46.435,-93.38",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/9f18fd4c95f720839a69796e289881ed.jpg",
+  "geoblacklight_version": "1.0"
+}

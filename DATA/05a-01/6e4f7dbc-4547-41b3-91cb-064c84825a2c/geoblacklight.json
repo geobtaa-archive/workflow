@@ -1,5 +1,4 @@
 {
-  "uuid": "6e4f7dbc-4547-41b3-91cb-064c84825a2c",
   "dc_identifier_s": "6e4f7dbc-4547-41b3-91cb-064c84825a2c",
   "dc_title_s": "GAP Land Cover: Minnesota",
   "dc_description_s": "This raster dataset is a detailed (1-acre minimum), hierarchically organized vegetation cover map produced by computer classification of combined two-season pairs of early-1990s Landsat 4/5 Thematic Mapper (TM) satellite imagery, as part of the Upper Midwest Gap Analysis Program (UMGAP)( http://www.umesc.usgs.gov/reports_publications/psrs/psr_1999_04.html ) of the U.S. Geological Survey.  Units of analysis were Minnesota Ecological Classification System (ECS)( http://www.dnr.state.mn.us/ecs/index.html ) subsections subdivided by TM scenes.  GAP typology and classification protocols are closely comparable across Minnesota, Wisconsin and Michigan.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Department of Natural Resources (DNR)"
   ],
@@ -19,7 +18,7 @@
     "Biota"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/6e4f7dbc-4547-41b3-91cb-064c84825a2c\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/biota_landcover_gap/fgdb_biota_landcover_gap.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/biota_landcover_gap/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/6e4f7dbc-4547-41b3-91cb-064c84825a2c\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/biota_landcover_gap/fgdb_biota_landcover_gap.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/biota_landcover_gap/preview/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/biota_landcover_gap/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "6e4f7dbc-4547-41b3-91cb-064c84825a2c",
   "layer_geom_type_s": "Raster",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_modified_dt": "2018-06-26T17:12:31Z",
   "solr_geom": "ENVELOPE(-96.86813, -89.353303, 49.371082, 43.407737)",
   "solr_year_i": 2014,
-  "centroid_s": "46.3894095,-93.1107165",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Raster data"
+  ],
+  "b1g_centroid_ss": "46.3894095,-93.1107165",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/b08e4840979e65447e01d1fff4737f9c.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/biota_landcover_gap/preview/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

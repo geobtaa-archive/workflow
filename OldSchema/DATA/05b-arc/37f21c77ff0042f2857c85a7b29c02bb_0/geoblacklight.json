@@ -1,0 +1,48 @@
+{
+  "uuid": "37f21c77ff0042f2857c85a7b29c02bb_0",
+  "dc_identifier_s": "37f21c77ff0042f2857c85a7b29c02bb_0",
+  "dc_title_s": "Commissioner Districts: Scott County, Minnesota",
+  "dc_description_s": "2012 Scott County Commissioner Districts. Updated and approved by Scott County Board as of May 2012 and developed by the Redistricting Committee.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Scott County, Minnesota"
+  ],
+  "dc_creator_sm": [
+    "Scott County Information Technology"
+  ],
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.gis.co.scott.mn.us/datasets/37f21c77ff0042f2857c85a7b29c02bb_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/DqIh9WAsIZcPlBEF/arcgis/rest/services/Commissioner_Districts/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"https://opendata.gis.co.scott.mn.us/datasets/37f21c77ff0042f2857c85a7b29c02bb_0.zip\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data",
+    "Minnesota Counties"
+  ],
+  "dct_issued_s": "2016-08-08",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Scott County, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "37f21c77ff0042f2857c85a7b29c02bb_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-05-22T21:27:42Z",
+  "solr_geom": "ENVELOPE(-93.91444211131241, -93.27780903514713, 44.81331995975671, 44.542139078630655)",
+  "solr_year_i": 2016,
+  "centroid_s": "44.6777295192,-93.5961255732",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "b1g_collection_sm": [
+    "05b"
+  ],
+  "geoblacklight_version": "1.0"
+}

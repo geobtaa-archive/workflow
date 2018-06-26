@@ -1,5 +1,4 @@
 {
-  "uuid": "ae320f02-d2cb-4d17-9bf0-4d84d043fc9c",
   "dc_identifier_s": "ae320f02-d2cb-4d17-9bf0-4d84d043fc9c",
   "dc_title_s": "Regional Trail Land: Metro Twin Cities, Minnesota",
   "dc_description_s": "Regional trail corridor land owned by the operating agencies in the 7 county Twin Cities metroplitan area.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Metropolitan Council"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "ae320f02-d2cb-4d17-9bf0-4d84d043fc9c",
   "layer_geom_type_s": "Line",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-94.017, -92.135, 45.414, 44.471)",
   "solr_year_i": 2015,
-  "centroid_s": "44.9425,-93.076",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.9425,-93.076",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/453b07f391f89b4ba84408a4b845a754.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

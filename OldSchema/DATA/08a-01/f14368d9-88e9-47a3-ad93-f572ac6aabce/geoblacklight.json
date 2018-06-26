@@ -1,0 +1,41 @@
+{
+  "uuid": "f14368d9-88e9-47a3-ad93-f572ac6aabce",
+  "dc_identifier_s": "f14368d9-88e9-47a3-ad93-f572ac6aabce",
+  "dc_title_s": "Conservation Wells Plugged: Pennsylvania",
+  "dc_description_s": "The plugged conservation well layer identifies the permitted surface location of oil and gas conservation wells that have been plugged. A conservation well is any well which penetrates the Onondaga horizon, or in those areas in which the Onondaga horizon is nearer to the surface than thirty-eight hundred feet, any well which exceeds a depth of thirty-eight hundred feet beneath the surface.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Files",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Pennsylvania Department of Environmental Protection"
+  ],
+  "dc_creator_sm": "PA DEP",
+  "dc_subject_sm": [
+    "Structure",
+    "Location"
+  ],
+  "dct_provenance_s": "Penn State",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=1093\",\"http://schema.org/downloadUrl\":\"http://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=1093\",\"http://www.opengis.net/cat/csw/csdgm\":\"http://www.pasda.psu.edu/metadata/harvest/ConservationWells_Plugged2018_01.xml\"}",
+  "dct_isPartOf_sm": "Pennsylvania Spatial Data Access (PASDA)",
+  "dct_issued_s": [
+
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dct_spatial_sm": [
+    "Pennsylvania, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/6254927"
+  ],
+  "layer_slug_s": "f14368d9-88e9-47a3-ad93-f572ac6aabce",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-28T19:17:41Z",
+  "centroid_s": "44.6770155,0",
+  "solr_geom": "ENVELOPE(180, -180, 90, -0.645969)",
+  "solr_year_i": 2018
+}

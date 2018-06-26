@@ -1,0 +1,44 @@
+{
+  "uuid": "982ea688-af60-43f4-aac8-3bde57146a44",
+  "dc_identifier_s": "982ea688-af60-43f4-aac8-3bde57146a44",
+  "dc_title_s": "Geospatial Commons Metrics: Minnesota",
+  "dc_description_s": "The tables in this data resource reflect the most commonly requested \"usage metrics\" or \"traffic\" on the MN Geospatial Commons: number of downloads (by month) and overall traffic (or sessions), which are organized by city in order to provide a geographic context. These metrics are for the calendar year 2016 and 2017, in both Excel and CSV format. For calendar year 2017, another table of the top 25 resource pages (according to web views) was added.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Mixed Files",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Minnesota Geospatial Information Center (MnGeo)"
+  ],
+  "dc_creator_sm": [
+    "Minnesota Geospatial Information Office (MnGeo)"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/982ea688-af60-43f4-aac8-3bde57146a44\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mngeo/society_commons_metrics/xlsx_society_commons_metrics.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_mngeo/society_commons_metrics/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2017-05-16T10:01:59.508208",
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "982ea688-af60-43f4-aac8-3bde57146a44",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "solr_geom": "ENVELOPE(-98.525391, -69.609375, 49.837982, 40.713956)",
+  "solr_year_i": 2018,
+  "centroid_s": "45.275969,-84.067383",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5051907"
+  ],
+  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/fd9fbde03ed8f2846ba81496594fa64b.jpg",
+  "geoblacklight_version": "1.0"
+}

@@ -1,5 +1,4 @@
 {
-  "uuid": "f8a0845c-b7dd-4c67-92a6-7f6bba2ac13b",
   "dc_identifier_s": "f8a0845c-b7dd-4c67-92a6-7f6bba2ac13b",
   "dc_title_s": "Roads: Rice County, Minnesota",
   "dc_description_s": "Enhanced 911 Roads in Rice County, Minnesota",
@@ -8,9 +7,9 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
-    "Rice County"
+    "Rice County, Minnesota"
   ],
   "dc_creator_sm": [
     "Rice County, Minnesota"
@@ -19,7 +18,7 @@
     "Transportation"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/f8a0845c-b7dd-4c67-92a6-7f6bba2ac13b\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_co_rice/trans_roads/fgdb_trans_roads.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_co_rice/trans_roads/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/f8a0845c-b7dd-4c67-92a6-7f6bba2ac13b\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_co_rice/trans_roads/fgdb_trans_roads.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_co_rice/trans_roads/metadata/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_co_rice/trans_roads/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -32,14 +31,21 @@
     "Minnesota, United States"
   ],
   "layer_slug_s": "f8a0845c-b7dd-4c67-92a6-7f6bba2ac13b",
-  "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-93.53, -93.03, 44.55, 44.19)",
-  "solr_year_i": 2017,
-  "centroid_s": "44.37,-93.28",
+  "solr_year_i": 2018,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.37,-93.28",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5043007"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/ad043bb1c0a667555beff6bf960a7219.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_co_rice/trans_roads/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

@@ -1,5 +1,4 @@
 {
-  "uuid": "87f4b2cf-4351-4701-8cf9-598dfe93f34f",
   "dc_identifier_s": "87f4b2cf-4351-4701-8cf9-598dfe93f34f",
   "dc_title_s": "School Program Locations: Minnesota, SY2009-2010",
   "dc_description_s": "The point locations of school programs are a result of an ongoing project to identify current school program locations where Food and Nutrition Services Office (FNS) programs are utilized. The FNS Office is in the Minnesota Department of Education (MDE).  GIS at MDE modified the data set using school building locations provided by the school districts and program locations from an MDE database. School District buildings are annually updated but there may remain errors due to the number of program locations and the frequency with which they move from building to building in a District.  The records in this file cover all school program locations that MDE currently has in a spatial format.  Note that multiple programs may occur at the same location and are represented as separate points. For example, a junior and a senior high school may be in the same building, but each has a separate record and point in the data layer.   This file is a geodatabase that contains one school program location file for school year 2009-2010. Before  SY2009-10, school program locations were stored in separate files for different school programs (public, nonpublic, and charter, and public school district center). Beginning in 2009 program locations were combined into one file and attributes are used to distinguish the school types. Files for years before 2009 can be found online organized by location type.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Department of Education"
   ],
@@ -19,7 +18,7 @@
     "Structure"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/87f4b2cf-4351-4701-8cf9-598dfe93f34f\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mde/struc_school_program_2000s/shp_struc_school_program_2000s.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_mde/struc_school_program_2000s/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/87f4b2cf-4351-4701-8cf9-598dfe93f34f\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mde/struc_school_program_2000s/shp_struc_school_program_2000s.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_mde/struc_school_program_2000s/metadata/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_mde/struc_school_program_2000s/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "87f4b2cf-4351-4701-8cf9-598dfe93f34f",
   "layer_geom_type_s": "Point",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-97.071908, -91.152757, 48.626078, 43.476096)",
   "solr_year_i": 2009,
-  "centroid_s": "46.051087,-94.1123325",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "46.051087,-94.1123325",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/083254367e50f6ee42b3d7dfa243cce9.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_mde/struc_school_program_2000s/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

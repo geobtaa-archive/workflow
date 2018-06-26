@@ -1,5 +1,4 @@
 {
-  "uuid": "b0f55747-778b-43ce-a4f5-293555b1de1d",
   "dc_identifier_s": "b0f55747-778b-43ce-a4f5-293555b1de1d",
   "dc_title_s": "Congressional District Boundaries: Minnesota, 1994",
   "dc_description_s": "This is a polygon data set of historical 1994 Congressional District Boundaries. It displays district number, member, area, population and well as political party for each district. It was derived from U.S. Census Bureau 1990 TIGER/Line files as a result of 1990 redistricting efforts.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Legislative Coordinating Commission"
   ],
@@ -19,7 +18,7 @@
     "Boundaries"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/b0f55747-778b-43ce-a4f5-293555b1de1d\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_lcc/bdry_congressionaldistricts1994/shp_bdry_congressionaldistricts1994.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_lcc/bdry_congressionaldistricts1994/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/b0f55747-778b-43ce-a4f5-293555b1de1d\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_lcc/bdry_congressionaldistricts1994/shp_bdry_congressionaldistricts1994.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_lcc/bdry_congressionaldistricts1994/metadata/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_lcc/bdry_congressionaldistricts1994/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -31,14 +30,21 @@
     "Minnesota, United States"
   ],
   "layer_slug_s": "b0f55747-778b-43ce-a4f5-293555b1de1d",
-  "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:18Z",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-06-26T17:12:31Z",
   "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)",
   "solr_year_i": 1994,
-  "centroid_s": "46.435,-93.38",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "46.435,-93.38",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/e68dec8add41b16e175311df97911ced.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_lcc/bdry_congressionaldistricts1994/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

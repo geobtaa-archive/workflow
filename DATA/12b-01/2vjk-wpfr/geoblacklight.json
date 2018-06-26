@@ -1,5 +1,4 @@
 {
-  "uuid": "2vjk-wpfr",
   "dc_identifier_s": "2vjk-wpfr",
   "dc_title_s": "Taxable Property Polygons: Cook County, Illinois, 2014",
   "dc_description_s": "This polygon dataset indicates taxable properties in Cook County, Illinois for 2014. The feature class LOT contains lot polygons as shown on the tax map.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Cook County, Illinois"
   ],
@@ -34,13 +33,20 @@
   ],
   "layer_slug_s": "2vjk-wpfr",
   "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2018-04-12T20:46:20Z",
+  "layer_modified_dt": "2018-06-26T21:11:12Z",
   "solr_geom": "ENVELOPE(-88.2635, -87.5237, 42.1543, 41.6443)",
   "solr_year_i": 2014,
-  "centroid_ss": "41.8993,-87.8936",
-  "b1g_geonames_sm": [
-
+  "b1g_genre_sm": [
+    "Geospatial data"
   ],
-  "thumbnail_path_ss": "",
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "41.8993,-87.8936",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/4888671"
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "12b-01",
   "geoblacklight_version": "1.0"
 }

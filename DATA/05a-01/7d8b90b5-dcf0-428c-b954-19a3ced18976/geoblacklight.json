@@ -1,14 +1,13 @@
 {
-  "uuid": "7d8b90b5-dcf0-428c-b954-19a3ced18976",
   "dc_identifier_s": "7d8b90b5-dcf0-428c-b954-19a3ced18976",
   "dc_title_s": "Digital Orthoimagery, McLeod County, Spring 2014: Minnesota",
   "dc_description_s": "This dataset contains leaf-off 4-band red, green, blue, natural color and color infrared (CIR) digital orthophoto imagery produced at 6-inch resolution from new aerial photography captured in Spring 2014. The imagery covers McLeod County in central Minnesota. This metadata record was created by MnGeo using information supplied by Quantum Spatial, Inc.",
   "dc_rights_s": "Public",
-  "dc_format_s": "Mixed Files",
+  "dc_format_s": "Files",
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Geospatial Information Center (MnGeo)"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "7d8b90b5-dcf0-428c-b954-19a3ced18976",
   "layer_geom_type_s": "Raster",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-94.5, -94.01, 44.99, 44.62)",
   "solr_year_i": 2014,
-  "centroid_s": "44.805,-94.255",
+  "b1g_genre_sm": [
+    "Aerial imagery"
+  ],
+  "b1g_geom_type_sm": [
+    "Raster data"
+  ],
+  "b1g_centroid_ss": "44.805,-94.255",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5051907"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/fd9fbde03ed8f2846ba81496594fa64b.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

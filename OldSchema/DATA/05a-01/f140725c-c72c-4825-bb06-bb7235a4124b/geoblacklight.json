@@ -1,0 +1,44 @@
+{
+  "uuid": "f140725c-c72c-4825-bb06-bb7235a4124b",
+  "dc_identifier_s": "f140725c-c72c-4825-bb06-bb7235a4124b",
+  "dc_title_s": "MCES Lake Monitoring Sites: Metro Twin Cities, Minnesota",
+  "dc_description_s": "This layer contains point locations for each of the Metropolitan Council's  lake monitoring sites.  Many of the sites are inactive but historic data is still available on the Council's Environmental Information Management System (EIMS).  MCES monitors lakes to obtain and provide information that enable cities, counties, lake associations, and watershed management districts to better manage TCMA lakes, thereby protecting and improving lake water quality.  Monitoring is conducted by Metropolitan Council staff and by citizen volunteers as part of the MCES Citizen-Assisted Monitoring Program (CAMP).",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Metropolitan Council"
+  ],
+  "dc_creator_sm": [
+    "Metropolitan Council"
+  ],
+  "dc_subject_sm": [
+    "Environment"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/f140725c-c72c-4825-bb06-bb7235a4124b\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/env_mces_lake_monitoring_sites/fgdb_env_mces_lake_monitoring_sites.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_metc/env_mces_lake_monitoring_sites/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2015-08-21T10:01:47.084909",
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "f140725c-c72c-4825-bb06-bb7235a4124b",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "solr_geom": "ENVELOPE(-94.022, -92.789, 45.381, 44.464)",
+  "solr_year_i": 2015,
+  "centroid_s": "44.9225,-93.4055",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/374f2f20f8887628c4d9b0fbf20c817b.jpg",
+  "geoblacklight_version": "1.0"
+}

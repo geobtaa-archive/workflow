@@ -1,5 +1,4 @@
 {
-  "uuid": "fbb17324-3e62-457c-8fd0-4fbdaa9ef555",
   "dc_identifier_s": "fbb17324-3e62-457c-8fd0-4fbdaa9ef555",
   "dc_title_s": "Regional Trails - Existing and Planned: Metro Twin Cities, Minnesota",
   "dc_description_s": "This is a compilation of alignments for existing, planned and alternate regional trails for the 7 county Twin Cities metroplitan area.",
@@ -8,7 +7,10 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
   "dc_publisher_sm": [
     "Metropolitan Council"
   ],
@@ -19,7 +21,7 @@
     "Transportation"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/fbb17324-3e62-457c-8fd0-4fbdaa9ef555\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/trans_regional_trails_exst_plan/fgdb_trans_regional_trails_exst_plan.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_metc/trans_regional_trails_exst_plan/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/fbb17324-3e62-457c-8fd0-4fbdaa9ef555\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/trans_regional_trails_exst_plan/fgdb_trans_regional_trails_exst_plan.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_metc/trans_regional_trails_exst_plan/metadata/preview.jpg\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Recreation_Tourism/MapServer/1\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_metc/trans_regional_trails_exst_plan/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -32,13 +34,20 @@
   ],
   "layer_slug_s": "fbb17324-3e62-457c-8fd0-4fbdaa9ef555",
   "layer_geom_type_s": "Line",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-94.017, -92.135, 45.414, 44.471)",
   "solr_year_i": 2015,
-  "centroid_s": "44.9425,-93.076",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.9425,-93.076",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/116b00354a55f9b8bec63f766e5891c6.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_metc/trans_regional_trails_exst_plan/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

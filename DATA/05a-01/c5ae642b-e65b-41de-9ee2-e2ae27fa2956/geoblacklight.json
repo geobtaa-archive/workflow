@@ -1,5 +1,4 @@
 {
-  "uuid": "c5ae642b-e65b-41de-9ee2-e2ae27fa2956",
   "dc_identifier_s": "c5ae642b-e65b-41de-9ee2-e2ae27fa2956",
   "dc_title_s": "Redistricting Data: Minnesota, 2010",
   "dc_description_s": "This data set provides the entire data hierarchy used for the 2010 Redistricting efforts in Minnesota. Includes census block, voting districts, minor civil divisions and counties. Includes MN Secretary of State election data from 2002-2010 that was disaggregated to census block level and aggregated to voting districts, minor civil divisions and counties.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Legislative Coordinating Commission"
   ],
@@ -20,7 +19,7 @@
     "Society"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/c5ae642b-e65b-41de-9ee2-e2ae27fa2956\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_lcc/society_redistricting_2010/gpkg_society_redistricting_2010.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_lcc/society_redistricting_2010/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/c5ae642b-e65b-41de-9ee2-e2ae27fa2956\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_lcc/society_redistricting_2010/gpkg_society_redistricting_2010.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_lcc/society_redistricting_2010/metadata/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_lcc/society_redistricting_2010/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -32,14 +31,21 @@
     "Minnesota, United States"
   ],
   "layer_slug_s": "c5ae642b-e65b-41de-9ee2-e2ae27fa2956",
-  "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)",
   "solr_year_i": 2010,
-  "centroid_s": "46.435,-93.38",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "46.435,-93.38",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/0ed5b28952522f2c8e86b021569bd1e6.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_lcc/society_redistricting_2010/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

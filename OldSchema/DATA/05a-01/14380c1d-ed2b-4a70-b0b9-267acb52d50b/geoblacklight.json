@@ -1,0 +1,45 @@
+{
+  "uuid": "14380c1d-ed2b-4a70-b0b9-267acb52d50b",
+  "dc_identifier_s": "14380c1d-ed2b-4a70-b0b9-267acb52d50b",
+  "dc_title_s": "Public Drainage Systems Hydrography: Rice County, Minnesota",
+  "dc_description_s": "This Feature Dataset contains those public drainage system (as defined by Minnesota Statute 103E) layers in Rice County, Minnesota that are considered hydrographic: ditch/tile centerlines, elevation profile points, drainage structures as well as watersheds for ditch/tile systems (ditchsheds). Follow the links below to the individual metadata pages for each layer:<br/> <b>Ditchsheds</b>: <a href=\"ditchshed.html\">ditchshed.html</a><br /> <b>Profile Points</b>: <a href=\"profile_pts.html\">profile_pts.html</a><br /> <b>Drainage Centerlines</b>: <a href=\"drainage_centerlines.html\">drainage_centerlines.html</a><br /> <b>Structures</b>: <a href=\"structures.html\">structures.html</a>",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Rice County"
+  ],
+  "dc_creator_sm": [
+    "Rice County, MN"
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/14380c1d-ed2b-4a70-b0b9-267acb52d50b\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_co_rice/water_public_drainage_systems/shp_water_public_drainage_systems.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_co_rice/water_public_drainage_systems/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2017-02-10T11:01:56.944372",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "Rice County, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "14380c1d-ed2b-4a70-b0b9-267acb52d50b",
+  "layer_geom_type_s": "Mixed",
+  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "solr_geom": "ENVELOPE(-93.525366, -93.039481, 44.544071, 44.195975)",
+  "solr_year_i": 2016,
+  "centroid_s": "44.370023,-93.2824235",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5043007"
+  ],
+  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/2aefe312e5e225c5cb29bbe190c4c427.jpg",
+  "geoblacklight_version": "1.0"
+}

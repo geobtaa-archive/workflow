@@ -1,5 +1,4 @@
 {
-  "uuid": "e49a44ad-b8ac-41fa-afac-b62fb79ceac6",
   "dc_identifier_s": "e49a44ad-b8ac-41fa-afac-b62fb79ceac6",
   "dc_title_s": "Status of Free and Open Public Geospatial Data from Counties: Minnesota",
   "dc_description_s": "This map shows the free and open data status of county public geospatial (GIS) data across Minnesota. The accompanying data set can be used to make similar maps using GIS software.  To see if a county's data is distributed via the Minnesota Geospatial Commons, check the Commons organizations page:  https://gisdata.mn.gov/organization  To see if a county distributes data via its website, check the link(s) on the Minnesota County GIS Contacts webpage:  http://www.mngeo.state.mn.us/county_contacts.html",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Geospatial Information Center (MnGeo)"
   ],
@@ -19,7 +18,7 @@
     "Boundaries"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/e49a44ad-b8ac-41fa-afac-b62fb79ceac6\",\"http://schema.org/downloadUrl\":\"https://gisdata.mn.gov/dataset/e49a44ad-b8ac-41fa-afac-b62fb79ceac6\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_mngeo/bdry_mn_county_open_data_status/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/e49a44ad-b8ac-41fa-afac-b62fb79ceac6\",\"http://schema.org/downloadUrl\":\"https://gisdata.mn.gov/dataset/e49a44ad-b8ac-41fa-afac-b62fb79ceac6\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_mngeo/bdry_mn_county_open_data_status/metadata/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_mngeo/bdry_mn_county_open_data_status/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -31,14 +30,21 @@
     "Minnesota, United States"
   ],
   "layer_slug_s": "e49a44ad-b8ac-41fa-afac-b62fb79ceac6",
-  "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)",
   "solr_year_i": 2017,
-  "centroid_s": "46.435,-93.38",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "46.435,-93.38",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/222e6fd34ead317fd651190371406444.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_mngeo/bdry_mn_county_open_data_status/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

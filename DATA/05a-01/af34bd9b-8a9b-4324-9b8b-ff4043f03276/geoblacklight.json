@@ -1,5 +1,4 @@
 {
-  "uuid": "af34bd9b-8a9b-4324-9b8b-ff4043f03276",
   "dc_identifier_s": "af34bd9b-8a9b-4324-9b8b-ff4043f03276",
   "dc_title_s": "Presettlement Vegetation: Minnesota",
   "dc_description_s": "Presettlement vegetation of Minnesota based on Marschner's original analysis of Public Land Survey notes and landscape patterns.  Marschner compiled his results in map format, which was subsequently captured in digital format.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Department of Natural Resources (DNR)"
   ],
@@ -19,7 +18,7 @@
     "Biota"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/af34bd9b-8a9b-4324-9b8b-ff4043f03276\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/biota_marschner_presettle_veg/fgdb_biota_marschner_presettle_veg.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/biota_marschner_presettle_veg/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/af34bd9b-8a9b-4324-9b8b-ff4043f03276\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/biota_marschner_presettle_veg/fgdb_biota_marschner_presettle_veg.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/biota_marschner_presettle_veg/metadata/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/biota_marschner_presettle_veg/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "af34bd9b-8a9b-4324-9b8b-ff4043f03276",
   "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-96.824542, -89.390449, 49.346614, 43.437348)",
-  "solr_year_i": 2014,
-  "centroid_s": "46.391981,-93.1074955",
+  "solr_year_i": 1895,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "46.391981,-93.1074955",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/38f00fae753ad15d27b51c4191b9b940.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/biota_marschner_presettle_veg/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

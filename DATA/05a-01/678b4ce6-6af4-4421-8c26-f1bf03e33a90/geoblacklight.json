@@ -1,19 +1,18 @@
 {
-  "uuid": "678b4ce6-6af4-4421-8c26-f1bf03e33a90",
   "dc_identifier_s": "678b4ce6-6af4-4421-8c26-f1bf03e33a90",
   "dc_title_s": "Schools: Dakota County, Minnesota",
   "dc_description_s": "Schools service of DCGIS that contains locations of Dakota County schools and school districts.",
   "dc_rights_s": "Public",
-  "dc_format_s": "Mixed Files",
+  "dc_format_s": "Files",
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
-    "Dakota County"
+    "Dakota County, Minnesota"
   ],
   "dc_creator_sm": [
-    "Dakota County"
+
   ],
   "dc_subject_sm": [
     "Location"
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "678b4ce6-6af4-4421-8c26-f1bf03e33a90",
   "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:16Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-93.329853, -92.729236, 44.923499, 44.468748)",
   "solr_year_i": 2016,
-  "centroid_s": "44.6961235,-93.0295445",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Mixed"
+  ],
+  "b1g_centroid_ss": "44.6961235,-93.0295445",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5051907"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/a5e1f51ca17e406c0ffb5c3269deff95.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

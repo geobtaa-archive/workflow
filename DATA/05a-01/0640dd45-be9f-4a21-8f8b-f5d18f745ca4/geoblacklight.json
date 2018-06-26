@@ -1,5 +1,4 @@
 {
-  "uuid": "0640dd45-be9f-4a21-8f8b-f5d18f745ca4",
   "dc_identifier_s": "0640dd45-be9f-4a21-8f8b-f5d18f745ca4",
   "dc_title_s": "Generalized Land Use Acreage Totals: Metro Twin Cities, Minnesota, 1970-1997",
   "dc_description_s": "The Generalized Land Use Acreage Totals 1970 - 1997 database is a tabular data file.  It is NOT A GIS LAYER.  The table contains acreage totals by municipality for the years of 1970, 1975, 1980, 1984, 1990 & 1997.    The acreage totals are given by County-MCD.  County-MCD (field name ''COMCD'') is defined as the portion of a Minor Civil Division (municipality) that resides within a county.  Most, but not all MCDs reside entirely within one county.   Totals are also provided for acres inside and outside the Metropolitan Urban Service Area (MUSA) for certain categories in 1990 and 1997.  The acreage totals for 1984, 1990 & 1997 were derived from the Generalized Land Use - Historical GIS layer.  See the metadata for that layer for an explanation of the methodology and procedures used to create it.  In general, this dataset contains the categories of: single-family residential, multi-family residential, commercial, industrial, public/semi-public, airports, parks & recreation, vacant/agricultural, highways, open water bodies, farm homesteads, industrial parks not developed, and public land not developed.  In 1997 the classes of Extractive and Public Industrial were added.  NOTES: - Prior to 1984, very little information exists to document the methods used to calculate the land use acreage totals. - The municipal boundaries information used for acreage calculations has changed over the years.  Some of this change reflects actual changes in corporate boundaries, other changes reflect new depictions of the same municipal boundaries. - Categories used for summarizing land use acreage as well as the definitions of those categories have not remained completely consistent over time. - Acreage totals are thought to get less accurate as they get older. - Many problems have been found in the 1984 data and many more are likely to exist. - The 1990 data uses a 2000 MUSA as defined in 1990 while the 1997 data MUSA definition is as of October of 1998.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Metropolitan Council"
   ],
@@ -31,14 +30,21 @@
     "Minnesota, United States"
   ],
   "layer_slug_s": "0640dd45-be9f-4a21-8f8b-f5d18f745ca4",
-  "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-06-26T17:12:31Z",
   "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
   "solr_year_i": 1997,
-  "centroid_s": "44.943,-93.372",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.943,-93.372",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/3da5b766b2dd19a5e44941799586e21b.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

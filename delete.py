@@ -97,7 +97,7 @@ class CSWToGeoBlacklight(object):
         }
 
         self.identifier = {
-            "rec": '"13b126e1-c3ad-4ba9-ac03-abdb642151d5"'
+            "rec": '"iecw-apwi"'
 
 
         }
@@ -165,13 +165,14 @@ class CSWToGeoBlacklight(object):
 			"09d-01": '"Purdue Georeferenced Imagery"',
 			"10a-01": '"State of Wisconsin"',
 			"10a-02": '"WI DATCP"',
-			"10a-03": '"Wisconsin Department of Natural Resources (DNR)"',
+			"10a-03": '"Wisconsin Department of Natural Resources"',
 			"10a-04": '"WI LTSB"',
 			"10a-05": '"WI LiDAR/Imagery"',
 			"10b-01": '"WI Counties"',
 			"11d-01": '"Byrd Polar Research Center"',
 			"12b-01": '"Cook County Open Data"',
-			"12c-01": '"City of Chicago Data Portal"'
+			"12c-01": '"City of Chicago Data Portal"',
+			"99": '"Retired"',
         }
 
 

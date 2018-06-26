@@ -1,14 +1,13 @@
 {
-  "uuid": "bdfd359c-881e-4144-8a62-fb9def81803c",
   "dc_identifier_s": "bdfd359c-881e-4144-8a62-fb9def81803c",
   "dc_title_s": "Duluth Urban Intensity - Building Heights: Minnesota",
   "dc_description_s": "LiDAR derived building outlines with height as an attribute. Building height was calculated using LAStools. Units are in meters.",
   "dc_rights_s": "Public",
-  "dc_format_s": "Mixed Files",
+  "dc_format_s": "Files",
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Natural Resources Research Institute"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "bdfd359c-881e-4144-8a62-fb9def81803c",
   "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:16Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-92.35248, -92.052675, 46.861033, 46.649533)",
   "solr_year_i": 2017,
-  "centroid_s": "46.755283,-92.2025775",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Mixed"
+  ],
+  "b1g_centroid_ss": "46.755283,-92.2025775",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5051907"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/fd9fbde03ed8f2846ba81496594fa64b.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

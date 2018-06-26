@@ -1,5 +1,4 @@
 {
-  "uuid": "y9da-bb2y",
   "dc_identifier_s": "y9da-bb2y",
   "dc_title_s": "Public High School Attendance Boundaries: Chicago, Illinois, SY 2017 - 2018",
   "dc_description_s": "Attendance boundaries for high schools in the Chicago Public Schools district for school year 2017-2018. Generally, all students in the applicable middle school grades who live within one of these boundaries may attend the school.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "City of Chicago, Illinois"
   ],
@@ -34,14 +33,21 @@
   ],
   "layer_slug_s": "y9da-bb2y",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-04-12T19:29:14Z",
+  "layer_modified_dt": "2018-06-26T21:11:34Z",
   "solr_geom": "ENVELOPE(-87.9403, -87.5237, 42.0231, 41.6443)",
   "solr_year_i": 2017,
-  "centroid_ss": "41.8337,-87.7320",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "41.8337,-87.732",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/4887398",
     "http://sws.geonames.org/4896861"
   ],
-  "thumbnail_path_ss": "",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "12c-01",
   "geoblacklight_version": "1.0"
 }

@@ -1,0 +1,48 @@
+{
+  "uuid": "890b6ce6-7257-4122-8242-e426b3bb4b51",
+  "dc_identifier_s": "890b6ce6-7257-4122-8242-e426b3bb4b51",
+  "dc_title_s": "Potential Flood Scour Areas: Iowa",
+  "dc_description_s": "Using a newly developed method that takes advantage of one-dimensional HEC-RAS hydraulic data, scour potential data were created for the 100 year (1% annual probability of occurrence) return period flood event. Input data for this method were developed using HEC-RAS as part of the Iowa Statewide Floodplain Mapping project. The scour data consists of three shapefiles. The first shapefile shows areas defined as having moderate scour potential relative to other parts of the floodplain, and the second shows areas defined as having high relative scour potential. The third shapefile shows areas where scour predictions made using this methodology have low confidence and a more detailed study is recommended. These scour predictions are intended to show approximate relative areas of scour potential and are not intended as a replacement for a more detailed 2D or 3D study. Scour data are organized by HUC8.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Geodatabase",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "State of Iowa"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "dct_provenance_s": "Iowa",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.iowa.gov/dataset/three-meter-digital-elevation-model-iowa-derived-lidar\",\"http://schema.org/downloadUrl\":\"https://iowageodata.s3.amazonaws.com/elevation/LiDAR_2007_2010/DEM_3m_I/DEM_3m_I_County_Downloads.html\"}",
+  "dct_isPartOf_sm": [
+    "Iowa GeoData"
+  ],
+  "dct_issued_s": [
+
+  ],
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Iowa, United States"
+  ],
+  "layer_slug_s": "890b6ce6-7257-4122-8242-e426b3bb4b51",
+  "layer_geom_type_s": "Mixed",
+  "layer_modified_dt": "2018-06-12T22:19:36Z",
+  "solr_geom": "ENVELOPE(-96.6395, -90.1401, 43.5111, 40.3754)",
+  "solr_year_i": 2018,
+  "centroid_s": "41.94325,-93.3898",
+  "b1g_geonames_sm": [
+    "https://sws.geonames.org/4862281"
+  ],
+  "b1g_collection_sm": [
+    "03a-03"
+  ],
+  "geoblacklight_version": "1.0"
+}

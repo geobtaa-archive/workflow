@@ -1,0 +1,48 @@
+{
+  "uuid": "4d2053c593cc4f7685f2823f9e2061b8_0",
+  "dc_identifier_s": "4d2053c593cc4f7685f2823f9e2061b8_0",
+  "dc_title_s": "Bikeways and Trails: Washington County Public Works",
+  "dc_description_s": "This dataset was created by the Metro Trails and Bikeways Collaborative, a joint collaborative project involving the technical and managerial GIS staff from the Seven Metropolitan Counties (Anoka, Carver, Dakota, Hennepin, Ramsey, Scott and Washington). Data were gathered from local, state, and federal partners by the project team and put into the metro data model.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Washington County, Minnesota"
+  ],
+  "dc_creator_sm": [
+    "Washington County Public Works"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data-wcmn.opendata.arcgis.com/datasets/4d2053c593cc4f7685f2823f9e2061b8_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/3fjYPqJf7qalQMlb/arcgis/rest/services/Map_WFL1/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"https://data-wcmn.opendata.arcgis.com/datasets/4d2053c593cc4f7685f2823f9e2061b8_0.zip\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data",
+    "Minnesota Counties"
+  ],
+  "dct_issued_s": "2018-03-28",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington County, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "4d2053c593cc4f7685f2823f9e2061b8_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-05-22T21:27:42Z",
+  "solr_geom": "ENVELOPE(-93.0412660090744, -92.75813319780501, 45.296919527314245, 44.74678139962091)",
+  "solr_year_i": 2018,
+  "centroid_s": "45.0218504635,-92.8996996034",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "b1g_collection_sm": [
+    "05b"
+  ],
+  "geoblacklight_version": "1.0"
+}

@@ -1,5 +1,4 @@
 {
-  "uuid": "483083ce-b769-45b8-beab-0822ecc0673f",
   "dc_identifier_s": "483083ce-b769-45b8-beab-0822ecc0673f",
   "dc_title_s": "Station Areas - Half Mile: Metro Twin Cities, Minnesota",
   "dc_description_s": "This dataset contains half-mile, non-overlapping transit-influenced areas based on existing and planned transitway station locations as defined by the Metropolitan Counci. In general, transitway stations are defined as a centrally located, single station point representing multidirectional transit stops or platforms. Additional consolidations of transitway stations were made for ease of analysis to \"coexisting\" multimodal stations (i.e., Blue Line's 46th Street Station (Hiawatha Ave) A-Line's 46th Street Station) before defining Station Area. Both the consolidation of stations and definition of station areas are supported by the Federal Transportation Administration (FTA) Reporting Instructions for the Section 5309 Capital Investment Grant Program.   These station areas corresponds to the defined geography used to compile information available through the Metropolitan Council's Download Tabular Data tool (http://stats.metc.state.mn.us/data_download/dd_start.aspx).  See Use Constraints for Station Area analysis.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Metropolitan Council"
   ],
@@ -31,14 +30,21 @@
     "Minnesota, United States"
   ],
   "layer_slug_s": "483083ce-b769-45b8-beab-0822ecc0673f",
-  "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
   "solr_year_i": 2016,
-  "centroid_s": "44.943,-93.372",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.943,-93.372",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/222e6fd34ead317fd651190371406444.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

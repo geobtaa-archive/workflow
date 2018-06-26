@@ -1,5 +1,4 @@
 {
-  "uuid": "aed1ae69-890a-4e16-a2a8-158e2be71321",
   "dc_identifier_s": "aed1ae69-890a-4e16-a2a8-158e2be71321",
   "dc_title_s": "Census 2000 Geography - Blocks, Block Groups, Tracts, TAZs, Counties, County Subdivisions and Water: Metro Twin Cities, Minnesota",
   "dc_description_s": "This 'Redistricting' version of the census data is the first release of the data.  This 2000 census redistricting geography database of the 7 county metropolitan area and the additional 12 collar county area was developed from the U.S.  Census Bureau's Redistricting Census 2000 TIGER/Line files.  The Metropolitan Council downloaded this data from the Census Bureau's FTP site, imported it into ArcInfo coverage format, added a few items to the coverage, then created block, block group, tract, county subdivision (city), county, taz and water coverages and shape files from the original data.",
@@ -8,7 +7,10 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
   "dc_publisher_sm": [
     "Metropolitan Council"
   ],
@@ -19,7 +21,7 @@
     "Society"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/aed1ae69-890a-4e16-a2a8-158e2be71321\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/society_census2000tiger/gpkg_society_census2000tiger.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_metc/society_census2000tiger/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/aed1ae69-890a-4e16-a2a8-158e2be71321\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/society_census2000tiger/gpkg_society_census2000tiger.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_metc/society_census2000tiger/metadata/preview.jpg\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Demographics/MapServer\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_metc/society_census2000tiger/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -32,13 +34,20 @@
   ],
   "layer_slug_s": "aed1ae69-890a-4e16-a2a8-158e2be71321",
   "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2018-04-30T14:29:18Z",
+  "layer_modified_dt": "2018-06-26T17:12:31Z",
   "solr_geom": "ENVELOPE(-94.664, -92.117, 45.736, 44.183)",
   "solr_year_i": 2000,
-  "centroid_s": "44.9595,-93.3905",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.9595,-93.3905",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/cdcea11011ad30ababc89abde5021455.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_metc/society_census2000tiger/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

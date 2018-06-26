@@ -1,5 +1,4 @@
 {
-  "uuid": "e069c908-95cd-4ee1-a3ea-6b4efbc61ef2",
   "dc_identifier_s": "e069c908-95cd-4ee1-a3ea-6b4efbc61ef2",
   "dc_title_s": "Public Drainage Systems: Waseca County, Minnesota",
   "dc_description_s": "This dataset represents the geospatial public drainage system records (as defined by Minnesota Statute 103E) of Waseca County, Minnesota.",
@@ -8,12 +7,12 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
-    "Waseca County"
+    "Waseca County, Minnesota"
   ],
   "dc_creator_sm": [
-    "Waseca County, MN"
+
   ],
   "dc_subject_sm": [
     "Inland Waters"
@@ -32,14 +31,21 @@
     "Minnesota, United States"
   ],
   "layer_slug_s": "e069c908-95cd-4ee1-a3ea-6b4efbc61ef2",
-  "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-93.772017, -93.407063, 44.168728, 43.846119)",
   "solr_year_i": 2016,
-  "centroid_s": "44.0074235,-93.58954",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.0074235,-93.58954",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5051907"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/2aefe312e5e225c5cb29bbe190c4c427.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

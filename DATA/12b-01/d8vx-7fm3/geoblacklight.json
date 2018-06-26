@@ -1,5 +1,4 @@
 {
-  "uuid": "d8vx-7fm3",
   "dc_identifier_s": "d8vx-7fm3",
   "dc_title_s": "Municipal Incorporation Inventory: Cook County, Illinois, 2016",
   "dc_description_s": "Department of GIS sponsored Municipal Incorporation Inventory (MII) project. The following agencies participated in this project: The Cook County Recorder of Deeds, Cook County Emergency Telephone System Board, Cook County Circuit Court, Archives Department, Cook County Department of Transportation and Highways, the Cook County Clerk's Office and the Illinois State Archives Office of the Secretary of State. The data is not guaranteed to be accurate, correct, or complete. Information provided should not be used as a substitute for legal, business, tax, or other professional advice. The recipient/viewer should contact appropriate regulating agencies to determine accuracy or suitability of the data for a particular use.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Cook County, Illinois"
   ],
@@ -33,13 +32,20 @@
   ],
   "layer_slug_s": "d8vx-7fm3",
   "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2018-04-12T20:46:20Z",
+  "layer_modified_dt": "2018-06-26T21:11:12Z",
   "solr_geom": "ENVELOPE(-88.2635, -87.5237, 42.1543, 41.6443)",
   "solr_year_i": 2016,
-  "centroid_ss": "41.8993,-87.8936",
-  "b1g_geonames_sm": [
-
+  "b1g_genre_sm": [
+    "Geospatial data"
   ],
-  "thumbnail_path_ss": "",
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "41.8993,-87.8936",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/4888671"
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "12b-01",
   "geoblacklight_version": "1.0"
 }

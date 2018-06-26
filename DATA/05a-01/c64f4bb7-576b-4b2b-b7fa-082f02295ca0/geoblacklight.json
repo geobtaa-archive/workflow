@@ -1,14 +1,13 @@
 {
-  "uuid": "c64f4bb7-576b-4b2b-b7fa-082f02295ca0",
   "dc_identifier_s": "c64f4bb7-576b-4b2b-b7fa-082f02295ca0",
   "dc_title_s": "Travel Behavior Inventory (TBI) Transit On Board Survey: Minnesota, 2010",
   "dc_description_s": "Transit On-Board Survey conducted in fall 2010 as part of the 2010 Travel Behavior Inventory (TBI).    The TBI is a battery of surveys conducted 2010-2012 to support transportation planning and transportation forecast model development.  Dataset includes record surveyed in 2010, as well as some records from 2005 for routes that were not surveyed in 2010.  Four expansion factors were developed, all matching systemwide totals: Allsys- All records, at route level ODsys-All records with O/D information, at route level ODTPsys- All records with O/D and purpose information, at route level ODTP_Geosys- All records with O/D and purpose information, at segment level  Please refer to documentation for information about sample plan, survey instruments, field implementation, and data expansion.",
   "dc_rights_s": "Public",
-  "dc_format_s": "Mixed Files",
+  "dc_format_s": "Files",
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Metropolitan Council"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "c64f4bb7-576b-4b2b-b7fa-082f02295ca0",
   "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:16Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-95.846, -91.533, 46.776, 41.284)",
-  "solr_year_i": 0,
-  "centroid_s": "44.03,-93.6895",
+  "solr_year_i": 2010,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Mixed"
+  ],
+  "b1g_centroid_ss": "44.03,-93.6895",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5051907"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/fd9fbde03ed8f2846ba81496594fa64b.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

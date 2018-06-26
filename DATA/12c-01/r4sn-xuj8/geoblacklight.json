@@ -1,5 +1,4 @@
 {
-  "uuid": "r4sn-xuj8",
   "dc_identifier_s": "r4sn-xuj8",
   "dc_title_s": "Charter School Preference Boundaries: Chicago, Illinois, 2016-2017",
   "dc_description_s": "Preference boundaries for selected charter schools in the Chicago Public Schools district for school year 2016-2017. As opposed to elementary or high school attendance boundaries wherein each residing student is entitled to attend, charter boundaries simply serve as a guide for charter school administrators to use during the application/lottery process. Applicants residing within a specific boundary are generally given preference over applicants residing outside of the boundary. To view or use these shapefiles, compression software, such as 7-Zip, and special GIS software, such as Google Earth or ArcGIS, are required.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "City of Chicago, Illinois"
   ],
@@ -35,14 +34,21 @@
   ],
   "layer_slug_s": "r4sn-xuj8",
   "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2018-04-12T19:29:14Z",
+  "layer_modified_dt": "2018-06-26T21:11:33Z",
   "solr_geom": "ENVELOPE(-87.9402669, -87.523661, 42.023195, 41.6443349)",
   "solr_year_i": 2016,
-  "centroid_ss": "41.8767445,-87.7140005",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "41.83376495,-87.73196395",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/4887398",
     "http://sws.geonames.org/4896861"
   ],
-  "thumbnail_path_ss": "",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "12c-01",
   "geoblacklight_version": "1.0"
 }

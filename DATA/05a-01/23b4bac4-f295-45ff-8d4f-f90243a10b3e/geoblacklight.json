@@ -1,5 +1,4 @@
 {
-  "uuid": "23b4bac4-f295-45ff-8d4f-f90243a10b3e",
   "dc_identifier_s": "23b4bac4-f295-45ff-8d4f-f90243a10b3e",
   "dc_title_s": "Department of Natural Resources Division of Forestry Administrative Areas: Minnesota",
   "dc_description_s": "This data shows the boundaries of the DNR Division of Forestry administrative Areas for the State of Minnesota",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Department of Natural Resources (DNR)"
   ],
@@ -19,7 +18,7 @@
     "Boundaries"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/23b4bac4-f295-45ff-8d4f-f90243a10b3e\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_dnr_forestry_admin/gpkg_bdry_dnr_forestry_admin.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/bdry_dnr_forestry_admin/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/23b4bac4-f295-45ff-8d4f-f90243a10b3e\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_dnr_forestry_admin/gpkg_bdry_dnr_forestry_admin.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/bdry_dnr_forestry_admin/metadata/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/bdry_dnr_forestry_admin/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "23b4bac4-f295-45ff-8d4f-f90243a10b3e",
   "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2018-04-30T14:29:18Z",
+  "layer_modified_dt": "2018-06-26T17:12:31Z",
   "solr_geom": "ENVELOPE(-96.832273, -89.394358, 49.345099, 43.43541)",
-  "solr_year_i": 2015,
-  "centroid_s": "46.3902545,-93.1133155",
+  "solr_year_i": 2018,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "46.3902545,-93.1133155",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/f49385c5312cad1e19e3af5a0e1251db.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/bdry_dnr_forestry_admin/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

@@ -1,14 +1,13 @@
 {
-  "uuid": "f2a3fbdc-7ce5-4715-8c66-679cff52c94b",
   "dc_identifier_s": "f2a3fbdc-7ce5-4715-8c66-679cff52c94b",
   "dc_title_s": "Digital Orthoimagery, Southern, Spring 2011; Meeker County, Spring 2013; 0.5-m Resolution: Minnesota",
   "dc_description_s": "This dataset contains leaf-off 4-band red, green, blue, infrared (RGBI) digital orthophoto imagery produced at half-meter (50 cm) resolution from new aerial photography captured in Spring 2011 (Meeker Co., Spring 2013). The imagery covers 38 counties in southern Minnesota: Dodge, Faribault, Fillmore, Freeborn, Goodhue, Houston, Jackson, Kandiyohi, Lac qui Parle, Le Sueur, Lincoln, Lyon, Martin, McLeod, Meeker, Mower, Murray, Nicollet, Nobles, Olmsted, Pipestone, Redwood, Renville, Rice, Rock, Sibley, Steele, Swift, Wabasha, Waseca, Watonwan, Winona and Yellow Medicine.  Funding for this data was provided by the Minnesota Natural Heritage Fund, the Minnesota Clean Water Legacy Act, and The Environmental and Natural Resources Trust Fund.   This metadata record was created by the Minnesota Geospatial Information Office (MnGeo) using information supplied by Surdex Corporation.",
   "dc_rights_s": "Public",
-  "dc_format_s": "Mixed Files",
+  "dc_format_s": "Files",
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Geospatial Information Center (MnGeo)"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "f2a3fbdc-7ce5-4715-8c66-679cff52c94b",
   "layer_geom_type_s": "Raster",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-97, -91, 45.75, 43.5)",
   "solr_year_i": 2011,
-  "centroid_s": "44.625,-94",
+  "b1g_genre_sm": [
+    "Aerial imagery"
+  ],
+  "b1g_geom_type_sm": [
+    "Raster data"
+  ],
+  "b1g_centroid_ss": "44.625,-94",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5051907"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/fd9fbde03ed8f2846ba81496594fa64b.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

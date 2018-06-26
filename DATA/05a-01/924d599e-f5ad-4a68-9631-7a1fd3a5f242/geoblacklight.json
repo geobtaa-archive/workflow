@@ -1,5 +1,4 @@
 {
-  "uuid": "924d599e-f5ad-4a68-9631-7a1fd3a5f242",
   "dc_identifier_s": "924d599e-f5ad-4a68-9631-7a1fd3a5f242",
   "dc_title_s": "Functional Class Roads - Planned: Metro Twin Cities, Minnesota",
   "dc_description_s": "The planned functional class roads layer contains approximate locations of planned major roads and highways in the Twin Cities seven county metropolitan area.    The specific classifications assigned to the roadways resulted from efforts of the Land Transportation Committee, Transportation Technical Advisory Committee and the Transportation Advisory Board as specified in the transportation planning process, using federal rules and guidelines. The data was approved with Metropolitan Council concurrence in 1993.  Additional planned roads have been added from information in community comprehensive plans submitted to the Council since 1993 and in the functional class review for the 2007 Regional Solicitation.   The alignments for these roads are approximate only.  They are not intended to show the actual alignment.  Please note that the planned functional class road layer is meant to indicate the classification of planned new roads.  Opening of planned functional class roads MAY cause designation changes to the existing functional class network.",
@@ -8,7 +7,10 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
   "dc_publisher_sm": [
     "Metropolitan Council"
   ],
@@ -19,7 +21,7 @@
     "Transportation"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/924d599e-f5ad-4a68-9631-7a1fd3a5f242\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/trans_fnctnl_cls_rds_pln/shp_trans_fnctnl_cls_rds_pln.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_metc/trans_fnctnl_cls_rds_pln/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/924d599e-f5ad-4a68-9631-7a1fd3a5f242\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/trans_fnctnl_cls_rds_pln/shp_trans_fnctnl_cls_rds_pln.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_metc/trans_fnctnl_cls_rds_pln/metadata/preview.jpg\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Transportation/MapServer/3\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_metc/trans_fnctnl_cls_rds_pln/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -32,13 +34,20 @@
   ],
   "layer_slug_s": "924d599e-f5ad-4a68-9631-7a1fd3a5f242",
   "layer_geom_type_s": "Line",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_modified_dt": "2018-06-26T17:12:31Z",
   "solr_geom": "ENVELOPE(-93.80167, -92.842552, 45.399534, 44.54238)",
-  "solr_year_i": 2017,
-  "centroid_s": "44.970957,-93.322111",
+  "solr_year_i": 2018,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.970957,-93.322111",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/5d12995dcaa9037901ae61d40c4c920b.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_metc/trans_fnctnl_cls_rds_pln/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

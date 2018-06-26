@@ -1,24 +1,27 @@
 {
-  "uuid": "3d1662d9-c98f-4beb-a5f5-8a22ec6eecc7",
   "dc_identifier_s": "3d1662d9-c98f-4beb-a5f5-8a22ec6eecc7",
   "dc_title_s": "Protected Water Areas: Iowa",
   "dc_description_s": "Iowa Protected Water Area This zip file contains a shapefile of Protected Water Areas.",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_s": [
+  "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
-    "Iowa Geodata"
+    "State of Iowa"
   ],
-  "dc_creator_sm": "Iowa Department of Natural Resources",
+  "dc_creator_sm": [
+    "Iowa Department of Natural Resources"
+  ],
   "dc_subject_sm": [
     "Inland Waters"
   ],
   "dct_provenance_s": "Iowa",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.iowa.gov/dataset/iowa-protected-water-area\",\"http://schema.org/downloadUrl\":\"http://iowageodata.s3.amazonaws.com/inlandWaters/protected_water_areas.zip\"}",
-  "dct_isPartOf_sm": "Iowa GeoData",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.iowa.gov/dataset/iowa-protected-water-area\",\"http://schema.org/downloadUrl\":\"http://iowageodata.s3.amazonaws.com/inlandWaters/protected_water_areas.zip\",\"http://schema.org/image\":\"https://geodata.iowa.gov/sites/default/files/iowa_dnr.png\"}",
+  "dct_isPartOf_sm": [
+    "Iowa GeoData"
+  ],
   "dct_issued_s": "2017-12-20",
   "dct_temporal_sm": [
     "2017"
@@ -26,13 +29,22 @@
   "dct_spatial_sm": [
     "Iowa, United States"
   ],
-  "dc_relation_sm": [
-    "https://sws.geonames.org/4862233"
-  ],
   "layer_slug_s": "3d1662d9-c98f-4beb-a5f5-8a22ec6eecc7",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-3-19T23:7:4Z",
-  "centroid_s": "41.9383,-93.3949",
+  "layer_modified_dt": "2018-06-26T17:11:42Z",
   "solr_geom": "ENVELOPE(-96.6395, -90.1401, 43.5063, 40.3754)",
-  "solr_year_i": 2017
+  "solr_year_i": 2017,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "41.94085,-93.3898",
+  "b1g_geonames_sm": [
+    "https://sws.geonames.org/4862233"
+  ],
+  "b1g_image_ss": "https://geodata.iowa.gov/sites/default/files/iowa_dnr.png",
+  "b1g_collection_sm": "03a-03",
+  "geoblacklight_version": "1.0"
 }

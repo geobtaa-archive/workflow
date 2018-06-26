@@ -1,0 +1,44 @@
+{
+  "uuid": "7006a11f-52bc-40f0-890e-803700ab11b4",
+  "dc_identifier_s": "7006a11f-52bc-40f0-890e-803700ab11b4",
+  "dc_title_s": "House District Boundaries: Minnesota, 1994",
+  "dc_description_s": "This is a polygon data set of the 1994 Minnesota House Legislative District Boundaries. It displays district numbers. Includes house districts associated attributes. It was derived from U.S. Census Bureau 1990 TIGER/Line files.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Minnesota Legislative Coordinating Commission"
+  ],
+  "dc_creator_sm": [
+    "Minnesota Legislative Coordinating Commission - Geographic Information Services Office (LCC- GIS)"
+  ],
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/7006a11f-52bc-40f0-890e-803700ab11b4\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_lcc/bdry_housedistricts1994/geojson_bdry_housedistricts1994.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_lcc/bdry_housedistricts1994/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2017-02-16T11:02:00.122174",
+  "dct_temporal_sm": [
+    "1994"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "7006a11f-52bc-40f0-890e-803700ab11b4",
+  "layer_geom_type_s": "Mixed",
+  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)",
+  "solr_year_i": 1994,
+  "centroid_s": "46.435,-93.38",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/482f9a3a4dadf517d3d16c3bf5c272b5.jpg",
+  "geoblacklight_version": "1.0"
+}

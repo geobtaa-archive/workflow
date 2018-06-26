@@ -1,14 +1,13 @@
 {
-  "uuid": "d666a825-cb88-43a7-850d-a2dbb40c3d56",
   "dc_identifier_s": "d666a825-cb88-43a7-850d-a2dbb40c3d56",
   "dc_title_s": "Digital Orthoimagery, Carlton County, Spring 2015, 9-inch Resolution: Minnesota",
   "dc_description_s": "Pictometry flew 9-inch, leaf-off, color orthoimagery across Carlton County, Minnesota during the spring of 2015.",
   "dc_rights_s": "Public",
-  "dc_format_s": "Mixed Files",
+  "dc_format_s": "Files",
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Geospatial Information Center (MnGeo)"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "d666a825-cb88-43a7-850d-a2dbb40c3d56",
   "layer_geom_type_s": "Raster",
-  "layer_modified_dt": "2018-04-30T14:29:16Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-93.08, -92.27, 46.78, 46.41)",
   "solr_year_i": 2015,
-  "centroid_s": "46.595,-92.675",
+  "b1g_genre_sm": [
+    "Aerial imagery"
+  ],
+  "b1g_geom_type_sm": [
+    "Raster data"
+  ],
+  "b1g_centroid_ss": "46.595,-92.675",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5051907"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/592e0eb2696429c8da792d8d64aea5ce.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

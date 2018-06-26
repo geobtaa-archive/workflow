@@ -1,5 +1,4 @@
 {
-  "uuid": "ri9q-n8vf",
   "dc_identifier_s": "ri9q-n8vf",
   "dc_title_s": "Middle School Attendance Boundaries: Chicago, Illinois, 2014-2015",
   "dc_description_s": "Attendance boundaries for middle schools in the Chicago Public Schools district for school year 2014-2015. Note: only 23 middle schools have attendance boundaries in school year 2014-2015. Middle school boundaries are often established to relieve overcrowding at nearby elementary schools. Generally, all students in the applicable middle school grades who live within one of these boundaries may attend the school. To view or use these shapefiles, compression software, such as 7-Zip, and special GIS software, such as Google Earth or ArcGIS, are required.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "City of Chicago, Illinois"
   ],
@@ -35,14 +34,21 @@
   ],
   "layer_slug_s": "ri9q-n8vf",
   "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2018-04-12T19:29:14Z",
+  "layer_modified_dt": "2018-06-26T21:11:34Z",
   "solr_geom": "ENVELOPE(-87.9402669, -87.523661, 42.023158, 41.6443349)",
   "solr_year_i": 2014,
-  "centroid_ss": "41.8684495,-87.664938",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "41.83374645,-87.73196395",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/4887398",
     "http://sws.geonames.org/4896861"
   ],
-  "thumbnail_path_ss": "",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "12c-01",
   "geoblacklight_version": "1.0"
 }

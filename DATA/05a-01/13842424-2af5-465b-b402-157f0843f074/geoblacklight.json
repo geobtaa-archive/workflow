@@ -1,5 +1,4 @@
 {
-  "uuid": "13842424-2af5-465b-b402-157f0843f074",
   "dc_identifier_s": "13842424-2af5-465b-b402-157f0843f074",
   "dc_title_s": "2030 Regional Development Framework Geographic Planning Areas: Metro Twin Cities, Minnesota",
   "dc_description_s": "This dataset depicts the various 2030 Framework planning areas shown on the Council's 2030 Regional Growth Strategies map.  This map is part of the Metropolitan Council 2030 Regional Development Framework adopted January 14, 2004 and amended on December 13, 2006.   See http://www.metrocouncil.org/planning/framework/overview.htm for more information (Chapter 3).  Please refer to the actual 2030 Framework Planning Areas map for the details of the 2030 Regional Development Framework growth strategy.  This dataset is intended to supplement the framework document as a planning guide.   See Lineage in Section 2 of this metadata for more information.  Notes:  - At the time of adoption, Lake Elmo's comprehensive plan was not complete.  The manner in which the city of Lake Elmo is depicted in this dataset is considered to be illustrative only.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Metropolitan Council"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "13842424-2af5-465b-b402-157f0843f074",
   "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2018-04-30T14:29:18Z",
+  "layer_modified_dt": "2018-06-26T17:12:31Z",
   "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
   "solr_year_i": 2006,
-  "centroid_s": "44.943,-93.372",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.943,-93.372",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/c61c047321e8793a0b9b11d07bcd1522.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

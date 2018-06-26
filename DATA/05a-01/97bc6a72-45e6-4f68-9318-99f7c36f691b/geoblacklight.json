@@ -1,5 +1,4 @@
 {
-  "uuid": "97bc6a72-45e6-4f68-9318-99f7c36f691b",
   "dc_identifier_s": "97bc6a72-45e6-4f68-9318-99f7c36f691b",
   "dc_title_s": "Seed Source Control Seed Zones: Minnesota",
   "dc_description_s": "Seed source control is the operational process of returning reproductive materials - seeds, seedlings, cuttings, or transplants - to an environment that closely resembles the ones they originated from.  Seed source control prevents losses by avoiding the use of non-adapted materials in artificial regeneration. Seed source control establishes collection and deployment zones based on climate homogeneity. Based on climatic data, six seed zones were determined appropriate and adequate for Minnesota.  An area of special concern is the north shore area of Lake Superior. This area lies roughly from Two Harbors to the Canadian border and, from the shoreline to the ridge that defines the north shore. Several studies have shown this region to consistently produce trees with slower growth.  Unless there is some compelling local need, seed should not be collected from this area.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Department of Natural Resources (DNR)"
   ],
@@ -20,7 +19,7 @@
     "Environment"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/97bc6a72-45e6-4f68-9318-99f7c36f691b\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_seed_source_control_zones/shp_bdry_seed_source_control_zones.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/bdry_seed_source_control_zones/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/97bc6a72-45e6-4f68-9318-99f7c36f691b\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_seed_source_control_zones/shp_bdry_seed_source_control_zones.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/bdry_seed_source_control_zones/metadata/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/bdry_seed_source_control_zones/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -32,14 +31,21 @@
     "Minnesota, United States"
   ],
   "layer_slug_s": "97bc6a72-45e6-4f68-9318-99f7c36f691b",
-  "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)",
   "solr_year_i": 2015,
-  "centroid_s": "46.435,-93.38",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "46.435,-93.38",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/956f0534f273c387cd860287375c1b18.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/bdry_seed_source_control_zones/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

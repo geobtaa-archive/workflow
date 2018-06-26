@@ -1,5 +1,4 @@
 {
-  "uuid": "64585e10-14ec-47f2-a0fa-37f44f895d4f",
   "dc_identifier_s": "64585e10-14ec-47f2-a0fa-37f44f895d4f",
   "dc_title_s": "Buffer Protection Map: Minnesota",
   "dc_description_s": "These data represent public waters and public ditches that require permanent vegetation buffers or alternative riparian water quality practices. The buffer map data comprise two geographical feature classes: one linear feature class for watercourses and one polygonal feature class for lakes, reservoirs and wetlands. The attribute for the buffer width requirement is derived from three different classification attributes: (1) the Minnesota DNR's Public Waters Inventory classification, (2) the DNR assigned shoreland classification, and (3) public open drainage system data (also referred to as open ditches) established under Minnesota Statute (M.S.) 103E and provided by local drainage authorities. The DNR Commissioner has validated the authenticity of this map for purposes described in M.S. 103F.48.   Public waters are all lakes, wetlands and watercourses that meet the criteria set forth in M.S. 103G.005, subd. 15 and are designated on public waters inventory maps. Public water wetlands without DNR shoreland classifications are excluded from the buffer map. The DNR coordinated with counties and watershed districts to identify public ditches that require a buffer.  The buffer protection map helps landowners identify buffer protection requirements, under Minnesota's Buffer Law. Public ditches require a 16.5-foot buffer and public waters require a 50-foot average buffer; public ditches that are also public watercourses require a 16.5-foot buffer unless the DNR assigned a specific shoreland classification, in which case a 50-foot average buffer is required. Local ordinances may require wider buffers. This map displays minimum standards and is not intended to affect existing local controls that are more restrictive than these requirements. Furthermore, the buffer map does not depict \"other waters\" to be addressed by local water plans and does not identify locations where local Soil and Water Conservation Districts (SWCDs) have selected an alternate water quality practice.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Department of Natural Resources (DNR)"
   ],
@@ -19,7 +18,7 @@
     "Environment"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/64585e10-14ec-47f2-a0fa-37f44f895d4f\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_buffer_protection_mn/fgdb_env_buffer_protection_mn.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/env_buffer_protection_mn/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/64585e10-14ec-47f2-a0fa-37f44f895d4f\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_buffer_protection_mn/fgdb_env_buffer_protection_mn.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/env_buffer_protection_mn/metadata/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/env_buffer_protection_mn/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -31,14 +30,21 @@
     "Minnesota, United States"
   ],
   "layer_slug_s": "64585e10-14ec-47f2-a0fa-37f44f895d4f",
-  "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:18Z",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-06-26T17:12:31Z",
   "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)",
   "solr_year_i": 2017,
-  "centroid_s": "46.435,-93.38",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "46.435,-93.38",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/8fd0e35a412d628c05abff619faadb55.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/env_buffer_protection_mn/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

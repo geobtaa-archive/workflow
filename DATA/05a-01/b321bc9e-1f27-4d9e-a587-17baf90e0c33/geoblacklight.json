@@ -1,5 +1,4 @@
 {
-  "uuid": "b321bc9e-1f27-4d9e-a587-17baf90e0c33",
   "dc_identifier_s": "b321bc9e-1f27-4d9e-a587-17baf90e0c33",
   "dc_title_s": "MNWAP Wildlife Action Network: Minnesota",
   "dc_description_s": "The Wildlife Action Network (WAN) was developed as part of the 2015-2025 MN Wildlife Action Plan revision. The WAN is made up of ten GIS layers representing quality aquatic and terrestrial habitats across the state of Minnesota. The layers include composite population viability/persistence maps of Species In Greatest Conservation Need (SGCN), species richness hotspots of SGCN, spatially prioritizied MBS Sites of Biodiversity Significance, cores and corridors of the MN Prairie Conservation Plan, High Conservation Value Forests, Lakes of Biological Significance, and Rivers/Streams with an exceptional index of biological integrity (IBI) score. Five of these layers, chosen because they were entirely or almost entirely statewide in extent and had a score or rank, were used to then rank the areas within the WAN on a 5-level scale from poor to excellent. The layers used for scoring were a) Composite SGCN Population Scores, b) SGCN richness grid used in the hotspot analysis, c) Marxan scores of prioritized Sites of Biodiversity Significance, d) Stream Index of Biological Integrity, and e) Lakes of Biological Significance.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Department of Natural Resources (DNR)"
   ],
@@ -19,7 +18,7 @@
     "Environment"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/b321bc9e-1f27-4d9e-a587-17baf90e0c33\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_mnwap_wildlife_action_netwrk/fgdb_env_mnwap_wildlife_action_netwrk.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/env_mnwap_wildlife_action_netwrk/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/b321bc9e-1f27-4d9e-a587-17baf90e0c33\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_mnwap_wildlife_action_netwrk/fgdb_env_mnwap_wildlife_action_netwrk.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/env_mnwap_wildlife_action_netwrk/metadata/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/env_mnwap_wildlife_action_netwrk/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "b321bc9e-1f27-4d9e-a587-17baf90e0c33",
   "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-96.810586, -89.787973, 49.015581, 43.436203)",
   "solr_year_i": 2015,
-  "centroid_s": "46.225892,-93.2992795",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "46.225892,-93.2992795",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/1fc5b717e2085ab9481a6dc329fcdce7.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/env_mnwap_wildlife_action_netwrk/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

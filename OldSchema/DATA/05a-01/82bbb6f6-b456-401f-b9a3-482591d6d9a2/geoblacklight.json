@@ -1,0 +1,44 @@
+{
+  "uuid": "82bbb6f6-b456-401f-b9a3-482591d6d9a2",
+  "dc_identifier_s": "82bbb6f6-b456-401f-b9a3-482591d6d9a2",
+  "dc_title_s": "State Boundary: Minnesota",
+  "dc_description_s": "This is the standard Minnesota State Boundary dataset that is used by MNDNR and many other state agencies.  It is derived from the related dataset \"County Boundaries, Minnesota\" ( http://gisdata.mn.gov/dataset/bdry-counties-in-minnesota ) and is maintained by MNDNR's Lands and Minerals Divsion.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Minnesota Department of Natural Resources (DNR)"
+  ],
+  "dc_creator_sm": [
+    "Minnesota Department of Natural Resources (Minnesota Department of Natural Resources (DNR))"
+  ],
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/82bbb6f6-b456-401f-b9a3-482591d6d9a2\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_state_of_minnesota/shp_bdry_state_of_minnesota.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/bdry_state_of_minnesota/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2014-06-25T21:29:08.926678",
+  "dct_temporal_sm": [
+    "2013"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "82bbb6f6-b456-401f-b9a3-482591d6d9a2",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)",
+  "solr_year_i": 2013,
+  "centroid_s": "46.435,-93.38",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/5d049a9f1d7e681fcbedf179d7dba4d9.jpg",
+  "geoblacklight_version": "1.0"
+}

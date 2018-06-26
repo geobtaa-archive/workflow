@@ -1,5 +1,4 @@
 {
-  "uuid": "9a876582-7686-4a6a-927b-19231880d42f",
   "dc_identifier_s": "9a876582-7686-4a6a-927b-19231880d42f",
   "dc_title_s": "Composite Image Service WMS: Minnesota",
   "dc_description_s": "The goal of the Composite Image Service is to provide a single layer image service that automatically switches to an appropriate set of air photos or satellite imagery depending on the scale and extent. The images are provided as a WMS (web map service). The primary focus is the Twin Cities Metropolitan Area and the State of Minnesota. The secondary interest is the areas bordering Minnesota, especially Wisconsin counties close to the metro area.  Imagery is evaluated based on criteria of color, currency, resolution, coverage, season, leaf cover and image quality in order to determine which imagery to include at which scale. See the Lineage field for a list of imagery layers that are visible at different scales.  More information about this map service and the imagery resources displayed at various scales is available on the MnGeo Composite Image Service webpage:  http://www.mngeo.state.mn.us/chouse/wms/composite_image.html",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Service",
   "dc_publisher_sm": [
     "Minnesota Geospatial Information Center (MnGeo)"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "9a876582-7686-4a6a-927b-19231880d42f",
   "layer_geom_type_s": "Raster",
-  "layer_modified_dt": "2018-04-30T14:29:16Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-101.2, -86.8, 51.3, 40.8)",
   "solr_year_i": 2016,
-  "centroid_s": "46.05,-94",
+  "b1g_genre_sm": [
+    "Aerial imagery"
+  ],
+  "b1g_geom_type_sm": [
+    "Raster data"
+  ],
+  "b1g_centroid_ss": "46.05,-94",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5051907"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/8ed4c831a52ace4e2fb64df565207896.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

@@ -1,5 +1,4 @@
 {
-  "uuid": "ce0385b5-4c77-4449-841d-6c84d186204f",
   "dc_identifier_s": "ce0385b5-4c77-4449-841d-6c84d186204f",
   "dc_title_s": "Assessed Waters, 2016 (Proposed): Minnesota",
   "dc_description_s": "This is a proposed set of the waterbodies assessed by MPCA's surface water quality assessment process for the 2016 303(d)/305(b) integrated report to EPA. The waterbodies included in the dataset were submitted to EPA in January, 2017. EPA evaluates the data and either approves it as-is or modifies it, which may result in changes to this spatial data.  Please consult the metadata of the individual datasets for details on their lineage.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Pollution Control Agency"
   ],
@@ -20,7 +19,7 @@
     "Inland Waters"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/ce0385b5-4c77-4449-841d-6c84d186204f\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_pca/env_assessed_proposed_water_2016/gpkg_env_assessed_proposed_water_2016.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_pca/env_assessed_proposed_water_2016/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/ce0385b5-4c77-4449-841d-6c84d186204f\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_pca/env_assessed_proposed_water_2016/gpkg_env_assessed_proposed_water_2016.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_pca/env_assessed_proposed_water_2016/preview/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_pca/env_assessed_proposed_water_2016/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -32,14 +31,21 @@
     "Minnesota, United States"
   ],
   "layer_slug_s": "ce0385b5-4c77-4449-841d-6c84d186204f",
-  "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:18Z",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-06-26T17:12:31Z",
   "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)",
   "solr_year_i": 2017,
-  "centroid_s": "46.435,-93.38",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "46.435,-93.38",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/239cdd34129e1010085b3b705b1d19eb.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_pca/env_assessed_proposed_water_2016/preview/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

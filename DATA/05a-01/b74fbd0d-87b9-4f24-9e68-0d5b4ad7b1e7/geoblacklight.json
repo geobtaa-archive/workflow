@@ -1,5 +1,4 @@
 {
-  "uuid": "b74fbd0d-87b9-4f24-9e68-0d5b4ad7b1e7",
   "dc_identifier_s": "b74fbd0d-87b9-4f24-9e68-0d5b4ad7b1e7",
   "dc_title_s": "Physical Features - Lines and Points: Dakota County, Minnesota",
   "dc_description_s": "Lines and Points representing physical features; buildings, road edges, decks, patios, electric boxes, utility poles, trees, etc. identified from low and medium level aerial photography for mapping and application uses. <a href=\"PhysicalFeatureLines.html\" target=_blank>Physical Feature Lines</a><br><a href=\"PhysicalFeaturePoints.html\" target=_blank>Physical Feature Points</a>",
@@ -8,9 +7,9 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
-    "Dakota County"
+    "Dakota County, Minnesota"
   ],
   "dc_creator_sm": [
     "Dakota County GIS, Dakota County GIS, Staff"
@@ -19,7 +18,7 @@
     "Structure"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/b74fbd0d-87b9-4f24-9e68-0d5b4ad7b1e7\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_co_dakota/struc_physicalfeatures/gpkg_struc_physicalfeatures.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_co_dakota/struc_physicalfeatures/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/b74fbd0d-87b9-4f24-9e68-0d5b4ad7b1e7\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_co_dakota/struc_physicalfeatures/gpkg_struc_physicalfeatures.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_co_dakota/struc_physicalfeatures/metadata/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_co_dakota/struc_physicalfeatures/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -32,14 +31,21 @@
     "Minnesota, United States"
   ],
   "layer_slug_s": "b74fbd0d-87b9-4f24-9e68-0d5b4ad7b1e7",
-  "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-93.329703, -92.729647, 44.923335, 44.469579)",
-  "solr_year_i": 2017,
-  "centroid_s": "44.696457,-93.029675",
+  "solr_year_i": 2018,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.696457,-93.029675",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5023752"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/9e3cd6c6575d3e6a72293a71a632c708.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_co_dakota/struc_physicalfeatures/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

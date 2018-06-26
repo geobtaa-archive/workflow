@@ -1,14 +1,13 @@
 {
-  "uuid": "fa2e2f77-407e-4b18-9ade-5c014ecf9275",
   "dc_identifier_s": "fa2e2f77-407e-4b18-9ade-5c014ecf9275",
   "dc_title_s": "Original Public Land Survey Field Notes, Digital Format: Minnesota",
   "dc_description_s": "Minnesota's original public land survey field notes were handwritten documents prepared during the first government land survey of the state by the U.S. Surveyor General's Office between 1847 and 1911. The collection of 1,417 paper volumes totals 304,370 pages and is housed at the Minnesota Historical Society (MHS).  The field notes serve as the fundamental legal records for real estate in Minnesota; all property titles and descriptions stem from them. They remain an essential resource for surveyors and provide a record of the state's physical geography prior to European settlement. They also serve as a testimony to many years of hard work by the surveying community, often under very challenging conditions.  The deteriorating physical condition of the volumes and the need to provide wider public access to the notes have made handling the original volumes increasingly impractical. To meet this challenge, the Office of the Secretary of State, the State Archives of the Minnesota Historical Society, the Minnesota Department of Transportation, the Minnesota Geospatial Information Office, the Minnesota Association of County Surveyors and the U.S. Bureau of Land Management collaborated in a digitization and indexing project which produced high quality (approximately 600 dpi), 24-bit color images of the maps in TIFF and JPEG 2000 formats - over 13 terabytes of data. Funding was provided by a Minnesota Historical and Cultural Heritage grant from the Minnesota Historical Society.",
   "dc_rights_s": "Public",
-  "dc_format_s": "Mixed Files",
+  "dc_format_s": "Files",
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Geospatial Information Center (MnGeo)"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "fa2e2f77-407e-4b18-9ade-5c014ecf9275",
   "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:16Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-97.5, -89, 49.5, 43)",
   "solr_year_i": 1847,
-  "centroid_s": "46.25,-93.25",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Mixed"
+  ],
+  "b1g_centroid_ss": "46.25,-93.25",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5051907"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/fd9fbde03ed8f2846ba81496594fa64b.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

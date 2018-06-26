@@ -1,0 +1,44 @@
+{
+  "uuid": "f337e36f-83e0-4ca7-b47e-736d98d05ca5",
+  "dc_identifier_s": "f337e36f-83e0-4ca7-b47e-736d98d05ca5",
+  "dc_title_s": "National Hydrography Dataset (NHD) - High-Resolution -: Minnesota",
+  "dc_description_s": "The National Hydrography Dataset (NHD) is the surface-water component of The National Map. The NHD is a comprehensive set of digital spatial data that represents the surface water of the United States using common features such as lakes, ponds, streams, rivers, canals, stream gages, and dams. Polygons are used to represent area features such as lakes, ponds, and rivers; lines are used to represent linear features such as streams and smaller rivers; and points are used to represent point features such as stream gages and dams. Lines also are used to show the water flow through area features such as the flow of water through a lake. The combination of lines is used to create a network of water and transported material flow to allow users of the data to trace movement in downstream and upstream directions. The Watershed Boundary Dataset (WBD) is a companion dataset to the NHD. It defines the perimeter of drainage areas formed by the terrain and other landscape characteristics. The drainage areas are nested within each other so that a large drainage area, such as the Upper Mississippi River, will be composed of multiple smaller drainage areas, such as the Minnesota River. Each of these smaller areas can further be subdivided into smaller and smaller drainage areas. The WBD uses six different levels in this hierarchy, with the smallest averaging about 30,000 acres. The WBD is made up of polygons nested into six levels of data respectively defined by Regions, Subregions, Basins, Subbasins, Watersheds, and Subwatersheds.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Minnesota Geospatial Information Center (MnGeo)"
+  ],
+  "dc_creator_sm": [
+    "U.S. Geological Survey (USGS) in cooperation with U. S. Environmental Protection Agency and other state and local partners."
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/f337e36f-83e0-4ca7-b47e-736d98d05ca5\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mngeo/water_national_hydrography_data/fgdb_water_national_hydrography_data.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_mngeo/water_national_hydrography_data/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2014-09-08T17:37:41.977833",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "f337e36f-83e0-4ca7-b47e-736d98d05ca5",
+  "layer_geom_type_s": "Mixed",
+  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "solr_geom": "ENVELOPE(-98.4, -89, 49.9, 41.7)",
+  "solr_year_i": 2015,
+  "centroid_s": "45.8,-93.7",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/95afd1f651d66bb6a00c5eec9f731b53.jpg",
+  "geoblacklight_version": "1.0"
+}

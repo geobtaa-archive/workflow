@@ -1,0 +1,48 @@
+{
+  "uuid": "ba0a67061ac04f6c98c3635d5e276333_0",
+  "dc_identifier_s": "ba0a67061ac04f6c98c3635d5e276333_0",
+  "dc_title_s": "Trails: Scott County, Minnesota",
+  "dc_description_s": "This dataset depicts the location of trails and sidewalks within Scott County. These locations were compiled from various sources including local, county, and regional data. The accuracy of the data varies by source.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Scott County, Minnesota"
+  ],
+  "dc_creator_sm": [
+    "Scott County Information Technology"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.gis.co.scott.mn.us/datasets/ba0a67061ac04f6c98c3635d5e276333_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/DqIh9WAsIZcPlBEF/arcgis/rest/services/Trails/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"https://opendata.gis.co.scott.mn.us/datasets/ba0a67061ac04f6c98c3635d5e276333_0.zip\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data",
+    "Minnesota Counties"
+  ],
+  "dct_issued_s": "2016-09-19",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Scott County, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "ba0a67061ac04f6c98c3635d5e276333_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-05-22T21:27:42Z",
+  "solr_geom": "ENVELOPE(-93.979833206, -93.211478111, 44.897714437999994, 44.456927274)",
+  "solr_year_i": 2016,
+  "centroid_s": "44.677320856,-93.5956556585",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "b1g_collection_sm": [
+    "05b"
+  ],
+  "geoblacklight_version": "1.0"
+}

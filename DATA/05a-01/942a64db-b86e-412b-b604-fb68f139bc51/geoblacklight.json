@@ -1,5 +1,4 @@
 {
-  "uuid": "942a64db-b86e-412b-b604-fb68f139bc51",
   "dc_identifier_s": "942a64db-b86e-412b-b604-fb68f139bc51",
   "dc_title_s": "Temperature Average (1961-1990): Minnesota",
   "dc_description_s": "This data set depicts 30-year averages (1961-1990) of monthly and annual temperatures for Minnesota.  Isolines and regions were created using kriging and latticecontour operations on temperature point data from a 5-state area.  Data is stored in a regions model, with separate regions for each monthly and annual 30-year average (e.g., region.apr represents the average April temperatures across Minnesota for the period 1961-1990).",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Department of Natural Resources (DNR)"
   ],
@@ -19,7 +18,7 @@
     "Climatology"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/942a64db-b86e-412b-b604-fb68f139bc51\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/atmos_1961_1990_mn_temp_average/gpkg_atmos_1961_1990_mn_temp_average.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/atmos_1961_1990_mn_temp_average/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/942a64db-b86e-412b-b604-fb68f139bc51\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/atmos_1961_1990_mn_temp_average/gpkg_atmos_1961_1990_mn_temp_average.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/atmos_1961_1990_mn_temp_average/metadata/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/atmos_1961_1990_mn_temp_average/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "942a64db-b86e-412b-b604-fb68f139bc51",
   "layer_geom_type_s": "Line",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-96.833073, -89.397037, 49.348242, 43.435393)",
   "solr_year_i": 1961,
-  "centroid_s": "46.3918175,-93.115055",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "46.3918175,-93.115055",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/28cd1c41f9331854dd60d079bdc4275f.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/atmos_1961_1990_mn_temp_average/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

@@ -1,5 +1,4 @@
 {
-  "uuid": "18372fd2-d166-4027-a9d2-2a102619d8b0",
   "dc_identifier_s": "18372fd2-d166-4027-a9d2-2a102619d8b0",
   "dc_title_s": "Historic Residential Per Capita Demand - Twin Cities Metropolitan Area: Metro Twin Cities, Minnesota",
   "dc_description_s": "This dataset contains historic residential per capita water demand for 2004, 2005, and 2006 for each municipal water supply system in the Twin Cities metropolitan area. Data was compiled by the Metropolitan Council from Minnesota Department of Natural Resources supplemental water use information submitted annually by municipal water utilities.",
@@ -8,7 +7,10 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
   "dc_publisher_sm": [
     "Metropolitan Council"
   ],
@@ -19,7 +21,7 @@
     "Inland Waters"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/18372fd2-d166-4027-a9d2-2a102619d8b0\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/water_metro_water_use_per_cap/fgdb_water_metro_water_use_per_cap.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_metc/water_metro_water_use_per_cap/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/18372fd2-d166-4027-a9d2-2a102619d8b0\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/water_metro_water_use_per_cap/fgdb_water_metro_water_use_per_cap.zip\",https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Water_Resources/MapServer/16\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_metc/water_metro_water_use_per_cap/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -31,14 +33,21 @@
     "Minnesota, United States"
   ],
   "layer_slug_s": "18372fd2-d166-4027-a9d2-2a102619d8b0",
-  "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-06-26T17:12:31Z",
   "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
-  "solr_year_i": 2017,
-  "centroid_s": "44.943,-93.372",
+  "solr_year_i": 2018,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.943,-93.372",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/37ab00c574d2cfba5c2cc31de3ad38a2.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

@@ -1,5 +1,4 @@
 {
-  "uuid": "855de1a0-f0be-4320-a6d1-c67d5b9d8c04",
   "dc_identifier_s": "855de1a0-f0be-4320-a6d1-c67d5b9d8c04",
   "dc_title_s": "Lift Stations (Limited Attributes): Metro Twin Cities, Minnesota",
   "dc_description_s": "This layer contains data related to Lift Station point features for the sewer interceptor system in the Twin Cities metropolitan area.  Owned, operated and maintained by the Metropolitan Council Environmental Services division, the interceptor system provides the link from community sewer systems to the wastewater treatment facilities in the seven county metropolitan area.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Metropolitan Council"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "855de1a0-f0be-4320-a6d1-c67d5b9d8c04",
   "layer_geom_type_s": "Point",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_modified_dt": "2018-06-26T17:12:31Z",
   "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
-  "solr_year_i": 2016,
-  "centroid_s": "44.943,-93.372",
+  "solr_year_i": 2018,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.943,-93.372",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/8e50ebba048d7b9006f63c6f6e906f4a.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

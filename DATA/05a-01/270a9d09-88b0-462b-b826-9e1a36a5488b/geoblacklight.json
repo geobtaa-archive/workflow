@@ -1,5 +1,4 @@
 {
-  "uuid": "270a9d09-88b0-462b-b826-9e1a36a5488b",
   "dc_identifier_s": "270a9d09-88b0-462b-b826-9e1a36a5488b",
   "dc_title_s": "Job Density: Metro Twin Cities, Minnesota",
   "dc_description_s": "Job Density displays the most accurately located employment density within the 7-county Twin Cities Metropolitan area of Minneapolis and St. Paul, Minnesota. Job Density is based on employer locations and counts from the Minnesota Dept. of Employment and Economic Development's (MNDEED) Quarterly Census of Employment and Wages (QCEW) which only includes jobs that are covered by the Unemployment Insurance Program (about 90-95% of all jobs). Some self-employment jobs might be excluded.  The QCEW data was converted to a smoothly tapered surface of employment values. The resulting data surface provides the best representation of job density in the Twin Cities Metropolitan Area, Minnesota.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Metropolitan Council"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "270a9d09-88b0-462b-b826-9e1a36a5488b",
   "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_modified_dt": "2018-06-26T17:12:31Z",
   "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
-  "solr_year_i": 2017,
-  "centroid_s": "44.943,-93.372",
+  "solr_year_i": 2014,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Mixed"
+  ],
+  "b1g_centroid_ss": "44.943,-93.372",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/b40b6132fc2c83473076d385c03a891c.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

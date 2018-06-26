@@ -1,14 +1,13 @@
 {
-  "uuid": "92410f6e-454e-496a-8b6a-3c717056d900",
   "dc_identifier_s": "92410f6e-454e-496a-8b6a-3c717056d900",
   "dc_title_s": "High Resolution Orthoimagery: Washington County, Minnesota, 2013",
   "dc_description_s": "This dataset consists of 0.15-meter (approximately 0.5-foot) natural color orthoimages covering Washington County. Data were collected by Aero-Metric, Inc. (now Quantum Spatial).",
   "dc_rights_s": "Public",
-  "dc_format_s": "Mixed Files",
+  "dc_format_s": "Files",
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Geospatial Information Center (MnGeo)"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "92410f6e-454e-496a-8b6a-3c717056d900",
   "layer_geom_type_s": "Raster",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-93.048219, -92.717925, 45.298589, 44.729717)",
   "solr_year_i": 2013,
-  "centroid_s": "45.014153,-92.883072",
+  "b1g_genre_sm": [
+    "Aerial imagery"
+  ],
+  "b1g_geom_type_sm": [
+    "Raster data"
+  ],
+  "b1g_centroid_ss": "45.014153,-92.883072",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5051907"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/fd9fbde03ed8f2846ba81496594fa64b.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

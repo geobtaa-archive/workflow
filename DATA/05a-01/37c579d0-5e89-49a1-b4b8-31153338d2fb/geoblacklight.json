@@ -1,5 +1,4 @@
 {
-  "uuid": "37c579d0-5e89-49a1-b4b8-31153338d2fb",
   "dc_identifier_s": "37c579d0-5e89-49a1-b4b8-31153338d2fb",
   "dc_title_s": "Walk-In Access Sites: Minnesota",
   "dc_description_s": "The Minnesota Walk-In Access site (WIA) GIS data represents areas of private land that have been made open to the public for the purpose of walk-in (foot travel) only hunting via the Walk-In Access program. These sites are open during legal hunting season from September 1st to May 31st. Currently the WIA program covers a 21 county area in SW Minnesota. The program is in it's second year as a pilot program and is seeking permanent funding to continue operating.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Department of Natural Resources (DNR)"
   ],
@@ -19,7 +18,7 @@
     "Boundaries"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/37c579d0-5e89-49a1-b4b8-31153338d2fb\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_dnr_walk_in_access_sites/fgdb_bdry_dnr_walk_in_access_sites.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/bdry_dnr_walk_in_access_sites/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/37c579d0-5e89-49a1-b4b8-31153338d2fb\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_dnr_walk_in_access_sites/fgdb_bdry_dnr_walk_in_access_sites.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/bdry_dnr_walk_in_access_sites/preview/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/bdry_dnr_walk_in_access_sites/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -31,14 +30,21 @@
     "Minnesota, United States"
   ],
   "layer_slug_s": "37c579d0-5e89-49a1-b4b8-31153338d2fb",
-  "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-96.5, -89, 49.5, 43)",
-  "solr_year_i": 2017,
-  "centroid_s": "46.25,-92.75",
+  "solr_year_i": 2018,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "46.25,-92.75",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/3b9b784470035b8e811523ca80f6936b.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/bdry_dnr_walk_in_access_sites/preview/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

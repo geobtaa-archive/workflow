@@ -1,5 +1,4 @@
 {
-  "uuid": "xs8n-z2vy",
   "dc_identifier_s": "xs8n-z2vy",
   "dc_title_s": "Public Land Survey System Tax Map Township Lines: Cook County, Illinois, 2014",
   "dc_description_s": "The Public Land Survey System Tax Map Township Lines for Cook County, Illinois is the county's system of tax maps based on the Illinois Public Land Survey System (PLSS). In the PLSS, each township is divided into 36 sections, and each section into four quarter-sections. A quarter-section is further divided into two tax map sheets, often called 'pages'. Each tax map (1/4 mile by 1/2 mile) represents the east or west half of one quarter-section, and typically there are eight tax maps per section. The dataset was originally published in 2002 and is updated as needed, most recently in 2016.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Cook County, Illinois"
   ],
@@ -34,13 +33,20 @@
   ],
   "layer_slug_s": "xs8n-z2vy",
   "layer_geom_type_s": "Line",
-  "layer_modified_dt": "2018-04-12T20:46:20Z",
+  "layer_modified_dt": "2018-06-26T21:11:12Z",
   "solr_geom": "ENVELOPE(-88.2635, -87.5237, 42.1543, 41.6443)",
   "solr_year_i": 2014,
-  "centroid_ss": "41.8993,-87.8936",
-  "b1g_geonames_sm": [
-
+  "b1g_genre_sm": [
+    "Geospatial data"
   ],
-  "thumbnail_path_ss": "",
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "41.8993,-87.8936",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/4888671"
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "12b-01",
   "geoblacklight_version": "1.0"
 }

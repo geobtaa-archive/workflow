@@ -1,5 +1,4 @@
 {
-  "uuid": "d124bb5e-630e-4ed7-96a8-f4cddae679a6",
   "dc_identifier_s": "d124bb5e-630e-4ed7-96a8-f4cddae679a6",
   "dc_title_s": "LiDAR Elevation: Pine County, Minnesota, 2006",
   "dc_description_s": "This dataset is a bare earth (vegetation removed) digital elevation model (DEM) of Pine County, Minnesota. The download file includes 1-meter and 3-meter DEMs, a 3-meter hillshade, 2-foot contours, slope and validation points. The data is FEMA-compliant.  LiDAR data for Pine County, Minnesota, was collected under contract by the Natural Resources Conservation Service. Thus, the data format is not entirely consistent with some of the other LiDAR data collected by the State of Minnesota. Specifically, the Pine County collect did not require classification of anything other than Bare Earth in the LiDAR LAS files, so there is no information on buildings, vegetation, or model key points. There are also no edge-of-water breaklines so the DEMs have not been hydro flattened.  Note: This metadata record was created at the Minnesota Geospatial Information Office by combining information from Sanborn Mapping, NRCS, and the Minnesota Department of Natural Resources.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Geospatial Information Center (MnGeo)"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "d124bb5e-630e-4ed7-96a8-f4cddae679a6",
   "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:16Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-93.144399, -92.289602, 46.419592, 45.727871)",
   "solr_year_i": 2006,
-  "centroid_s": "46.0737315,-92.7170005",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Mixed"
+  ],
+  "b1g_centroid_ss": "46.0737315,-92.7170005",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5051907"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/fd9fbde03ed8f2846ba81496594fa64b.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

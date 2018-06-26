@@ -1,14 +1,13 @@
 {
-  "uuid": "8d387dd0-cb31-4c5d-a87b-6076f6157398",
   "dc_identifier_s": "8d387dd0-cb31-4c5d-a87b-6076f6157398",
   "dc_title_s": "LiDAR Elevation: Blue Earth County, Minnesota, 2012",
   "dc_description_s": "The project vendor, AeroMetric, Inc., acquired highly accurate Light Detection and Ranging (LiDAR) elevation data for Blue Earth County in south central Minnesota in Spring 2012. The project area consists of approximately 2,260 square kilometers (862 square miles). LiDAR data are in the UTM Zone 15 coordinate system, NAD83 (HARN) NAVD88 (Geoid09), meters. The tiling scheme is 16th USGS 1:24,000 quadrangle tiles.  The vendor delivered the data to the Minnesota Department of Natural Resources (DNR) in several formats:  1) One-meter digital elevation model 2) Edge-of-water breaklines 3) Classified LAS formatted point cloud data  DNR staff created two additional products: two-foot contours and building outlines.  Note: This metadata record was created at the Minnesota Geospatial Information Office by combining information supplied by AeroMetric and DNR.",
   "dc_rights_s": "Public",
-  "dc_format_s": "Mixed Files",
+  "dc_format_s": "Files",
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Geospatial Information Center (MnGeo)"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "8d387dd0-cb31-4c5d-a87b-6076f6157398",
   "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-94.382, -93.763, 44.267, 43.845)",
   "solr_year_i": 2012,
-  "centroid_s": "44.056,-94.0725",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Mixed"
+  ],
+  "b1g_centroid_ss": "44.056,-94.0725",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5051907"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/fd9fbde03ed8f2846ba81496594fa64b.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

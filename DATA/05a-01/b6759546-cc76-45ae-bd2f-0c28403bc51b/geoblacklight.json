@@ -1,5 +1,4 @@
 {
-  "uuid": "b6759546-cc76-45ae-bd2f-0c28403bc51b",
   "dc_identifier_s": "b6759546-cc76-45ae-bd2f-0c28403bc51b",
   "dc_title_s": "Stream Assessments: Minnesota, 2010",
   "dc_description_s": "These are the streams assessed by MPCA in 2009 for the 2010 reporting cycling to EPA. The streams are a subset and enhancement of the 1:24,000 scale National Hydrography Dataset (NHD). MPCA adds additional streams. Since the assessed streams are a small subset of the NHD streams, only that subset is included in the dataset.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Pollution Control Agency"
   ],
@@ -31,14 +30,21 @@
     "Minnesota, United States"
   ],
   "layer_slug_s": "b6759546-cc76-45ae-bd2f-0c28403bc51b",
-  "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:18Z",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-06-26T17:12:31Z",
   "solr_geom": "ENVELOPE(-96.833053, -89.499271, 49.025331, 43.435437)",
   "solr_year_i": 2012,
-  "centroid_s": "46.230384,-93.166162",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "46.230384,-93.166162",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/7a4d2e24d46d6ecad13d0f3f3a5286b5.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

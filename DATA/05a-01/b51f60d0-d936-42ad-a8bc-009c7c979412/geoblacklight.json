@@ -1,5 +1,4 @@
 {
-  "uuid": "b51f60d0-d936-42ad-a8bc-009c7c979412",
   "dc_identifier_s": "b51f60d0-d936-42ad-a8bc-009c7c979412",
   "dc_title_s": "Regional Transit Authority Service Areas: Metro Twin Cities, Minnesota",
   "dc_description_s": "The Regional Transit Authority Service Areas dataset identifies the service areas of the five regional transit authorities/providers within the Minneapolis-St. Paul Metropolitan Area (includes the 7-county area as defined by the Metropolitan Council).",
@@ -8,7 +7,10 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
   "dc_publisher_sm": [
     "Metropolitan Council"
   ],
@@ -19,7 +21,7 @@
     "Boundaries"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/b51f60d0-d936-42ad-a8bc-009c7c979412\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/bdry_reg_transit_authority_areas/gpkg_bdry_reg_transit_authority_areas.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_metc/bdry_reg_transit_authority_areas/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/b51f60d0-d936-42ad-a8bc-009c7c979412\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/bdry_reg_transit_authority_areas/gpkg_bdry_reg_transit_authority_areas.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Transit/MapServer/29\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_metc/bdry_reg_transit_authority_areas/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -31,14 +33,21 @@
     "Minnesota, United States"
   ],
   "layer_slug_s": "b51f60d0-d936-42ad-a8bc-009c7c979412",
-  "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
   "solr_year_i": 2015,
-  "centroid_s": "44.943,-93.372",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.943,-93.372",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/10e40c574cc3f9902bae4427494474a1.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

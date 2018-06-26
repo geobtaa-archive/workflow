@@ -1,14 +1,13 @@
 {
-  "uuid": "a9016aac-5d6b-4f16-ac29-b24710c6ec16",
   "dc_identifier_s": "a9016aac-5d6b-4f16-ac29-b24710c6ec16",
   "dc_title_s": "Digital Orthoimagery, Northeast, Spring 2009, 0.5-m Resolution: Minnesota",
   "dc_description_s": "This dataset contains 4 Band red, green, blue, infrared (RGBI) digital orthophoto imagery of Cook, Lake, St. Louis and Carlton counties in northern Minnesota.  The orthophotos are 0.5 meter ground sample distance (GSD) and are in UTM Zone 15, NAD83 (meters). The tiling format of the imagery is based on a 3.75' x 3.75' quarter quadrangle with a 150 meter buffer on all four sides. This dataset includes 969 digital orthophoto quarter quadrangles (DOQQs) in GeoTiff format with an associated world file, and this metadata file. The data is available online as a web mapping service (WMS).  All imagery was collected by Keystone Aerial Surveys Inc with a Vexcel UltraCamX camera from an altitude of approximately 24,000 feet. All imagery was processed by Keystone using the camera manufacturer's software, Inpho's photogrammetry suite and Keystone-created software.  Funding for this data was provided by the Minnesota Natural Heritage Fund, the Minnesota Clean Water Legacy Act, The Environmental and Natural Resources Trust Fund, St. Louis County, the Coastal Zone Management Program, and the National Geospatial Intelligence Agency.",
   "dc_rights_s": "Public",
-  "dc_format_s": "Mixed Files",
+  "dc_format_s": "Files",
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Geospatial Information Center (MnGeo)"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "a9016aac-5d6b-4f16-ac29-b24710c6ec16",
   "layer_geom_type_s": "Raster",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-93.102598, -89.457962, 48.707178, 46.600572)",
   "solr_year_i": 2009,
-  "centroid_s": "47.653875,-91.28028",
+  "b1g_genre_sm": [
+    "Aerial imagery"
+  ],
+  "b1g_geom_type_sm": [
+    "Raster data"
+  ],
+  "b1g_centroid_ss": "47.653875,-91.28028",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5051907"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/fd9fbde03ed8f2846ba81496594fa64b.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

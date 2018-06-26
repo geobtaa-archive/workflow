@@ -1,5 +1,4 @@
 {
-  "uuid": "37979b00-b10a-46ff-af01-4d202e897e22",
   "dc_identifier_s": "37979b00-b10a-46ff-af01-4d202e897e22",
   "dc_title_s": "Drinking Water Supply Management Area for Surface Water (DWSMA-SW): Minnesota",
   "dc_description_s": "Drinking water supply management area for a surface water intake (DWSMA-SW) is the Minnesota Department of Health (MDH) endorsed surface and subsurface area surrounding a public water supply intake that contains the scientifically calculated surface water protection area and is managed by the entity identified in a surface water protection plan. The boundaries of a DWSMA-SW are delineated by identifiable physical features, landmarks or political and administrative boundaries.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Department of Health"
   ],
@@ -33,14 +32,21 @@
     "Minnesota, United States"
   ],
   "layer_slug_s": "37979b00-b10a-46ff-af01-4d202e897e22",
-  "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-06-26T17:12:31Z",
   "solr_geom": "ENVELOPE(-95.322875, -92.867608, 46.240745, 44.634733)",
   "solr_year_i": 1969,
-  "centroid_s": "45.437739,-94.0952415",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "45.437739,-94.0952415",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/e59678252cc90b36f11ff2819f239460.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

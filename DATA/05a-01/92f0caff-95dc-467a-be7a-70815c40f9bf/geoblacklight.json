@@ -1,5 +1,4 @@
 {
-  "uuid": "92f0caff-95dc-467a-be7a-70815c40f9bf",
   "dc_identifier_s": "92f0caff-95dc-467a-be7a-70815c40f9bf",
   "dc_title_s": "Potential Water Supply Issues By Watershed: Metro Twin Cities, Minnesota",
   "dc_description_s": "The Potential Water Supply Issues dataset encompasses the seven county Twin Cities (Minneapolis and St. Paul) Metropolitan Area in Minnesota.  The dataset was developed by the Metropolitan Council, a regional governmental organization that deals, in part, with regional issues and long range planning for the Twin Cities area.  The data were interpreted from several existing state agencies datasets.  This dataset is composed of one feature class and three standalone tables.  - PotentialWaterSupplyIssues = Detailed potential water supply issue polygons - PotentialWaterSupplyIssuesByCTU = Standalone table with summary of potential water supply issues by CTU - PotentialWaterSupplyIssuesByCounty = Standalone table with summary of potential water supply issues by county - PotentialWaterSupplyIssuesByWatershed = Standalone table with summary of potential water supply issues by Watershed Management District or Organization  See \"Attributes\" section of the metadata for a detailed description of each of these water supply issue categories.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Metropolitan Council"
   ],
@@ -31,14 +30,21 @@
     "Minnesota, United States"
   ],
   "layer_slug_s": "92f0caff-95dc-467a-be7a-70815c40f9bf",
-  "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
   "solr_year_i": 2015,
-  "centroid_s": "44.943,-93.372",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.943,-93.372",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/1b2032c1cf51b903a8a0bf884b84b6eb.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

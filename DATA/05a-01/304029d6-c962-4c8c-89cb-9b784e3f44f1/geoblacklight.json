@@ -1,5 +1,4 @@
 {
-  "uuid": "304029d6-c962-4c8c-89cb-9b784e3f44f1",
   "dc_identifier_s": "304029d6-c962-4c8c-89cb-9b784e3f44f1",
   "dc_title_s": "SWCD Supervisor Districts: Dakota County, Minnesota",
   "dc_description_s": "This layer represents supervisor district boundaries for the Dakota County Soil and Water Conservation District. Each district is formed according to city and township municipal boundaries in Dakota County. District 1: Burnsville, Eagan, Inver Grove Heights, Mendota, Mendota Heights, Lilydale, South St. Paul, Sunfish Lake, West St. Paul. District 2: Apple Valley, Coates, Empire Township, Farmington, Lakeville, and Rosemount. District 3: Hastings, Marshan Township, Nininger Township, Ravenna Township, Vermillion, and Vermillion Township. District 4: Castle Rock Township, Eureka Township, Greenvale Township, Sciota Township, Northfield, and Waterford Township. District 5: Douglas Township, Hampton, Hampton Township, Miesville, New Trier, Randolph, and Randolph Township.",
@@ -8,9 +7,9 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
-    "Dakota County"
+    "Dakota County, Minnesota"
   ],
   "dc_creator_sm": [
     "David Holmen, Dakota County Soil and Water Conservation District, Resource Conservationist"
@@ -19,7 +18,7 @@
     "Boundaries"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/304029d6-c962-4c8c-89cb-9b784e3f44f1\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_co_dakota/bdry_swcdsupervisordistricts/fgdb_bdry_swcdsupervisordistricts.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_co_dakota/bdry_swcdsupervisordistricts/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/304029d6-c962-4c8c-89cb-9b784e3f44f1\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_co_dakota/bdry_swcdsupervisordistricts/fgdb_bdry_swcdsupervisordistricts.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_co_dakota/bdry_swcdsupervisordistricts/metadata/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_co_dakota/bdry_swcdsupervisordistricts/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -32,14 +31,21 @@
     "Minnesota, United States"
   ],
   "layer_slug_s": "304029d6-c962-4c8c-89cb-9b784e3f44f1",
-  "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-93.329706, -92.729113, 44.923499, 44.469877)",
   "solr_year_i": 2014,
-  "centroid_s": "44.696688,-93.0294095",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.696688,-93.0294095",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5023752"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/fd218e63e0fe7a0691846070c531fd3c.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_co_dakota/bdry_swcdsupervisordistricts/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

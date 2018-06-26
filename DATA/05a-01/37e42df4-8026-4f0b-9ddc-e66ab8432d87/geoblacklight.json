@@ -1,5 +1,4 @@
 {
-  "uuid": "37e42df4-8026-4f0b-9ddc-e66ab8432d87",
   "dc_identifier_s": "37e42df4-8026-4f0b-9ddc-e66ab8432d87",
   "dc_title_s": "MCBS Railroad Rights-of-Way Prairies: Minnesota",
   "dc_description_s": "The 1997 legislature directed the Minnesota DNR to survey active railroad rights-of-way for native prairie remnants.  This data layer represents the locations of these remnants, their quality, and type.  The survey attempted to examine all railroad rights-of-way in the Prairie Parkland and Eastern Broadleaf Forest ECS Provinces, less Ramsey, Hennepin, Wright, Carver, Scott, and Houston counties, and conformed to the methods of other efforts by the Minnesota County Biological Survey (MCBS).",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Department of Natural Resources (DNR)"
   ],
@@ -19,7 +18,7 @@
     "Biota"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/37e42df4-8026-4f0b-9ddc-e66ab8432d87\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/biota_mcbs_railroad_prairies/fgdb_biota_mcbs_railroad_prairies.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/biota_mcbs_railroad_prairies/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/37e42df4-8026-4f0b-9ddc-e66ab8432d87\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/biota_mcbs_railroad_prairies/fgdb_biota_mcbs_railroad_prairies.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/biota_mcbs_railroad_prairies/metadata/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/biota_mcbs_railroad_prairies/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "37e42df4-8026-4f0b-9ddc-e66ab8432d87",
   "layer_geom_type_s": "Line",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_modified_dt": "2018-06-26T17:12:31Z",
   "solr_geom": "ENVELOPE(-96.786727, -92.018826, 49.035564, 43.441302)",
   "solr_year_i": 2017,
-  "centroid_s": "46.238433,-94.4027765",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "46.238433,-94.4027765",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/51b08bd4c756d2954def0ae91c824976.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/biota_mcbs_railroad_prairies/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

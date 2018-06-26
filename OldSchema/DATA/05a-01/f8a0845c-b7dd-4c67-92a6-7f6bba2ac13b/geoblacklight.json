@@ -1,0 +1,45 @@
+{
+  "uuid": "f8a0845c-b7dd-4c67-92a6-7f6bba2ac13b",
+  "dc_identifier_s": "f8a0845c-b7dd-4c67-92a6-7f6bba2ac13b",
+  "dc_title_s": "Roads: Rice County, Minnesota",
+  "dc_description_s": "Enhanced 911 Roads in Rice County, Minnesota",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Rice County"
+  ],
+  "dc_creator_sm": [
+    "Rice County, Minnesota"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/f8a0845c-b7dd-4c67-92a6-7f6bba2ac13b\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_co_rice/trans_roads/fgdb_trans_roads.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_co_rice/trans_roads/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2016-11-11T11:02:30.269928",
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dct_spatial_sm": [
+    "Rice County, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "f8a0845c-b7dd-4c67-92a6-7f6bba2ac13b",
+  "layer_geom_type_s": "Mixed",
+  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "solr_geom": "ENVELOPE(-93.53, -93.03, 44.55, 44.19)",
+  "solr_year_i": 2017,
+  "centroid_s": "44.37,-93.28",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5043007"
+  ],
+  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/ad043bb1c0a667555beff6bf960a7219.jpg",
+  "geoblacklight_version": "1.0"
+}

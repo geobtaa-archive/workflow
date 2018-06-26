@@ -1,5 +1,4 @@
 {
-  "uuid": "91a0dd61-576b-4706-831d-cf016961d3ff",
   "dc_identifier_s": "91a0dd61-576b-4706-831d-cf016961d3ff",
   "dc_title_s": "MetroGIS Regional Parcel Dataset (Year End 2002): Minnesota",
   "dc_description_s": "This dataset is a compilation of parcel polygon layers from the seven Twin Cities metropolitan area counties of Anoka, Carver, Dakota, Hennepin, Ramsey, Scott and Washington.  The seven counties were assembled into a common coordinate system.  No attempt has been made to edgematch or rubbersheet between counties.  A standard set of attribute fields is included for each county.  Not all attributes are populated for all counties.  This is an annual version of the MetroGIS Regional Parcel Dataset that can be used with other annual versions to do change analysis and time series investigations.  This dataset is intended to contain all updates to each county's parcel data through the end of 2002.  It was originally published as the \"January 1, 2003\" version of the dataset.  See the Currentness Reference below and the Entity and Attribute information in Section 5 for more information about the dates for specific aspects of the dataset.  Some counties have also made available a parcel points dataset that includes the same attribute fields.  This is done to provide information in situations where multiple tax parcels are represented by a single polygon.  This is a MetroGIS Regionally Endorsed dataset.    Each of the seven Metro Area counties has entered into a multiparty agreement with the Metropolitan Council to assemble and distribute the parcel data for each county as a regional (seven county) parcel dataset.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "MetroGIS"
   ],
@@ -19,7 +18,7 @@
     "Planning and Cadastral"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/91a0dd61-576b-4706-831d-cf016961d3ff\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metrogis/plan_regonal_parcels_2002/fgdb_plan_regonal_parcels_2002.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_metrogis/plan_regonal_parcels_2002/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/91a0dd61-576b-4706-831d-cf016961d3ff\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metrogis/plan_regonal_parcels_2002/fgdb_plan_regonal_parcels_2002.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_metrogis/plan_regonal_parcels_2002/metadata/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_metrogis/plan_regonal_parcels_2002/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "91a0dd61-576b-4706-831d-cf016961d3ff",
   "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_modified_dt": "2018-06-26T17:12:31Z",
   "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
   "solr_year_i": 2002,
-  "centroid_s": "44.943,-93.372",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.943,-93.372",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/dcb171fd020f40f90eaf985d151021bc.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_metrogis/plan_regonal_parcels_2002/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

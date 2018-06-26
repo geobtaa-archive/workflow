@@ -1,5 +1,4 @@
 {
-  "uuid": "667861ee-1730-4ae7-8555-f2381e323f34",
   "dc_identifier_s": "667861ee-1730-4ae7-8555-f2381e323f34",
   "dc_title_s": "Postsecondary Educational Enrollment: Metro Twin Cities, Minnesota, 2013",
   "dc_description_s": "Number of students enrolled in an award / degree program at a postsecondary Educational Institution in Minnesota and Wisconsin in the fall of 2015. The data is from the U.S. Department of Education, Institute of Education Sciences, National Center for Education Statistics, Integrated Postsecondary Education Data System (IPEDS).   A known limitation of the data is the implementation of single campus reporting by institutions. For example, enrollment for the University of Minnesota - Twin Cities is all reported at the Minneapolis East Bank location. No enrollment is reported at the Saint Paul campus or Minneapolis West Bank location. Known institutions with significant campus reporting limitations: University of Minnesota - Twin Cities (Saint Paul campus), Hennepin Technical College (Eden Prairie campus), University of St. Marys - Winona (Minneapolis Campus). Other smaller satelite education centers that might have reasonable student volume (i.e., Metropolitan State University - Energy Park facility in Saint Paul) are also not represented.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Metropolitan Council"
   ],
@@ -31,14 +30,21 @@
     "Minnesota, United States"
   ],
   "layer_slug_s": "667861ee-1730-4ae7-8555-f2381e323f34",
-  "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
   "solr_year_i": 2015,
-  "centroid_s": "44.943,-93.372",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.943,-93.372",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/1b2032c1cf51b903a8a0bf884b84b6eb.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

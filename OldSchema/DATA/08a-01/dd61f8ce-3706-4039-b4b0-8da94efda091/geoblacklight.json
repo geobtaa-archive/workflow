@@ -1,0 +1,41 @@
+{
+  "uuid": "dd61f8ce-3706-4039-b4b0-8da94efda091",
+  "dc_identifier_s": "dd61f8ce-3706-4039-b4b0-8da94efda091",
+  "dc_title_s": "Warmwater/Coolwater Fisheries - Streams: Pennsylvania",
+  "dc_description_s": "Flowing waters within Pennsylvania that contain known warmwater/coolwater species fishing opportunities. The data set was created by Pennsylvania Fish and Boat Commission Fishery Biologists who identified popular sport fishing locations based upon fish population assessments and their knowledge of aquatic resources within the watersheds under their management responsibility.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Files",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Pennsylvania Fish and Boat Commission"
+  ],
+  "dc_creator_sm": "Pennsylvania Fish and Boat Commission",
+  "dc_subject_sm": [
+    "Recreation",
+    "Inland Waters"
+  ],
+  "dct_provenance_s": "Penn State",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=1068\",\"http://schema.org/downloadUrl\":\"http://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=1068\",\"http://www.opengis.net/cat/csw/csdgm\":\"http://www.pasda.psu.edu/metadata/harvest/WWCW_Fisheries_Streams201610.xml\"}",
+  "dct_isPartOf_sm": "Pennsylvania Spatial Data Access (PASDA)",
+  "dct_issued_s": [
+
+  ],
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "Pennsylvania, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/6254927"
+  ],
+  "layer_slug_s": "dd61f8ce-3706-4039-b4b0-8da94efda091",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-28T19:18:33Z",
+  "centroid_s": "40.912165,-77.60584",
+  "solr_geom": "ENVELOPE(-74.68945, -80.52223, 42.10342, 39.72091)",
+  "solr_year_i": 2016
+}

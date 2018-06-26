@@ -1,0 +1,44 @@
+{
+  "uuid": "45df719c-c9bb-4933-bcc4-068ccf000c7b",
+  "dc_identifier_s": "45df719c-c9bb-4933-bcc4-068ccf000c7b",
+  "dc_title_s": "LEHD Low-Wage Worker Household Density: Metro Twin Cities, Minnesota",
+  "dc_description_s": "The U.S. Census's 2010 LEHD Origin-Destination Employment Statistcs (LODES) Dataset was used to map job and worker density in throughout the Twin Cities Metropolitan Area, Minnesota. The LODES data is part of the U.S. Census's Longitudinal Employer-Household Dynamics program which records the number of jobs by workplace location and the number of workers by household location at the census block level. LEHD data is derived from data provided by the Minnesota Department of Employment and Economic Development's (MNDEED) Quarterly Census of Employment and Wages (QCEW) and the U.S. Social Security Administration.   The U.S. Cenus Bureau protects the confidentiality of the original data by using a system of multiplicative noise infusion, whereby all released data are \"fuzzed.\" Although the positional accuracy of the data is not as good as the original MNDEED QCEW data, a more robust dataset is produced that allows allows users to not only map a general representation of job density (see LEHD Job Density), but also map jobs by income level (see LEHD Low-Wage Job Density) and workers' residence (LEHD Worker Household Density or LEHD Low-Wage Worker Household Density).   Jobs and workers are classifies in three earning categories at the U.S. Census 2010 Block level: earnings of $1,250 per month or less, earnings $1,251 per month to $3,333 per month, and earnings greater than $3,333 per month. Earnings of $3,333 per month or less ($40,000 or less, annually) are consider low-wage jobs and workers.   The census block level data was converted to a smoothly tapered surface of calculated census block value. The resulting data surface provides a general representation of overall density of low-wage worker households in the Twin Cities Metropolitan Area, Minnesota.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Geodatabase",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Metropolitan Council"
+  ],
+  "dc_creator_sm": [
+    "Metropolitan Council"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/45df719c-c9bb-4933-bcc4-068ccf000c7b\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/society_househld_worker_density/fgdb_society_househld_worker_density.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_metc/society_househld_worker_density/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2017-05-27T10:02:01.121175",
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "45df719c-c9bb-4933-bcc4-068ccf000c7b",
+  "layer_geom_type_s": "Mixed",
+  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
+  "solr_year_i": 2017,
+  "centroid_s": "44.943,-93.372",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/5dd3621885e18d44a494418aa90c5946.jpg",
+  "geoblacklight_version": "1.0"
+}

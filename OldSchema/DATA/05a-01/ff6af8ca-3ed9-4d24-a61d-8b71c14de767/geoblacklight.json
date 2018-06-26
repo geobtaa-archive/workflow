@@ -1,0 +1,44 @@
+{
+  "uuid": "ff6af8ca-3ed9-4d24-a61d-8b71c14de767",
+  "dc_identifier_s": "ff6af8ca-3ed9-4d24-a61d-8b71c14de767",
+  "dc_title_s": "Charter School Locations, SY2006/07 - 2008/09: Minnesota",
+  "dc_description_s": "This file is a geodatabase that includes nonpublic school program locations, one file for each school year 2006/07 through 2008/09. Each file in this group was developed from annual information and is now provided as historical informationThese charter school program locations cover public school programs with an MDE Unit Classification of 7. There may be Charter schools not covered in this database. This metadata is provided as a summary. The download also includes a metadata record for each year included.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Minnesota Department of Education"
+  ],
+  "dc_creator_sm": [
+    "Minnesota Department of Education"
+  ],
+  "dc_subject_sm": [
+    "Structure"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/ff6af8ca-3ed9-4d24-a61d-8b71c14de767\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mde/struc_charterschool_2000s/shp_struc_charterschool_2000s.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_mde/struc_charterschool_2000s/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2017-03-02T11:01:55.918605",
+  "dct_temporal_sm": [
+    "2006/07 - 2008/09"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "ff6af8ca-3ed9-4d24-a61d-8b71c14de767",
+  "layer_geom_type_s": "Mixed",
+  "layer_modified_dt": "2018-04-30T14:29:18Z",
+  "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)",
+  "solr_year_i": 2006,
+  "centroid_s": "46.435,-93.38",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/24c41e9fe72b535f35b6d440eb494a66.jpg",
+  "geoblacklight_version": "1.0"
+}

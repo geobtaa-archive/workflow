@@ -1,5 +1,4 @@
 {
-  "uuid": "4hq3-77tn",
   "dc_identifier_s": "4hq3-77tn",
   "dc_title_s": "Public School Safe Passage Routes: Chicago, Illinois, SY 2017 - 2018",
   "dc_description_s": "Chicago Public Schools, in partnership with parents, the Chicago Police Department (CPD) and City of Chicago, has expanded the District's successful Safe Passage Program to provide safe routes to and from school every day for your child. This map presents the Safe Passage Routes specifically designed for designated schools during the 2017-2018 school year.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "City of Chicago, Illinois"
   ],
@@ -33,14 +32,21 @@
   ],
   "layer_slug_s": "4hq3-77tn",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-04-12T19:29:14Z",
+  "layer_modified_dt": "2018-06-26T21:11:34Z",
   "solr_geom": "ENVELOPE(-87.9403, -87.5237, 42.0231, 41.6443)",
   "solr_year_i": 2017,
-  "centroid_ss": "41.8337,-87.7320",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "41.8337,-87.732",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/4887398",
     "http://sws.geonames.org/4896861"
   ],
-  "thumbnail_path_ss": "",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "12c-01",
   "geoblacklight_version": "1.0"
 }

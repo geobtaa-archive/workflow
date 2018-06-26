@@ -1,5 +1,4 @@
 {
-  "uuid": "0b12de11-f4b8-4ee4-95f3-942884bf36c2",
   "dc_identifier_s": "0b12de11-f4b8-4ee4-95f3-942884bf36c2",
   "dc_title_s": "Brownfields: Dakota County, Minnesota",
   "dc_description_s": "Contains layers related to brownfields.  A brownfield is property where expansion, redevelopment or reuse may be complicated by the presence or potential presence of a hazardous substance, pollutant or contaminant.",
@@ -8,12 +7,12 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
-    "Dakota County"
+    "Dakota County, Minnesota"
   ],
   "dc_creator_sm": [
-    "Dakota County"
+
   ],
   "dc_subject_sm": [
     "Environment"
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "0b12de11-f4b8-4ee4-95f3-942884bf36c2",
   "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:16Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-93.329853, -92.729236, 44.923499, 44.468748)",
   "solr_year_i": 2018,
-  "centroid_s": "44.6961235,-93.0295445",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Mixed"
+  ],
+  "b1g_centroid_ss": "44.6961235,-93.0295445",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5051907"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/beb996622a6fb92f66eef92fa1635680.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

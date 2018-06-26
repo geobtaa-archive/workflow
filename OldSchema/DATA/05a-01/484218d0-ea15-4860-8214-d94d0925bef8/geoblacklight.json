@@ -1,0 +1,44 @@
+{
+  "uuid": "484218d0-ea15-4860-8214-d94d0925bef8",
+  "dc_identifier_s": "484218d0-ea15-4860-8214-d94d0925bef8",
+  "dc_title_s": "Stream Routes with Strahler Stream Order: Minnesota",
+  "dc_description_s": "Stream segments with Strahler stream order values assigned.  For more information about <b>Strahler stream order</b>, see: http://en.wikipedia.org/wiki/Strahler_Stream_Order   Stream order was assigned using an automated process. Data has <b>not  been verified</b> and is subject to change.  Be sure to check the values before using the layer.  Stream order values are maintained as tabular data and displayed as linear events on the <a href=\"../../water_measured_kittle_routes/metadata/metadata.html\" target=_blank><b>Stream Routes with Kittle Numbers and Mile Measures</b></a> layer.  In the attribute table, designated segments extend from the FROM_MEAS (mile) to the TO_MEAS (mile) and have a total length = [LENGTH_MI] on a route with total length = [ROUTE_MI].",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Minnesota Department of Natural Resources (DNR)"
+  ],
+  "dc_creator_sm": [
+    "Minnesota Department of Natural Resources (DNR) - Division of Fisheries"
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/484218d0-ea15-4860-8214-d94d0925bef8\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/water_strahler_stream_order/gpkg_water_strahler_stream_order.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/water_strahler_stream_order/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2015-04-09T08:01:59.865464",
+  "dct_temporal_sm": [
+    "2013"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "484218d0-ea15-4860-8214-d94d0925bef8",
+  "layer_geom_type_s": "Line",
+  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "solr_geom": "ENVELOPE(-97.252252, -89.406737, 49.34025, 43.098198)",
+  "solr_year_i": 2013,
+  "centroid_s": "46.219224,-93.3294945",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/3426843a5473fe38f9a0661193ab6e26.jpg",
+  "geoblacklight_version": "1.0"
+}

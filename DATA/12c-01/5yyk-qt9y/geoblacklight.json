@@ -1,5 +1,4 @@
 {
-  "uuid": "5yyk-qt9y",
   "dc_identifier_s": "5yyk-qt9y",
   "dc_title_s": "Chicago Park District Facilities: Chicago, Illinois",
   "dc_description_s": "Facilities managed & maintained by the Chicago Park District as of November 4, 2016.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "City of Chicago, Illinois"
   ],
@@ -35,14 +34,21 @@
   ],
   "layer_slug_s": "5yyk-qt9y",
   "layer_geom_type_s": "Point",
-  "layer_modified_dt": "2018-04-12T19:29:14Z",
+  "layer_modified_dt": "2018-06-26T21:11:34Z",
   "solr_geom": "ENVELOPE(-87.9402669, -87.523661, 42.023172, 41.6443349)",
   "solr_year_i": 2015,
-  "centroid_ss": "41.835239,-87.6818295",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "41.83375345,-87.73196395",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/4887398",
     "http://sws.geonames.org/4896861"
   ],
-  "thumbnail_path_ss": "",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "12c-01",
   "geoblacklight_version": "1.0"
 }

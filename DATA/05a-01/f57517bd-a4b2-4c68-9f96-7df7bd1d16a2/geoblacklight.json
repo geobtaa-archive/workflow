@@ -1,5 +1,4 @@
 {
-  "uuid": "f57517bd-a4b2-4c68-9f96-7df7bd1d16a2",
   "dc_identifier_s": "f57517bd-a4b2-4c68-9f96-7df7bd1d16a2",
   "dc_title_s": "Heavy Commercial Annual Average Daily Traffic Count Locations: Minnesota, 1994-2012",
   "dc_description_s": "HCAADT is the theoretical estimate of the total number of heavy commercial vehicles using a specific segment of roadway (in both directions) on any given day of the year.  This estimate represents the total number of heavy commercial vehicles per year divided by 365 and is developed using factors to adjust for season on sampled road systems in a particular given year. This information is displayed using the approximate collection site for each unique estimation.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Department of Transportation"
   ],
@@ -19,7 +18,7 @@
     "Transportation"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/f57517bd-a4b2-4c68-9f96-7df7bd1d16a2\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dot/trans_hcaadt_traffic_count_locs/shp_trans_hcaadt_traffic_count_locs.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dot/trans_hcaadt_traffic_count_locs/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/f57517bd-a4b2-4c68-9f96-7df7bd1d16a2\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dot/trans_hcaadt_traffic_count_locs/shp_trans_hcaadt_traffic_count_locs.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dot/trans_hcaadt_traffic_count_locs/metadata/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dot/trans_hcaadt_traffic_count_locs/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -31,14 +30,21 @@
     "Minnesota, United States"
   ],
   "layer_slug_s": "f57517bd-a4b2-4c68-9f96-7df7bd1d16a2",
-  "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-06-26T17:12:31Z",
   "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)",
   "solr_year_i": 1994,
-  "centroid_s": "46.435,-93.38",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "46.435,-93.38",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/b3372bcf214c5a9b80b2b3dfbce903e5.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dot/trans_hcaadt_traffic_count_locs/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

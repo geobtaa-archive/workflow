@@ -1,5 +1,4 @@
 {
-  "uuid": "68c04bf2-befd-4fb0-b656-821477d3806f",
   "dc_identifier_s": "68c04bf2-befd-4fb0-b656-821477d3806f",
   "dc_title_s": "Designated Wildlife Lakes: Minnesota",
   "dc_description_s": "This resource contains two feature classes: a polygon feature class of Designated Wildlife Lakes in Minnesota, and a point feature class with the polygons converted to points. Lakes were selected out from the DNR 100k Lakes and Rivers shapefile.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Department of Natural Resources (DNR)"
   ],
@@ -19,7 +18,7 @@
     "Environment"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/68c04bf2-befd-4fb0-b656-821477d3806f\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_designated_wildlife_lakes/shp_env_designated_wildlife_lakes.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/env_designated_wildlife_lakes/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/68c04bf2-befd-4fb0-b656-821477d3806f\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_designated_wildlife_lakes/shp_env_designated_wildlife_lakes.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/env_designated_wildlife_lakes/metadata/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/env_designated_wildlife_lakes/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "68c04bf2-befd-4fb0-b656-821477d3806f",
   "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2018-04-30T14:29:18Z",
+  "layer_modified_dt": "2018-06-26T17:12:31Z",
   "solr_geom": "ENVELOPE(-96.044138, -92.43904, 47.712244, 43.507349)",
   "solr_year_i": 2016,
-  "centroid_s": "45.6097965,-94.241589",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "45.6097965,-94.241589",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/211948c6472329d6cd3fa3563b6f0eb6.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/env_designated_wildlife_lakes/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

@@ -1,0 +1,42 @@
+{
+  "uuid": "0afb2382-1e51-4bb6-8b84-5808e68b17d9",
+  "dc_identifier_s": "0afb2382-1e51-4bb6-8b84-5808e68b17d9",
+  "dc_title_s": "DOH Trauma Hospitals 30Min Drive Time Polygons: Pennsylvania",
+  "dc_description_s": "These polygons represent 30-minute drive-time polygons to Pennsylvania's trauma hospitals (accredited by the PA Trauma Systems Foundation).",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Files",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Pennsylvania Department of Health"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Health"
+  ],
+  "dct_provenance_s": "Penn State",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=917\",\"http://schema.org/downloadUrl\":\"http://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=917\",\"http://www.opengis.net/cat/csw/csdgm\":\"http://www.pasda.psu.edu/metadata/harvest/DOH_Trauma_Hospitals_30_Min_Drive_Time_Polygons.xml\"}",
+  "dct_isPartOf_sm": "Pennsylvania Spatial Data Access (PASDA)",
+  "dct_issued_s": [
+
+  ],
+  "dct_temporal_sm": [
+    "2012"
+  ],
+  "dct_spatial_sm": [
+    "Pennsylvania, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/6254927"
+  ],
+  "layer_slug_s": "0afb2382-1e51-4bb6-8b84-5808e68b17d9",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-28T19:22:13Z",
+  "centroid_s": "40.952506,-77.480175",
+  "solr_geom": "ENVELOPE(-74.664895, -80.295455, 42.210218, 39.694794)",
+  "solr_year_i": 2012
+}

@@ -1,5 +1,4 @@
 {
-  "uuid": "1437ab3a-cf78-4de2-94cf-52e976c34fff",
   "dc_identifier_s": "1437ab3a-cf78-4de2-94cf-52e976c34fff",
   "dc_title_s": "Water-Table Elevation and Depth to Water Table Hydrogeology Atlas series HG-03: Minnesota",
   "dc_description_s": "This dataset estimates the water-table elevation from three primary sources: depth to water table in saturated soils from Natural Resources Conservation Service data (which are converted to elevation), elevation of surface water bodies, and the static water elevation in water table wells with verified locations. With the use of a 30-meter DEM derived using LiDAR data, depth to water table is derived from the water-table elevation.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Department of Natural Resources (DNR)"
   ],
@@ -31,14 +30,21 @@
     "Minnesota, United States"
   ],
   "layer_slug_s": "1437ab3a-cf78-4de2-94cf-52e976c34fff",
-  "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)",
-  "solr_year_i": 2016,
-  "centroid_s": "46.435,-93.38",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "46.435,-93.38",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/2d1a1f7f608f781396e4add93d4d8ee7.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

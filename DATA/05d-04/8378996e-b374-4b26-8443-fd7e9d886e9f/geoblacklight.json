@@ -1,0 +1,54 @@
+{
+  "dc_identifier_s": "8378996e-b374-4b26-8443-fd7e9d886e9f",
+  "dc_title_s": "C-16 Geologic atlas of Crow Wing County, Minnesota [Part A]",
+  "dc_description_s": "6 pls. Scales 1:100,000 and 1:200,000. Pl. 1, data-base map; pl. 2, bedrock geology; pl. 3, surficial geology; pl. 4, Quaternary stratigraphy; pl. 5, bedrock topography, depth to bedrock, and Quaternary subsurface geology; pl. 6, mineral endowment. Part B Published separately by the Minnesota Department of Natural Resources, Division of Waters. Supplementary files include ArcGis coverages, shapefiles and/or ESRI grids used to construct the plates, and metadata.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Files",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": "Dataset",
+  "dc_publisher_sm": [
+    "Minnesota Geological Survey"
+  ],
+  "dc_creator_sm": [
+    "Setterholm, D.R"
+  ],
+  "dc_subject_sm": [
+    "Geoscientific Information"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://hdl.handle.net/11299/58716\",\"http://schema.org/downloadUrl\":\"https://hdl.handle.net/11299/58716\",\"http://schema.org/image\":\"https://conservancy.umn.edu/bitstream/handle/11299/58716/plate6%5b3%5d.pdf.jpg\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geological Survey County Atlas Series",
+    "Minnesota Geological Survey"
+  ],
+  "dct_issued_s": "2010-03-03",
+  "dct_temporal_sm": [
+    "2004"
+  ],
+  "dct_spatial_sm": [
+    "Crow Wing County, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "8378996e-b374-4b26-8443-fd7e9d886e9f",
+  "layer_geom_type_s": "Mixed",
+  "layer_modified_dt": "2018-06-26T17:17:08Z",
+  "solr_geom": "ENVELOPE(-94.394402, -93.775993, 46.805992, 46.155106)",
+  "solr_year_i": 2004,
+  "b1g_genre_sm": [
+    "Geospatial data",
+    "Maps"
+  ],
+  "b1g_geom_type_sm": [
+    "Mixed"
+  ],
+  "b1g_centroid_ss": "46.480549,-94.0851975",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5023545",
+    "http://sws.geonames.org/5037779"
+  ],
+  "b1g_image_ss": "https://conservancy.umn.edu/bitstream/handle/11299/58716/plate6%5b3%5d.pdf.jpg",
+  "b1g_collection_sm": "05d-04",
+  "geoblacklight_version": "1.0"
+}

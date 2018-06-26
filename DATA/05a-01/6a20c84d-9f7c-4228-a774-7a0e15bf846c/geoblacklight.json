@@ -1,5 +1,4 @@
 {
-  "uuid": "6a20c84d-9f7c-4228-a774-7a0e15bf846c",
   "dc_identifier_s": "6a20c84d-9f7c-4228-a774-7a0e15bf846c",
   "dc_title_s": "Transportation Data, Ramsey County: Minnesota",
   "dc_description_s": "This file geodatabase contains datasets that are associated with transportation.  The following links can be used to obtain individual metadata pages:  Transportation:    <a href=\"struc_transportation.html\">struc_transportation.html</a> Simple Streets:    <a href=\"trans_streetsimple.html\">trans_streetsimple.html</a> Streets:    <a href=\"trans_street.html\">trans_street.html</a> Railroad:    <a href=\"trans_railroad.html\">trans_railroad.html</a> Pedestrian Bike System:    <a href=\"trans_pedbikesystem.html\">trans_pedbikesystem.html</a>",
@@ -8,12 +7,12 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Ramsey County"
   ],
   "dc_creator_sm": [
-    "Ramsey County"
+
   ],
   "dc_subject_sm": [
     "Transportation"
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "6a20c84d-9f7c-4228-a774-7a0e15bf846c",
   "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:16Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-93.228202, -92.982974, 45.124277, 44.890922)",
   "solr_year_i": 2016,
-  "centroid_s": "45.0075995,-93.105588",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Mixed"
+  ],
+  "b1g_centroid_ss": "45.0075995,-93.105588",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5051907"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/fd9fbde03ed8f2846ba81496594fa64b.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

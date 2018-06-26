@@ -1,5 +1,4 @@
 {
-  "uuid": "06f639e7-2dc9-4fc7-881e-c2994f3982ed",
   "dc_identifier_s": "06f639e7-2dc9-4fc7-881e-c2994f3982ed",
   "dc_title_s": "Regional Bicycle Transportation Network (Alignments and Corridors): Metro Twin Cities, Minnesota",
   "dc_description_s": "The Regional Bicycle Transportation Network (RBTN) dataset was created by the Metropolitan Council for the 2040 Transportation Policy Plan (TPP).  The RBTN is represented by two map layers including alignments and corridors.  Alignments represent existing or proposed bicycle paths and bike corridors represent areas where bicycle path alignments are yet to be determined.  Both corridor and alignment layers can be classified into tiers. Tier 1 Alignments/Corridors have higher priorities than Tier 2 Alignments/Corridors.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Metropolitan Council"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "06f639e7-2dc9-4fc7-881e-c2994f3982ed",
   "layer_geom_type_s": "Line",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
-  "solr_year_i": 2015,
-  "centroid_s": "44.943,-93.372",
+  "solr_year_i": 2018,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.943,-93.372",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/e6342558ea2c826c1a1ac32867049fc0.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

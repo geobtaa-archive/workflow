@@ -1,5 +1,4 @@
 {
-  "uuid": "60c07f09-7655-4e42-8c94-3024152ffc82",
   "dc_identifier_s": "60c07f09-7655-4e42-8c94-3024152ffc82",
   "dc_title_s": "Functional Class Roads Regional Solicitation 2016: Metro Twin Cities, Minnesota",
   "dc_description_s": "Regional Solicitation Functional Class: The regional solicitation functional class roads are a specific version of the functional class roads to be used in the 2018 solicitation process. This file will not undergo the periodic update process standard to the functional class roads. It will remain as is for the entire solicitation process. Meeting minutes for the TAC Planning Committee are the official record of change requests. If errors are found in this data, they will be corrected against the minutes.  The functional class roads layer contains major roads and highways in the Twin Cities seven county metropolitan area. The line work for the dataset was derived from NCompass Technologies Street Centerline and Address Ranges, formerly The Lawrence Group Street Centerlines (tlg_roads).   The specific classifications assigned to the roadways resulted from efforts of the Land Transportation Committee, Transportation Technical Advisory Committee and the Transportation Advisory Board as specified in the transportation planning process, using federal rules and guidelines. The final product was approved with Metropolitan Council concurrence.   The 'A' minor arterial network was adopted by the Transportation Advisory Board in 1993.  Attributes include functional classification code and road name.  Please note that changes to the status of the planned functional class roads MAY impact the classification of this layer.  Please confer with Metropolitan Council staff if you have questions.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Metropolitan Council"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "60c07f09-7655-4e42-8c94-3024152ffc82",
   "layer_geom_type_s": "Line",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_modified_dt": "2018-06-26T17:12:31Z",
   "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
-  "solr_year_i": 2016,
-  "centroid_s": "44.943,-93.372",
+  "solr_year_i": 2018,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.943,-93.372",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/b08e4840979e65447e01d1fff4737f9c.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

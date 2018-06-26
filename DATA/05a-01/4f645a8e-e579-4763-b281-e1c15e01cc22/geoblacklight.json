@@ -1,5 +1,4 @@
 {
-  "uuid": "4f645a8e-e579-4763-b281-e1c15e01cc22",
   "dc_identifier_s": "4f645a8e-e579-4763-b281-e1c15e01cc22",
   "dc_title_s": "Department of Natural Resources Hydrography - Department of Natural Resources Sentinel Lakes (SLICE program): Minnesota",
   "dc_description_s": "This layer represents <b>24 Sentinel Lakes</b> that are being used for long-term monitoring under the<b> Sustaining Lakes in a Changing Environment (SLICE)</b> Program.  Beginning in 2013 (Phase 2), lakes are classified into two tiers representing two levels of monitoring intensity:  Tier 1 (intensive) and Tier 2 (reduced).  Lake polygons are linked to Fact Sheets (all lakes) and Status Reports (some lakes).  In ArcMap, select a lake using the Identify tool to display hotlinks to these PDFs.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Department of Natural Resources (DNR)"
   ],
@@ -19,7 +18,7 @@
     "Environment"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/4f645a8e-e579-4763-b281-e1c15e01cc22\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_sentinel_lakes_slice_program/shp_env_sentinel_lakes_slice_program.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/env_sentinel_lakes_slice_program/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/4f645a8e-e579-4763-b281-e1c15e01cc22\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_sentinel_lakes_slice_program/shp_env_sentinel_lakes_slice_program.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/env_sentinel_lakes_slice_program/metadata/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/env_sentinel_lakes_slice_program/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "4f645a8e-e579-4763-b281-e1c15e01cc22",
   "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2018-04-30T14:29:18Z",
+  "layer_modified_dt": "2018-06-26T17:12:31Z",
   "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)",
   "solr_year_i": 2012,
-  "centroid_s": "46.435,-93.38",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "46.435,-93.38",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/12ee7f19a2b98cff8caeca86ff305754.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/env_sentinel_lakes_slice_program/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

@@ -1,0 +1,44 @@
+{
+  "uuid": "142fc5fb-0581-4640-8c11-e485da045d64",
+  "dc_identifier_s": "142fc5fb-0581-4640-8c11-e485da045d64",
+  "dc_title_s": "Non Residential Construction: Metro Twin Cities, Minnesota",
+  "dc_description_s": "This dataset consists of summary data for commercial, industrial, and public and institutional projects, based on building permits issued during each calendar year by cities and townships within the Region.  Data is collected via an annual survey of building officials, in conjunction with collection of data on residential building permits.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Metropolitan Council"
+  ],
+  "dc_creator_sm": [
+    "Metropolitan Council"
+  ],
+  "dc_subject_sm": [
+    "Structure"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/142fc5fb-0581-4640-8c11-e485da045d64\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/struc_non_res_construction/shp_struc_non_res_construction.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_metc/struc_non_res_construction/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2015-09-02T10:01:46.181225",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "142fc5fb-0581-4640-8c11-e485da045d64",
+  "layer_geom_type_s": "Mixed",
+  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
+  "solr_year_i": 2016,
+  "centroid_s": "44.943,-93.372",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/730263669aad8c23ecb0e4782750dd78.jpg",
+  "geoblacklight_version": "1.0"
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "5ffce953-437a-443d-a076-5abf3e013d77",
+  "dc_identifier_s": "5ffce953-437a-443d-a076-5abf3e013d77",
+  "dc_title_s": "Electric Transmission Lines and Substations, 60 Kilovolt and Greater: Minnesota, 2016",
+  "dc_description_s": "The electric transmission network information consists of transmission lines, with associated substations, designed to handle 60 Kilovolts or greater.  The Minnesota Electric Transmission Mapping Project has developed two geographic information system data sets: transmission lines and substations. This metadata record describes both data sets.  In 2002, each electric utility company was mailed a request for their facility information which could be provided in either digital or paper form. The responses varied significantly in quality and quantity. In addition, the companies expressed concerns about providing the information because of security concerns. Data users are strongly encouraged to read the data quality section of this documentation.   Datasets were published in 2003, 2007, 2014 and 2016. The dataset was last updated in August 2016 -- most of the recent changes were updates from filings with the Energy Facility Permitting, Minnesota Department of Commerce. A few changes were to improve the positional accuracy of lines and substations.  The Minnesota Electric Transmission Mapping Project is a collaborative effort between the Minnesota Department of Commerce and the Minnesota Geospatial Information Office.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Mixed Files",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Minnesota Geospatial Information Center (MnGeo)"
+  ],
+  "dc_creator_sm": [
+    "Minnesota Geospatial Information Office (MnGeo)"
+  ],
+  "dc_subject_sm": [
+    "Utilities and Communication"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/5ffce953-437a-443d-a076-5abf3e013d77\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mngeo/util_elec_trans/printable_map_util_elec_trans.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_mngeo/util_elec_trans/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2014-09-30T14:13:31.599314",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "5ffce953-437a-443d-a076-5abf3e013d77",
+  "layer_geom_type_s": "Line",
+  "layer_modified_dt": "2018-04-30T14:29:16Z",
+  "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)",
+  "solr_year_i": 2016,
+  "centroid_s": "46.435,-93.38",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5051907"
+  ],
+  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/60869214a96bbe38ec2ddd7b91e8fb59.jpg",
+  "geoblacklight_version": "1.0"
+}

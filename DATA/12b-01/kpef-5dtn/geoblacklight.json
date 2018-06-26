@@ -1,5 +1,4 @@
 {
-  "uuid": "kpef-5dtn",
   "dc_identifier_s": "kpef-5dtn",
   "dc_title_s": "Lakes and Rivers: Cook County, Illinois",
   "dc_description_s": "The Lakes and Rivers hydrographic polygon data layer was created to accurately depict the location and shape of flowing water features greater than five feet in width and major standing water bodies in Cook County, Illinois.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Cook County, Illinois"
   ],
@@ -33,13 +32,20 @@
   ],
   "layer_slug_s": "kpef-5dtn",
   "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2018-04-12T20:46:20Z",
+  "layer_modified_dt": "2018-06-26T21:11:12Z",
   "solr_geom": "ENVELOPE(-88.2635, -87.5237, 42.1543, 41.6443)",
   "solr_year_i": 2015,
-  "centroid_ss": "41.8993,-87.8936",
-  "b1g_geonames_sm": [
-
+  "b1g_genre_sm": [
+    "Geospatial data"
   ],
-  "thumbnail_path_ss": "",
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "41.8993,-87.8936",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/4888671"
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "12b-01",
   "geoblacklight_version": "1.0"
 }

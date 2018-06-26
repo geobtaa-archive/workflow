@@ -1,0 +1,44 @@
+{
+  "uuid": "7f0de1a3-9d83-429f-b0c4-e2a4c37af6b9",
+  "dc_identifier_s": "7f0de1a3-9d83-429f-b0c4-e2a4c37af6b9",
+  "dc_title_s": "Job and Activity Centers: Metro Twin Cities, Minnesota",
+  "dc_description_s": "The Job and Activity Centers describe contiguous areas where there are at least 1,000 jobs and the employment density is at least 10 jobs per net acre. The data also includes some regionally sigificant anufacturing and distribtuion centers that have at least 1,000 jobs but densities less than 10 jobs per acre.  One-Hundred and seven (107) centers are defined. Nearly two-thirds of all jobs in the 7-County Twin Cities Metorpolitan area of Minneapolis and St. Paul are located within the Jobs and Activity Centers. The Job and Activity Centers are classified into six Scale categories based on total employment or special recognition and five industry types (Major, Professional, Industrial, Activity, and Diversified) based on predominant industry.   The employment data is from the Minnesota Dept. of Employment and Economic Development's (DEED) 2010 Quarterly Census of Employment and Wages (QCEW). U.S. Census's, Longitudinal Employer-Household Dynamics (LEHD) Origin-Desitination Employment Statistics (LODES) data was used for centers where employment data needed to be suppressed in accordance with the data sharing agreement with Minnesota DEED. In general, Job and Activity Center boundaries follow U.S. Census block boundaries.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Metropolitan Council"
+  ],
+  "dc_creator_sm": [
+    "Metropolitan Council"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/7f0de1a3-9d83-429f-b0c4-e2a4c37af6b9\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/society_job_and_activity_centers/fgdb_society_job_and_activity_centers.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_metc/society_job_and_activity_centers/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2015-10-14T10:02:39.639407",
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "7f0de1a3-9d83-429f-b0c4-e2a4c37af6b9",
+  "layer_geom_type_s": "Mixed",
+  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
+  "solr_year_i": 2015,
+  "centroid_s": "44.943,-93.372",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/b40b6132fc2c83473076d385c03a891c.jpg",
+  "geoblacklight_version": "1.0"
+}

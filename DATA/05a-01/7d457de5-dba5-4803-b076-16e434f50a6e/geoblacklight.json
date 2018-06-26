@@ -1,14 +1,13 @@
 {
-  "uuid": "7d457de5-dba5-4803-b076-16e434f50a6e",
   "dc_identifier_s": "7d457de5-dba5-4803-b076-16e434f50a6e",
   "dc_title_s": "Cropland Data Layer: Minnesota, 2017",
   "dc_description_s": "The United States Department of Agriculture (USDA), National Agricultural Statistics Service (NASS) Cropland Data Layer (CDL) is a raster, geo-referenced, crop-specific land cover data layer.   This is the 2017 NASS USDA CDL dataset for Minnesota. The dataset was clipped and downloaded using the USDA NASS CropScape online web application: http://nassgeodata.gmu.edu/CropScape/  The Minnesota Department of Agriculture (MDA) did minimal processing on this dataset to make more useful for Minnesota-specific work. The lineage section describes these steps taken, but the full description of the Cropland Data Layer can be found in the <a href=\"metadata_mn14.htm\">NASS USDA Metadata</a>.",
   "dc_rights_s": "Public",
-  "dc_format_s": "Mixed Files",
+  "dc_format_s": "Files",
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Department of Agriculture"
   ],
@@ -34,13 +33,20 @@
   ],
   "layer_slug_s": "7d457de5-dba5-4803-b076-16e434f50a6e",
   "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:16Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)",
   "solr_year_i": 2017,
-  "centroid_s": "46.435,-93.38",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Mixed"
+  ],
+  "b1g_centroid_ss": "46.435,-93.38",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5051907"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/fd9fbde03ed8f2846ba81496594fa64b.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

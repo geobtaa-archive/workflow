@@ -1,5 +1,4 @@
 {
-  "uuid": "10ad436e-0f81-4f45-b894-a2e04fe841f4",
   "dc_identifier_s": "10ad436e-0f81-4f45-b894-a2e04fe841f4",
   "dc_title_s": "Mean annual potential groundwater recharge rates: Minnesota, 1996 - 2010",
   "dc_description_s": "Estimated mean annual potential groundwater recharge rates in Minnesota from 1996-2010 based on the Soil-Water-Balance (SWB) model.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Pollution Control Agency"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "10ad436e-0f81-4f45-b894-a2e04fe841f4",
   "layer_geom_type_s": "Raster",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_modified_dt": "2018-06-26T17:12:31Z",
   "solr_geom": "ENVELOPE(-97.269875, -89.395466, 49.348372, 43.43655)",
   "solr_year_i": 1996,
-  "centroid_s": "46.392461,-93.3326705",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Raster data"
+  ],
+  "b1g_centroid_ss": "46.392461,-93.3326705",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/20336a7c00431fde06bccf5ba96734bc.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

@@ -1,5 +1,4 @@
 {
-  "uuid": "uktd-fzhd",
   "dc_identifier_s": "uktd-fzhd",
   "dc_title_s": "Census Blocks: Chicago, Illinois, 2000",
   "dc_description_s": "2000 Census block boundaries clipped to Chicago. The data can be viewed on the Chicago Data Portal with a web browser. However, to view or use the files outside of a web browser, you will need to use compression software and special GIS software, such as ESRI ArcGIS (shapefile) or Google Earth (KML or KMZ), is required.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "City of Chicago, Illinois"
   ],
@@ -35,14 +34,21 @@
   ],
   "layer_slug_s": "uktd-fzhd",
   "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2018-04-12T19:29:14Z",
+  "layer_modified_dt": "2018-06-26T21:11:34Z",
   "solr_geom": "ENVELOPE(-87.9402669, -87.523661, 42.023177, 41.6443349)",
   "solr_year_i": 2000,
-  "centroid_ss": "41.8340025,-87.73191",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "41.83375595,-87.73196395",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/4887398",
     "http://sws.geonames.org/4896861"
   ],
-  "thumbnail_path_ss": "",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "12c-01",
   "geoblacklight_version": "1.0"
 }

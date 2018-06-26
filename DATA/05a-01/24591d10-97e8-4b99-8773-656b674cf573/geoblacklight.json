@@ -1,5 +1,4 @@
 {
-  "uuid": "24591d10-97e8-4b99-8773-656b674cf573",
   "dc_identifier_s": "24591d10-97e8-4b99-8773-656b674cf573",
   "dc_title_s": "Address Points: Dakota County, Minnesota",
   "dc_description_s": "This dataset is a compilation of address point data from Dakota County address authorities, which are cities and townships. The dataset is intended to contain a point location and the official address (as defined by the address authority) for all occupiable units and any other official addresses within the jurisdictional boundary of each address authority. A number of other attributes are available in the dataset, but may not be populated by some address authorities. Dakota County is playing a coordinative role to work with cities and townships to create, maintain and aggregate address points.",
@@ -8,9 +7,9 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
-    "Dakota County"
+    "Dakota County, Minnesota"
   ],
   "dc_creator_sm": [
     "Dakota County GIS, Dakota County GIS, Staff"
@@ -19,7 +18,7 @@
     "Location"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/24591d10-97e8-4b99-8773-656b674cf573\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_co_dakota/loc_propertyinfo_addresses/shp_loc_propertyinfo_addresses.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_co_dakota/loc_propertyinfo_addresses/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/24591d10-97e8-4b99-8773-656b674cf573\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_co_dakota/loc_propertyinfo_addresses/shp_loc_propertyinfo_addresses.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_co_dakota/loc_propertyinfo_addresses/metadata/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_co_dakota/loc_propertyinfo_addresses/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -32,14 +31,21 @@
     "Minnesota, United States"
   ],
   "layer_slug_s": "24591d10-97e8-4b99-8773-656b674cf573",
-  "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:18Z",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-06-26T17:12:31Z",
   "solr_geom": "ENVELOPE(-93.329368, -92.729786, 44.923436, 44.470134)",
-  "solr_year_i": 2016,
-  "centroid_s": "44.696785,-93.029577",
+  "solr_year_i": 2018,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.696785,-93.029577",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5023752"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/c61c047321e8793a0b9b11d07bcd1522.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_co_dakota/loc_propertyinfo_addresses/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

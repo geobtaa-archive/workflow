@@ -1,5 +1,4 @@
 {
-  "uuid": "5acdd0bf-8de4-46c0-820f-92780ed19a7d",
   "dc_identifier_s": "5acdd0bf-8de4-46c0-820f-92780ed19a7d",
   "dc_title_s": "State Designated Trout Streams: Minnesota",
   "dc_description_s": "<B>Data is currently being updated.  See Completeness Section below for more information.</B>  This layer shows legally designated trout streams and trout stream tributaries as identified in <B>Minnesota Rules Chapter 6264</B>. See http://www.revisor.leg.state.mn.us/arule/6264/0050.html for legal descriptions and restrictions associated with designated trout waters.  This data set includes designated trout streams and their protected tributaries only. Users are encouraged to use the full resolution <b>Stream Routes with Kittle Numbers and Mile Measures</b> layer ( http://gisdata.mn.gov/dataset/water-measured-kittle-routes ) as a base layer to visualize all streams (designated and not) to fully understand hydrological connectivity and impacts to trout resources.   Designated segments are maintained as tabular data and displayed as linear events on the <b>Stream Routes with Kittle Numbers and Mile Measures</b> layer ( http://gisdata.mn.gov/dataset/water-measured-kittle-routes ).  In the attribute table, designated segments extend from the FROM_MEAS (mile) to the TO_MEAS (mile) and have a total length = [LENGTH_MI] on a route with total length = [ROUTE_MI].",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Department of Natural Resources (DNR)"
   ],
@@ -20,7 +19,7 @@
     "Environment"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/5acdd0bf-8de4-46c0-820f-92780ed19a7d\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_trout_stream_designations/shp_env_trout_stream_designations.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/env_trout_stream_designations/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/5acdd0bf-8de4-46c0-820f-92780ed19a7d\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_trout_stream_designations/shp_env_trout_stream_designations.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/env_trout_stream_designations/preview/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/env_trout_stream_designations/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -33,13 +32,20 @@
   ],
   "layer_slug_s": "5acdd0bf-8de4-46c0-820f-92780ed19a7d",
   "layer_geom_type_s": "Line",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-97.252252, -89.406737, 49.34025, 43.098198)",
   "solr_year_i": 2015,
-  "centroid_s": "46.219224,-93.3294945",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "46.219224,-93.3294945",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/0c308ff40ea50522a86f9726b96cb430.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/env_trout_stream_designations/preview/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

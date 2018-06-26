@@ -1,5 +1,4 @@
 {
-  "uuid": "rdag-2fyy",
   "dc_identifier_s": "rdag-2fyy",
   "dc_title_s": "Census Hard to Count: Detroit, Michigan, 2010",
   "dc_description_s": "The Census Bureau has computed 'Hard-to-Count' scores for each census tract, based upon a variety of social and economic factors that have been correlated with low mail-response rates in previous censuses",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "City of Detroit Open Data Portal"
   ],
@@ -23,9 +22,7 @@
   "dct_isPartOf_sm": [
     "Detroit Open Data"
   ],
-  "dct_issued_s": [
-
-  ],
+  "dct_issued_s": "",
   "dct_temporal_sm": [
     "2010"
   ],
@@ -35,13 +32,20 @@
   ],
   "layer_slug_s": "rdag-2fyy",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-04-12T20:05:24Z",
+  "layer_modified_dt": "2018-06-26T21:05:29Z",
   "solr_geom": "ENVELOPE(-83.2880, -82.9105, 42.4502, 42.2552)",
   "solr_year_i": 2010,
-  "centroid_ss": "42.3527,-83.0993",
-  "b1g_geonames_sm": [
-
+  "b1g_genre_sm": [
+    "Geospatial data"
   ],
-  "thumbnail_path_ss": "",
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "42.3527,-83.09925",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/4990729"
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "07c-01",
   "geoblacklight_version": "1.0"
 }

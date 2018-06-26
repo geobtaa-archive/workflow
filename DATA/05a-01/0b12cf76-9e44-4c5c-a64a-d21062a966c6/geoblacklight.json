@@ -1,5 +1,4 @@
 {
-  "uuid": "0b12cf76-9e44-4c5c-a64a-d21062a966c6",
   "dc_identifier_s": "0b12cf76-9e44-4c5c-a64a-d21062a966c6",
   "dc_title_s": "Tax Parcels: Waseca County, Minnesota",
   "dc_description_s": "Polygon layer representing tax parcels for Waseca County. Includes right-of-ways, dry lake beds, cemeteries, and common element parcels.",
@@ -8,12 +7,12 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
-    "Waseca County"
+    "Waseca County, Minnesota"
   ],
   "dc_creator_sm": [
-    "Waseca County"
+
   ],
   "dc_subject_sm": [
     "Planning and Cadastral"
@@ -32,14 +31,21 @@
     "Minnesota, United States"
   ],
   "layer_slug_s": "0b12cf76-9e44-4c5c-a64a-d21062a966c6",
-  "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-93.767733, -93.40661, 44.198122, 43.846005)",
   "solr_year_i": 2016,
-  "centroid_s": "44.0220635,-93.5871715",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.0220635,-93.5871715",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5051907"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/fd218e63e0fe7a0691846070c531fd3c.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

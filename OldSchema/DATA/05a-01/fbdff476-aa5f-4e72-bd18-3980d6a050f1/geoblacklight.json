@@ -1,0 +1,44 @@
+{
+  "uuid": "fbdff476-aa5f-4e72-bd18-3980d6a050f1",
+  "dc_identifier_s": "fbdff476-aa5f-4e72-bd18-3980d6a050f1",
+  "dc_title_s": "Water Trails: Minnesota",
+  "dc_description_s": "This dataset represents state water trails in the State of Minnesota as designated through legislation and recognized by the Department of Natural Resources. The alignments represent the approximate river centerlines as interpreted from 2009 aerial photographs. The alignments were created at a scale between 1:2000 and 1:10000.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Minnesota Department of Natural Resources (DNR)"
+  ],
+  "dc_creator_sm": [
+    "Minnesota Department of Natural Resources (DNR) - Parks and Trails"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/fbdff476-aa5f-4e72-bd18-3980d6a050f1\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/trans_water_trails_minnesota/shp_trans_water_trails_minnesota.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/trans_water_trails_minnesota/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2014-10-08T13:53:52.268637",
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "fbdff476-aa5f-4e72-bd18-3980d6a050f1",
+  "layer_geom_type_s": "Line",
+  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)",
+  "solr_year_i": 2017,
+  "centroid_s": "46.435,-93.38",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/5807d0ef9d38a36eed09b2cc6190a46f.jpg",
+  "geoblacklight_version": "1.0"
+}

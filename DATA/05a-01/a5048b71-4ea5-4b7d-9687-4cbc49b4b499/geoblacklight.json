@@ -1,5 +1,4 @@
 {
-  "uuid": "a5048b71-4ea5-4b7d-9687-4cbc49b4b499",
   "dc_identifier_s": "a5048b71-4ea5-4b7d-9687-4cbc49b4b499",
   "dc_title_s": "Regional Park Search Areas: Metro Twin Cities, Minnesota",
   "dc_description_s": "This dataset includes two categories of regional park search areas defined as follows:   Regional Park Search Areas and Boundary Adjustments:  These are general search areas for future regional parks or general boundary adjustments for existing regional parks and trails. The specific boundaries or boundary adjustments will be determined through a planning process led by the regional park implementing agency. These regional park search areas/boundary adjustments were selected based on high quality natural resources, recreation potential, and projected future need. They were approved by the Metropolitan Council in 2005 as part of the 2030 Regional Parks Policy Plan and in 2015 as part of the 2040 Regional Parks Policy Plan.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Metropolitan Council"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "a5048b71-4ea5-4b7d-9687-4cbc49b4b499",
   "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
   "solr_year_i": 2015,
-  "centroid_s": "44.943,-93.372",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.943,-93.372",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/e6342558ea2c826c1a1ac32867049fc0.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

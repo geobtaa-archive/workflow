@@ -1,5 +1,4 @@
 {
-  "uuid": "27cy-fdic",
   "dc_identifier_s": "27cy-fdic",
   "dc_title_s": "Recycling Dropoff Sites: Chicago, Illinois",
   "dc_description_s": "Locations in Chicago where residents can drop off recycling. For more about Recycling in Chicago, visit http://bit.ly/IcfLHr. To view or use these files outside of a web browser, compression software and special GIS software, such as ESRI ArcGIS, is required.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "City of Chicago, Illinois"
   ],
@@ -34,14 +33,21 @@
   ],
   "layer_slug_s": "27cy-fdic",
   "layer_geom_type_s": "Point",
-  "layer_modified_dt": "2018-04-12T19:29:14Z",
+  "layer_modified_dt": "2018-06-26T21:11:34Z",
   "solr_geom": "ENVELOPE(-87.9402669, -87.523661, 42.023137, 41.6443349)",
   "solr_year_i": 2016,
-  "centroid_ss": "-24.000394,-87.9734345",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "41.83373595,-87.73196395",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/4887398",
     "http://sws.geonames.org/4896861"
   ],
-  "thumbnail_path_ss": "",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "12c-01",
   "geoblacklight_version": "1.0"
 }

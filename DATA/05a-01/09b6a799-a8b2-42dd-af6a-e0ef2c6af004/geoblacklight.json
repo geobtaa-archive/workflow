@@ -1,14 +1,13 @@
 {
-  "uuid": "09b6a799-a8b2-42dd-af6a-e0ef2c6af004",
   "dc_identifier_s": "09b6a799-a8b2-42dd-af6a-e0ef2c6af004",
   "dc_title_s": "LiDAR Elevation: McLeod County, Minnesota, 2007",
   "dc_description_s": "The LiDAR data for McLeod County was collected under contract by the county. Thus, the data format is not entirely consistent with some of the other LiDAR data collected by the State of Minnesota. Specifically, the McLeod County collect required classification of only Bare Earth in the LiDAR LAS files, so there is no information on buildings, vegetation, or model key points. The LAS data used for this process were acquired from the U.S. Geological Survey. No breaklines were available for processing this data.  Note: This metadata record was created at the Minnesota Geospatial Information Office using information supplied by McLeod County and the Minnesota Department of Natural Resources.",
   "dc_rights_s": "Public",
-  "dc_format_s": "Mixed Files",
+  "dc_format_s": "Files",
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Geospatial Information Center (MnGeo)"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "09b6a799-a8b2-42dd-af6a-e0ef2c6af004",
   "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-94.506402, -93.977849, 44.982573, 44.625869)",
   "solr_year_i": 2007,
-  "centroid_s": "44.804221,-94.2421255",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Mixed"
+  ],
+  "b1g_centroid_ss": "44.804221,-94.2421255",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5051907"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/fd9fbde03ed8f2846ba81496594fa64b.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

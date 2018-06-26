@@ -1,0 +1,48 @@
+{
+  "uuid": "0d9749c775174de6995066b205e5fda5_0",
+  "dc_identifier_s": "0d9749c775174de6995066b205e5fda5_0",
+  "dc_title_s": "Polling Places: Scott County, Minnesota",
+  "dc_description_s": "This dataset contains polling places throughout Scott County. Attributes include polling location, address, and precinct.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Scott County, Minnesota"
+  ],
+  "dc_creator_sm": [
+    "Scott County Information Technology"
+  ],
+  "dc_subject_sm": [
+    "Location"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.gis.co.scott.mn.us/datasets/0d9749c775174de6995066b205e5fda5_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/DqIh9WAsIZcPlBEF/arcgis/rest/services/Polling_Places/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"https://opendata.gis.co.scott.mn.us/datasets/0d9749c775174de6995066b205e5fda5_0.zip\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data",
+    "Minnesota Counties"
+  ],
+  "dct_issued_s": "2016-08-10",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Scott County, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "0d9749c775174de6995066b205e5fda5_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-05-22T21:27:42Z",
+  "solr_geom": "ENVELOPE(-93.86109986096807, -93.30753949604697, 44.834292695421716, 44.516467098130406)",
+  "solr_year_i": 2016,
+  "centroid_s": "44.6753798968,-93.5843196785",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "b1g_collection_sm": [
+    "05b"
+  ],
+  "geoblacklight_version": "1.0"
+}

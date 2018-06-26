@@ -1,14 +1,13 @@
 {
-  "uuid": "e7089a7e-0d98-4580-bbcf-e030948b29b1",
   "dc_identifier_s": "e7089a7e-0d98-4580-bbcf-e030948b29b1",
   "dc_title_s": "High Resolution Orthoimagery: Carver County, Minnesota, 2013",
   "dc_description_s": "This dataset consists of 0.15-meter (approximately 0.5-foot) natural color and false color infrared orthoimages covering Carver County. Data were collected by Aerometric (now Quantum Spatial).",
   "dc_rights_s": "Public",
-  "dc_format_s": "Mixed Files",
+  "dc_format_s": "Files",
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Geospatial Information Center (MnGeo)"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "e7089a7e-0d98-4580-bbcf-e030948b29b1",
   "layer_geom_type_s": "Raster",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-94.01, -93.52, 44.99, 44.63)",
   "solr_year_i": 2013,
-  "centroid_s": "44.81,-93.765",
+  "b1g_genre_sm": [
+    "Aerial imagery"
+  ],
+  "b1g_geom_type_sm": [
+    "Raster data"
+  ],
+  "b1g_centroid_ss": "44.81,-93.765",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5051907"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/fd9fbde03ed8f2846ba81496594fa64b.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

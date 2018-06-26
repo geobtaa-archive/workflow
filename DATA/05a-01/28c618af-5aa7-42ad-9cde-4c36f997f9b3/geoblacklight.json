@@ -1,5 +1,4 @@
 {
-  "uuid": "28c618af-5aa7-42ad-9cde-4c36f997f9b3",
   "dc_identifier_s": "28c618af-5aa7-42ad-9cde-4c36f997f9b3",
   "dc_title_s": "Board of Animal Health: Minnesota",
   "dc_description_s": "Field Staff locations for the Minnesota Board of Animal Health and affiliated U.S. Board of Animal Health staff, generalized to city center.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Board of Animal Health"
   ],
@@ -31,14 +30,21 @@
     "Minnesota, United States"
   ],
   "layer_slug_s": "28c618af-5aa7-42ad-9cde-4c36f997f9b3",
-  "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:18Z",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-06-26T17:12:31Z",
   "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)",
   "solr_year_i": 2016,
-  "centroid_s": "46.435,-93.38",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "46.435,-93.38",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/8fd0e35a412d628c05abff619faadb55.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

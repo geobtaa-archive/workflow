@@ -1,0 +1,43 @@
+{
+  "uuid": "f1d6e798-953c-4101-aa2a-bf547b050346",
+  "dc_identifier_s": "f1d6e798-953c-4101-aa2a-bf547b050346",
+  "dc_title_s": "Watershed boundaries for Pennsylvania clipped to the Delaware River Basin: Pennsylvania",
+  "dc_description_s": "Watershed boundaries for Pennsylvania clipped to the Delaware River Basin",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Files",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Delaware River Basin Commission DRBC"
+  ],
+  "dc_creator_sm": "Delaware River Basin Commission (DRBC)",
+  "dc_subject_sm": [
+    "Inland Waters",
+    "Environment"
+  ],
+  "dct_provenance_s": "Penn State",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=431\",\"http://schema.org/downloadUrl\":\"http://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=431\",\"http://www.opengis.net/cat/csw/csdgm\":\"http://www.pasda.psu.edu/metadata/harvest/pa_wshed_polygon.xml\"}",
+  "dct_isPartOf_sm": "Pennsylvania Spatial Data Access (PASDA)",
+  "dct_issued_s": [
+
+  ],
+  "dct_temporal_sm": [
+    "2004"
+  ],
+  "dct_spatial_sm": [
+    "West Branch Delaware River, Pennsylvania, United States",
+    "Pennsylvania, United States"
+  ],
+  "dc_relation_sm": [
+    "http://sws.geonames.org/5218573",
+    "http://sws.geonames.org/6254927"
+  ],
+  "layer_slug_s": "f1d6e798-953c-4101-aa2a-bf547b050346",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-2-28T19:16:47Z",
+  "centroid_s": "40.8581235,-75.5584415",
+  "solr_geom": "ENVELOPE(-74.686501, -76.430382, 42.00112, 39.715127)",
+  "solr_year_i": 2004
+}

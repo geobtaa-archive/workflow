@@ -1,0 +1,44 @@
+{
+  "uuid": "8d387dd0-cb31-4c5d-a87b-6076f6157398",
+  "dc_identifier_s": "8d387dd0-cb31-4c5d-a87b-6076f6157398",
+  "dc_title_s": "LiDAR Elevation: Blue Earth County, Minnesota, 2012",
+  "dc_description_s": "The project vendor, AeroMetric, Inc., acquired highly accurate Light Detection and Ranging (LiDAR) elevation data for Blue Earth County in south central Minnesota in Spring 2012. The project area consists of approximately 2,260 square kilometers (862 square miles). LiDAR data are in the UTM Zone 15 coordinate system, NAD83 (HARN) NAVD88 (Geoid09), meters. The tiling scheme is 16th USGS 1:24,000 quadrangle tiles.  The vendor delivered the data to the Minnesota Department of Natural Resources (DNR) in several formats:  1) One-meter digital elevation model 2) Edge-of-water breaklines 3) Classified LAS formatted point cloud data  DNR staff created two additional products: two-foot contours and building outlines.  Note: This metadata record was created at the Minnesota Geospatial Information Office by combining information supplied by AeroMetric and DNR.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Mixed Files",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Minnesota Geospatial Information Center (MnGeo)"
+  ],
+  "dc_creator_sm": [
+    "AeroMetric, Inc. and Minnesota Department of Natural Resources"
+  ],
+  "dc_subject_sm": [
+    "Elevation"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/8d387dd0-cb31-4c5d-a87b-6076f6157398\",\"http://schema.org/downloadUrl\":\"https://gisdata.mn.gov/dataset/8d387dd0-cb31-4c5d-a87b-6076f6157398\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_mngeo/elev_lidar_blueearth2012/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2014-10-06T13:22:10.990936",
+  "dct_temporal_sm": [
+    "2012"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "8d387dd0-cb31-4c5d-a87b-6076f6157398",
+  "layer_geom_type_s": "Mixed",
+  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "solr_geom": "ENVELOPE(-94.382, -93.763, 44.267, 43.845)",
+  "solr_year_i": 2012,
+  "centroid_s": "44.056,-94.0725",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5051907"
+  ],
+  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/fd9fbde03ed8f2846ba81496594fa64b.jpg",
+  "geoblacklight_version": "1.0"
+}

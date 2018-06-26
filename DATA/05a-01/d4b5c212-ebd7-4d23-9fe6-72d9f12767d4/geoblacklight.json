@@ -1,5 +1,4 @@
 {
-  "uuid": "d4b5c212-ebd7-4d23-9fe6-72d9f12767d4",
   "dc_identifier_s": "d4b5c212-ebd7-4d23-9fe6-72d9f12767d4",
   "dc_title_s": "Land Cover - Land Cover Classification System: Minnesota",
   "dc_description_s": "Land cover data set based on the Minnesota Land Cover Classification System (MLCCS) coding scheme. This data was produced using a combination of aerial photograph interpretation and field surveys. There is a minimum mapping unit of 1 acre for natural vegetation and 2 acres for artificial cover types.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Department of Natural Resources (DNR)"
   ],
@@ -19,7 +18,7 @@
     "Biota"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/d4b5c212-ebd7-4d23-9fe6-72d9f12767d4\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/biota_landcover_mlccs/fgdb_biota_landcover_mlccs.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/biota_landcover_mlccs/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/d4b5c212-ebd7-4d23-9fe6-72d9f12767d4\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/biota_landcover_mlccs/fgdb_biota_landcover_mlccs.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/biota_landcover_mlccs/preview/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/biota_landcover_mlccs/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "d4b5c212-ebd7-4d23-9fe6-72d9f12767d4",
   "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_modified_dt": "2018-06-26T17:12:31Z",
   "solr_geom": "ENVELOPE(-96.833072, -89.397127, 49.348368, 43.435392)",
-  "solr_year_i": 2015,
-  "centroid_s": "46.39188,-93.1150995",
+  "solr_year_i": 2018,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "46.39188,-93.1150995",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/03ba4b4a19367291a009e1db3986a157.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/biota_landcover_mlccs/preview/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

@@ -1,5 +1,4 @@
 {
-  "uuid": "292abce8-cf5e-40b9-a001-560f27758de1",
   "dc_identifier_s": "292abce8-cf5e-40b9-a001-560f27758de1",
   "dc_title_s": "Regional Trail Search Corridors: Metro Twin Cities, Minnesota",
   "dc_description_s": "This dataset includes two categories of regional trail search corridors defined as follows:  2040 System Additions: These are general search corridors for new regional trails or extensions of existing regional trails and were designated to connect regional parks and trails to one another. The specific alignment of the regional trails will be determined through a planning process led by the regional park implementing agency.  These regional trail search corridors were approved by the Metropolitan Council in 2015 as part of the 2040 Regional Parks Policy Plan.  Regional Trail Search Corridors: These are general search corridors for new regional trails and were designated to connect regional parks and trails to one another. The specific alignment of the regional trails will be determined through a planning process led by the regional park implementing agency.  “Proposed” trails from past datasets are also now classified as regional trail search corridors.  These regional trail search corridors were approved by the Metropolitan Council as part of various Regional Parks Policy Plans over the years and also affirmed in 2015 as part of the 2040 Regional Parks Policy Plan.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Metropolitan Council"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "292abce8-cf5e-40b9-a001-560f27758de1",
   "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
   "solr_year_i": 2015,
-  "centroid_s": "44.943,-93.372",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.943,-93.372",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/116b00354a55f9b8bec63f766e5891c6.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

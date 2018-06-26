@@ -1,5 +1,4 @@
 {
-  "uuid": "cd05576f-68e7-4039-a8ff-c1c55aa11b3c",
   "dc_identifier_s": "cd05576f-68e7-4039-a8ff-c1c55aa11b3c",
   "dc_title_s": "School District Boundaries: Minnesota, SY2010/11 - 2015/16",
   "dc_description_s": "This file is a geodatabase that contains boundaries of all public school districts in the state of Minnesota for school years 2010/11 - 2016/17. Minnesota school districts report any changes to their elementary, middle and high school attendance area boundaries annually. Each file in this group was developed from this annual information and is now provided as historical information. This school district file was dissolved from the statewide attendance boundary file to show just the statewide school district boundaries.  Since 2008, district boundaries have been modified based on county parcels. If parcels are not available then Minnesota Department of Natural Resources' Township-Range-Quarter-Quarter Section boundaries are used. This metadata summarizes the content of these files but individual metadata records are also included for each annual file.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Department of Education"
   ],
@@ -19,7 +18,7 @@
     "Boundaries"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/cd05576f-68e7-4039-a8ff-c1c55aa11b3c\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mde/bdry_school_district_2010s/gpkg_bdry_school_district_2010s.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_mde/bdry_school_district_2010s/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/cd05576f-68e7-4039-a8ff-c1c55aa11b3c\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mde/bdry_school_district_2010s/gpkg_bdry_school_district_2010s.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_mde/bdry_school_district_2010s/metadata/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_mde/bdry_school_district_2010s/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "cd05576f-68e7-4039-a8ff-c1c55aa11b3c",
   "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-97.269688, -89.397194, 49.403805, 43.435423)",
   "solr_year_i": 2010,
-  "centroid_s": "46.419614,-93.333441",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "46.419614,-93.333441",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/93e71e51429ad5085062685b45856b1c.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_mde/bdry_school_district_2010s/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

@@ -1,5 +1,4 @@
 {
-  "uuid": "1e2932eb-a09e-4f76-af38-835772383f6f",
   "dc_identifier_s": "1e2932eb-a09e-4f76-af38-835772383f6f",
   "dc_title_s": "National Park Service Vegetation Inventory Program, Mississippi National River and Recreation Area: Minnesota",
   "dc_description_s": "The National Park Service (NPS) Vegetation Inventory Program (VIP) is an effort to classify, describe, and map existing vegetation of national park units for the NPS Natural Resource Inventory and Monitoring (I&M) Program. The NPS VIP is managed by the NPS Inventory and Monitoring Division and provides baseline vegetation information to the NPS Natural Resource I&M Program. The USGS Upper Midwest Environmental Sciences Center, NatureServe, and NPS Mississippi National River and Recreation Area (MISS) have completed vegetation classification and mapping of MISS for the NPS VIP.  Mappers, ecologists, and botanists collaborated to identify and describe vegetation types within the U.S. National Vegetation Classification (USNVC) and to determine how best to map them by using aerial imagery. The team collected data from 132 vegetation plots within MISS to develop detailed descriptions of USNVC associations. Data from 52 verification sites were also collected to test both the dichotomous key to vegetation associations and the application of vegetation types to a sample set of map polygons. Furthermore, data from 776 accuracy assessment (AA) sites were collected (of which 757 were used to test accuracy of the vegetation map layer). These data sets led to the identification of 45 vegetation association in the USNVC at MISS.  A total of 45 map classes were developed to map the vegetation and open water of MISS, including the following: 35 map classes represent natural (including ruderal) vegetation in the USNVC, 7 map classes represent cultural vegetation (agricultural and developed) in the USNVC, and 3 map classes represent non-vegetative open-water bodies (non-USNVC). Features were interpreted from viewing color-infrared digital aerial imagery dated September and October 2012 (during peak leaf-phenology change of trees) via digital onscreen three-dimensional stereoscopic workflow systems in geographic information systems (GIS). The interpreted data were digitally and spatially referenced, thus making the spatial database layers usable in GIS. Polygon units were mapped to either a 0.5 ha or 0.25 ha minimum mapping unit, depending on vegetation type.  A geodatabase containing various feature-class layers and tables shows the locations of USNVC vegetation types (vegetation map), vegetation plot samples, verification sites, AA sites, project boundary extent, and aerial image centers. The feature-class layer and relate tables for the vegetation map provides 4,498 polygons of detailed attribute data covering 21,771.6 ha of area, with an average polygon size of 4.8 ha; the vegetation map covers the entire administrative boundary for MISS.  Summary reports generated from the vegetation map layer show map classes representing USNVC natural (including ruderal) vegetation associations apply to 4,012 polygons (89.2% of polygons) and cover 8,938.7 ha (41.1%) of the map extent. Of these polygons, the map layer shows MISS to be 27.5% forest and woodland (5,986.2 ha), 1.6% shrubland (353.6 ha), 11.2% herbaceous vegetation (2,431.8 ha), and 0.8% sparse vegetation (163.9 ha). Map classes representing USNVC cultural types apply to 415 polygons (9.2% of polygons) and cover 7,628.5 ha (35.0%) of the map extent. Map classes representing non-vegetative open-water bodies (non-USNVC) apply to 71 polygons (1.6% of polygons) and cover 5,204.4 ha (23.9%) of the map extent.  <b> For a full report on the National Park Service Vegetation Inventory Program mapping effort, see: </b> <a href=\"missvegrpt.pdf\" target=_blank>National Park Service Vegetation Inventory Program</a> (pdf, 54 MB)",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Department of Natural Resources (DNR)"
   ],
@@ -19,7 +18,7 @@
     "Biota"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/1e2932eb-a09e-4f76-af38-835772383f6f\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/biota_mrcca_vegetation/fgdb_biota_mrcca_vegetation.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/biota_mrcca_vegetation/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/1e2932eb-a09e-4f76-af38-835772383f6f\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/biota_mrcca_vegetation/fgdb_biota_mrcca_vegetation.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/biota_mrcca_vegetation/metadata/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/biota_mrcca_vegetation/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -31,14 +30,21 @@
     "Minnesota, United States"
   ],
   "layer_slug_s": "1e2932eb-a09e-4f76-af38-835772383f6f",
-  "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-93.522027, -92.732425, 45.248619, 44.658182)",
   "solr_year_i": 2012,
-  "centroid_s": "44.9534005,-93.127226",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.9534005,-93.127226",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/95afd1f651d66bb6a00c5eec9f731b53.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/biota_mrcca_vegetation/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

@@ -1,14 +1,13 @@
 {
-  "uuid": "a1d3d3dd-13e1-4666-8d63-a24df30468f1",
   "dc_identifier_s": "a1d3d3dd-13e1-4666-8d63-a24df30468f1",
   "dc_title_s": "USGS High Resolution Orthoimagery, Minneapolis - St. Paul, Minnesota: Spring, 2008",
   "dc_description_s": "This dataset consists of 0.3-meter pixel resolution (approximately 1-foot), natural color orthoimages covering the Minneapolis-St. Paul urban area footprint.  An orthoimage is remotely sensed image data in which displacement of features in the image caused by terrain relief and sensor orientation have been mathematically removed. Orthoimagery combines the image characteristics of a photograph with the geometric qualities of a map.  [Note: this metadata record was reformatted at the Minnesota Geospatial Information Office (MnGeo) from the record provided by USGS - several of the fields were changed to reflect MnGeo's seamless WMS data delivery]",
   "dc_rights_s": "Public",
-  "dc_format_s": "Mixed Files",
+  "dc_format_s": "Files",
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Geospatial Information Center (MnGeo)"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "a1d3d3dd-13e1-4666-8d63-a24df30468f1",
   "layer_geom_type_s": "Raster",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-93.3109, -93.0253, 45.0135, 44.8384)",
   "solr_year_i": 2008,
-  "centroid_s": "44.92595,-93.1681",
+  "b1g_genre_sm": [
+    "Aerial imagery"
+  ],
+  "b1g_geom_type_sm": [
+    "Raster data"
+  ],
+  "b1g_centroid_ss": "44.92595,-93.1681",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5051907"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/fd9fbde03ed8f2846ba81496594fa64b.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

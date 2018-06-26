@@ -1,5 +1,4 @@
 {
-  "uuid": "gdcf-axmw",
   "dc_identifier_s": "gdcf-axmw",
   "dc_title_s": "ZIP Codes: Chicago, Illinois",
   "dc_description_s": "ZIP Code boundaries in Chicago. The data can be viewed on the Chicago Data Portal with a web browser. However, to view or use the files outside of a web browser, you will need to use compression software and special GIS software, such as ESRI ArcGIS (shapefile) or Google Earth (KML or KMZ).",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "City of Chicago, Illinois"
   ],
@@ -34,14 +33,21 @@
   ],
   "layer_slug_s": "gdcf-axmw",
   "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2018-04-12T19:29:14Z",
+  "layer_modified_dt": "2018-06-26T21:11:33Z",
   "solr_geom": "ENVELOPE(-87.9402669, -87.523661, 42.023237, 41.6443349)",
   "solr_year_i": 2013,
-  "centroid_ss": "41.833791,-87.7321255",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "41.83378595,-87.73196395",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/4887398",
     "http://sws.geonames.org/4896861"
   ],
-  "thumbnail_path_ss": "",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "12c-01",
   "geoblacklight_version": "1.0"
 }

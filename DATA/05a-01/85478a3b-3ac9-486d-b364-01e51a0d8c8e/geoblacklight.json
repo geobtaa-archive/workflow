@@ -1,19 +1,18 @@
 {
-  "uuid": "85478a3b-3ac9-486d-b364-01e51a0d8c8e",
   "dc_identifier_s": "85478a3b-3ac9-486d-b364-01e51a0d8c8e",
   "dc_title_s": "Demographics: Dakota County, Minnesota",
   "dc_description_s": "Demographic service of DCGIS that contains Dakota County layers related to the 2010 and 2000 US Census and MetCouncil relating to population.",
   "dc_rights_s": "Public",
-  "dc_format_s": "Mixed Files",
+  "dc_format_s": "Files",
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
-    "Dakota County"
+    "Dakota County, Minnesota"
   ],
   "dc_creator_sm": [
-    "Dakota County"
+
   ],
   "dc_subject_sm": [
     "Society"
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "85478a3b-3ac9-486d-b364-01e51a0d8c8e",
   "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:16Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-93.329853, -92.729236, 44.923499, 44.468748)",
   "solr_year_i": 2016,
-  "centroid_s": "44.6961235,-93.0295445",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Mixed"
+  ],
+  "b1g_centroid_ss": "44.6961235,-93.0295445",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5051907"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/47803b9718e6d4fe9abedfaa819990e2.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

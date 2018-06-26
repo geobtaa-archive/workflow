@@ -1,0 +1,44 @@
+{
+  "uuid": "ab0a9fd7-c1b0-466e-8f41-632d25d53907",
+  "dc_identifier_s": "ab0a9fd7-c1b0-466e-8f41-632d25d53907",
+  "dc_title_s": "Aquatic Invasive Species Observations: Minnesota",
+  "dc_description_s": "A multi-partner effort to record the locations of aquatic invasive species in waterbodies throughout the state. Points indicate presence and/or approximate physical locations of the species. Data is downloaded from EDDMapS Midwest (https://www.eddmaps.org/midwest/).  Data from EDDMapS includes all data previously collected by the Minnesota DNR and uploaded to EDDMapS in 2016.  From 2016 forward data from MN DNR staff was collected directly into EDDMapS.  EDDMapS also contains data from other organizations and individuals in Minnesota.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_s": "Dataset",
+  "dc_publisher_sm": [
+    "Minnesota Department of Natural Resources (DNR)"
+  ],
+  "dc_creator_sm": [
+    "Minnesota Department of Natural Resources (DNR) - Ecological and Water Resources"
+  ],
+  "dc_subject_sm": [
+    "Environment"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/ab0a9fd7-c1b0-466e-8f41-632d25d53907\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_invasive_aquatic_obs/shp_env_invasive_aquatic_obs.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/env_invasive_aquatic_obs/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2014-10-09T14:08:20.711397",
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "ab0a9fd7-c1b0-466e-8f41-632d25d53907",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2018-04-30T14:29:18Z",
+  "solr_geom": "ENVELOPE(-96.574296, -89.483972, 49.121615, 43.47279)",
+  "solr_year_i": 2017,
+  "centroid_s": "46.2972025,-93.029134",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/1cb39a8dbab31245c3858115d8364635.jpg",
+  "geoblacklight_version": "1.0"
+}

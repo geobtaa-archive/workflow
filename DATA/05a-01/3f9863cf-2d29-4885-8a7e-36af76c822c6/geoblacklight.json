@@ -1,5 +1,4 @@
 {
-  "uuid": "3f9863cf-2d29-4885-8a7e-36af76c822c6",
   "dc_identifier_s": "3f9863cf-2d29-4885-8a7e-36af76c822c6",
   "dc_title_s": "Meters (Limited Attributes): Metro Twin Cities, Minnesota",
   "dc_description_s": "This layer contains data related to meter point features for the sewer interceptor system in the Twin Cities metropolitan area.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Metropolitan Council"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "3f9863cf-2d29-4885-8a7e-36af76c822c6",
   "layer_geom_type_s": "Point",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_modified_dt": "2018-06-26T17:12:31Z",
   "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
-  "solr_year_i": 2016,
-  "centroid_s": "44.943,-93.372",
+  "solr_year_i": 2018,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.943,-93.372",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/20336a7c00431fde06bccf5ba96734bc.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

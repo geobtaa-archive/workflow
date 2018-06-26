@@ -1,5 +1,4 @@
 {
-  "uuid": "3f4a7de7-15cf-41d6-bf2f-cf9b0f8ba1fc",
   "dc_identifier_s": "3f4a7de7-15cf-41d6-bf2f-cf9b0f8ba1fc",
   "dc_title_s": "Sensitive Lakeshore Assessment: Minnesota",
   "dc_description_s": "The Sensitive Lakeshore Assessment Project was initiated to identify lakeshore areas of unique or critical habitat, or high biological diversity, in north-central Minnesota. An ecological model incorporating existing data (including wetlands and hydric soils) and field-collected data (including distribution and abundance of aquatic plants and high-priority animal species) was used to objectively rank lakeshores for sensitive area designation.  <b>Highly sensitive shoreland</b> is a polygon feature class representing sensitive areas of lakeshore buffered landward by 1/4  mile. The <b>sensitivity index</b> is a point feature class representing the sum of scores of the data layers at equally-spaced points along the shoreline of a lake. See http://www.dnr.state.mn.us/eco/sli/index.html for more information on attributes and analysis.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Department of Natural Resources (DNR)"
   ],
@@ -19,7 +18,7 @@
     "Environment"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/3f4a7de7-15cf-41d6-bf2f-cf9b0f8ba1fc\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_sensitive_lakeshore/fgdb_env_sensitive_lakeshore.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/env_sensitive_lakeshore/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/3f4a7de7-15cf-41d6-bf2f-cf9b0f8ba1fc\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_sensitive_lakeshore/fgdb_env_sensitive_lakeshore.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/env_sensitive_lakeshore/preview/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/env_sensitive_lakeshore/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -31,14 +30,21 @@
     "Minnesota, United States"
   ],
   "layer_slug_s": "3f4a7de7-15cf-41d6-bf2f-cf9b0f8ba1fc",
-  "layer_geom_type_s": "Mixed",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)",
   "solr_year_i": 2014,
-  "centroid_s": "46.435,-93.38",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "46.435,-93.38",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/c4059b99e4a444dcbdf5e29b3fd80c5b.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/env_sensitive_lakeshore/preview/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

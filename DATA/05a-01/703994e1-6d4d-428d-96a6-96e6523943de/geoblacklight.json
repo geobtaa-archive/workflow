@@ -1,5 +1,4 @@
 {
-  "uuid": "703994e1-6d4d-428d-96a6-96e6523943de",
   "dc_identifier_s": "703994e1-6d4d-428d-96a6-96e6523943de",
   "dc_title_s": "Average Annual Groundwater Recharge: Metro Twin Cities, Minnesota",
   "dc_description_s": "This dataset contains long-term average (1975-2003) annual recharge estimates for the seven-county Twin Cities metropolitan area. Values are in inches per year. Recharge was estimated using a daily soil-water balance (SWB) model developed by the Wisconsin Geological and Natural History Survey in conjuction with a regional groundwater flow model developed for the Twin Cities metropolitan area. This dataset was developed by Barr Engineering Company for the Metropolitan Council to support the development of the Twin Cities metropolitan area regional groundwater flow model (Metro Model 2).  More information about this process is provided in the 2009 Metropolitan Council report 'Twin Cities Metropolitan Area Regional Groundwater Flow Model Version 2.00 - Technical Report in Support of the Metropolitan Area Master Water Supply Plan', which is available online at www.metrocouncil.org/environment/WaterSupply/metrogroundwatermodeldatasets.htm.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Metropolitan Council"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "703994e1-6d4d-428d-96a6-96e6523943de",
   "layer_geom_type_s": "Raster",
-  "layer_modified_dt": "2018-04-30T14:29:18Z",
+  "layer_modified_dt": "2018-06-26T17:12:31Z",
   "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
   "solr_year_i": 2009,
-  "centroid_s": "44.943,-93.372",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Raster data"
+  ],
+  "b1g_centroid_ss": "44.943,-93.372",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/239cdd34129e1010085b3b705b1d19eb.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

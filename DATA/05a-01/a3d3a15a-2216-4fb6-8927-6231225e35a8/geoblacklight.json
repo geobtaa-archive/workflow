@@ -1,14 +1,13 @@
 {
-  "uuid": "a3d3a15a-2216-4fb6-8927-6231225e35a8",
   "dc_identifier_s": "a3d3a15a-2216-4fb6-8927-6231225e35a8",
   "dc_title_s": "Digital Orthoimagery, Central and Northwest, Spring 2013-14, 0.5-m Resolution: Minnesota",
   "dc_description_s": "This dataset contains leaf-off 4-band red, green, blue, infrared (RGBI) digital orthophoto imagery produced at 50-centimenter resolution from new aerial photography captured in the spring of 2013 and spring of 2014. The imagery covers most of 29 counties in central and northwestern Minnesota.   Funding for this data was provided by the Minnesota Natural Heritage Fund, the Minnesota Clean Water Legacy Act, and The Environmental and Natural Resources Trust Fund.  This metadata record was created by the Minnesota Geospatial Information Office (MnGeo) using information supplied by Quantum Spatial, Inc. (formerly Aero-Metric).",
   "dc_rights_s": "Public",
-  "dc_format_s": "Mixed Files",
+  "dc_format_s": "Files",
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Geospatial Information Center (MnGeo)"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "a3d3a15a-2216-4fb6-8927-6231225e35a8",
   "layer_geom_type_s": "Raster",
-  "layer_modified_dt": "2018-04-30T14:29:16Z",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
   "solr_geom": "ENVELOPE(-97.2, -92.28, 49.4, 45.27)",
   "solr_year_i": 2014,
-  "centroid_s": "47.335,-94.74",
+  "b1g_genre_sm": [
+    "Aerial imagery"
+  ],
+  "b1g_geom_type_sm": [
+    "Raster data"
+  ],
+  "b1g_centroid_ss": "47.335,-94.74",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5051907"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/5807d493091ba3dd4815a1096499a48f.jpg",
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }

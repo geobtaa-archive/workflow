@@ -1,5 +1,4 @@
 {
-  "uuid": "e6eebf06-6b43-4947-b1f4-cb3950bf32ea",
   "dc_identifier_s": "e6eebf06-6b43-4947-b1f4-cb3950bf32ea",
   "dc_title_s": "MCBS Sites of Biodiversity Significance: Minnesota",
   "dc_description_s": "This data layer represents areas with varying levels of native biodiversity that may contain high quality native plant communities, rare plants, rare animals, and/or animal aggregations.  Initially, boundaries of sites are determined by review of aerial photography in order to identify potential areas of native biodiversity based on native vegetation.  In subsequent field investigations, MBS assesses the ecological characteristics of the site and the presence of rare species.  A biodiversity significance rank is assigned on the basis of the number of rare species, the quality of the native plant communities, size of the site, and context within the landscape.   Following field investigations, site boundaries sometimes are revised, or sites added, to incorporate critical habitat for rare plants and rare animals.  In these instances, the quality of native plant communities is not the primary criteria for ranking the site.  MBS Sites that are found to be disturbed are retained in the layer as negative data and are given the Biodiversity Significance rank of \"Below.\"  Those disturbed areas within MBS Sites and all areas outside MBS Sites are lands where native plant communities have been seriously altered or destroyed by human activities such as farming, recent logging, draining, and development.",
@@ -8,7 +7,7 @@
   "dc_language_sm": [
     "English"
   ],
-  "dc_type_s": "Dataset",
+  "dc_type_sm": "Dataset",
   "dc_publisher_sm": [
     "Minnesota Department of Natural Resources (DNR)"
   ],
@@ -19,7 +18,7 @@
     "Biota"
   ],
   "dct_provenance_s": "Minnesota",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/e6eebf06-6b43-4947-b1f4-cb3950bf32ea\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/biota_mcbs_sites_of_biodiversity/fgdb_biota_mcbs_sites_of_biodiversity.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/biota_mcbs_sites_of_biodiversity/metadata/metadata.xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/e6eebf06-6b43-4947-b1f4-cb3950bf32ea\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/biota_mcbs_sites_of_biodiversity/fgdb_biota_mcbs_sites_of_biodiversity.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/biota_mcbs_sites_of_biodiversity/metadata/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/biota_mcbs_sites_of_biodiversity/metadata/metadata.xml\"}",
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
@@ -32,13 +31,20 @@
   ],
   "layer_slug_s": "e6eebf06-6b43-4947-b1f4-cb3950bf32ea",
   "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2018-04-30T14:29:17Z",
+  "layer_modified_dt": "2018-06-26T17:12:31Z",
   "solr_geom": "ENVELOPE(-96.810586, -89.787973, 49.015581, 43.436203)",
-  "solr_year_i": 2017,
-  "centroid_s": "46.225892,-93.2992795",
+  "solr_year_i": 2018,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "46.225892,-93.2992795",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/5037779"
   ],
-  "thumbnail_path_ss": "http://btaagdp.org/data-portals/files/original/a8fdfe4da7010a5fa9780dc29db0dc71.jpg",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/biota_mcbs_sites_of_biodiversity/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
   "geoblacklight_version": "1.0"
 }
