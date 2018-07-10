@@ -1,0 +1,53 @@
+{
+  "dc_identifier_s": "c26c4e138f474eb1af7b25df5b8729ee_1",
+  "dc_title_s": "Abandoned Rail Lines: Iowa",
+  "dc_description_s": "This layer depicts abandoned rail lines in Iowa.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Iowa Department of Transportation"
+  ],
+  "dc_creator_sm": [
+    "Iowa DOT GIS Services"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Iowa",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://public-iowadot.opendata.arcgis.com/datasets/c26c4e138f474eb1af7b25df5b8729ee_1\",\"http://schema.org/downloadUrl\":\"https://hub.arcgis.com/datasets/53613debbedc4f3aa589470892f169b6_24,\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://public-iowadot.opendata.arcgis.com/datasets/c26c4e138f474eb1af7b25df5b8729ee_1\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2017-03-24",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Iowa, United States"
+  ],
+  "layer_slug_s": "c26c4e138f474eb1af7b25df5b8729ee_1",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:54Z",
+  "solr_geom": "ENVELOPE(-96.5952, -90.0862, 43.5322, 40.3576)",
+  "solr_year_i": 2017,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "41.9449,-93.3407",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

@@ -1,0 +1,54 @@
+{
+  "dc_identifier_s": "a9ba5c32c24b433599e03af6d3b0cb7c_69",
+  "dc_title_s": "Land Boundary Changes: Washington, DC, 2018",
+  "dc_description_s": "This layer is derived from the Common Ownership Lots and represents property transactions as they've occurred since the implementation of the Vector Property Mapping program in September 2006. A property transaction entails new geometry (split/combination of Lot(s) or property type conversion (from Air Rights, Record, or Tax Lots to Condo lots). The layer contains locations and attributes of archived features (inactive lots or dead lots) and corresponds with OTR's Public Extract files (ITSPE). The data was created as part of the DC Geographic Information System (DC GIS) for the DC Office of the Chief Technology Officer (OCTO) and participating DC government agencies (Office of the Surveyor (OS) Real Property Tax Administration (RPTA)). The creation of this layer is automated. It occurs weekly for the current calendar year and geometry updated when a transaction occurs.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/a9ba5c32c24b433599e03af6d3b0cb7c_69\",\"http://schema.org/downloadUrl\":\"https://hub.arcgis.com/datasets/1323e887f5824467b7537969f098cd71_2,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"http://opendata.dc.gov/datasets/a9ba5c32c24b433599e03af6d3b0cb7c_69\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2018-03-16",
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dct_spatial_sm": [
+    "Washington, DC, District of Columbia, United States",
+    "District of Columbia, United States"
+  ],
+  "layer_slug_s": "a9ba5c32c24b433599e03af6d3b0cb7c_69",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2018-07-10T14:45:54Z",
+  "solr_geom": "ENVELOPE(-77.1194, -76.9093, 38.9960, 38.8016)",
+  "solr_year_i": 2018,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "38.8988,-77.01435",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

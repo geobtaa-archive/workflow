@@ -1,0 +1,53 @@
+{
+  "dc_identifier_s": "00e99d669ce842358269ade6dd80832a_88",
+  "dc_title_s": "Specialty Lighting: Washington, D.C.",
+  "dc_description_s": "Street Light Poles. The dataset contains locations and attributes of street lights, created as part of the District of Columbia, Department of Transportation (DDOT) Street Spatial Database (SSD). A database provided by the District of Columbia, Department of Transportation identified Street Lights. All DC GIS data is stored and exported in Maryland State Plane coordinates NAD 83 meters. METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Utilities and Communication"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/00e99d669ce842358269ade6dd80832a_88\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/e1b48ed01828470d9df38e30e9a3597e_103,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://opendata.dc.gov/datasets/00e99d669ce842358269ade6dd80832a_88\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "layer_slug_s": "00e99d669ce842358269ade6dd80832a_88",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:46:07Z",
+  "solr_geom": "ENVELOPE(-77.112196973, -76.9128786282, 38.9917324326, 38.8214676823)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "38.9066000575,-77.0125378006",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

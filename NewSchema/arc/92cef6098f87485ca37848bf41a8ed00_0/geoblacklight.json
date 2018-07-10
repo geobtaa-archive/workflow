@@ -1,0 +1,54 @@
+{
+  "dc_identifier_s": "92cef6098f87485ca37848bf41a8ed00_0",
+  "dc_title_s": "Traffic Crashes: SE Michigan, 2013",
+  "dc_description_s": "Traffic Crashes in Southeast Michigan, 2013.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "SEMCOG, Southeast Michigan Council of Governments"
+  ],
+  "dc_creator_sm": [
+    "Southeast Michigan Council of Governments"
+  ],
+  "dc_subject_sm": [
+    "Location",
+    "Transportation"
+  ],
+  "dct_provenance_s": "Michigan",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://maps-semcog.opendata.arcgis.com/datasets/92cef6098f87485ca37848bf41a8ed00_0\",\"http://schema.org/downloadUrl\":\"http://gis-michigan.opendata.arcgis.com/datasets/74cfedd60b2b47a59c6dd9a9c9af0f2e_3,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"http://maps-semcog.opendata.arcgis.com/datasets/92cef6098f87485ca37848bf41a8ed00_0\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2018-02-16",
+  "dct_temporal_sm": [
+    "2013"
+  ],
+  "dct_spatial_sm": [
+    "Michigan, United States"
+  ],
+  "layer_slug_s": "92cef6098f87485ca37848bf41a8ed00_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:54Z",
+  "solr_geom": "ENVELOPE(-84.1521, -82.4159, 43.1837, 41.7117)",
+  "solr_year_i": 2013,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "42.4477,-83.284",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

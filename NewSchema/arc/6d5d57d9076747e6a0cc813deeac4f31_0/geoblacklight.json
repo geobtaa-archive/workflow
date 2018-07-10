@@ -1,0 +1,54 @@
+{
+  "dc_identifier_s": "6d5d57d9076747e6a0cc813deeac4f31_0",
+  "dc_title_s": "Property Sales: Minneapolis, Minnesota, 2006-2009",
+  "dc_description_s": "The Minneapolis Assessor's Office tracks and records every real property transaction in the city. This is public information. Attributes included in the dataset: CRV - Certificate of Real Estate Value number. A unique identifier given to every certificate of real estate value. PIN - the 13-digit tax ID that uniquely identifies a taxable parcel. Sale_Date - the date of the sale. InRTOStudy - yes or no depending on whether the sale was used for the Minnesota Department of Revenue Sales Ratio Study. Only sales that are considered fair market value sales are included. Neighborhood - the name of the neighborhood the property is in. Ward - the number of the ward that the property is in. Address - the street address of the property. Grantee - the buyer name. Grantor - the seller name. Adjusted_Sale_Price - the sale price after accounting for seller-paid adjustments. Gross_Sale_Price - the unadjusted sale price. Downpayment - the dollar value of the initial downpayment X - the X coordinate of the parcel centroid of the sold property Y - the Y coordinate of the parcel centroid of the sold property The coordinates are expressed in the NAD 83 Hennepin County HARN coordinate system (WKID: 103734)",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Minneapolis, Minnesota"
+  ],
+  "dc_creator_sm": [
+    "MapIT Minneapolis"
+  ],
+  "dc_subject_sm": [
+    "Economy"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://opendata.minneapolismn.gov/datasets/6d5d57d9076747e6a0cc813deeac4f31_0\",\"http://schema.org/downloadUrl\":\"https://public-iowadot.opendata.arcgis.com/datasets/465f0ad89ad74fec831b3f457fe3f190_0,\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://opendata.minneapolismn.gov/datasets/6d5d57d9076747e6a0cc813deeac4f31_0\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2016-10-04",
+  "dct_temporal_sm": [
+    "2006-2009"
+  ],
+  "dct_spatial_sm": [
+    "Minneapolis, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "6d5d57d9076747e6a0cc813deeac4f31_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:38Z",
+  "solr_geom": "ENVELOPE(-93.329163, -93.193794, 45.05125, 44.890144)",
+  "solr_year_i": 2006,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.970697,-93.2614785",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

@@ -1,0 +1,54 @@
+{
+  "dc_identifier_s": "40796e321ad54270a270484b866d5bb6_6",
+  "dc_title_s": "Parking Violations Issued in July 2017: Washington, D.C.",
+  "dc_description_s": "Parking citation locations in the District of Columbia. The'Vision Zero'data contained in this layer pertain to parking violations issued by the District of Columbia's'Metropolitan Police Department (MPD)'and partner agencies with the authority. For example, the'District Department of Transportation's (DDOT)'traffic control officers write parking'violations'to prevent congestion through enforcement and control at intersections.Parking violation locations are summarized ticket counts based on time of day, week of year, year, and category of violation.Data was originally downloaded from the'District Department of Motor Vehicle's'eTIMS meter work order management system. Data was exported into DDOT's SQL server, where the'Office of'the Chief Technology Officer (OCTO)'geocoded citation data to the street segment level. Data was then visualized using the street segment centroid'coordinates.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Transportation",
+    "Society"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/40796e321ad54270a270484b866d5bb6_6\",\"http://schema.org/downloadUrl\":\"https://hub.arcgis.com/datasets/27fec672702f4bd581a526c7ec183dab_3,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://opendata.dc.gov/datasets/40796e321ad54270a270484b866d5bb6_6\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2017-11-06",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "layer_slug_s": "40796e321ad54270a270484b866d5bb6_6",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:46:24Z",
+  "solr_geom": "ENVELOPE(-77.1032, -76.9141, 38.9841, 38.8228)",
+  "solr_year_i": 2017,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "38.90345,-77.00865",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

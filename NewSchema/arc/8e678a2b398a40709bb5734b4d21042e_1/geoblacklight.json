@@ -1,0 +1,53 @@
+{
+  "dc_identifier_s": "8e678a2b398a40709bb5734b4d21042e_1",
+  "dc_title_s": "Local Economic Development - Regional Economic Development Offices: Maryland",
+  "dc_description_s": "This is a MD iMAP hosted service. Find more information on: http://imap.maryland.govThis layer contains information on regional economic development offices throughout the state of Maryland. Last updated: 9/29/2016",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dc_creator_sm": [
+    "Maryland iMap"
+  ],
+  "dc_subject_sm": [
+    "Economy"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.imap.maryland.gov/datasets/8e678a2b398a40709bb5734b4d21042e_1\",\"http://schema.org/downloadUrl\":\"https://data.imap.maryland.gov/datasets/a410f5b3750d4239aeac08388dd03095_12,\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://data.imap.maryland.gov/datasets/8e678a2b398a40709bb5734b4d21042e_1\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2016",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Maryland, United States"
+  ],
+  "layer_slug_s": "8e678a2b398a40709bb5734b4d21042e_1",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:22Z",
+  "solr_geom": "ENVELOPE(-76.6896, -76.6119, 39.2873, 39.2071)",
+  "solr_year_i": 2016,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "39.2472,-76.65075",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

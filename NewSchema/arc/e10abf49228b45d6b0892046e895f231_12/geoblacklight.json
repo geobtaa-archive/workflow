@@ -1,0 +1,53 @@
+{
+  "dc_identifier_s": "e10abf49228b45d6b0892046e895f231_12",
+  "dc_title_s": "Permanent Traffic Count Stations: Washington, D.C.",
+  "dc_description_s": "The dataset contains location and attributes of traffic controls located at each intersection in the District of Columbia. All traffic poles, pavement markings, traffic cabinets and cameras located within 10 meters of curb face intersections are collected. Poles must support traffic control devices in order to be collected. This includes traffic control signs, traffic signals, traffic arms and cameras. The data set does not include poles supporting only name plate signs and parking enforcement signs.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/e10abf49228b45d6b0892046e895f231_12\",\"http://schema.org/downloadUrl\":\"https://hub.arcgis.com/datasets/0be25c05c8ca4763b7ea1031f8d99171_26,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://opendata.dc.gov/datasets/e10abf49228b45d6b0892046e895f231_12\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "layer_slug_s": "e10abf49228b45d6b0892046e895f231_12",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:46:24Z",
+  "solr_geom": "ENVELOPE(-77.1118389563, -76.9338685192, 38.9922776185, 38.854759792)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "38.9235187053,-77.0228537378",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

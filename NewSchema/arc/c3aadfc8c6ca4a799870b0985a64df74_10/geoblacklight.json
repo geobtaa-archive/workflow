@@ -1,0 +1,57 @@
+{
+  "dc_identifier_s": "c3aadfc8c6ca4a799870b0985a64df74_10",
+  "dc_title_s": "Transfer of Development Rights Zoning: Washington, D.C.",
+  "dc_description_s": "TDR (Transfer of Development Rights) is a tool to solve the problem that occurs when a landowner owns land in a Zone where development is (or has become) restricted (due to it being designated for Historic Preservation or other municipal use). The landowner can then be compensated by transferring his right to develop to an area where such development is encouraged a TDR Receiving Zone; this is what the TDR polygons in the Zoning map represent. All DC GIS data is stored and exported in Maryland State Plane coordinates NAD 83 meters. This layer contains complete theoretical address ranges. METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral",
+    "Planning",
+    "Land use",
+    "Zoning",
+    "Transfer of development rights"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/c3aadfc8c6ca4a799870b0985a64df74_10\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/d2a63e5246ff41bdaca8ea9be95c8a4b_9,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://opendata.dc.gov/datasets/c3aadfc8c6ca4a799870b0985a64df74_10\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "layer_slug_s": "c3aadfc8c6ca4a799870b0985a64df74_10",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:53Z",
+  "solr_geom": "ENVELOPE(-77.0488375656, -77.0020403876, 38.910795098, 38.8764532654)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "38.8936241817,-77.0254389766",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

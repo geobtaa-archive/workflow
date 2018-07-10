@@ -1,0 +1,58 @@
+{
+  "dc_identifier_s": "3a17cbe9e2ae406d9f87a9f8bd253b77_0",
+  "dc_title_s": "Respresentatives by State Districts: Ohio",
+  "dc_description_s": "Representatives by State of Ohio House district, for the 131st Ohio General Assembly. Geography: Ohio Senate districts. Source: http://www.ohiosenate.gov. Updated: January, 2015.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Ohio Geographically Referenced Information Program"
+  ],
+  "dc_creator_sm": [
+    "Mid-Ohio Regional Planning Commission"
+  ],
+  "dc_subject_sm": [
+    "Boundaries",
+    "Society",
+    "State government",
+    "Districts",
+    "People"
+  ],
+  "dct_provenance_s": "Ohio",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://ogrip-geohio.opendata.arcgis.com/datasets/5bc259e1a7534e0387ddba05bf425fcb_0\",\"http://schema.org/downloadUrl\":\"https://ogrip-geohio.opendata.arcgis.com/datasets/5bc259e1a7534e0387ddba05bf425fcb_0.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://arcgisserver2.morpc.org/arcgis/rest/services/legislative/OhioStateHouse/MapServer/0\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2016-08-10",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "Ohio, United States"
+  ],
+  "layer_slug_s": "3a17cbe9e2ae406d9f87a9f8bd253b77_0",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2018-07-10T14:46:23Z",
+  "solr_geom": "ENVELOPE(-84.8203, -80.5185, 41.9775, 38.4034)",
+  "solr_year_i": 2016,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "40.19045,-82.6694",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

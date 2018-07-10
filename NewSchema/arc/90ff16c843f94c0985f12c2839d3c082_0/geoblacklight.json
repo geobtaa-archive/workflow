@@ -1,0 +1,58 @@
+{
+  "dc_identifier_s": "90ff16c843f94c0985f12c2839d3c082_0",
+  "dc_title_s": "Biosolid Application Disposal Fields: Ohio",
+  "dc_description_s": "Map Service showing the location and details of drinking water advisories at Ohio public water systems.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Ohio Geographically Referenced Information Program"
+  ],
+  "dc_creator_sm": [
+    "Ohio Environmental Protection Agency"
+  ],
+  "dc_subject_sm": [
+    "Environment",
+    "Utilities and Communication",
+    "Wastewater",
+    "Facilities",
+    "Disposal"
+  ],
+  "dct_provenance_s": "Ohio",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://ogrip-geohio.opendata.arcgis.com/datasets/6a9c5c09abf642c8b8cb35c9387338cb_3\",\"http://schema.org/downloadUrl\":\"https://ogrip-geohio.opendata.arcgis.com/datasets/6a9c5c09abf642c8b8cb35c9387338cb_3.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://epagistest2.oit.ohio.gov/arcgis/rest/services/WM/DSW/MapServer/3\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2017-06-29",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dct_spatial_sm": [
+    "Ohio, United States"
+  ],
+  "layer_slug_s": "90ff16c843f94c0985f12c2839d3c082_0",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2018-07-10T14:46:24Z",
+  "solr_geom": "ENVELOPE(-84.8161, -80.5190, 41.9283, 38.4195)",
+  "solr_year_i": 2017,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "40.1739,-82.66755",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

@@ -1,0 +1,54 @@
+{
+  "dc_identifier_s": "944cbb45a5fd4f6dbee2f7136f166184_0",
+  "dc_title_s": "Police Incidents: Minneapolis, Minnesota, 2013",
+  "dc_description_s": "For questions about this data please contact PoliceOpenData@minneapolismn.gov Police Incidents for 2013",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Minneapolis, Minnesota"
+  ],
+  "dc_creator_sm": [
+    "MapIT Minneapolis"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://opendata.minneapolismn.gov/datasets/944cbb45a5fd4f6dbee2f7136f166184_0\",\"http://schema.org/downloadUrl\":\"https://public-iowadot.opendata.arcgis.com/datasets/67344148ba23423bae9533d0206b1c08_0,\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://opendata.minneapolismn.gov/datasets/944cbb45a5fd4f6dbee2f7136f166184_0\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2017-03-06",
+  "dct_temporal_sm": [
+    "2013"
+  ],
+  "dct_spatial_sm": [
+    "Minneapolis, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "944cbb45a5fd4f6dbee2f7136f166184_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:38Z",
+  "solr_geom": "ENVELOPE(-93.329163, -93.193794, 45.05125, 44.890144)",
+  "solr_year_i": 2013,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.970697,-93.2614785",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

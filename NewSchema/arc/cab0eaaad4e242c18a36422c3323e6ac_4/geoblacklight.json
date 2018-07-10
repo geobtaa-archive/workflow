@@ -1,0 +1,54 @@
+{
+  "dc_identifier_s": "cab0eaaad4e242c18a36422c3323e6ac_4",
+  "dc_title_s": "Libraries: Washington, D.C.",
+  "dc_description_s": "This dataset contains points representing locations of public librariesC. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies. <a href=\"http://geospatial.dcgis.dc.gov/dc_kmz/metadata/LibraryPt.html\" target=\"_blank\">Metadata",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Cultural"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/cab0eaaad4e242c18a36422c3323e6ac_4\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/d8cc414a97e247dc8ab7897777155aba_9,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://opendata.dc.gov/datasets/cab0eaaad4e242c18a36422c3323e6ac_4\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "layer_slug_s": "cab0eaaad4e242c18a36422c3323e6ac_4",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:53Z",
+  "solr_geom": "ENVELOPE(-77.0972590098, -76.9294869642, 38.9802836759, 38.8312906025)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "38.9057871392,-77.013372987",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

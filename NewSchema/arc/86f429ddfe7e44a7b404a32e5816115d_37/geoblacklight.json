@@ -1,0 +1,58 @@
+{
+  "dc_identifier_s": "86f429ddfe7e44a7b404a32e5816115d_37",
+  "dc_title_s": "Obstructed Areas: Washington, D.C.",
+  "dc_description_s": "Obscured Areas. The dataset contains polygons representing planimetric obscured areasC. Office of the Chief Technology Officer (OCTO). This is a complete new capture from aerial photography flown in mid to Late April This is part of a comprehensive sensor collection effort to sychronize orthophotos The following planimetric layers were updated: - Barrier Lines- Building Polygons- Bridge and Tunnel Polygons- Curb Lines- Grate Points- Horizontal and Vertical Control Points- Hydrography Lines- Obscured Area Polygons- Railroad Lines- Road FOR THESE AREAS",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps",
+    "Structure",
+    "Political",
+    "Administrative",
+    "Building",
+    "Planimetrics"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/86f429ddfe7e44a7b404a32e5816115d_37\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/977602b156f74e41ae2dabbfaca42e20_3,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://opendata.dc.gov/datasets/86f429ddfe7e44a7b404a32e5816115d_37\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "layer_slug_s": "86f429ddfe7e44a7b404a32e5816115d_37",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:53Z",
+  "solr_geom": "ENVELOPE(-77.1111295195, -76.9124943808, 38.9912321372, 38.8097532443)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "38.9004926907,-77.0118119501",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

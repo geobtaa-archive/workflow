@@ -1,0 +1,53 @@
+{
+  "dc_identifier_s": "e0d93774f3e4453cbc61f256b1080383_29",
+  "dc_title_s": "Neighborhood Planning Areas: Washington, D.C.",
+  "dc_description_s": "The dataset contains locations and attributes of Neighborhood Planning Areas provided by the Office of Planning (DCOP). These do not reflect precise neighborhood locations and do not necessarily include all commonly-used neighborhood designations. There is no formal set of standards that describes which neighborhoods are included in this dataset. Note that the District of Columbia does not have official neighborhood boundaries.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/e0d93774f3e4453cbc61f256b1080383_29\",\"http://schema.org/downloadUrl\":\"https://accessoakland.oakgov.com/datasets/efdcb17c2a7840e99af8a2a3f0eed586_17,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://opendata.dc.gov/datasets/e0d93774f3e4453cbc61f256b1080383_29\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "layer_slug_s": "e0d93774f3e4453cbc61f256b1080383_29",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:46:24Z",
+  "solr_geom": "ENVELOPE(-77.1194, -76.9092, 38.9957, 38.8034)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "38.89955,-77.0143",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

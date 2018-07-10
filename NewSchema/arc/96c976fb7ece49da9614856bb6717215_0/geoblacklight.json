@@ -1,0 +1,58 @@
+{
+  "dc_identifier_s": "96c976fb7ece49da9614856bb6717215_0",
+  "dc_title_s": "Ohio River Source Water Protection Areas, Drinking Water: Ohio",
+  "dc_description_s": "The Ohio Source Water Protection Program is intended to protect Ohio's streams, rivers, lakes, reservoirs, and ground waters used for public drinking water from future contamination. To protect drinking water supplies, a protection area is delineated based on the area that supplies water to the well or surface water intake. A Drinking Water Source Water Protection Area for a public water system using ground water is the surface and subsurface area surrounding a public water supply well(s) which will provide water from an aquifer to the well(s) within five years as delineated or endorsed by the agency under Ohio's Wellhead Protection and Source Water Assessment and Protection Programs. The Inner Management Zone is the surface and subsurface area surrounding a public water supply well(s) that will provide water to the well(s) within one year as delineated or endorsed by the agency under the wellhead protection program and the source water assessment and protection program. Several types of source water protection areas have been defined for surface water supplied water systems. The definiton and the method of delineation are based on the type of water body from which the system withdrawls water. The waterbody types are 1) interior lakes, rivers or streams, 2) the Ohio River or 3) Lake Erie. All of these areas are delineated or endorsed by Ohio EPA under Ohio's Source Water Assessment and Protection Program. For systems with intakes on interior lakes, rivers and streams, three types of areas are defined: 1) the Drinking Water Source Protection Area (DWSPA)- the drainage area upstream of the point where a public water system withdraws water from a surface source; 2) the Corridor Managment Zone (CMZ) - the surface and subsurface area where the potential for drinking water contamination warrants delineation, inventory, and management because of its proximity to a public water system intake; and 3) the Emergency Management Zone - the surface and subsurface area in the immediate vicinity of a public water system intake. For systems with intakes on Lake Erie, a Critical Area Zone (CAZ) is delineated. The size of the CAZ is based upon the sensitivity of the intake to contamination which is determined by its depth and distance from shore. The shape and extent of this area may be modified to take into account site specific conditions. Contaminants within this zone can quickly impact water quality at the intake. A Potential Influence Zone (PIZ) may also be delineated. The PIZ is the area along the lake shore and any contributing tributaries up to the point of known contaminant sources and the length of shoreline where pollutants may become a threat to the intake. Public water systems with intakes on the Ohio River have three zones defined. Zone 1, or the Zone of Critical Concern, extends one quarter mile below a water intake to 25 miles upstream in the Ohio River. Zone 2, the Zone of High Concern extends one quarter mile below a surface water intake, upstream, to one quarter mile below the next Ohio River intake. Major tributaries are incorporated within a 25 mile distance upstream from the intake. Zone 3 is the Source Water Area, or the entire portion of the Ohio River Basin upstream from the surface water intake.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Ohio Geographically Referenced Information Program"
+  ],
+  "dc_creator_sm": [
+    "Ohio Environmental Protection Agency"
+  ],
+  "dc_subject_sm": [
+    "Environment",
+    "Health",
+    "Water supply",
+    "Environmental protection",
+    "Rivers"
+  ],
+  "dct_provenance_s": "Ohio",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://ogrip-geohio.opendata.arcgis.com/datasets/1a3fed94104e4dc7a0bfce84f7e6718e_4\",\"http://schema.org/downloadUrl\":\"https://ogrip-geohio.opendata.arcgis.com/datasets/1a3fed94104e4dc7a0bfce84f7e6718e_4.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://epagistest2.oit.ohio.gov/arcgis/rest/services/WM/DDAGW_SWP/MapServer/4\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2016-07-07",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "Ohio, United States"
+  ],
+  "layer_slug_s": "96c976fb7ece49da9614856bb6717215_0",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2018-07-10T14:46:23Z",
+  "solr_geom": "ENVELOPE(-85.0000, -80.0000, 42.2000, 38.0000)",
+  "solr_year_i": 2016,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "40.1,-82.5",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

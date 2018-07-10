@@ -1,0 +1,55 @@
+{
+  "dc_identifier_s": "a657b34942564aa8b06f293cb0934cbd_1",
+  "dc_title_s": "Building Footprints: Washington, D.C.",
+  "dc_description_s": "Building. The dataset contains polygons representing planimetric buildingsC. Office of the Chief Technology Officer (OCTO). This is a complete new capture from aerial photography flown in mid to Late April This is part of a comprehensive sensor collection effort to sychronize orthophotos The following planimetric layers were updated: - Barrier Lines- Building Polygons- Bridge and Tunnel Polygons- Curb Lines- Grate Points- Horizontal and Vertical Control Points- Hydrography Lines- Obscured Area Polygons- Railroad Lines- Road FOR THESE AREAS",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Structure",
+    "Building",
+    "Planimetrics"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/a657b34942564aa8b06f293cb0934cbd_1\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/aff6d1d7944a40b58e3f483c453fdcde_87,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://opendata.dc.gov/datasets/a657b34942564aa8b06f293cb0934cbd_1\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "layer_slug_s": "a657b34942564aa8b06f293cb0934cbd_1",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:53Z",
+  "solr_geom": "ENVELOPE(-77.115184957, -76.9095762926, 38.995622468, 38.8103602034)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "38.9029913357,-77.0123806248",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

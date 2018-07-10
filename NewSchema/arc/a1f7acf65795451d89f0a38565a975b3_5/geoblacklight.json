@@ -1,0 +1,54 @@
+{
+  "dc_identifier_s": "a1f7acf65795451d89f0a38565a975b3_5",
+  "dc_title_s": "Capital Bike Share Locations: Washington, D.C.",
+  "dc_description_s": "Capital Bike Share locations. The dataset contains locations and attributes of Capital Bike Share sitesC. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies. A database provided by Department of Real Estate Services identified Capital Bike Share locations. These are offer bikes to travel throughout the District for a fee. All DC GIS data is stored and exported in Maryland State Plane coordinates NAD 83 meters. METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Location",
+    "Bicycles"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/a1f7acf65795451d89f0a38565a975b3_5\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/ad4598e6bbca4e148c256d003c6b5197_5,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://opendata.dc.gov/datasets/a1f7acf65795451d89f0a38565a975b3_5\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "layer_slug_s": "a1f7acf65795451d89f0a38565a975b3_5",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:53Z",
+  "solr_geom": "ENVELOPE(-77.176, -76.896, 39.035, 38.755)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "38.895,-77.036",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

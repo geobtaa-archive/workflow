@@ -1,0 +1,55 @@
+{
+  "dc_identifier_s": "850232079ec241d187828ed1bf079123_55",
+  "dc_title_s": "DC Circulator Routes: Washington, D.C.",
+  "dc_description_s": "DC Circulator Bus Lines. The dataset contains locations and attributes of DC Circulator LinesC. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies. A database provided by the District Department of Transportation identified DC Circulator Lines. DC Circulator is a local transit option that provides access between key and popular locations in the District. All DC GIS data is stored and exported in Maryland State Plane coordinates NAD 83 meters. METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Transportation",
+    "Bus",
+    "Transit"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/850232079ec241d187828ed1bf079123_55\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/950581a796464df0a5b2496ee9790bfa_8,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://opendata.dc.gov/datasets/850232079ec241d187828ed1bf079123_55\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "layer_slug_s": "850232079ec241d187828ed1bf079123_55",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:53Z",
+  "solr_geom": "ENVELOPE(-77.0725822964, -76.9644629059, 38.9288111797, 38.8579414335)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "38.8933763066,-77.0185226012",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

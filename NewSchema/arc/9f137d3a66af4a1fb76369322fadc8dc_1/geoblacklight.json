@@ -1,0 +1,56 @@
+{
+  "dc_identifier_s": "9f137d3a66af4a1fb76369322fadc8dc_1",
+  "dc_title_s": "Check Cashing Locations: Washington, D.C.",
+  "dc_description_s": "CheckCasher locations without payday lending authority. The dataset contains locations and attributes of checkcashersC. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies. A database provided by the Department of Insurance All DC GIS data is stored and exported in Maryland State Plane coordinates NAD 83 meters. METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Location",
+    "Economy",
+    "Business",
+    "Business"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/9f137d3a66af4a1fb76369322fadc8dc_1\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/aa514416aaf74fdc94748f1e56e7cc8a_0,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://opendata.dc.gov/datasets/9f137d3a66af4a1fb76369322fadc8dc_1\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "layer_slug_s": "9f137d3a66af4a1fb76369322fadc8dc_1",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:53Z",
+  "solr_geom": "ENVELOPE(-77.0960477077, -76.9231550384, 38.9827332795, 38.8224330195)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "38.9025831495,-77.0096013731",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

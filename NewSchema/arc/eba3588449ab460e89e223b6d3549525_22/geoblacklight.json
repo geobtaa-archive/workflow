@@ -1,0 +1,53 @@
+{
+  "dc_identifier_s": "eba3588449ab460e89e223b6d3549525_22",
+  "dc_title_s": "Residential Wireline Adoption Rate Census Tract: Washington, D.C.",
+  "dc_description_s": "<a href=\"http://geospatial.dcgis.dc.gov/dc_kmz/metadata/BB_ResAdopt_2010Census.html\" target=\"_blank\">Metadata",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Utilities and Communication"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/eba3588449ab460e89e223b6d3549525_22\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/f63375d046634e9e8bbf2b5a0b03002b_19,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://opendata.dc.gov/datasets/eba3588449ab460e89e223b6d3549525_22\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "layer_slug_s": "eba3588449ab460e89e223b6d3549525_22",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:54Z",
+  "solr_geom": "ENVELOPE(-77.1198622288, -76.9092620949, 38.9958093306, 38.7915902888)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "38.8936998097,-77.0145621618",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

@@ -1,0 +1,54 @@
+{
+  "dc_identifier_s": "30dc1c9c4b34449ebb4017c13de52d59_8",
+  "dc_title_s": "Marion County Streams, Indianapolis, Indiana",
+  "dc_description_s": "Line file containing Marion County Indiana stream locations and names.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Indianapolis-Marion County"
+  ],
+  "dc_creator_sm": [
+    "City of Indianapolis-Marion County"
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "dct_provenance_s": "Indiana",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data1-indygis.opendata.arcgis.com/datasets/30dc1c9c4b34449ebb4017c13de52d59_8\",\"http://schema.org/downloadUrl\":\"https://data1-indygis.opendata.arcgis.com/datasets/d1d0e6225339440181b09b62b9c0fb87_6,\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://data1-indygis.opendata.arcgis.com/datasets/30dc1c9c4b34449ebb4017c13de52d59_8\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015-08-11",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Indianapolis, Indiana, United States",
+    "Indiana, United States"
+  ],
+  "layer_slug_s": "30dc1c9c4b34449ebb4017c13de52d59_8",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:22Z",
+  "solr_geom": "ENVELOPE(-86.3469, -85.9172, 39.9417, 39.6212)",
+  "solr_year_i": 2016,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "39.78145,-86.13205",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

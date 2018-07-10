@@ -1,0 +1,53 @@
+{
+  "dc_identifier_s": "8284c279de3a42a29d87a36adf518158_100",
+  "dc_title_s": "VRE Routes: Washington, D.C.",
+  "dc_description_s": "The RAILRDS layer contains Railroad features represented as lines and polylines. Attributes for this layer include the name of the railroad This layer is used primarily for map visualization. <a href=\"http://geospatial.dcgis.dc.gov/dc_kmz/metadata/VRE_Lines.html\" target=\"_blank\">Metadata",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/8284c279de3a42a29d87a36adf518158_100\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/9005ddd3fd724b5b8b2ac4ecb635c52c_28,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://opendata.dc.gov/datasets/8284c279de3a42a29d87a36adf518158_100\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "layer_slug_s": "8284c279de3a42a29d87a36adf518158_100",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:53Z",
+  "solr_geom": "ENVELOPE(-77.176, -76.896, 39.035, 38.755)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "38.895,-77.036",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

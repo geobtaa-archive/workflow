@@ -1,0 +1,54 @@
+{
+  "dc_identifier_s": "06bdfb77642545af9dbe6cf592602b78_4",
+  "dc_title_s": "Marion County Watersheds, Indianapolis, Indiana",
+  "dc_description_s": "Polygon file depicting watershed boundaries within Marion County, Indiana. Data projection: NAD 1983 StatePlane Indiana East FIPS 1301 (US Feet)",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Indianapolis-Marion County"
+  ],
+  "dc_creator_sm": [
+    "City of Indianapolis-Marion County"
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "dct_provenance_s": "Indiana",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data1-indygis.opendata.arcgis.com/datasets/06bdfb77642545af9dbe6cf592602b78_4\",\"http://schema.org/downloadUrl\":\"https://hub.arcgis.com/datasets/269f5b90827b49c18a8b8629e2916130_1,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://data1-indygis.opendata.arcgis.com/datasets/06bdfb77642545af9dbe6cf592602b78_4\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015-11-20",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Indianapolis, Indiana, United States",
+    "Indiana, United States"
+  ],
+  "layer_slug_s": "06bdfb77642545af9dbe6cf592602b78_4",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:46:08Z",
+  "solr_geom": "ENVELOPE(-86.3291, -85.9369, 39.9278, 39.6322)",
+  "solr_year_i": 2016,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "39.78,-86.133",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

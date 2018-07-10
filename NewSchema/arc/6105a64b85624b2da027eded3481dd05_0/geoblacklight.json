@@ -1,0 +1,55 @@
+{
+  "dc_identifier_s": "6105a64b85624b2da027eded3481dd05_0",
+  "dc_title_s": "Tornado Start or Touchdown: Oakland County, Michigan",
+  "dc_description_s": "Tornado paths and starting/touchdown points in Oakland County, Michigan circa 1953-2015. Data provided by NOAA, OCIT, and Matt Malone of Farmington Hills GIS. Originally published with the April 2017 Map of the Month: Tornadoes in Oakland County.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Oakland County, Michigan"
+  ],
+  "dc_creator_sm": [
+    "Access Oakland"
+  ],
+  "dc_subject_sm": [
+    "Climatology, Meteorology and Atmosphere",
+    "Location"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://accessoakland.oakgov.com/datasets/6105a64b85624b2da027eded3481dd05_0\",\"http://schema.org/downloadUrl\":\"https://data.imap.maryland.gov/datasets/03ecb47e422a4d96b8034f444b33cd35_38,\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://accessoakland.oakgov.com/datasets/6105a64b85624b2da027eded3481dd05_0\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2017-04-21",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Oakland County, Michigan, United States",
+    "Michigan, United States"
+  ],
+  "layer_slug_s": "6105a64b85624b2da027eded3481dd05_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:38Z",
+  "solr_geom": "ENVELOPE(-83.80489046585257, -82.85295522894917, 42.91161414263714, 42.42341988042328)",
+  "solr_year_i": 2017,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "42.6675170115,-83.3289228474",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

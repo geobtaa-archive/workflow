@@ -1,0 +1,53 @@
+{
+  "dc_identifier_s": "3c8c90b33dbe41cd965634dda58dfd80_7",
+  "dc_title_s": "Address and Square Suffix Lot Cross Reference: Washington, D.C.",
+  "dc_description_s": "Use this table to cross reference the District's address points with the square suffix and lot boundaries.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Location"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/3c8c90b33dbe41cd965634dda58dfd80_7\",\"http://schema.org/downloadUrl\":\"https://ogrip-geohio.opendata.arcgis.com/datasets/4b13b36355e6498d9b4312648ae756b3_9,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://opendata.dc.gov/datasets/3c8c90b33dbe41cd965634dda58dfd80_7\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2016",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "layer_slug_s": "3c8c90b33dbe41cd965634dda58dfd80_7",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:46:23Z",
+  "solr_geom": "ENVELOPE(-77.176, -76.896, 39.035, 38.755)",
+  "solr_year_i": 2016,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "38.895,-77.036",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

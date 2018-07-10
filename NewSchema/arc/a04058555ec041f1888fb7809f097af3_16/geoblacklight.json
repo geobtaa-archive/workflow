@@ -1,0 +1,54 @@
+{
+  "dc_identifier_s": "a04058555ec041f1888fb7809f097af3_16",
+  "dc_title_s": "Aerial Survey 2005 Pattern: Michigan",
+  "dc_description_s": "Aerial Survey 2005 Pattern",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Michigan"
+  ],
+  "dc_creator_sm": [
+    "Minnesota Department of Natural Resources"
+  ],
+  "dc_subject_sm": [
+    "Environment",
+    "Economy"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://hub.arcgis.com/datasets/a04058555ec041f1888fb7809f097af3_16\",\"http://schema.org/downloadUrl\":\"https://public-iowadot.opendata.arcgis.com/datasets/a7ad89230f9f460bb60986c8462b6230_0,\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://hub.arcgis.com/datasets/a04058555ec041f1888fb7809f097af3_16\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2016-07-07",
+  "dct_temporal_sm": [
+    "2005"
+  ],
+  "dct_spatial_sm": [
+    "Michigan, United States"
+  ],
+  "layer_slug_s": "a04058555ec041f1888fb7809f097af3_16",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:54Z",
+  "solr_geom": "ENVELOPE(-89.8694, -83.2148, 48.0902, 42.4898)",
+  "solr_year_i": 2016,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "45.29,-86.5421",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

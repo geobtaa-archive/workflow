@@ -1,0 +1,54 @@
+{
+  "dc_identifier_s": "c8a3fecfa023491a9a00cc84015c465a_2",
+  "dc_title_s": "Land Restoration Program Determinations by Property Areas: Maryland",
+  "dc_description_s": "These data sets consist of digital data describing sites under the oversight of Maryland's Land Restoration Program (LRP). Within the LRP, three programs exist to investigate eligible properties with known or perceived controlled hazardous substance contamination, protect public health and the environment, accelerate cleanup of properties, and provide liability releases and finality to site cleanup: the Voluntary Cleanup Program (VCP), the Brownfields Initiative, and State Remediation Sites. This dataset describes and details each site relative to these programs.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dc_creator_sm": [
+    "ArcGIS Online for Maryland"
+  ],
+  "dc_subject_sm": [
+    "Environment",
+    "Location"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/c8a3fecfa023491a9a00cc84015c465a_2\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/64e2710c9db049a68376abfb13ffef8e_5,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"http://data.imap.maryland.gov/datasets/c8a3fecfa023491a9a00cc84015c465a_2\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2017-05-08",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Maryland, United States"
+  ],
+  "layer_slug_s": "c8a3fecfa023491a9a00cc84015c465a_2",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2018-07-10T14:45:54Z",
+  "solr_geom": "ENVELOPE(-78.8392, -75.1504, 39.7204, 38.0663)",
+  "solr_year_i": 2017,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "38.89335,-76.9948",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

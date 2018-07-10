@@ -1,0 +1,53 @@
+{
+  "dc_identifier_s": "594cbdf92e874c51ada487c59c7f755f_0",
+  "dc_title_s": "Roadway Asset Management System (RAMS) - Routes Ramp: Iowa",
+  "dc_description_s": "Routes Ramp data maintained inside the Roadway Asset Management System (RAMS).",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Iowa Department of Transportation"
+  ],
+  "dc_creator_sm": [
+    "Iowa DOT GIS Services"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Iowa",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://public-iowadot.opendata.arcgis.com/datasets/594cbdf92e874c51ada487c59c7f755f_0\",\"http://schema.org/downloadUrl\":\"https://public-iowadot.opendata.arcgis.com/datasets/726dcaf23eb64ce085adf1ad978da44d_1,\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://public-iowadot.opendata.arcgis.com/datasets/594cbdf92e874c51ada487c59c7f755f_0\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2016-12-06",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Iowa, United States"
+  ],
+  "layer_slug_s": "594cbdf92e874c51ada487c59c7f755f_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:38Z",
+  "solr_geom": "ENVELOPE(-96.5189, -90.1142, 43.4594, 40.5294)",
+  "solr_year_i": 2016,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "41.9944,-93.31655",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

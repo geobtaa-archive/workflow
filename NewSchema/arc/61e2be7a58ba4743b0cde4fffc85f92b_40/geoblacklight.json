@@ -1,0 +1,53 @@
+{
+  "dc_identifier_s": "61e2be7a58ba4743b0cde4fffc85f92b_40",
+  "dc_title_s": "Alleys: Washington, D.C.",
+  "dc_description_s": "Street Alleys. A single line They follow the general trend of the street and do not deviate due to parking lanes and contain address ranges for geocoding. The street GIS database includes five different street road types: street centerline",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/61e2be7a58ba4743b0cde4fffc85f92b_40\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/6cb6520725b0489d9a209a337818fad1_90,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://opendata.dc.gov/datasets/61e2be7a58ba4743b0cde4fffc85f92b_40\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "layer_slug_s": "61e2be7a58ba4743b0cde4fffc85f92b_40",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:46:09Z",
+  "solr_geom": "ENVELOPE(-77.1167342054, -76.9094011807, 38.9952552229, 38.7931679382)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "38.8942115805,-77.0130676931",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

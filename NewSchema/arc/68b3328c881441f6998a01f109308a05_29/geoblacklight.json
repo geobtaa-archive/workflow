@@ -1,0 +1,53 @@
+{
+  "dc_identifier_s": "68b3328c881441f6998a01f109308a05_29",
+  "dc_title_s": "Archived Protected Lands Acquisitions - Agricultural Land Preservation Foundation 2010 Land Acquisitions Detail: Maryland",
+  "dc_description_s": "This is a MD iMAP hosted service. Find more information on http://imap.maryland.gov. The Maryland Agricultural Land Preservation Foundation (MALPF), housed within the Maryland Department of Agriculture (MDA), protects agricultural lands through the use of perpetual easements. This program was created by the Maryland General Assembly in 1977, is governed by the Agricultural Article, Sections 2-515 through 2-516 of the Annotated Code of Maryland. Easements may be donated or purchased, protecting in perpetuity the land for agricultural purposes. There is a formal process for obtaining these designations, including the Maryland Board of Public Works approval. These data are intended for general guidance and use only.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dc_creator_sm": [
+    "Maryland iMap"
+  ],
+  "dc_subject_sm": [
+    "Farming"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.imap.maryland.gov/datasets/68b3328c881441f6998a01f109308a05_29\",\"http://schema.org/downloadUrl\":\"https://data.imap.maryland.gov/datasets/788892627b624846b00359d64982f48d_7,\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://data.imap.maryland.gov/datasets/68b3328c881441f6998a01f109308a05_29\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2016",
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "dct_spatial_sm": [
+    "Maryland, United States"
+  ],
+  "layer_slug_s": "68b3328c881441f6998a01f109308a05_29",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:21Z",
+  "solr_geom": "ENVELOPE(-79.3612, -75.4156, 39.7207, 38.0039)",
+  "solr_year_i": 2010,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "38.8623,-77.3884",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

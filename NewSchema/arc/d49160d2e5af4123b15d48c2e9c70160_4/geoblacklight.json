@@ -1,0 +1,54 @@
+{
+  "dc_identifier_s": "d49160d2e5af4123b15d48c2e9c70160_4",
+  "dc_title_s": "Inland Lake Contours: Michigan",
+  "dc_description_s": "Inland Lake Contours",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Michigan"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Inland Waters",
+    "Elevation"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://hub.arcgis.com/datasets/d49160d2e5af4123b15d48c2e9c70160_4\",\"http://schema.org/downloadUrl\":\"https://hub.arcgis.com/datasets/06a6013391014810b03a1ccc9f519118_0,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://hub.arcgis.com/datasets/d49160d2e5af4123b15d48c2e9c70160_4\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2017-04-27",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Michigan, United States"
+  ],
+  "layer_slug_s": "d49160d2e5af4123b15d48c2e9c70160_4",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:46:24Z",
+  "solr_geom": "ENVELOPE(-90.0966, -82.8998, 47.4812, 41.6915)",
+  "solr_year_i": 2017,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.58635,-86.4982",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

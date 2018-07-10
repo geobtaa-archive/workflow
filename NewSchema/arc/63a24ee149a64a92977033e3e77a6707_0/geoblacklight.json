@@ -1,0 +1,53 @@
+{
+  "dc_identifier_s": "63a24ee149a64a92977033e3e77a6707_0",
+  "dc_title_s": "Airport Part 77 Surfaces - Primary: Iowa",
+  "dc_description_s": "The Primary surface extends 200 feet beyond each end of the runway, but when the runway has no specially prepared hard surface, the surface ends at the end of that runway.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Iowa Department of Transportation"
+  ],
+  "dc_creator_sm": [
+    "Iowa DOT GIS Services"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Iowa",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://public-iowadot.opendata.arcgis.com/datasets/63a24ee149a64a92977033e3e77a6707_0\",\"http://schema.org/downloadUrl\":\"https://opendata.minneapolismn.gov/datasets/0f8cd532bc9a48518d6e69d681a0ffb9_0,\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://public-iowadot.opendata.arcgis.com/datasets/63a24ee149a64a92977033e3e77a6707_0\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2016-06-16",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Iowa, United States"
+  ],
+  "layer_slug_s": "63a24ee149a64a92977033e3e77a6707_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:54Z",
+  "solr_geom": "ENVELOPE(-96.448, -90.2399, 43.4875, 40.4307)",
+  "solr_year_i": 2016,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "41.9591,-93.34395",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

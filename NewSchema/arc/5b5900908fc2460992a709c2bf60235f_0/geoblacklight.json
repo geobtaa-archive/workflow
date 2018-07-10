@@ -1,0 +1,56 @@
+{
+  "dc_identifier_s": "5b5900908fc2460992a709c2bf60235f_0",
+  "dc_title_s": "New Jersey Transportation Improvement Program (TIP) 2016-2019 (point): Delaware Valley",
+  "dc_description_s": "The TIP is the regionally agreed-upon list of priority transportation projects, as required by federal law (ISTEA, TEA-21, SAFETEA LU, MAP-21, and the FAST Act). The TIP document must list all projects that intend to use federal funds, along with all non-federally funded projects that are regionally significant. We also include all other State funded capital projects. The projects are multi-modal; that is, they include bicycle, pedestrian, ITS, and freight related projects, as well as the more traditional highway and public transit projects.The DVRPC FY2016 TIP for NJ (FY2016-2019) was adopted by the DVRPC Board on September 30, 2015, and became effective on November 20, 2015. This important document represents the latest program of transportation projects for the NJ portion of the region. This TIP will remain in effect until at least September 30, 2017.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Delaware Valley Regional Planning Commission"
+  ],
+  "dc_creator_sm": [
+    "Delaware Valley Regional Planning Commission"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/5b5900908fc2460992a709c2bf60235f_0\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/42561cb1eecf460da35825fc974517cf_72,\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/5b5900908fc2460992a709c2bf60235f_0\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2018-01-22",
+  "dct_temporal_sm": [
+    "2016-2020"
+  ],
+  "dct_spatial_sm": [
+    "Delaware River, Delaware, United States",
+    "Delaware, United States",
+    "Pennsylvania, United States",
+    "Maryland, United States"
+  ],
+  "layer_slug_s": "5b5900908fc2460992a709c2bf60235f_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:22Z",
+  "solr_geom": "ENVELOPE(-75.3206, -74.4181, 40.3717, 39.5528)",
+  "solr_year_i": 2016,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "39.96225,-74.86935",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

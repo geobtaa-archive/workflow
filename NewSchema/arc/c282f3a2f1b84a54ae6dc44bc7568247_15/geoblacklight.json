@@ -1,0 +1,53 @@
+{
+  "dc_identifier_s": "c282f3a2f1b84a54ae6dc44bc7568247_15",
+  "dc_title_s": "Congressional Districts: Michigan",
+  "dc_description_s": "Congressional Districts from the Michigan Geographic Framework (MGF) base map. 2011 Apportionment Plan as enacted by PA 128 of 2011.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Michigan"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://hub.arcgis.com/datasets/c282f3a2f1b84a54ae6dc44bc7568247_15\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/063107e82dea494c9c7b0dbeb77abfdc_8,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://hub.arcgis.com/datasets/c282f3a2f1b84a54ae6dc44bc7568247_15\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015-02-27",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Michigan, United States"
+  ],
+  "layer_slug_s": "c282f3a2f1b84a54ae6dc44bc7568247_15",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:46:08Z",
+  "solr_geom": "ENVELOPE(-90.4183, -82.4135, 48.2627, 41.6961)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.9794,-86.4159",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

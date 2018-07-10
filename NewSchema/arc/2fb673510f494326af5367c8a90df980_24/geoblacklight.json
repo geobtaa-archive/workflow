@@ -1,0 +1,53 @@
+{
+  "dc_identifier_s": "2fb673510f494326af5367c8a90df980_24",
+  "dc_title_s": "New Community Selected: Washington, D.C., 2006",
+  "dc_description_s": "New Communities 2006 Selected Sites for the New Communities Program. All DC GIS data is stored and exported in Maryland State Plane coordinates NAD 83 meters. METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Economy"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/2fb673510f494326af5367c8a90df980_24\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/39f725b9b7074bdab81a1200197ae097_7,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://opendata.dc.gov/datasets/2fb673510f494326af5367c8a90df980_24\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "layer_slug_s": "2fb673510f494326af5367c8a90df980_24",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:46:08Z",
+  "solr_geom": "ENVELOPE(-77.0231480772, -76.9227572044, 38.9330113857, 38.8577847955)",
+  "solr_year_i": 2006,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "38.8953980906,-76.9729526408",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

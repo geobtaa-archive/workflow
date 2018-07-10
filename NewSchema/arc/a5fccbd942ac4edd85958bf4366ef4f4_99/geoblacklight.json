@@ -1,0 +1,53 @@
+{
+  "dc_identifier_s": "a5fccbd942ac4edd85958bf4366ef4f4_99",
+  "dc_title_s": "VRE Stations: Washington, D.C.",
+  "dc_description_s": "This data set contains all Virginia Railway Express (VRE) stations in Virginia. The data set was originaly obtained from the Metro Washington Council of Governments (MWCOG) GIS data clearinghouse and snapped to the Fairfax County railroad data set using 2002 aerial photogarphy as a background.This data set was created to display all VRE stations in Virginia only and can be used in conjunction with the railroad data set. <a href=\"http://geospatial.dcgis.dc.gov/dc_kmz/metadata/VRE_Stations.html\" target=\"_blank\">Metadata",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/a5fccbd942ac4edd85958bf4366ef4f4_99\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/af949aed3b02475b97fa928e3bad6c94_14,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://opendata.dc.gov/datasets/a5fccbd942ac4edd85958bf4366ef4f4_99\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "layer_slug_s": "a5fccbd942ac4edd85958bf4366ef4f4_99",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:53Z",
+  "solr_geom": "ENVELOPE(-77.5295510016, -77.0065410378, 38.8980607113, 38.2977801857)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "38.5979204485,-77.2680460197",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

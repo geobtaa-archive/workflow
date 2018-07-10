@@ -1,0 +1,54 @@
+{
+  "dc_identifier_s": "458cf4b7d44543d2a3bee3bd92914af9_3",
+  "dc_title_s": "Parcels, Indianapolis, Indiana",
+  "dc_description_s": "Polygon file representing parcel boundaries in Indianapolis and Marion County, Indiana with address attributes. Data projection: NAD 1983 StatePlane Indiana East FIPS 1301 (US Feet)",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Indianapolis-Marion County"
+  ],
+  "dc_creator_sm": [
+    "City of Indianapolis-Marion County"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_provenance_s": "Indiana",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data1-indygis.opendata.arcgis.com/datasets/458cf4b7d44543d2a3bee3bd92914af9_3\",\"http://schema.org/downloadUrl\":\"https://data1-indygis.opendata.arcgis.com/datasets/d35c92520c734b1bb77430b2abd71b99_13,\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://data1-indygis.opendata.arcgis.com/datasets/458cf4b7d44543d2a3bee3bd92914af9_3\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2016-01-14",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Indianapolis, Indiana, United States",
+    "Indiana, United States"
+  ],
+  "layer_slug_s": "458cf4b7d44543d2a3bee3bd92914af9_3",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:22Z",
+  "solr_geom": "ENVELOPE(-86.3291, -85.9369, 39.9278, 39.6322)",
+  "solr_year_i": 2017,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "39.78,-86.133",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

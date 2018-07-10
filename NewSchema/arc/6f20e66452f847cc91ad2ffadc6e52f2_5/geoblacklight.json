@@ -1,0 +1,53 @@
+{
+  "dc_identifier_s": "6f20e66452f847cc91ad2ffadc6e52f2_5",
+  "dc_title_s": "Leaf Collection in the Last 30 Days: Washington, D.C.",
+  "dc_description_s": "This data layer shows 311 Service Requests in the last 30 days for autumn leaf collections. The autumn leaf collection program runs between November and January, and every neighborhood in the District and DPW collects leaves at least twice from residential neighborhoods by vacuuming the leaves that residents rake into their treebox spaces. DPW also collects bagged leaves from the treebox space or the alley in neighborhoods with rear trash and recycling collections. For service outside the typical collection program period, please us the Yard Waste service request type.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Utilities and Communication"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/6f20e66452f847cc91ad2ffadc6e52f2_5\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/8ccfc339840f4acfa3bf2fc2e805afc8_11,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://opendata.dc.gov/datasets/6f20e66452f847cc91ad2ffadc6e52f2_5\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "layer_slug_s": "6f20e66452f847cc91ad2ffadc6e52f2_5",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:46:24Z",
+  "solr_geom": "ENVELOPE(-76.9960264382, -76.9216280635, 38.9415136108, 38.8921320414)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "38.9168228261,-76.9588272508",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

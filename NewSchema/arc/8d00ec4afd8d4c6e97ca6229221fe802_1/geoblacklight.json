@@ -1,0 +1,55 @@
+{
+  "dc_identifier_s": "8d00ec4afd8d4c6e97ca6229221fe802_1",
+  "dc_title_s": "OC Hospital: Oakland County, Michigan",
+  "dc_description_s": "A spatial representation of hospitals.  This point feature class was digitized from hardcopy maps provided by Oakland County Homeland Security at an unknown scale.The key attributes include facility Name and Address.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Oakland County, Michigan"
+  ],
+  "dc_creator_sm": [
+    "Access Oakland"
+  ],
+  "dc_subject_sm": [
+    "Health",
+    "Structure"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://accessoakland.oakgov.com/datasets/8d00ec4afd8d4c6e97ca6229221fe802_1\",\"http://schema.org/downloadUrl\":\"https://accessoakland.oakgov.com/datasets/fe466bc4787d42fc96a878764c6566bb_4,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://accessoakland.oakgov.com/datasets/8d00ec4afd8d4c6e97ca6229221fe802_1\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2016-10-16",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Oakland County, Michigan, United States",
+    "Michigan, United States"
+  ],
+  "layer_slug_s": "8d00ec4afd8d4c6e97ca6229221fe802_1",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:46:24Z",
+  "solr_geom": "ENVELOPE(-83.694337, -83.074282, 42.893598, 42.426087)",
+  "solr_year_i": 2016,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "42.6598425,-83.3843095",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

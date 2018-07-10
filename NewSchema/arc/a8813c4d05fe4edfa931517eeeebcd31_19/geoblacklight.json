@@ -1,0 +1,58 @@
+{
+  "dc_identifier_s": "a8813c4d05fe4edfa931517eeeebcd31_19",
+  "dc_title_s": "Overlay Zones: Washington, D.C.",
+  "dc_description_s": "Overlay Districts are a zoning designation that modifies the basic underlying designation in some specific manner; this is what the Overlay polygons in the Zoning map represent. All DC GIS data is stored and exported in Maryland State Plane coordinates NAD 83 meters. This layer contains complete theoretical address ranges. METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral",
+    "Planning",
+    "Land use",
+    "Zoning",
+    "Development",
+    "Transfer of development rights"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/a8813c4d05fe4edfa931517eeeebcd31_19\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/b2586556b54e417ca337d45a0f2cb11d_3,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://opendata.dc.gov/datasets/a8813c4d05fe4edfa931517eeeebcd31_19\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "layer_slug_s": "a8813c4d05fe4edfa931517eeeebcd31_19",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:53Z",
+  "solr_geom": "ENVELOPE(-77.101649354, -76.9275146488, 38.9761355846, 38.8634348881)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "38.9197852364,-77.0145820014",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

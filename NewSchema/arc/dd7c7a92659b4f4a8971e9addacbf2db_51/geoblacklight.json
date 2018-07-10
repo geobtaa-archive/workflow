@@ -1,0 +1,57 @@
+{
+  "dc_identifier_s": "dd7c7a92659b4f4a8971e9addacbf2db_51",
+  "dc_title_s": "Washington, D.C. Public Art: Washington, D.C.",
+  "dc_description_s": "The DC Commission on the Arts and Humanities' DC Creates! Public Art Program purchases The DC Creates! Public Art mission is to maintain a quality public collection of diverse media and to create a dynamic The program was established by 1986 legislation that allocates up to one percent of the District s adjusted Capital Budget for the commission and acquisition of artwork. Our program gives opportunities for individuals to encounter art in parks We simultaneously enrich the daily lives of residents and visitors and give voice to artists. The collection includes more than 100 permanently sited and integrated works and 2 <a href=\"http://dcarts.dc.gov/service/public-art\" target=\"_blank\">http://dcarts.dc.gov/service/public-artThe DC Commission on the Arts and Humanities recognizes the importance of remaining relevant in a city of competitive opportunities for residents who have at their disposal significant discretionary income for arts and cultural offerings. Further1 billion in economic activity is generated annually by the non-profit arts and culture industry in Washington Additionally These trends create an opportunity for DCCAH to position itself at the forefront of the city s cultural planning. To achieve this goal",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Art",
+    "Artists",
+    "Grant",
+    "Cultural"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/dd7c7a92659b4f4a8971e9addacbf2db_51\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/f04d51890b93452490e9702efd64a8a8_51,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://opendata.dc.gov/datasets/dd7c7a92659b4f4a8971e9addacbf2db_51\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "layer_slug_s": "dd7c7a92659b4f4a8971e9addacbf2db_51",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:53Z",
+  "solr_geom": "ENVELOPE(-77.0973, -76.9254, 38.9803, 38.829)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "38.90465,-77.01135",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

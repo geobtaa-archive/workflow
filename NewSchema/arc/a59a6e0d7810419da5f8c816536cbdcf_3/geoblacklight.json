@@ -1,0 +1,55 @@
+{
+  "dc_identifier_s": "a59a6e0d7810419da5f8c816536cbdcf_3",
+  "dc_title_s": "Stratigraphic Data Points - Core Descriptions: Ohio",
+  "dc_description_s": "This dataset contains all the different types of stratigraphic data points archived at the Ohio Department of Natural Resources, Division of Geological Survey.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Ohio"
+  ],
+  "dc_creator_sm": [
+    "Ohio Geographically Referenced Information Program"
+  ],
+  "dc_subject_sm": [
+    "Geoscientific Information",
+    "Location"
+  ],
+  "dct_provenance_s": "Ohio",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://ogrip-geohio.opendata.arcgis.com/datasets/a59a6e0d7810419da5f8c816536cbdcf_3\",\"http://schema.org/downloadUrl\":\"https://gis-baltimore.opendata.arcgis.com/datasets/7ab57626efec42c292d9cc16a41ab06c_0,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://ogrip-geohio.opendata.arcgis.com/datasets/a59a6e0d7810419da5f8c816536cbdcf_3\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2017-01-26",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Ohio, United States"
+  ],
+  "layer_slug_s": "a59a6e0d7810419da5f8c816536cbdcf_3",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:46:07Z",
+  "solr_geom": "ENVELOPE(-86.0796, -78.6083, 42.1098, 38.3445)",
+  "solr_year_i": 2017,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "40.22715,-82.34395",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

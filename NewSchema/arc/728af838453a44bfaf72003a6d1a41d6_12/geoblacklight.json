@@ -1,0 +1,57 @@
+{
+  "dc_identifier_s": "728af838453a44bfaf72003a6d1a41d6_12",
+  "dc_title_s": "Land Boundary Changes: Washington, D.C., 2006",
+  "dc_description_s": "Owner polygons. The dataset contains locations and attributes of owner polygonsC. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies. The tax information (attribution) comes from OTR's Public Extract file. The creation of this layer is automated The date of the extract can be found in the EXTRACTDATfield in this layer. Please visit http://vpm.dc.gov/ for additional information. All DC GIS data is stored and exported in Maryland State Plane coordinates NAD 83 meters. METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Location",
+    "Property",
+    "Land",
+    "Lot",
+    "Square"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/728af838453a44bfaf72003a6d1a41d6_12\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/81a359c031464c53af6230338dbc848e_37,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://opendata.dc.gov/datasets/728af838453a44bfaf72003a6d1a41d6_12\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "layer_slug_s": "728af838453a44bfaf72003a6d1a41d6_12",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:53Z",
+  "solr_geom": "ENVELOPE(-77.1194137968, -76.9092582345, 38.995976663, 38.801593412)",
+  "solr_year_i": 2006,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "38.8987850375,-77.0143360157",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

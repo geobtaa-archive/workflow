@@ -1,0 +1,55 @@
+{
+  "dc_identifier_s": "3c9505809ab84b729014428ee78bd7e2_4",
+  "dc_title_s": "Road Centerlines: Brown County, Ohio",
+  "dc_description_s": "The State of Ohio Location Based Response System road centerlines depict center of pavement of public and private roads within participating Ohio Counties. Address Range data was developed from data collected by field observation of existing address locations at the time of collection.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Ohio"
+  ],
+  "dc_creator_sm": [
+    "Ohio Geographically Referenced Information Program"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Ohio",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/3c9505809ab84b729014428ee78bd7e2_4\",\"http://schema.org/downloadUrl\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/3c9505809ab84b729014428ee78bd7e2_4.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/3c9505809ab84b729014428ee78bd7e2_4\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2014-12-30",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Brown County, Ohio, United States",
+    "Ohio, United States"
+  ],
+  "layer_slug_s": "3c9505809ab84b729014428ee78bd7e2_4",
+  "layer_geom_type_s": "Line",
+  "layer_modified_dt": "2018-07-10T14:45:23Z",
+  "solr_geom": "ENVELOPE(-84.0667, -83.6481, 39.2655, 38.6373)",
+  "solr_year_i": 2014,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "38.9514,-83.8574",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

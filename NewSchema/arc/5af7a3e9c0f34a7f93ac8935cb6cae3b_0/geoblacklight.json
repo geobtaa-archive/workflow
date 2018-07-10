@@ -1,0 +1,56 @@
+{
+  "dc_identifier_s": "5af7a3e9c0f34a7f93ac8935cb6cae3b_0",
+  "dc_title_s": "Passenger Rail: Delaware Valley",
+  "dc_description_s": "Passenger rail in the DVRPC region",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Delaware Valley Regional Planning Commission"
+  ],
+  "dc_creator_sm": [
+    "Delaware Valley Regional Planning Commission"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/5af7a3e9c0f34a7f93ac8935cb6cae3b_0\",\"http://schema.org/downloadUrl\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/9ac6ba788a02443999ce22e706698f99_4,\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/5af7a3e9c0f34a7f93ac8935cb6cae3b_0\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015-11-17",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "Delaware River, Delaware, United States",
+    "Delaware, United States",
+    "Pennsylvania, United States",
+    "Maryland, United States"
+  ],
+  "layer_slug_s": "5af7a3e9c0f34a7f93ac8935cb6cae3b_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:23Z",
+  "solr_geom": "ENVELOPE(-75.9998, -74.6136, 40.3445, 39.6471)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "39.9958,-75.3067",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

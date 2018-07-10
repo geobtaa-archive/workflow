@@ -1,0 +1,53 @@
+{
+  "dc_identifier_s": "e71268f136dc4538abb4cffb2594277c_0",
+  "dc_title_s": "Automotive Facilities: Michigan",
+  "dc_description_s": "This file locates the major facilities for the Detroit Three automakers in Southeast Michigan.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "SEMCOG, Southeast Michigan Council of Governments"
+  ],
+  "dc_creator_sm": [
+    "SEMCOG, Southeast Michigan Council of Governments"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://maps-semcog.opendata.arcgis.com/datasets/e71268f136dc4538abb4cffb2594277c_0\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/0a1e89815a264ee1a380c964b028247d_36,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps-semcog.opendata.arcgis.com/datasets/e71268f136dc4538abb4cffb2594277c_0\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Michigan, United States"
+  ],
+  "layer_slug_s": "e71268f136dc4538abb4cffb2594277c_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:46:08Z",
+  "solr_geom": "ENVELOPE(-84.039215, -82.471821, 42.920649, 41.966679)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "42.443664,-83.255518",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

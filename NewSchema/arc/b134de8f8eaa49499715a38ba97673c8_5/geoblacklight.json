@@ -1,0 +1,55 @@
+{
+  "dc_identifier_s": "b134de8f8eaa49499715a38ba97673c8_5",
+  "dc_title_s": "Places of Worship: Washington, D.C.",
+  "dc_description_s": "The dataset contains locations and attributes of Places of WorshipC. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies. Information provided by various sources identified Places of Worship such as churches and faith based organizations . DC GIS staff geo-processed this data from a variety of sources.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Location",
+    "Cultural"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/b134de8f8eaa49499715a38ba97673c8_5\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/be2069c4988e47c3b51358ccc9980654_96,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://opendata.dc.gov/datasets/b134de8f8eaa49499715a38ba97673c8_5\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "layer_slug_s": "b134de8f8eaa49499715a38ba97673c8_5",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:53Z",
+  "solr_geom": "ENVELOPE(-77.1059504235, -76.911391534, 38.987732748, 38.8250436157)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "38.9063881818,-77.0086709788",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

@@ -1,0 +1,54 @@
+{
+  "dc_identifier_s": "0e78979ab94648b8b5e34759bbdc8cf2_5",
+  "dc_title_s": "Michigan Commercial Forest Land (Private Land Tax Incentive/Public Hunting and Fishing): Michigan",
+  "dc_description_s": "Commercial Forests lands are private lands that receive aproperty tax incentive to be managed for timber production. These landsare also open to the public (foot access) for hunting and fishing. 'Pleasecheck with the Department of Natural Resources, Forest Resources Division (www.michigan.gov/commercialforest)for specific rules, regulations, and restrictions.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Michigan"
+  ],
+  "dc_creator_sm": [
+    "Michigan Department of Transportation"
+  ],
+  "dc_subject_sm": [
+    "Environment",
+    "Economy"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://hub.arcgis.com/datasets/0e78979ab94648b8b5e34759bbdc8cf2_5\",\"http://schema.org/downloadUrl\":\"https://accessoakland.oakgov.com/datasets/e90026448daa4d568daa3ef727d8d758_2,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://hub.arcgis.com/datasets/0e78979ab94648b8b5e34759bbdc8cf2_5\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015-07-06",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Michigan, United States"
+  ],
+  "layer_slug_s": "0e78979ab94648b8b5e34759bbdc8cf2_5",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:46:24Z",
+  "solr_geom": "ENVELOPE(-90.4585, -83.1857, 47.491, 41.7212)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.6061,-86.8221",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

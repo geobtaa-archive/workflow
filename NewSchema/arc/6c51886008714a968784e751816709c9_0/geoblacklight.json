@@ -1,0 +1,55 @@
+{
+  "dc_identifier_s": "6c51886008714a968784e751816709c9_0",
+  "dc_title_s": "UA Corp June2017 revised: Ohio",
+  "dc_description_s": "There is no description available.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Ohio"
+  ],
+  "dc_creator_sm": [
+    "Ohio Geographically Referenced Information Program"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral",
+    "Economy"
+  ],
+  "dct_provenance_s": "Ohio",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://ogrip-geohio.opendata.arcgis.com/datasets/6c51886008714a968784e751816709c9_0\",\"http://schema.org/downloadUrl\":\"https://data.imap.maryland.gov/datasets/0b17c6c69e9b44d0b3ca3990b4079769_0,\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://ogrip-geohio.opendata.arcgis.com/datasets/6c51886008714a968784e751816709c9_0\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2017-06-14",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dct_spatial_sm": [
+    "Ohio, United States"
+  ],
+  "layer_slug_s": "6c51886008714a968784e751816709c9_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:38Z",
+  "solr_geom": "ENVELOPE(-83.10439177056799, -83.04228376919734, 40.06571614374781, 39.98906159238931)",
+  "solr_year_i": 2017,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "40.0273888681,-83.0733377699",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

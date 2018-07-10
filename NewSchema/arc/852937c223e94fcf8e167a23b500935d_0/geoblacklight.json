@@ -1,0 +1,56 @@
+{
+  "dc_identifier_s": "852937c223e94fcf8e167a23b500935d_0",
+  "dc_title_s": "New Jersey Composite Parcels: Delaware Valley",
+  "dc_description_s": "This spatial layer is a composite of tax parcel polygons, edgematched across most municipal boundaries. It serves as one of the statewide framework GIS data sets for New Jersey. It is compatible with the New Jersey Department of the Treasury MOD-IV system currently used by Tax Assessors. The composite is created from component data sets from 21 counties. All 21 counties in NJ have now been edgematched. Stewardship and maintenance of the data will continue to be the purview of county and municipal governments, but the statewide composite will be maintained by the NJ Office of Information Technology, Office of Geographic Information Systems (NJOIT - OGIS). Please note that these parcel data sets are not intended for use as tax maps. They are intended to provide reasonable representations of parcel boundaries for planning and other purposes.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Delaware Valley Regional Planning Commission"
+  ],
+  "dc_creator_sm": [
+    "Delaware Valley Regional Planning Commission"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/852937c223e94fcf8e167a23b500935d_0\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/7fa33d79592c412a95a1f14c026c6dc0_54,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/852937c223e94fcf8e167a23b500935d_0\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2016-05-26",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "Delaware River, Delaware, United States",
+    "Delaware, United States",
+    "Pennsylvania, United States",
+    "Maryland, United States"
+  ],
+  "layer_slug_s": "852937c223e94fcf8e167a23b500935d_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:54Z",
+  "solr_geom": "ENVELOPE(-75.5871, -73.8992, 41.3571, 38.9207)",
+  "solr_year_i": 2016,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "40.1389,-74.74315",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

@@ -1,0 +1,55 @@
+{
+  "dc_identifier_s": "ccf308d83eb7466691f64625426f58a8_36",
+  "dc_title_s": "Soils: Pope County, Minnesota",
+  "dc_description_s": "Polygons that represent the extent of soil classifications or types.Contact for more informationTel: (320) 634-7788Fax: (320) Email: Information Technology130 East Minnesota Avenue, Glenwood, MN 56334",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Pope County, Minnesota"
+  ],
+  "dc_creator_sm": [
+    "Pope County, Minnesota"
+  ],
+  "dc_subject_sm": [
+    "Geoscientific Information"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data-popecounty.opendata.arcgis.com/datasets/ccf308d83eb7466691f64625426f58a8_36\",\"http://schema.org/downloadUrl\":\"https://data-popecounty.opendata.arcgis.com/datasets/ccf308d83eb7466691f64625426f58a8_36.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.co.pope.mn.us/arcgis/rest/services/OpenData/OpenData/MapServer/36\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data",
+    "Minnesota Counties"
+  ],
+  "dct_issued_s": "2016-12-08",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "Pope County, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "ccf308d83eb7466691f64625426f58a8_36",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-06-26T22:02:52Z",
+  "solr_geom": "ENVELOPE(-95.7602, -95.1313, 45.7616, 45.4108)",
+  "solr_year_i": 2016,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "45.5862,-95.44575",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05b",
+  "geoblacklight_version": "1.0"
+}

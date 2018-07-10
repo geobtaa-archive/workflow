@@ -1,0 +1,55 @@
+{
+  "dc_identifier_s": "de455ee513634872a1c71acc96733f29_9",
+  "dc_title_s": "Parking Meter: Washington, D.C., Last 30 Days",
+  "dc_description_s": "This data layer shows 311 Service Requests in the last 30 days to investigate parking meter related issues.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Transportation",
+    "311",
+    "Service requests"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/de455ee513634872a1c71acc96733f29_9\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/f1902d8ea4c54d289398db2527080df4_10,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://opendata.dc.gov/datasets/de455ee513634872a1c71acc96733f29_9\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "layer_slug_s": "de455ee513634872a1c71acc96733f29_9",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:53Z",
+  "solr_geom": "ENVELOPE(-77.1021978987, -76.9391179141, 38.9851691888, 38.8180712344)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "38.9016202116,-77.0206579064",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

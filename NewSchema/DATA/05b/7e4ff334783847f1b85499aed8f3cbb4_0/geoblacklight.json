@@ -1,0 +1,55 @@
+{
+  "dc_identifier_s": "7e4ff334783847f1b85499aed8f3cbb4_0",
+  "dc_title_s": "Building Permits: Scott County, Minnesota",
+  "dc_description_s": "Scott County building permit data represents permit data that is created and maintained by the Property and Taxation Services department. This permit data represents permits that are issued on or after January 1, 2010, within a township, and that have a status of Finalled, Issued, or Expired. Scott County is the permitting authority for the townships, to obtain permit data for a city within Scott County please contact the city. Once data has been downloaded and opened in Excel, you must select the dateIssued field and change the field type to Short Date or Long Date.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Scott County, Minnesota"
+  ],
+  "dc_creator_sm": [
+    "Scott County Information Technology"
+  ],
+  "dc_subject_sm": [
+    "Structure"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.gis.co.scott.mn.us/datasets/7e4ff334783847f1b85499aed8f3cbb4_0\",\"http://schema.org/downloadUrl\":\"https://opendata.gis.co.scott.mn.us/datasets/7e4ff334783847f1b85499aed8f3cbb4_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/DqIh9WAsIZcPlBEF/arcgis/rest/services/Building_Permits/FeatureServer/0\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data",
+    "Minnesota Counties"
+  ],
+  "dct_issued_s": "2016-01-25",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "Scott County, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "7e4ff334783847f1b85499aed8f3cbb4_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-06-26T22:02:53Z",
+  "solr_geom": "ENVELOPE(-93.76991127218233, -93.33150758240241, 44.78252239863632, 44.62487358074655)",
+  "solr_year_i": 2016,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.7036979897,-93.5507094273",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05b",
+  "geoblacklight_version": "1.0"
+}

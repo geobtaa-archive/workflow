@@ -1,0 +1,54 @@
+{
+  "dc_identifier_s": "54c0daf0a62549d2a515b7b932a9228e_0",
+  "dc_title_s": "Michigan DNR Fishing Access Sites: Michigan",
+  "dc_description_s": "Fishing Access Sites are point locations for public fishing access on DNR lands.  This data is updated through the DNR's forest inventory process.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Michigan"
+  ],
+  "dc_creator_sm": [
+    "Michigan Department of Transportation"
+  ],
+  "dc_subject_sm": [
+    "Location",
+    "Inland Waters"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://hub.arcgis.com/datasets/54c0daf0a62549d2a515b7b932a9228e_0\",\"http://schema.org/downloadUrl\":\"https://accessoakland.oakgov.com/datasets/8d00ec4afd8d4c6e97ca6229221fe802_1,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://hub.arcgis.com/datasets/54c0daf0a62549d2a515b7b932a9228e_0\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015-07-15",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Michigan, United States"
+  ],
+  "layer_slug_s": "54c0daf0a62549d2a515b7b932a9228e_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:46:24Z",
+  "solr_geom": "ENVELOPE(-88.4938, -83.3109, 47.0377, 41.8178)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.42775,-85.90235",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

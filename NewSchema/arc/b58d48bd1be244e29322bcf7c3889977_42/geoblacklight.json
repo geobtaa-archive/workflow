@@ -1,0 +1,53 @@
+{
+  "dc_identifier_s": "b58d48bd1be244e29322bcf7c3889977_42",
+  "dc_title_s": "Freight Hub Stopping Range: Iowa",
+  "dc_description_s": "Iowa Department of Transportation statewide rest area data. This layer displays freight hub stopping ranges.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Iowa Department of Transportation"
+  ],
+  "dc_creator_sm": [
+    "Iowa DOT GIS Services"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Iowa",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://public-iowadot.opendata.arcgis.com/datasets/b58d48bd1be244e29322bcf7c3889977_42\",\"http://schema.org/downloadUrl\":\"https://data.imap.maryland.gov/datasets/cf592bc505804a86a8afc2ebbcdcd6a8_4,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://public-iowadot.opendata.arcgis.com/datasets/b58d48bd1be244e29322bcf7c3889977_42\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2016-08-18",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Iowa, United States"
+  ],
+  "layer_slug_s": "b58d48bd1be244e29322bcf7c3889977_42",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:46:24Z",
+  "solr_geom": "ENVELOPE(-95.1776, -90.285, 43.4765, 40.5499)",
+  "solr_year_i": 2016,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "42.0132,-92.7313",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

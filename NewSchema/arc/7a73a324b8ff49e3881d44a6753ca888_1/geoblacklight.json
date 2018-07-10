@@ -1,0 +1,55 @@
+{
+  "dc_identifier_s": "7a73a324b8ff49e3881d44a6753ca888_1",
+  "dc_title_s": "Earthquake epicenters of Ohio: Ohio",
+  "dc_description_s": "This data set contains information pertaining to Ohio earthquakes that have an instrumental magnitude of 2.0 or greater. This data set was created for the catalog of Ohio earthquakes for the Ohio Seismic Network. Data includes information on earthquake event time, location, depth, magnitude, felt-area size and information source. Noninstrumental earthquake locations and magnitudes have been determined from historical accounts, including newspaper articles, scientific publications, published and unpublished government reports and records, and a variety of other sources. Instrumental recordings of earthquakes in Ohio come from seismic records of St. Ignatius College (now John Carroll University), Xavier University, Bowling Green State University, University of Toledo, the University of Michigan, the U. S. Geological Survey, and the Ohio Seismic Network.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Ohio"
+  ],
+  "dc_creator_sm": [
+    "Ohio Geographically Referenced Information Program"
+  ],
+  "dc_subject_sm": [
+    "Geoscientific Information",
+    "Location"
+  ],
+  "dct_provenance_s": "Ohio",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://ogrip-geohio.opendata.arcgis.com/datasets/7a73a324b8ff49e3881d44a6753ca888_1\",\"http://schema.org/downloadUrl\":\"https://ogrip-geohio.opendata.arcgis.com/datasets/7b322eccec3e4740a0790bca44dbeded_2,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://ogrip-geohio.opendata.arcgis.com/datasets/7a73a324b8ff49e3881d44a6753ca888_1\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2017-12-01",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Ohio, United States"
+  ],
+  "layer_slug_s": "7a73a324b8ff49e3881d44a6753ca888_1",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:46:24Z",
+  "solr_geom": "ENVELOPE(-86.577744, -79.752504, 42.259011, 38.459043)",
+  "solr_year_i": 2017,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "40.359027,-83.165124",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

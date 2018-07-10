@@ -1,0 +1,53 @@
+{
+  "dc_identifier_s": "9fc67175df2e4acfa4f514a8cb8bdc70_8",
+  "dc_title_s": "Freight - Distribution Centers: Iowa",
+  "dc_description_s": "This layer depicts the major distribution centers in the state.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Iowa Department of Transportation"
+  ],
+  "dc_creator_sm": [
+    "Iowa DOT GIS Services"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Iowa",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://public-iowadot.opendata.arcgis.com/datasets/9fc67175df2e4acfa4f514a8cb8bdc70_8\",\"http://schema.org/downloadUrl\":\"https://public-iowadot.opendata.arcgis.com/datasets/1eacc8dd839141c6a11d07c9cefa4599_7,\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://public-iowadot.opendata.arcgis.com/datasets/9fc67175df2e4acfa4f514a8cb8bdc70_8\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2017-05-18",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Iowa, United States"
+  ],
+  "layer_slug_s": "9fc67175df2e4acfa4f514a8cb8bdc70_8",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:37Z",
+  "solr_geom": "ENVELOPE(-95.5328, -90.6276, 42.7846, 40.9595)",
+  "solr_year_i": 2017,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "41.87205,-93.0802",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

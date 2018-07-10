@@ -1,0 +1,56 @@
+{
+  "dc_identifier_s": "036c332f91d4410da237dbd9584d7a6a_0",
+  "dc_title_s": "Econview Project Data: Baltimore, Maryland",
+  "dc_description_s": [
+
+  ],
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Baltimore, Maryland"
+  ],
+  "dc_creator_sm": [
+    "City of Baltimore, Maryland"
+  ],
+  "dc_subject_sm": [
+    "Economy"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gis-baltimore.opendata.arcgis.com/datasets/036c332f91d4410da237dbd9584d7a6a_0\",\"http://schema.org/downloadUrl\":\"https://ogrip-geohio.opendata.arcgis.com/datasets/7b322eccec3e4740a0790bca44dbeded_0,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis-baltimore.opendata.arcgis.com/datasets/036c332f91d4410da237dbd9584d7a6a_0\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015-07-10",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Baltimore, Maryland, United States",
+    "Maryland, United States"
+  ],
+  "layer_slug_s": "036c332f91d4410da237dbd9584d7a6a_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:46:24Z",
+  "solr_geom": "ENVELOPE(-76.7109, -76.5307, 39.372, 39.2288)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "39.3004,-76.6208",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

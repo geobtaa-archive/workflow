@@ -1,0 +1,56 @@
+{
+  "dc_identifier_s": "d1e90a9b719a4966859b3f3a782372c5_39",
+  "dc_title_s": "Federal City (Proposed): Washington, D.C.",
+  "dc_description_s": "A proposed data layer of federal city in the District of Columbia from the <a href=\"http://planning.dc.gov\" target=\"_blank\">DC Office of Planning.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Boundaries",
+    "Federal",
+    "Government",
+    "Planning"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/d1e90a9b719a4966859b3f3a782372c5_39\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/dd6deee3f50d4d3eaf40c10ce9a900ec_1,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://opendata.dc.gov/datasets/d1e90a9b719a4966859b3f3a782372c5_39\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2016",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "layer_slug_s": "d1e90a9b719a4966859b3f3a782372c5_39",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:53Z",
+  "solr_geom": "ENVELOPE(-77.0572, -77.002, 38.9002, 38.8778)",
+  "solr_year_i": 2016,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "38.889,-77.0296",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

@@ -1,0 +1,57 @@
+{
+  "dc_identifier_s": "80216437707b4135963eeb95047caeac_1",
+  "dc_title_s": "Occupancy Permits (via DDOT TOPs): Washington, D.C.",
+  "dc_description_s": "The District Department of Transportation has management and oversight responsibility for the use and occupancy of the public space. This data sets shows occupancy permits from DDOT's Transportation Online Permitting System. https://tops.ddot.dc.gov/",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Permits",
+    "Occupancy",
+    "Public space",
+    "Parking"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/80216437707b4135963eeb95047caeac_1\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/8c3879b00d7c44a6937f6e2956ec9101_19,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://opendata.dc.gov/datasets/80216437707b4135963eeb95047caeac_1\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2014",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "layer_slug_s": "80216437707b4135963eeb95047caeac_1",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:53Z",
+  "solr_geom": "ENVELOPE(-77.1143, -76.9099, 38.995, 38.8134)",
+  "solr_year_i": 2014,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "38.9042,-77.0121",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

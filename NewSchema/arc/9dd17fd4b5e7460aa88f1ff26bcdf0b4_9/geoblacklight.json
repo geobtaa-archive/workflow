@@ -1,0 +1,63 @@
+{
+  "dc_identifier_s": "9dd17fd4b5e7460aa88f1ff26bcdf0b4_9",
+  "dc_title_s": "Moving Violations: Washington, D.C., October 2015",
+  "dc_description_s": "Moving citation locations in the District of Columbia. The Vision Zero data contained in this layer pertain to moving violations issued by the District of Columbia's Metropolitan Police Department (MPD) and partner agencies with the authority. For example. Moving violation locations are summarized ticket counts based on time of dayData was originally downloaded from the District Department of Motor Vehicle's eTIMS meter work order management system. Data was exported into DDOT s SQL server Data was then visualized using the street segment centroid coordinates.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Transportation",
+    "Society",
+    "Moving violations",
+    "Vision Zero",
+    "Public works",
+    "Police",
+    "Enforcement",
+    "Vision Zero",
+    "Parking",
+    "Parking violation",
+    "Parking enforcement"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/9dd17fd4b5e7460aa88f1ff26bcdf0b4_9\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/a8434614d90e416b80fbdfe2cb2901d8_2,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://opendata.dc.gov/datasets/9dd17fd4b5e7460aa88f1ff26bcdf0b4_9\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2016",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "layer_slug_s": "9dd17fd4b5e7460aa88f1ff26bcdf0b4_9",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:53Z",
+  "solr_geom": "ENVELOPE(-77.1118, -76.911, 38.9923, 38.8174)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "38.90485,-77.0114",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

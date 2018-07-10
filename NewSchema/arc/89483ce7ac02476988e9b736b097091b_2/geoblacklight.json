@@ -1,0 +1,56 @@
+{
+  "dc_identifier_s": "89483ce7ac02476988e9b736b097091b_2",
+  "dc_title_s": "Public Water System Drinking Water Intakes: Ohio",
+  "dc_description_s": "Active public water system intakes used for drinking water in Ohio. Data updated daily at midnight.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Ohio Geographically Referenced Information Program"
+  ],
+  "dc_creator_sm": [
+    "Ohio Environmental Protection Agency"
+  ],
+  "dc_subject_sm": [
+    "Utilities and Communication",
+    "Health",
+    "Water supply"
+  ],
+  "dct_provenance_s": "Ohio",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://ogrip-geohio.opendata.arcgis.com/datasets/9b40984e167a44528b5293e14fa18f2f_0\",\"http://schema.org/downloadUrl\":\"https://ogrip-geohio.opendata.arcgis.com/datasets/9b40984e167a44528b5293e14fa18f2f_0.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://epagistest2.oit.ohio.gov/arcgis/rest/services/WM/DDAGW_WI/MapServer/0\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2016-07-25",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "Ohio, United States"
+  ],
+  "layer_slug_s": "89483ce7ac02476988e9b736b097091b_2",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2018-07-10T14:46:23Z",
+  "solr_geom": "ENVELOPE(-85.0000, -80.0000, 42.2000, 38.0000)",
+  "solr_year_i": 2016,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "40.1,-82.5",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

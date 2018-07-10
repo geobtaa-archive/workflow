@@ -1,0 +1,56 @@
+{
+  "dc_identifier_s": "beb54980293b4c0fa5312f0eb8ffbb1f_0",
+  "dc_title_s": "Tract-level Demographic Profiles: Delaware Valley",
+  "dc_description_s": "Selected data from the Census Bureau's 2009-2013 ACS dataset for the municipalities and tracts in the DVRPC Region. American Community Survey (ACS) provides detailed demographic, social, economic, commuting and housing statistics based on continuous survey data collection. Summary tables compiled with 5-year data are available for all places and have approximately 20,000 variables from 900 tabulations. The published Census statistics have been recompiled by DVRPC, with new field names.Source of tract boundaries: US Census Bureau.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Delaware Valley Regional Planning Commission"
+  ],
+  "dc_creator_sm": [
+    "Delaware Valley Regional Planning Commission"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/beb54980293b4c0fa5312f0eb8ffbb1f_0\",\"http://schema.org/downloadUrl\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/ca3d5b2b76514ca29a038714f0fa6136_0,\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/beb54980293b4c0fa5312f0eb8ffbb1f_0\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015-07-15",
+  "dct_temporal_sm": [
+    "2013"
+  ],
+  "dct_spatial_sm": [
+    "Delaware River, Delaware, United States",
+    "Delaware, United States",
+    "Pennsylvania, United States",
+    "Maryland, United States"
+  ],
+  "layer_slug_s": "beb54980293b4c0fa5312f0eb8ffbb1f_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:22Z",
+  "solr_geom": "ENVELOPE(-76.1514, -74.3813, 40.6087, 39.5093)",
+  "solr_year_i": 2013,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "40.059,-75.26635",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

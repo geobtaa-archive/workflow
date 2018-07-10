@@ -1,0 +1,54 @@
+{
+  "dc_identifier_s": "6e2557fee97f44a5802b0cc70a9f1e6f_34",
+  "dc_title_s": "Spruce Budworm 2012: Michigan",
+  "dc_description_s": "Spruce Budworm 2012 includes the areas derived from the Aerial Survey analysis completed by the US Forest Service and the Michigan Department of Natural Resources.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Michigan"
+  ],
+  "dc_creator_sm": [
+    "Michigan Department of Transportation"
+  ],
+  "dc_subject_sm": [
+    "Environment",
+    "Biota"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://hub.arcgis.com/datasets/6e2557fee97f44a5802b0cc70a9f1e6f_34\",\"http://schema.org/downloadUrl\":\"https://public-iowadot.opendata.arcgis.com/datasets/281a8518a9ea414798110d0f9cc26e67_15,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://hub.arcgis.com/datasets/6e2557fee97f44a5802b0cc70a9f1e6f_34\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015-12-10",
+  "dct_temporal_sm": [
+    "2012"
+  ],
+  "dct_spatial_sm": [
+    "Michigan, United States"
+  ],
+  "layer_slug_s": "6e2557fee97f44a5802b0cc70a9f1e6f_34",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:46:07Z",
+  "solr_geom": "ENVELOPE(-89.1524, -83.124, 48.1604, 42.3454)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "45.2529,-86.1382",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

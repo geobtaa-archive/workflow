@@ -1,0 +1,55 @@
+{
+  "dc_identifier_s": "556208361a1d42c68727401386edf707_111",
+  "dc_title_s": "Metro Station Entrances (Regional): Washington, D.C.",
+  "dc_description_s": "Metro Station Entrances for DC region. This dataset contains points representing Metro entrances in the DC Metro regionC. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies. Station centroids were identified from visual observation of orthophotography and extracted from the planimetric data.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Transportation",
+    "Metro",
+    "WMATA"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/556208361a1d42c68727401386edf707_111\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/60f43d8ef4ef492485715bcc406d63ef_4,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://opendata.dc.gov/datasets/556208361a1d42c68727401386edf707_111\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2016",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "layer_slug_s": "556208361a1d42c68727401386edf707_111",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:46:08Z",
+  "solr_geom": "ENVELOPE(-77.3407, -76.8444, 39.1204, 38.7663)",
+  "solr_year_i": 2016,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "38.94335,-77.09255",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

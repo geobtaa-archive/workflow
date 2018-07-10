@@ -1,0 +1,53 @@
+{
+  "dc_identifier_s": "9ba87d5942744b3bb61c78dd22c76564_0",
+  "dc_title_s": "Waterbodies - Rivers and Streams (Generalized): Maryland",
+  "dc_description_s": "This is a MD iMAP hosted service layer. Find more information at http://imap.maryland.gov. The digital segmented network based on watershed boundaries, ERF1-2, includes enhancements to the U. S. Environmental Protection Agency's River Reach File 1 (RF1) (USEPA, 1996; DeWald and others, 1985) to support national and regional-scale surface water-quality modeling. Alexander and others (1999) developed ERF1, which assessed the hydrologic integrity of the digital reach traces and calculated the mean water time-of-travel in river reaches and reservoirs. ERF1-2 serves as the foundation for SPARROW (Spatially Referenced Regressions (of nutrient transport) On Watershed) modeling. Within the context of a Geographic Information System, SPARROW estimates the proportion of watersheds in the conterminous U. S. with outflow concentrations of several nutrients, including total nitrogen and total phosphorus, (Smith, R. A. , Schwarz, G. E. , and Alexander, R. B. , 1997). This version of the network expands on ERF1 (version 1. 2; Alexander et al. 1999), and includes the incremental and total drainage area derived from 1-kilometer (km) elevation data for North America. Previous estimates of the water time-of-travel were recomputed for reaches with water- quality monitoring sites that included two reaches. The mean flow and velocity estimates for these split reaches are based on previous estimation methods (Alexander et al. , 1999) and are unchanged in ERF1-2. Drainage area calculations provide data used to estimate the contribution of a given nutrient to the outflow. Data estimates depend on the accuracy of node connectivity. Reaches split at water- quality or pesticide-monitoring sites indicate the source point for estimating the contribution and transport of nutrients and their loads throughout the watersheds. The ERF1-2 coverage extends the earlier ERF1 coverage by providing digital-elevation-model (DEM-based estimates of reach drainage area founded on the 1-kilometer data for North America (Verdin, 1996; Verdin and Jenson, 1996). A 1-kilometer raster grid of ERF1-2 projected to Lambert Azimuthal Equal Area, NAD 27 Datum (Snyder, 1987), was merged with the HYDRO1K flow direction data set (Verdin and Jenson, 1996) to generate a DEM-based watershed grid, ERF1_2WS. The watershed boundaries are maintained in a raster (grid cell) format as well as a vector (polygon) format for subsequent model analysis. Both the coverage, ERF1-2, and the grid, ERF1-2WS are available at: http://water. usgs. gov/lookup/gisgetlist. The version of RF1 used to compile ERF1-2 was an early edition of a USGS RF1 translation and was updated by USEPA (USEPA, 1996). The capabilities of the enhanced version of RF1 (ERF1-2) and the current USEPA version have not been evaluated. The user is referred to the USEPA version [http://www. epa. gov/owow/monitoring/rf/rfindex] for discussions of streamflow accuracy and general background on the origin of RF1. Last Updated: 1999",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dc_creator_sm": [
+    "Maryland iMap"
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.imap.maryland.gov/datasets/9ba87d5942744b3bb61c78dd22c76564_0\",\"http://schema.org/downloadUrl\":\"https://data.imap.maryland.gov/datasets/b01bdd9a1ffd48569f360bb748937ce9_5,\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://data.imap.maryland.gov/datasets/9ba87d5942744b3bb61c78dd22c76564_0\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2016",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Maryland, United States"
+  ],
+  "layer_slug_s": "9ba87d5942744b3bb61c78dd22c76564_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:22Z",
+  "solr_geom": "ENVELOPE(-79.4844, -75.0534, 39.723, 37.9143)",
+  "solr_year_i": 2016,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "38.81865,-77.2689",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

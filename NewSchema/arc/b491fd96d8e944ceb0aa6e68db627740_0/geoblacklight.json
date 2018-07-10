@@ -1,0 +1,53 @@
+{
+  "dc_identifier_s": "b491fd96d8e944ceb0aa6e68db627740_0",
+  "dc_title_s": "Census Tracts: Southeast Michigan, 2010",
+  "dc_description_s": "2010 MGF Census Geography: 2010 Census polygons tracts extracted from version 15 of the Michigan Geographic Framework, but modified by SEMCOG to extend only to the region's shoreline.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "SEMCOG, Southeast Michigan Council of Governments"
+  ],
+  "dc_creator_sm": [
+    "SEMCOG, Southeast Michigan Council of Governments"
+  ],
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://maps-semcog.opendata.arcgis.com/datasets/b491fd96d8e944ceb0aa6e68db627740_0\",\"http://schema.org/downloadUrl\":\"https://hub.arcgis.com/datasets/0ff1565ef9c84f1aa2d18b40eb45b7b0_16,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps-semcog.opendata.arcgis.com/datasets/b491fd96d8e944ceb0aa6e68db627740_0\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "dct_spatial_sm": [
+    "Michigan, United States"
+  ],
+  "layer_slug_s": "b491fd96d8e944ceb0aa6e68db627740_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:46:23Z",
+  "solr_geom": "ENVELOPE(-84.16166, -82.412299, 43.183854, 41.708942)",
+  "solr_year_i": 2010,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "42.446398,-83.2869795",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

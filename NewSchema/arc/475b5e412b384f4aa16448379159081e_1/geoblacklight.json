@@ -1,0 +1,55 @@
+{
+  "dc_identifier_s": "475b5e412b384f4aa16448379159081e_1",
+  "dc_title_s": "Local Grown Comment: Oakland County, Michigan",
+  "dc_description_s": "Contains locations of local breweries, wineries, and distilleries. Data is maintained by EDCA. Originally created in Spring, 2014.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Oakland County, Michigan"
+  ],
+  "dc_creator_sm": [
+    "Access Oakland"
+  ],
+  "dc_subject_sm": [
+    "Farming",
+    "Economy"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://accessoakland.oakgov.com/datasets/475b5e412b384f4aa16448379159081e_1\",\"http://schema.org/downloadUrl\":\"https://hub.arcgis.com/datasets/4b41037f62bd44b5bd9fb3932ad13ae9_8,\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://accessoakland.oakgov.com/datasets/475b5e412b384f4aa16448379159081e_1\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2014-05-28",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Oakland County, Michigan, United States",
+    "Michigan, United States"
+  ],
+  "layer_slug_s": "475b5e412b384f4aa16448379159081e_1",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:37Z",
+  "solr_geom": "ENVELOPE(-83.694337, -83.074282, 42.893598, 42.426087)",
+  "solr_year_i": 2014,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "42.6598425,-83.3843095",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

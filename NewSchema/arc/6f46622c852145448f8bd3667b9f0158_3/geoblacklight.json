@@ -1,0 +1,54 @@
+{
+  "dc_identifier_s": "6f46622c852145448f8bd3667b9f0158_3",
+  "dc_title_s": "Michigan DNR Parcels: Michigan",
+  "dc_description_s": "Project boundaries are geographic lines thathelp define the state's public lands acquisition and disposal strategy(Michigan's Managed Public Land Strategy). As part of the strategy, we willimprove project boundary alignments of public lands to more closely reflectactual land ownership. There currently are about 1.9 million acres of privatelyowned lands scattered within the project boundaries. These boundaries wereapproved by the Natural Resources Commission in May, 2004.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Michigan"
+  ],
+  "dc_creator_sm": [
+    "Minnesota Department of Natural Resources"
+  ],
+  "dc_subject_sm": [
+    "Environment",
+    "Planning and Cadastral"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://hub.arcgis.com/datasets/6f46622c852145448f8bd3667b9f0158_3\",\"http://schema.org/downloadUrl\":\"https://accessoakland.oakgov.com/datasets/778d7f8721f545cfa149934e2e6db71a_0,\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://hub.arcgis.com/datasets/6f46622c852145448f8bd3667b9f0158_3\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2017-12-20",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Michigan, United States"
+  ],
+  "layer_slug_s": "6f46622c852145448f8bd3667b9f0158_3",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:37Z",
+  "solr_geom": "ENVELOPE(-90.0586, -82.1301, 47.4311, 41.6322)",
+  "solr_year_i": 2017,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.53165,-86.09435",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

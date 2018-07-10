@@ -1,0 +1,53 @@
+{
+  "dc_identifier_s": "4e5caeadb4ef4fef915f69f974154825_0",
+  "dc_title_s": "Water Quality - Tier II Monitoring Stations Historic to 2017 Potential: Maryland",
+  "dc_description_s": "This is a MD iMAP hosted service. Find more information on http://imap. maryland. gov. This point dataset represents Tier II MBSS stations sampled by the Maryland Department of the Environment. Each point represents either one benthic macroinvertebrate station location or one fish station location. This dataset currently contains 108 points, based on data collected between 2012 2016. This dataset also includes potential sites for 2017 monitoring. Creator: Maryland Department of the Environment, Science Services Administration (MDE SSA) Assessment Data: MDE SSAThe Maryland Department of the Environmental shall not be held liable for improper or incorrect use of the data described and/or contained herein. This data is available upon request. MDE gives no warranty, expressed or implied, as to the accuracy, reliability, or completeness of these data. The information contained in these data is dynamic and may change over time. It is the responsibility of the data user to use the data appropriately and consistent within the limitations of geospatial data in general and these data in particular. Users should be aware that comparison with other data sets for the same area may be inaccurate due to inconsistencies resulting from changes in mapping conventions, data collection, and computer processes over time. It is strongly recommended that these data be directly acquired from an MDE source and not indirectly through other sources, which may have altered the data in some way. It is standard for citation and legal purposes for the Maryland Department of the Environment be cited as a data source when products are developed from this dataset. Last Updated: 06/2017",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dc_creator_sm": [
+    "Maryland iMap"
+  ],
+  "dc_subject_sm": [
+    "Environment"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.imap.maryland.gov/datasets/4e5caeadb4ef4fef915f69f974154825_0\",\"http://schema.org/downloadUrl\":\"https://data.imap.maryland.gov/datasets/5c18e0e49f724866a4254bc09353a370_8,\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://data.imap.maryland.gov/datasets/4e5caeadb4ef4fef915f69f974154825_0\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2017-08-23",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dct_spatial_sm": [
+    "Maryland, United States"
+  ],
+  "layer_slug_s": "4e5caeadb4ef4fef915f69f974154825_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:38Z",
+  "solr_geom": "ENVELOPE(-79.4251, -75.3567, 39.7198, 38.2202)",
+  "solr_year_i": 2017,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "38.97,-77.3909",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

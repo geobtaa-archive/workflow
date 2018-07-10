@@ -1,0 +1,53 @@
+{
+  "dc_identifier_s": "3fc30434699e4238a8586d4447ff3622_31",
+  "dc_title_s": "Street/Alley Repave - Last 30 Days: Washington, D.C.",
+  "dc_description_s": "This data layer shows 311 Service Requests in the last 30 days for street and alley repave requests on public property.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/3fc30434699e4238a8586d4447ff3622_31\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/8d10621514e544c0b5a1ef775e7e0263_36,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://opendata.dc.gov/datasets/3fc30434699e4238a8586d4447ff3622_31\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "layer_slug_s": "3fc30434699e4238a8586d4447ff3622_31",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:46:07Z",
+  "solr_geom": "ENVELOPE(-81.5315055843, -81.5268715612, 37.5782508747, 37.5762727728)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "37.5772618237,-81.5291885728",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

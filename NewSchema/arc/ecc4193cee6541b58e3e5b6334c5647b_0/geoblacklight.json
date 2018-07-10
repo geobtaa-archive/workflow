@@ -1,0 +1,53 @@
+{
+  "dc_identifier_s": "ecc4193cee6541b58e3e5b6334c5647b_0",
+  "dc_title_s": "511 IA Road Conditions: Iowa",
+  "dc_description_s": "Iowa Winter Road Conditions. Conditions are updated every 10 minutes during the winter season (October 15 to April 15) and on an as-needed basis during the non-winter months. Layer and service is maintained by the Iowa DOT GIS team on behalf of the Office of Traffic Operations.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Iowa Department of Transportation"
+  ],
+  "dc_creator_sm": [
+    "Iowa DOT GIS Services"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Iowa",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://public-iowadot.opendata.arcgis.com/datasets/ecc4193cee6541b58e3e5b6334c5647b_0\",\"http://schema.org/downloadUrl\":\"https://hub.arcgis.com/datasets/6dd96bcc0abe447b9a2150bf93b14106_7,\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://public-iowadot.opendata.arcgis.com/datasets/ecc4193cee6541b58e3e5b6334c5647b_0\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2016-10-05",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Iowa, United States"
+  ],
+  "layer_slug_s": "ecc4193cee6541b58e3e5b6334c5647b_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:54Z",
+  "solr_geom": "ENVELOPE(-97.058, -89.983, 43.814, 40.224)",
+  "solr_year_i": 2016,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "42.019,-93.5205",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

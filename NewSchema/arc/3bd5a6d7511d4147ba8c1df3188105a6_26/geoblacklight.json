@@ -1,0 +1,54 @@
+{
+  "dc_identifier_s": "3bd5a6d7511d4147ba8c1df3188105a6_26",
+  "dc_title_s": "Aerial Survey 2008 Disease/Pest: Michigan",
+  "dc_description_s": "Aerial Survey 2008 Disease/Pest",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Michigan"
+  ],
+  "dc_creator_sm": [
+    "Minnesota Department of Natural Resources"
+  ],
+  "dc_subject_sm": [
+    "Environment",
+    "Economy"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://hub.arcgis.com/datasets/3bd5a6d7511d4147ba8c1df3188105a6_26\",\"http://schema.org/downloadUrl\":\"https://public-iowadot.opendata.arcgis.com/datasets/1208f7496b794efda595e2d630ed333c_3,\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://hub.arcgis.com/datasets/3bd5a6d7511d4147ba8c1df3188105a6_26\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2016-07-07",
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "dct_spatial_sm": [
+    "Michigan, United States"
+  ],
+  "layer_slug_s": "3bd5a6d7511d4147ba8c1df3188105a6_26",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:54Z",
+  "solr_geom": "ENVELOPE(-89.8035, -83.1847, 47.1482, 42.5533)",
+  "solr_year_i": 2016,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.85075,-86.4941",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

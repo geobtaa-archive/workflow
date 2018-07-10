@@ -1,0 +1,57 @@
+{
+  "dc_identifier_s": "94560dc24f384429b9c8ffcddbb2de99_3",
+  "dc_title_s": "School District Boundaries: Ohio",
+  "dc_description_s": "Now in its 5th iteration the original school district boundary file was created in 2004 by the Cleveland State University NODIS center. School district boundaries were created based upon voter registration records to support various initiatives across multiple state agencies. CSU, NODIS used the school district assignment on the current voter registration record to establish where the district boundaries are. The address locations of voters will be assigned to the Census Bureau's TIGER geographic database and both automated and manual procedures implemented to create the school district boundaries. In addition, the school district names were updated by comparing and reconciling the names provided on the 2001-2002 Census file with those provided in the voter registration database. In 2007, this dataset was updated for 34 counties. The school district boundaries were created from county auditor supplied parcel boundary source data. The parcel boundaries were dissolved on tax district ids to form school district polygons. The resulting polygons were then conflated to centerline, railroad, hydrography, and political boundary data to form a complete school district layer covering the entire county. The data set was last updated in 2014.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Ohio Geographically Referenced Information Program"
+  ],
+  "dc_creator_sm": [
+    "Ohio Department of Education"
+  ],
+  "dc_subject_sm": [
+    "Boundaries",
+    "Society",
+    "Schools",
+    "Districts"
+  ],
+  "dct_provenance_s": "Ohio",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://ogrip-geohio.opendata.arcgis.com/datasets/92b9d4a3a6004add995ec75c950180ff_1\",\"http://schema.org/downloadUrl\":\"https://ogrip-geohio.opendata.arcgis.com/datasets/92b9d4a3a6004add995ec75c950180ff_1.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://geo.oit.ohio.gov/arcgis/rest/services/SchoolDistricts/FeatureServer/1\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015-02-06",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "Ohio, United States"
+  ],
+  "layer_slug_s": "94560dc24f384429b9c8ffcddbb2de99_3",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2018-07-10T14:46:23Z",
+  "solr_geom": "ENVELOPE(-84.9187, -80.4797, 41.9937, 38.3802)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "40.18695,-82.6992",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "https://www.arcgis.com/sharing/rest/content/items/92b9d4a3a6004add995ec75c950180ff/info/thumbnail/boundaries.jpg",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

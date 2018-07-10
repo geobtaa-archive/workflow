@@ -1,0 +1,55 @@
+{
+  "dc_identifier_s": "ea55d753bf504345af6effac9063aa1a_58",
+  "dc_title_s": "Group Meal Centers: Washington, DC",
+  "dc_description_s": "Represents group meal centers in the District of Columbia which are funded by the DC Office on Aging (DCOA). These serve nutritious, well-balanced congregate meals at the center daily, or will arrange for meal delivery to a homebound person. Layer was compiled by the Office of Planning based on DCOA's publicly available listing. Visit https://dcoa.dc.gov/service/group-meals for the most up-to-date list of centers.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Structure"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/ea55d753bf504345af6effac9063aa1a_58\",\"http://schema.org/downloadUrl\":\"https://public-iowadot.opendata.arcgis.com/datasets/48bfff7ffbfa4555bed8c374e44c9300_4,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"http://opendata.dc.gov/datasets/ea55d753bf504345af6effac9063aa1a_58\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2018-03-19",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington, DC, District of Columbia, United States",
+    "District of Columbia, United States"
+  ],
+  "layer_slug_s": "ea55d753bf504345af6effac9063aa1a_58",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2018-07-10T14:45:54Z",
+  "solr_geom": "ENVELOPE(-77.0725, -76.9321, 38.9703, 38.8305)",
+  "solr_year_i": 2018,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "38.9004,-77.0023",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

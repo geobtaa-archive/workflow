@@ -1,0 +1,54 @@
+{
+  "dc_identifier_s": "7742e6c3318345598673b6e85b768163_2",
+  "dc_title_s": "Public Land Survey Town Range: Michigan",
+  "dc_description_s": "Public Land Survey Town Range for Michigan's Upper and Lower Peninsulas.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Michigan"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral",
+    "Boundaries"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://hub.arcgis.com/datasets/7742e6c3318345598673b6e85b768163_2\",\"http://schema.org/downloadUrl\":\"https://maps-semcog.opendata.arcgis.com/datasets/b62491c962114c3dad638795e3de2007_0,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://hub.arcgis.com/datasets/7742e6c3318345598673b6e85b768163_2\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2017-07-26",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Michigan, United States"
+  ],
+  "layer_slug_s": "7742e6c3318345598673b6e85b768163_2",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:46:24Z",
+  "solr_geom": "ENVELOPE(-90.5569, -82.0704, 48.2841, 41.633)",
+  "solr_year_i": 2017,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.95855,-86.31365",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

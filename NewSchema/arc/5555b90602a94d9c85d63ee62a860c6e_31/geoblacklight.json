@@ -1,0 +1,56 @@
+{
+  "dc_identifier_s": "5555b90602a94d9c85d63ee62a860c6e_31",
+  "dc_title_s": "ATM Banking: Washington, D.C.",
+  "dc_description_s": "The Chief Technology Office (OCTO) has captured the majority of ATM banking locations in the District of Columbia.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Economy",
+    "Bank",
+    "Money",
+    "Business"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/5555b90602a94d9c85d63ee62a860c6e_31\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/60c9c95a5fe0436caaa1f80f8b0ecad8_2,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://opendata.dc.gov/datasets/5555b90602a94d9c85d63ee62a860c6e_31\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "layer_slug_s": "5555b90602a94d9c85d63ee62a860c6e_31",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:46:08Z",
+  "solr_geom": "ENVELOPE(-77.0972, -76.9503, 38.9638, 38.8224)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "38.8931,-77.02375",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

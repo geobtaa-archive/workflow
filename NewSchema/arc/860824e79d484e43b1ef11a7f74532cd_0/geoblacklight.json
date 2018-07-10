@@ -1,0 +1,53 @@
+{
+  "dc_identifier_s": "860824e79d484e43b1ef11a7f74532cd_0",
+  "dc_title_s": "Low Distortion Projection Boundaries: Iowa",
+  "dc_description_s": "Low distortion projection zones for the State of Iowa. More information can be found on the Iowa Regional Coordinate System Website.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Iowa Department of Transportation"
+  ],
+  "dc_creator_sm": [
+    "Iowa DOT GIS Services"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Iowa",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://public-iowadot.opendata.arcgis.com/datasets/860824e79d484e43b1ef11a7f74532cd_0\",\"http://schema.org/downloadUrl\":\"https://hub.arcgis.com/datasets/1c93c259111241ddb75d308c5d3f2704_3,\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://public-iowadot.opendata.arcgis.com/datasets/860824e79d484e43b1ef11a7f74532cd_0\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2014-11-14",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Iowa, United States"
+  ],
+  "layer_slug_s": "860824e79d484e43b1ef11a7f74532cd_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:37Z",
+  "solr_geom": "ENVELOPE(-98.0341453776916, -88.6695641096181, 44.4142760222165, 38.6040846146332)",
+  "solr_year_i": 2014,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "41.5091803184,-93.3518547437",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

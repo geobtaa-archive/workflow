@@ -1,0 +1,53 @@
+{
+  "dc_identifier_s": "338f944b1a1f421ea8b628e014594407_3",
+  "dc_title_s": "I-80 Planning and Environmental Linkage (PEL) Resources - Wildlife Management Areas: Iowa",
+  "dc_description_s": "This map shows known or potential wildlife management area resources within the I-80 Planning and Environmental Linkage (PEL) Study Area. The PEL study is being conducted by the Office of Location and Environment.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Iowa Department of Transportation"
+  ],
+  "dc_creator_sm": [
+    "Iowa DOT GIS Services"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Iowa",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://public-iowadot.opendata.arcgis.com/datasets/338f944b1a1f421ea8b628e014594407_3\",\"http://schema.org/downloadUrl\":\"https://public-iowadot.opendata.arcgis.com/datasets/860824e79d484e43b1ef11a7f74532cd_0,\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://public-iowadot.opendata.arcgis.com/datasets/338f944b1a1f421ea8b628e014594407_3\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2016-06-16",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Iowa, United States"
+  ],
+  "layer_slug_s": "338f944b1a1f421ea8b628e014594407_3",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:37Z",
+  "solr_geom": "ENVELOPE(-93.9715, -90.551, 41.711, 41.5034)",
+  "solr_year_i": 2016,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "41.6072,-92.26125",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

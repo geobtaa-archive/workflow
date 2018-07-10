@@ -1,0 +1,54 @@
+{
+  "dc_identifier_s": "aaa743c236314a6fba21e3f84f4ad19e_1",
+  "dc_title_s": "Community Development Corporations, Indianapolis, Indiana",
+  "dc_description_s": "Polygon boundaries displaying the Community Development Corporations (CDC) within Indianapolis and Marion County, Indiana. Data projection: NAD 1983 StatePlane Indiana East FIPS 1301 (US Feet)",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Indianapolis-Marion County"
+  ],
+  "dc_creator_sm": [
+    "City of Indianapolis-Marion County"
+  ],
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "dct_provenance_s": "Indiana",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data1-indygis.opendata.arcgis.com/datasets/aaa743c236314a6fba21e3f84f4ad19e_1\",\"http://schema.org/downloadUrl\":\"https://hub.arcgis.com/datasets/2bcfd62c243e462ea4ff040f8581fe5f_9,\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://data1-indygis.opendata.arcgis.com/datasets/aaa743c236314a6fba21e3f84f4ad19e_1\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015-11-24",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Indianapolis, Indiana, United States",
+    "Indiana, United States"
+  ],
+  "layer_slug_s": "aaa743c236314a6fba21e3f84f4ad19e_1",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:22Z",
+  "solr_geom": "ENVELOPE(-86.2512, -85.9525, 39.8415, 39.7073)",
+  "solr_year_i": 2017,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "39.7744,-86.10185",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

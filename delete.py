@@ -54,7 +54,7 @@ log.addHandler(ch)
 class CSWToGeoBlacklight(object):
 
     def __init__(self, SOLR_URL, SOLR_USERNAME, SOLR_PASSWORD, INST=None,
-                 max_records=None, COLLECTION=None, UUID=None, PUBLISHER=None, SUBJECT=None):
+                 max_records=None, COLLECTION=None, CODE=None, UUID=None, PUBLISHER=None, SUBJECT=None):
 
         if SOLR_USERNAME and SOLR_PASSWORD:
             SOLR_URL = SOLR_URL.format(
@@ -75,6 +75,7 @@ class CSWToGeoBlacklight(object):
         else:
             self.collection = None
 
+
         self.institutions_test = {
             "minn": '"Minnesota"'
         }
@@ -89,6 +90,7 @@ class CSWToGeoBlacklight(object):
             "umd": '"Maryland"',
             "wisc": '"Wisconsin"',
             "indiana": '"Indiana"',
+            "chicago": '"Chicago"',
             "stanford": '"Stanford"',
             "uva": '"UVa"',
             "nyu": '"Baruch CUNY"',
@@ -113,6 +115,75 @@ class CSWToGeoBlacklight(object):
 
         }
 
+        self.code = {
+			"01c-01": '"01c-01"',
+			"01c-02": '"01c-02"',
+			"01d-01": '"01d-01"',
+			"02a-01": '"02a-01"',
+			"02c-01": '"02c-01"',
+			"03a-01": '"03a-01"',
+			"03a-02": '"03a-02"',
+			"03a-03": '"03a-03"',
+			"03d-01": '"03d-01"',
+			"03d-02": '"03d-02"',
+			"04a-01": '"04a-01"',
+			"04c-01": '"04c-01"',
+			"04c-02": '"04c-02"',
+			"04c-03": '"04c-03"',
+			"04d-01": '"04d-01"',
+			"04d-02": '"04d-02"',
+			"05a-01": '"05a-01"',
+			"05a-02": '"05a-02"',
+			"05b-01": '"05b-01"',
+			"05b-02": '"05b-02"',
+			"05b-03": '"05b-03"',
+			"05b-04": '"05b-04"',
+			"05b-05": '"05b-05"',
+			"05b-06": '"05b-06"',
+			"05b-07": '"05b-07"',
+			"05b-09": '"05b-09"',
+			"05b-10": '"05b-10"',
+			"05b-11": '"05b-11"',
+			"05b-12": '"05b-12"',
+			"05b-13": '"05b-13"',
+			"05b-14": '"05b-14"',
+			"05b-029": '"05b-029"',
+			"05c-01": '"05c-01"',
+			"05d-01": '"05d-01"',
+			"05d-02": '"05d-02"',
+			"05d-03": '"05d-03"',
+			"05d-04": '"05d-04"',
+			"05d-05": '"05d-05"',
+			"05d-06": '"05d-06"',
+			"06a-01": '"06a-01"',
+			"06a-02": '"06a-02"',
+			"06c-01": '"06c-01"',
+			"06d-01": '"06d-01"',
+			"07c-01": '"07c-01"',
+			"07c-02": '"07c-02"',
+			"07d-01": '"07d-01"',
+			"07f-01": '"07f-01"',
+			"08a-01": '"08a-01"',
+			"08c-01": '"08c-01"',
+			"08c-02": '"08c-02"',
+			"08d-01": '"08d-01"',
+			"08d-02": '"08d-02"',
+			"08f-01": '"08f-01"',
+			"09a-01": '"09a-01"',
+			"09c-01": '"09c-01"',
+			"09d-01": '"09d-01"',
+			"10a-01": '"10a-01"',
+			"10a-02": '"10a-02"',
+			"10a-03": '"10a-03"',
+			"10a-04": '"10a-04"',
+			"10a-05": '"10a-05"',
+			"10b-01": '"10b-01"',
+			"11a-01": '"11a-01"',
+			"11d-01": '"11d-01"',
+			"12b-01": '"12b-01"'
+
+        	}
+
 
         self.collection = {
             "arc": '"ArcGIS Open Data"',
@@ -122,7 +193,7 @@ class CSWToGeoBlacklight(object):
 			"02a-01": '"Illinois Geospatial Data Clearinghouse"',
 			"03a-02": '"IowaDOT"',
 			"03a-03": '"Iowa GeoData"',
-			"03d-01": '"Iowa Historical County Atlases"',
+			"03d-01": '"Iowa Counties Historic Atlases"',
 			"03d-02": '"Hixson Plat Map Atlases of Iowa"',
 			"04a-01": '"Maryland iMap"',
 			"04c-01": '"District of Columbia Open Data"',
@@ -138,7 +209,7 @@ class CSWToGeoBlacklight(object):
 			"05b-03": '"Carver County"',
 			"05b-04": '"Chisago County"',
 			"05b-05": '"Clay County"',
-			"05b-06": '"Hennepin County"',
+			"05b-06": '"Hennepin County Imagery"',
 			"05b-07": '"Otter Tail County"',
 			"05b-09": '"St Louis County"',
 			"05b-10": '"Scott County"',
@@ -148,15 +219,15 @@ class CSWToGeoBlacklight(object):
 			"05c-01": '"Minneapolis Open Data"',
 			"05d-01": '"John R. Borchert Map Library"',
 			"05d-02": '"Borchert Sheet maps"',
-			"05d-03": '"DRUM"',
+			"05d-03": '"University of Minnesota Digital Conservancy"',
 			"05d-04": '"Minnesota Geological Survey"',
 			"06a-01": '"State of Michigan Open Data Portal"',
 			"06a-02": '"Michigan DNR"',
 			"06a-03": '"Michigan DOT"',
-			"06d-01": '"Michigan State University Libraries Maps"',
+			"06d-01": '"Michigan State University Map Library"',
 			"07c-01": '"Detroit Open Data"',
 			"07c-02": '"City of Ann Arbor"',
-			"07d-01": '"Clark Library Scanned Maps"',
+			"07d-01": '"Clark Library Map Collections"',
 			"07e-01": '"SEMCOG"',
 			"08a-01": '"Pennsylvania Spatial Data Access (PASDA)"',
 			"08d-01": '"Penn State Rare Maps"',
@@ -192,6 +263,12 @@ class CSWToGeoBlacklight(object):
         Delete records from Solr.
         """
         self.solr.delete_query("dct_isPartOf_sm:" + self.collection[collection])
+
+    def delete_records_code(self, code):
+        """
+        Delete records from Solr.
+        """
+        self.solr.delete_query("b1g_collection_sm:" + self.code[code])
 
     def delete_records_publisher(self, publisher):
         """
@@ -306,6 +383,10 @@ def main():
         "--delete-one-record")
 
     group.add_argument(
+        "-dcode",
+        "--delete-code")
+
+    group.add_argument(
         "-dsub",
         "--delete-records-subject")
 
@@ -321,6 +402,9 @@ def main():
 
     elif args.delete_records_collection:
         interface.delete_records_collection(args.delete_records_collection)
+
+    elif args.delete_code:
+        interface.delete_records_code(args.delete_code)
 
     elif args.delete_one_record:
         interface.delete_one_record(args.delete_one_record)

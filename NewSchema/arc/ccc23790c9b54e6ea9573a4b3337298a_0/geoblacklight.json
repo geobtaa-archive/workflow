@@ -1,0 +1,55 @@
+{
+  "dc_identifier_s": "ccc23790c9b54e6ea9573a4b3337298a_0",
+  "dc_title_s": "Transportation Network, Road Inventory: Ohio",
+  "dc_description_s": "The ODOT road inventory as downloaded from the ODOT TIMS system on June 6,2018. ODOT TIMS portal https://gis.dot.state.oh.us/tims/Data/Download.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Ohio Geographically Referenced Information Program"
+  ],
+  "dc_creator_sm": [
+    "Ohio Department of Transportation"
+  ],
+  "dc_subject_sm": [
+    "Transportation",
+    "Roads"
+  ],
+  "dct_provenance_s": "Ohio",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://ogrip-geohio.opendata.arcgis.com/datasets/ccc23790c9b54e6ea9573a4b3337298a_0\",\"http://schema.org/downloadUrl\":\"https://ogrip-geohio.opendata.arcgis.com/datasets/ccc23790c9b54e6ea9573a4b3337298a_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services6.arcgis.com/zxOMWqh0yAD6mMsJ/arcgis/rest/services/ODOT_RD_INVENTORY/FeatureServer/0\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2018-06-07",
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dct_spatial_sm": [
+    "Ohio, United States"
+  ],
+  "layer_slug_s": "ccc23790c9b54e6ea9573a4b3337298a_0",
+  "layer_geom_type_s": "Line",
+  "layer_modified_dt": "2018-07-10T14:46:23Z",
+  "solr_geom": "ENVELOPE(-84.8201, -80.5189, 41.9762, 38.4043)",
+  "solr_year_i": 2018,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "40.19025,-82.6695",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

@@ -1,0 +1,55 @@
+{
+  "dc_identifier_s": "e87a760828844422afe864a6754049c2_20",
+  "dc_title_s": "Census Tracts by Population Change: Washington, D.C., 2000",
+  "dc_description_s": "This dataset contains polygon featuresC. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies. 2000 census tracts are identical to 1990 census tracts Census tracts were identified from maps provided by the U.S. Census Bureau and the D.C. Office of Planning. <a href=\"http://geospatial.dcgis.dc.gov/dc_kmz/metadata/Tract00Ply.html\" target=\"_blank\">Metadata",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Boundaries",
+    "Demographic",
+    "People"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/e87a760828844422afe864a6754049c2_20\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/f22c407ea33f4971b218f64a356532ae_67,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://opendata.dc.gov/datasets/e87a760828844422afe864a6754049c2_20\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "layer_slug_s": "e87a760828844422afe864a6754049c2_20",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:53Z",
+  "solr_geom": "ENVELOPE(-77.1198964251, -76.9090163369, 38.9959674016, 38.7915818465)",
+  "solr_year_i": 2000,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "38.893774624,-77.014456381",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

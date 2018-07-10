@@ -1,0 +1,53 @@
+{
+  "dc_identifier_s": "fb0c71727cd74007a38b62fefdc3fadd_9",
+  "dc_title_s": "Annual Average Daily Traffic (AADT) Turning Traffic: Iowa, 2006",
+  "dc_description_s": "Iowa turning traffic data (AADT) for intersections on the primary, secondary and municipal roadway systems for 2006. The state is divided into 4 quadrants and each quadrant is counted every 4 years.The Turning Movements application includes all AADT Turning Traffic data for years 1998-2015 and can be found on the Iowa DOT Interactive Map Portal.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Iowa Department of Transportation"
+  ],
+  "dc_creator_sm": [
+    "Iowa DOT GIS Services"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Iowa",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://public-iowadot.opendata.arcgis.com/datasets/fb0c71727cd74007a38b62fefdc3fadd_9\",\"http://schema.org/downloadUrl\":\"https://hub.arcgis.com/datasets/a04058555ec041f1888fb7809f097af3_16,\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://public-iowadot.opendata.arcgis.com/datasets/fb0c71727cd74007a38b62fefdc3fadd_9\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2016-09-29",
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "dct_spatial_sm": [
+    "Iowa, United States"
+  ],
+  "layer_slug_s": "fb0c71727cd74007a38b62fefdc3fadd_9",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:54Z",
+  "solr_geom": "ENVELOPE(-96.4563, -90.0988, 43.4444, 40.3635)",
+  "solr_year_i": 2006,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "41.90395,-93.27755",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

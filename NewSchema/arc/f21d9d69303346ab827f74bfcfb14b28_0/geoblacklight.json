@@ -1,0 +1,55 @@
+{
+  "dc_identifier_s": "f21d9d69303346ab827f74bfcfb14b28_0",
+  "dc_title_s": "Abandoned Property Parcels: South Bend, Indiana",
+  "dc_description_s": "A link to a color-descriptive version of this data can be found at'http://southbend.maps.arcgis.com/home/webmap/viewer.html'webmap=c37fbb8adc0e4f689c21fc9211c75c1e",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of South Bend, Indiana"
+  ],
+  "dc_creator_sm": [
+    "City of South Bend, Indiana"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral",
+    "Boundaries"
+  ],
+  "dct_provenance_s": "Purdue",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data-southbend.opendata.arcgis.com/datasets/f21d9d69303346ab827f74bfcfb14b28_0\",\"http://schema.org/downloadUrl\":\"https://ogrip-geohio.opendata.arcgis.com/datasets/4b13b36355e6498d9b4312648ae756b3_7,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://data-southbend.opendata.arcgis.com/datasets/f21d9d69303346ab827f74bfcfb14b28_0\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2017-01-05",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "South Bend, Indiana, United States",
+    "Indiana, United States"
+  ],
+  "layer_slug_s": "f21d9d69303346ab827f74bfcfb14b28_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:46:23Z",
+  "solr_geom": "ENVELOPE(-86.3612, -86.1912, 41.7609, 41.5969)",
+  "solr_year_i": 2017,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "41.6789,-86.2762",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

@@ -1,0 +1,55 @@
+{
+  "dc_identifier_s": "38ca2191c6924e2abd96447ede4ccbd3_1",
+  "dc_title_s": "Dead Animal Pickup: Washington, D.C., Last 30 Days",
+  "dc_description_s": "This data layer shows 311 Service Requests in the last 30 days for removal requests for dead animals on public property.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Environment",
+    "311",
+    "Service requests"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/38ca2191c6924e2abd96447ede4ccbd3_1\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/4309de32613844d8a45ca40c21c0d73b_22,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://opendata.dc.gov/datasets/38ca2191c6924e2abd96447ede4ccbd3_1\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "layer_slug_s": "38ca2191c6924e2abd96447ede4ccbd3_1",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:46:08Z",
+  "solr_geom": "ENVELOPE(-77.1118223715, -76.9107112892, 38.9822889979, 38.8257170316)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "38.9040030148,-77.0112668303",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

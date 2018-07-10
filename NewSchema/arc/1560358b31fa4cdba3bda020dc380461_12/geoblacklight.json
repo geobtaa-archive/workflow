@@ -1,0 +1,57 @@
+{
+  "dc_identifier_s": "1560358b31fa4cdba3bda020dc380461_12",
+  "dc_title_s": "Alley and Street Changes: Washington, D.C.",
+  "dc_description_s": "Alley and street changes published in the District of Columbia's Geographic Information System (DC GIS).",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Transportation",
+    "Alleys",
+    "Street",
+    "Property",
+    "Roads"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/1560358b31fa4cdba3bda020dc380461_12\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/21d511ff2e9f448592006fbd71845734_8,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://opendata.dc.gov/datasets/1560358b31fa4cdba3bda020dc380461_12\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2016",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "layer_slug_s": "1560358b31fa4cdba3bda020dc380461_12",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:46:08Z",
+  "solr_geom": "ENVELOPE(-77.0854, -76.9142, 38.9864, 38.8297)",
+  "solr_year_i": 2016,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "38.90805,-76.9998",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

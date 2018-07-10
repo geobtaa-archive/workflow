@@ -1,0 +1,55 @@
+{
+  "dc_identifier_s": "5b1de94278154421ab4ccfc94676c269_10",
+  "dc_title_s": "Pothole: Washington, D.C., Last 30 Days",
+  "dc_description_s": "This data layer shows 311 Service Requests in the last 30 days for pothole investigation. Pothole repair normally take approximately 3 business days (72 hours)",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Transportation",
+    "311",
+    "Service requests"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/5b1de94278154421ab4ccfc94676c269_10\",\"http://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/67da6b571c5e41ec8c21b5ce54080434_0,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://opendata.dc.gov/datasets/5b1de94278154421ab4ccfc94676c269_10\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "layer_slug_s": "5b1de94278154421ab4ccfc94676c269_10",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:46:08Z",
+  "solr_geom": "ENVELOPE(-77.1143062654, -76.9105684601, 38.9923199816, 38.8157827522)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "38.9040513669,-77.0124373628",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

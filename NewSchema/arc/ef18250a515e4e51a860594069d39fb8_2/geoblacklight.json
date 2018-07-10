@@ -1,0 +1,53 @@
+{
+  "dc_identifier_s": "ef18250a515e4e51a860594069d39fb8_2",
+  "dc_title_s": "International Roughness Index: Michigan, 2010-2011",
+  "dc_description_s": "International Roughness Index is a statistic of a pavementsurface s longitudinal profile that quantifies ride quality as the estimatedaccumulation of a passenger vehicle s vertical movement (in inches) as itdrives over the subject road for a distance of one mile. The reported IRIunits are, therefore, inches-per-mile, with a lower IRI value depicting asmoother ride. This Transportation Performance Measurement reports the average IRIcalculation determined from laser-measured elevation changes in each wheelpath.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Michigan"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://hub.arcgis.com/datasets/ef18250a515e4e51a860594069d39fb8_2\",\"http://schema.org/downloadUrl\":\"https://hub.arcgis.com/datasets/8bdf9dfe14d84de695f60de421c47aeb_22,\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://hub.arcgis.com/datasets/ef18250a515e4e51a860594069d39fb8_2\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2017-10-04",
+  "dct_temporal_sm": [
+    "2010-2011"
+  ],
+  "dct_spatial_sm": [
+    "Michigan, United States"
+  ],
+  "layer_slug_s": "ef18250a515e4e51a860594069d39fb8_2",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:46:08Z",
+  "solr_geom": "ENVELOPE(-90.240018, -82.159819, 47.150427, 41.655168)",
+  "solr_year_i": 2010,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "44.4027975,-86.1999185",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}

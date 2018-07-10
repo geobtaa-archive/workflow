@@ -1,0 +1,53 @@
+{
+  "dc_identifier_s": "f0c4a26a0a514522becd389bca921039_37",
+  "dc_title_s": "Recreational Uses - Recreational Motorized Vessel Fishing: Maryland",
+  "dc_description_s": "This is a MD iMAP hosted service layer. Find more information at http://imap.maryland.gov. Maryland, through its Coastal Zone Management (CZM) Program, is collecting information on how the public uses the Chesapeake Bay waters and adjacent lands. These baseline data will inform planning efforts being undertaken by the Maryland Department of Natural Resources to help inform public access, land acquisition, and future oyster aquaculture planning and decision-making. Collecting data on the variety of ways our Chesapeake waters are used will help us plan for reducing use conflicts in our coastal waters, maximizing efficiency, and enhancing environmental and economic productivity. Chesapeake Bay waters are used in many ways: commercial fishing, aquaculture, transport, habitat for wildlife, and recreation, among others. With new and expanding coastal and marine uses, as well as Maryland s growing coastal population, the pressure is mounting to ensure that there is space for both traditional and new uses and that conflicts are minimized. Some mapped human use data exist, but Maryland has limited recreational water use data for the Chesapeake waters. Basic data on how we use our coastal waters was collected by inviting residents and experts to share their knowledge about recreational uses at workshops using geographical information systems technology. Last Updated: 07/01/2014",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dc_creator_sm": [
+    "Maryland iMap"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://data.imap.maryland.gov/datasets/f0c4a26a0a514522becd389bca921039_37\",\"http://schema.org/downloadUrl\":\"https://data1-indygis.opendata.arcgis.com/datasets/2898ef3b78f144b8a624d38e7d8b1839_6,\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://data.imap.maryland.gov/datasets/f0c4a26a0a514522becd389bca921039_37\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2016",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Maryland, United States"
+  ],
+  "layer_slug_s": "f0c4a26a0a514522becd389bca921039_37",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-10T14:45:22Z",
+  "solr_geom": "ENVELOPE(-79.4696, -72.2816, 39.7216, 36.8734)",
+  "solr_year_i": 2016,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_geom_type_sm": [
+    "Vector data"
+  ],
+  "b1g_centroid_ss": "38.2975,-75.8756",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS Open Data",
+  "geoblacklight_version": "1.0"
+}
