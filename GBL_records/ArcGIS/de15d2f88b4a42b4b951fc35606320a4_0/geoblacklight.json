@@ -1,0 +1,50 @@
+{
+  "dc_identifier_s": "de15d2f88b4a42b4b951fc35606320a4_0",
+  "dc_title_s": "Public Works Planimetric Polygons: Minneapolis, Minnesota",
+  "dc_description_s": "Planimetric data shows horizontal positions of features visible from aerial photos (e.g. buildings, roads, trees, etc.) and is used for planning, design and analysis.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Minneapolis, Minnesota"
+  ],
+  "dc_creator_sm": [
+    "MapIT Minneapolis"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral",
+    "Structure"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/de15d2f88b4a42b4b951fc35606320a4_0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/de15d2f88b4a42b4b951fc35606320a4_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/PW_Planimetric_Polygons/FeatureServer/0\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2018-02-21",
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dct_spatial_sm": [
+    "Minneapolis, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "de15d2f88b4a42b4b951fc35606320a4_0",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2018-07-19T20:31:20Z",
+  "solr_geom": "ENVELOPE(-93.33032561579398, -93.18517406651611, 45.05169166543586, 44.88925368789623)",
+  "solr_year_i": 2018,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "44.9704726767,-93.2577498412",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS",
+  "geoblacklight_version": "1.0"
+}

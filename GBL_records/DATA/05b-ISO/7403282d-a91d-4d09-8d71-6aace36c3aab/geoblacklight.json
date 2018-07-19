@@ -1,0 +1,48 @@
+{
+  "dc_identifier_s": "7403282d-a91d-4d09-8d71-6aace36c3aab",
+  "dc_title_s": "Road Centerlines: Anoka County, Minnesota",
+  "dc_description_s": "Anoka County road centerlines",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Geodatabase",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "dc_publisher_sm": [
+    "Anoka County, Minnesota"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.anokacounty.us/1990/Data-Downloads\",\"http://schema.org/downloadUrl\":\"ftp://gisdata.co.anoka.mn.us/Road_Centerlines.gdb.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"http://64.90.181.107/geonetwork/srv/api/records/7403282d-a91d-4d09-8d71-6aace36c3aab/formatters/xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Counties"
+  ],
+  "dct_issued_s": "2015-07-24",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "Anoka County, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "7403282d-a91d-4d09-8d71-6aace36c3aab",
+  "layer_geom_type_s": "Line",
+  "layer_modified_dt": "2018-07-17T22:55:52Z",
+  "solr_geom": "ENVELOPE(-93.514401, -93.017512, 45.414343, 45.035085)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "45.224714,-93.2659565",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05b-ISO",
+  "geoblacklight_version": "1.0"
+}

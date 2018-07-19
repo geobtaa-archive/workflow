@@ -1,0 +1,49 @@
+{
+  "dc_identifier_s": "be2343eb281f4b6cb214750e1922aa9d_1",
+  "dc_title_s": "Free Public Wireless Zones: South Bend, Indiana",
+  "dc_description_s": "The geographic boundaries of the Free Public Wifi zones.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of South Bend, Indiana"
+  ],
+  "dc_creator_sm": [
+    "City of South Bend, Indiana"
+  ],
+  "dc_subject_sm": [
+    "Utilities and Communication"
+  ],
+  "dct_provenance_s": "Purdue",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data-southbend.opendata.arcgis.com/datasets/be2343eb281f4b6cb214750e1922aa9d_1\",\"http://schema.org/downloadUrl\":\"http://data-southbend.opendata.arcgis.com/datasets/be2343eb281f4b6cb214750e1922aa9d_1.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.southbendin.gov/arcgis/rest/services/LandRecords/PublicEssentials/MapServer/1\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2016-06-17",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "South Bend, Indiana, United States",
+    "Indiana, United States"
+  ],
+  "layer_slug_s": "be2343eb281f4b6cb214750e1922aa9d_1",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-19T20:30:30Z",
+  "solr_geom": "ENVELOPE(-86.3612, -86.1911, 41.7609, 41.5969)",
+  "solr_year_i": 2016,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "41.6789,-86.27615",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS",
+  "geoblacklight_version": "1.0"
+}

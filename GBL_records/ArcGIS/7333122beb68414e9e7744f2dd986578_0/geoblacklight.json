@@ -1,0 +1,49 @@
+{
+  "dc_identifier_s": "7333122beb68414e9e7744f2dd986578_0",
+  "dc_title_s": "Housing Market Typology: Baltimore, Maryland",
+  "dc_description_s": "2014 Housing Market Typology",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Baltimore, Maryland"
+  ],
+  "dc_creator_sm": [
+    "City of Baltimore, Maryland"
+  ],
+  "dc_subject_sm": [
+    "Economy"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://gis-baltimore.opendata.arcgis.com/datasets/7333122beb68414e9e7744f2dd986578_0\",\"http://schema.org/downloadUrl\":\"http://gis-baltimore.opendata.arcgis.com/datasets/7333122beb68414e9e7744f2dd986578_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/UWYHeuuJISiGmgXx/arcgis/rest/services/2014Typology/FeatureServer/0\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015-06-04",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "Baltimore, Maryland, United States",
+    "Maryland, United States"
+  ],
+  "layer_slug_s": "7333122beb68414e9e7744f2dd986578_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-19T20:31:20Z",
+  "solr_geom": "ENVELOPE(-76.7121992833495, -76.5278935680864, 39.3727738076079, 39.197116615047)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "39.2849452113,-76.6200464257",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS",
+  "geoblacklight_version": "1.0"
+}

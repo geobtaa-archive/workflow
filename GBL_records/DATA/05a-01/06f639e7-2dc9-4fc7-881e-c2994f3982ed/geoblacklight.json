@@ -1,0 +1,47 @@
+{
+  "dc_identifier_s": "06f639e7-2dc9-4fc7-881e-c2994f3982ed",
+  "dc_title_s": "Regional Bicycle Transportation Network (Alignments and Corridors): Metro Twin Cities, Minnesota",
+  "dc_description_s": "The Regional Bicycle Transportation Network (RBTN) dataset was created by the Metropolitan Council for the 2040 Transportation Policy Plan (TPP).  The RBTN is represented by two map layers including alignments and corridors.  Alignments represent existing or proposed bicycle paths and bike corridors represent areas where bicycle path alignments are yet to be determined.  Both corridor and alignment layers can be classified into tiers. Tier 1 Alignments/Corridors have higher priorities than Tier 2 Alignments/Corridors.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": "Dataset",
+  "dc_publisher_sm": [
+    "Metropolitan Council"
+  ],
+  "dc_creator_sm": [
+    "Metropolitan Transportation Services - Metropolitan Council"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/06f639e7-2dc9-4fc7-881e-c2994f3982ed\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/trans_regional_bike_trans_netwrk/fgdb_trans_regional_bike_trans_netwrk.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_metc/trans_regional_bike_trans_netwrk/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2015-10-27T10:02:18.263323",
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "06f639e7-2dc9-4fc7-881e-c2994f3982ed",
+  "layer_geom_type_s": "Line",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
+  "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
+  "solr_year_i": 2018,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "44.943,-93.372",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
+  "geoblacklight_version": "1.0"
+}

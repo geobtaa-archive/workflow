@@ -1,0 +1,50 @@
+{
+  "dc_identifier_s": "81a359c031464c53af6230338dbc848e_37",
+  "dc_title_s": "Building Permits: Washington, D.C., 2017",
+  "dc_description_s": "Building permit locations. The dataset contains locations and attributes of 2016 building construction and alteration permits applied for and approved by the District of Columbia Department of Consumer and Regulatory Affairs. The building permit process is described on the DCRA website http://dcra.dc.gov/These data are shared via an automated process where addresses are batch matched (geocoded) to the District's Master Address Repository. Users may find that some data points will contain 0 Addresses for these data points could not be automatically geocoded and will need to be manually geocoded to 'best fit' locations in DC. Use the MAR Geocoder to help complete this.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Feeds",
+    "Building permits"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/81a359c031464c53af6230338dbc848e_37\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/81a359c031464c53af6230338dbc848e_37.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DCRA/MapServer/37\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2017-01-30",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "layer_slug_s": "81a359c031464c53af6230338dbc848e_37",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-19T20:30:50Z",
+  "solr_geom": "ENVELOPE(-77.176, -76.896, 39.035, 38.755)",
+  "solr_year_i": 2017,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "38.895,-77.036",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS",
+  "geoblacklight_version": "1.0"
+}

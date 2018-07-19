@@ -1,0 +1,49 @@
+{
+  "dc_identifier_s": "89f5c2b386cc4d4a990412bc74b572e1_5",
+  "dc_title_s": "Boys and Girls Club: Washington, D.C.",
+  "dc_description_s": "Boys and Girls Club locations. The dataset contains locations and attributes of Boys and Girls ClubsC. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies. All DC GIS data is stored and exported in Maryland State Plane coordinates NAD 83 meters. METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Recreation"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/89f5c2b386cc4d4a990412bc74b572e1_5\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/89f5c2b386cc4d4a990412bc74b572e1_5.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Recreation_WebMercator/MapServer/5\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015-02-27",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "layer_slug_s": "89f5c2b386cc4d4a990412bc74b572e1_5",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-19T20:30:51Z",
+  "solr_geom": "ENVELOPE(-77.0668818434, -76.9435569179, 38.9400913594, 38.8422297159)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "38.8911605376,-77.0052193807",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS",
+  "geoblacklight_version": "1.0"
+}

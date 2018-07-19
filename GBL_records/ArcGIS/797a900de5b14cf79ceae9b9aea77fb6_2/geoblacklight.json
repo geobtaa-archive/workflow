@@ -1,0 +1,49 @@
+{
+  "dc_identifier_s": "797a900de5b14cf79ceae9b9aea77fb6_2",
+  "dc_title_s": "OC 5 Foot Contours: Oakland County, Michigan",
+  "dc_description_s": "A spatial representation of five-foot topographic contour lines. This line feature class was derived from a County-wide raster that was created from the terrain dataset based on the DTM deliverables (masspoints, soft breaklines, etc.) from the 2008 LIDAR project. The key attribute is Contour.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Oakland County, Michigan"
+  ],
+  "dc_creator_sm": [
+    "Access Oakland"
+  ],
+  "dc_subject_sm": [
+    "Elevation"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://accessoakland.oakgov.com/datasets/797a900de5b14cf79ceae9b9aea77fb6_2\",\"http://schema.org/downloadUrl\":\"http://accessoakland.oakgov.com/datasets/797a900de5b14cf79ceae9b9aea77fb6_2.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gisservices.oakgov.com/arcgis/rest/services/Enterprise/EnterpriseSurfaceTopographyMapService/MapServer/2\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2016-10-16",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "Oakland County, Michigan, United States",
+    "Michigan, United States"
+  ],
+  "layer_slug_s": "797a900de5b14cf79ceae9b9aea77fb6_2",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-19T20:30:29Z",
+  "solr_geom": "ENVELOPE(-83.694337, -83.074282, 42.893598, 42.426087)",
+  "solr_year_i": 2016,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "42.6598425,-83.3843095",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS",
+  "geoblacklight_version": "1.0"
+}

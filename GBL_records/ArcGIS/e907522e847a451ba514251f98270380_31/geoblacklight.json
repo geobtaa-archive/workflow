@@ -1,0 +1,57 @@
+{
+  "dc_identifier_s": "e907522e847a451ba514251f98270380_31",
+  "dc_title_s": "Zoning Downtown Subareas: Washington, D.C.",
+  "dc_description_s": "The review of the Zoning Regulations of 1958 The new Zoning Regulations of 2016 were published on March 4The purposes of the Downtown (D) zones (D-1-RDetailed information at <a href=\"http://dcoz.dc.gov\" target=\"_blank\">http://dcoz.dc.gov.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral",
+    "Zoning",
+    "Land use",
+    "Planning",
+    "Regulations",
+    "Downtown",
+    "Mixed use",
+    "Industrial",
+    "Commercial",
+    "Residential"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/e907522e847a451ba514251f98270380_31\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/e907522e847a451ba514251f98270380_31.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Planning_Landuse_and_Zoning_WebMercator/MapServer/31\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2016-07-21",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "layer_slug_s": "e907522e847a451ba514251f98270380_31",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-19T20:30:51Z",
+  "solr_geom": "ENVELOPE(-77.0417, -77.0024, 38.9086, 38.8764)",
+  "solr_year_i": 2016,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "38.8925,-77.02205",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS",
+  "geoblacklight_version": "1.0"
+}

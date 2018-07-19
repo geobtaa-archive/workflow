@@ -1,0 +1,49 @@
+{
+  "dc_identifier_s": "cabe9dcef0b344518c7fae1a3def7de1_5",
+  "dc_title_s": "Liquor License Locations: Washington, D.C.",
+  "dc_description_s": "The dataset contains locations and attributes of Liquor LicenseesC. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies. A database provided by the Alcoholic Beverage Regulation Administration (ABRA) identified liquor licensees locations and DC GIS staff geo-processed the data.For more information visit <a href=\"http://abra.dc.gov\" target=\"_blank\">http://abra.dc.gov.<a href=\"http://geospatial.dcgis.dc.gov/dc_kmz/metadata/ABRALicenseePt.html\" target=\"_blank\">",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Location",
+    "Business"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/cabe9dcef0b344518c7fae1a3def7de1_5\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/cabe9dcef0b344518c7fae1a3def7de1_5.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Business_and_Economic_Development_WebMercator/MapServer/5\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015-02-27",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "layer_slug_s": "cabe9dcef0b344518c7fae1a3def7de1_5",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-19T20:30:29Z",
+  "solr_geom": "ENVELOPE(-77.1065954738, -76.9115911631, 38.9841486513, 38.820900572)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "38.9025246117,-77.0090933184",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS",
+  "geoblacklight_version": "1.0"
+}

@@ -1,0 +1,48 @@
+{
+  "dc_identifier_s": "d6738ca4-72ef-4e97-aac9-61db065e3e6d",
+  "dc_title_s": "Parcels: Stearns County, Minnesota, 2016",
+  "dc_description_s": "This dataset contains the parcels for Stearns County.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "dc_publisher_sm": [
+    "Stearns County, Minnesota"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://www.co.stearns.mn.us/PropertyRoads/GISDataforDownload\",\"http://schema.org/downloadUrl\":\"ftp://207.171.83.232/GIS/parcels.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"http://64.90.181.107/geonetwork/srv/api/records/d6738ca4-72ef-4e97-aac9-61db065e3e6d/formatters/xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Counties"
+  ],
+  "dct_issued_s": "2016-09-20",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "Stearns County, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "d6738ca4-72ef-4e97-aac9-61db065e3e6d",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2018-07-17T22:55:52Z",
+  "solr_geom": "ENVELOPE(-95.139891, -94.042359, 45.778512, 45.279709)",
+  "solr_year_i": 2016,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "45.5291105,-94.591125",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05b-ISO",
+  "geoblacklight_version": "1.0"
+}

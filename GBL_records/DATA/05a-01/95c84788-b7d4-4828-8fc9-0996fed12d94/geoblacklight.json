@@ -1,0 +1,47 @@
+{
+  "dc_identifier_s": "95c84788-b7d4-4828-8fc9-0996fed12d94",
+  "dc_title_s": "Stream Routes with Kittle Numbers and Mile Measures: Minnesota",
+  "dc_description_s": "This is a feature class of <b>measured stream routes</b> and is a core feature class within the <a href=\"../../water_dnr_hydrography/metadata/dnr_hydrography_dataset.html \"><b>DNR Hydrography Dataset</b>.</a>  A \"route\" is an ESRI linear feature type created through a process called <i>Dynamic Segmentation</i>.  Each stream route is labeled with a unique stream ID (i.e., DNR Fisheries Kittle Number) and has mile measures extending from the stream mouth (FROM_MEAS, mile=0) to headwaters (TO_MEAS, mile=total stream length).  DNR Kittle Numbers follow a drainage-branching format (e.g., X-000-000-000...) and are assigned to all Fisheries-managed streams (see attribute field [VALID] = 'Y').  Additional streams have been labeled with \"dummy\" kittle numbers in order to provide a unique ID (VALID = 'N').  For more information about the DNR Kittle Number stream identification system, see the <b>Fisheries Stream Survey Manual - DNR Special Report #165</b></a>,<i> Appendix 3 - page 234 (or page 251 in Adobe PDF Reader)</i> at: http://files.dnr.state.mn.us/publications/fisheries/special_reports/165.pdf",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": "Dataset",
+  "dc_publisher_sm": [
+    "Minnesota Department of Natural Resources (DNR)"
+  ],
+  "dc_creator_sm": [
+    "Minnesota Department of Natural Resources (DNR) - Division of Fisheries"
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/95c84788-b7d4-4828-8fc9-0996fed12d94\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/water_measured_kittle_routes/fgdb_water_measured_kittle_routes.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/water_measured_kittle_routes/preview/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/water_measured_kittle_routes/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2014-08-21T14:09:39.394468",
+  "dct_temporal_sm": [
+    "2013"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "95c84788-b7d4-4828-8fc9-0996fed12d94",
+  "layer_geom_type_s": "Line",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
+  "solr_geom": "ENVELOPE(-97.252252, -89.406737, 49.34025, 43.098198)",
+  "solr_year_i": 2013,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "46.219224,-93.3294945",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/water_measured_kittle_routes/preview/preview.jpg",
+  "b1g_collection_sm": "05a-01",
+  "geoblacklight_version": "1.0"
+}

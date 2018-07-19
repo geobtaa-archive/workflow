@@ -1,0 +1,48 @@
+{
+  "dc_identifier_s": "6a2aa4c7181b4ed694f01c31df953269_7",
+  "dc_title_s": "Shoreline Changes - Baltimore 30 Years Shoreline Erosion Level: Maryland",
+  "dc_description_s": "This is a MD iMAP hosted service. Find more information on http://imap.maryland.gov. To quantify shoreline rates of change (erosion or accretion), Maryland Geological Survey (MGS) used historical and recent shorelines spanning 1972-2011 as input into the Digital Shoreline Analysis System (DSAS) Version 4. 3. DSAS, a computer program developed by the U. S. Geological Survey (USGS), determines linear rates of shoreline change along closely spaced, shore-normal transects. Based on DSAS output, MGS assigned generalized rate of change categories as attributes to a recent shoreline for Baltimore County. This recent shoreline consisted of the National Oceanic and Atmospheric Administration (NOAA) Continually Updated Shoreline Product (CUSP) digital shoreline currently available for Baltimore County. Based on the results of an End Point Rate (EPR) analysis on the ca. 1970s shoreline and the ca. 2000/2010 shoreline (recent shoreline), MGS grouped the rate results into the following general categories: (a) No change (-0. 01 to 0. 01 feet/year), (b) Accretion (greater than 0. 01 feet/year), (c) Slight erosion rate (0 to -2 feet/year), (d) Low erosion rate (-2 to -4 feet/year), (e) Moderate erosion rate (-4 to -8 ft/yr), (f) High erosion rate (greater than -8 feet/year), (g) Protected, (h) No data (insufficient shorelines to calculate 30-year EPR rate), (i) No data (no transects cast; unprotected or unknown shoreline condition), and (j) No data (rates not delivered; calculated rates suspect). Negative rate of change values indicate erosion, and positive values indicate accretion. In general, MGS tried to attribute lengths of shoreline of at least 80 meters in length sharing similar rates of change. Last Updated: 6/2017Map Service Link: http://geodata. md. gov/imap/rest/services/Hydrology/MD_ShorelineChanges/MapServer/7",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dc_creator_sm": [
+    "Maryland iMap"
+  ],
+  "dc_subject_sm": [
+    "Oceans"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/6a2aa4c7181b4ed694f01c31df953269_7\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/6a2aa4c7181b4ed694f01c31df953269_7.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://geodata.md.gov/imap/rest/services/Hydrology/MD_ShorelineChanges/MapServer/7\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2017-06-23",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dct_spatial_sm": [
+    "Maryland, United States"
+  ],
+  "layer_slug_s": "6a2aa4c7181b4ed694f01c31df953269_7",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-19T20:30:30Z",
+  "solr_geom": "ENVELOPE(-76.6557, -76.3214, 39.4132, 39.1953)",
+  "solr_year_i": 2017,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "39.30425,-76.48855",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS",
+  "geoblacklight_version": "1.0"
+}

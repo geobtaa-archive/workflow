@@ -1,0 +1,49 @@
+{
+  "dc_identifier_s": "ae024fcf142a4aeea7c003f2ae2bedcd_1",
+  "dc_title_s": "Michigan State Forest Treatment History: Michigan",
+  "dc_description_s": "Michigan State Forest Treatment History",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Michigan"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Environment",
+    "Economy"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://gis-michigan.opendata.arcgis.com/datasets/ae024fcf142a4aeea7c003f2ae2bedcd_1\",\"http://schema.org/downloadUrl\":\"http://gis-michigan.opendata.arcgis.com/datasets/ae024fcf142a4aeea7c003f2ae2bedcd_1.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services3.arcgis.com/Jdnp1TjADvSDxMAX/ArcGIS/rest/services/open_ForestInventory2/FeatureServer/1\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2016-07-07",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "Michigan, United States"
+  ],
+  "layer_slug_s": "ae024fcf142a4aeea7c003f2ae2bedcd_1",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-19T20:31:20Z",
+  "solr_geom": "ENVELOPE(-89.396, -82.3533, 47.4669, 41.7977)",
+  "solr_year_i": 2016,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "44.6323,-85.87465",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS",
+  "geoblacklight_version": "1.0"
+}

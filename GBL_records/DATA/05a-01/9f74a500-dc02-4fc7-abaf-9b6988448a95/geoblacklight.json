@@ -1,0 +1,47 @@
+{
+  "dc_identifier_s": "9f74a500-dc02-4fc7-abaf-9b6988448a95",
+  "dc_title_s": "MetroGIS Regional Parcel Dataset - (Updated Quarterly): Minnesota",
+  "dc_description_s": "This dataset includes all 7 metro counties that have made their parcel data freely available without a license or fees.    This dataset is a compilation of tax parcel polygon and point layers assembled into a common coordinate systems from Twin Cities, Minnesota metropolitan area counties.  No attempt has been made to edgematch or rubbersheet between counties.  A standard set of attribute fields is included for each county.  (See section 5 of the metadata).  The attributes are the same for the polygon and points layers.  Not all attributes are populated for all counties.  Summary attribute  information is in the Attributes Overview.  Detailed information about the attributes can be found in the <a href=\"MetroGIS_Regional_Parcels_Attributes.pdf\" target=_blank>MetroGIS Regional Parcels Attributes</a> document.  The polygon layer contains one record for each real estate/tax parcel polygon within each county's parcel dataset.  Some counties have polygons for each individual condominium, and others do not.  (See Completeness in Section 2 of the metadata for more information.)  The points layer includes the same attribute fields as the polygon dataset.  The points are intended to provide information in situations where multiple tax parcels are represented by a single polygon.  One primary example of this is the condominium, though some counties stacked polygons for condos.  Condominiums, by definition, are legally owned as individual, taxed real estate units.  Records for condominiums may not show up in the polygon dataset.  The points for the point dataset often will be randomly placed or stacked within the parcel polygon with which they are associated.    The polygon layer is broken into individual county shape files.  The points layer is provided as both individual county files and as one file for the entire metro area.  In many places a one-to-one relationship does not exist between these parcel polygons or points and the actual buildings or occupancy units that lie within them.  There may be many buildings on one parcel and there may be many occupancy units (e.g. apartments, stores or offices) within each building.  Additionally, no information exists within this dataset about residents of parcels.  Parcel owner and taxpayer information exists for many, but not all counties.  This is a MetroGIS Regionally Endorsed dataset.   Additional information may be available from each county at the links listed below.  Also, any questions or comments about suspected errors or omissions in this dataset can be addressed to the contact person at each individual county.    Anoka = http://www.anokacounty.us/315/GIS Caver = http://www.co.carver.mn.us/GIS Dakota = http://www.co.dakota.mn.us/homeproperty/propertymaps/pages/default.aspx Hennepin = http://www.hennepin.us/gisopendata Ramsey = https://www.ramseycounty.us/your-government/open-government/research-data Scott = http://opendata.gis.co.scott.mn.us/  Washington: http://www.co.washington.mn.us/index.aspx?NID=1606",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": "Dataset",
+  "dc_publisher_sm": [
+    "MetroGIS"
+  ],
+  "dc_creator_sm": [
+    "Counties of Anoka, Carver, Dakota, Hennepin, Ramsey, Scott and Washington"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/9f74a500-dc02-4fc7-abaf-9b6988448a95\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metrogis/plan_regonal_prcls_open/shp_plan_regonal_prcls_open.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_metrogis/plan_regonal_prcls_open/metadata/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_metrogis/plan_regonal_prcls_open/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2015-08-01T10:01:34.933667",
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "9f74a500-dc02-4fc7-abaf-9b6988448a95",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2018-06-26T17:12:31Z",
+  "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
+  "solr_year_i": 2018,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "44.943,-93.372",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_metrogis/plan_regonal_prcls_open/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
+  "geoblacklight_version": "1.0"
+}

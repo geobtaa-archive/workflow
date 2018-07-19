@@ -1,0 +1,50 @@
+{
+  "dc_identifier_s": "677a9507-05e0-464b-963c-19f9b2153566",
+  "dc_title_s": "Planned Transitway Alignments: Metro Twin Cities, Minnesota",
+  "dc_description_s": "This dataset depicts the planned alignments of future transitways which are in advanced design or under construction.  Currently, this file includes alignments for Southwest LRT (Green Line Extension), Cedar Avenue BRT Phase 2 (Red Line),  I-35W BRT (Orange Line), Bottineau LRT (Blue Line extension), Gold Line (formally Gateway) and other planned Arterial BRT alignments. See Gold Line note below.  This file is markedly different from the 2040 Increased Revenue Transitway System file which depicts all potential transitways in the Twin Cities Metro Area.   This file can be used at a large scale; however, these alignments are not a guarantee of actual completed alignment. File is for planning purposes only. Alignment is subject to change without warning.  When transitway construction is completed and service begins, the alignment will move from this file to TransitwayAlignment (existing).   Gold Line was added March 2018. Downtown routing is still being determined. Downtown routing should not be assumed to be correct.   Additional Notes: - Most alignments are managed by Rachel Wiken (see Section 7).    Arterial BRT alignments are managed by:  Katie Roth, Project Manager Metro Transit BRT/Small Starts Project Office 560 6th Ave N Minneapolis, MN  55411 612-349-7772 katie.roth@metrotransit.org",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Metropolitan Council"
+  ],
+  "dc_creator_sm": [
+    "Metropolitan Council - Metro Transit"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/677a9507-05e0-464b-963c-19f9b2153566\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/trans_pland_transitway_alignment/fgdb_trans_pland_transitway_alignment.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Transit/MapServer/27\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_metc/trans_pland_transitway_alignment/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2015-09-02T10:01:47.371147",
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "677a9507-05e0-464b-963c-19f9b2153566",
+  "layer_geom_type_s": "Line",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
+  "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
+  "solr_year_i": 2018,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "44.943,-93.372",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
+  "geoblacklight_version": "1.0"
+}

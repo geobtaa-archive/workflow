@@ -1,0 +1,51 @@
+{
+  "dc_identifier_s": "ff1686a993ea44548181b3b5947da94a_19",
+  "dc_title_s": "DHS Service Centers: Washington, D.C.",
+  "dc_description_s": "The dataset contains locations and attributes of DHS Service CentersC. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies. A database provided by the District Department of Human Services of identified service center locations.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Location",
+    "Public",
+    "Service",
+    "Public Service"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/ff1686a993ea44548181b3b5947da94a_19\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/ff1686a993ea44548181b3b5947da94a_19.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Public_Service_WebMercator/MapServer/19\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015-02-27",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "layer_slug_s": "ff1686a993ea44548181b3b5947da94a_19",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-19T20:30:51Z",
+  "solr_geom": "ENVELOPE(-77.0272478296, -76.9498960039, 38.9411095654, 38.8311806741)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "38.8861451197,-76.9885719168",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS",
+  "geoblacklight_version": "1.0"
+}

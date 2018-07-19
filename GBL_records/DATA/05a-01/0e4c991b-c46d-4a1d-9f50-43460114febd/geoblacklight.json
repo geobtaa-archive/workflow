@@ -1,0 +1,47 @@
+{
+  "dc_identifier_s": "0e4c991b-c46d-4a1d-9f50-43460114febd",
+  "dc_title_s": "Mississippi River Corridor Critical Area (MRCCA) Districts: Minnesota",
+  "dc_description_s": "This map delineates the Mississippi River Corridor Critical Area (MRCCA) districts as provided in Minnesota Rules, part 6106.0100, subp. 9.   The MRCCA is a land corridor along the Mississippi River in the seven-county metro area in which special land use regulations guide development activity. The corridor extends 72 miles along the Mississippi River from the cities of Ramsey and Dayton in the north to the City of Hastings and Ravenna Township in the south. It includes 54,000 acres of land along both sides of the river. The State of Minnesota created the corridor and land use regulations in 1976. Local governments administer the regulations through their local plans and zoning ordinances.   The MRCCA is home to a full range of residential neighborhoods and parks, as well as river-related commerce, industry, and transportation. Though the MRCCA has been extensively developed, many intact and remnant natural areas remain, including bluffs, islands, foodplains, wetlands, riparian zones, and native aquatic and terrestrial flora and fauna.   New rules regulating the MRCCA were published on December 27, 2016 and became effective January 4, 2017.  The new rules establish six districts, each with dimensional standards for river and bluff setbacks, and building height. The purpose of this map is to delineate the physical boundaries for each of these six districts.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": "Dataset",
+  "dc_publisher_sm": [
+    "Minnesota Department of Natural Resources (DNR)"
+  ],
+  "dc_creator_sm": [
+    "Minnesota Department of Natural Resources (DNR) - Ecological and Water Resources Division"
+  ],
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/0e4c991b-c46d-4a1d-9f50-43460114febd\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_mississippi_r_critical_area/fgdb_bdry_mississippi_r_critical_area.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/bdry_mississippi_r_critical_area/metadata/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/bdry_mississippi_r_critical_area/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2014-12-20T09:01:30.623425",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "0e4c991b-c46d-4a1d-9f50-43460114febd",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2018-06-26T17:12:31Z",
+  "solr_geom": "ENVELOPE(-93.517, -92.73, 45.249, 44.657)",
+  "solr_year_i": 2017,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "44.953,-93.1235",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/bdry_mississippi_r_critical_area/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
+  "geoblacklight_version": "1.0"
+}

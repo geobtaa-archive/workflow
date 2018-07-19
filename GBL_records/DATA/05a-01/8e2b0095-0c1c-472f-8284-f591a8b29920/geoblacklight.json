@@ -1,0 +1,48 @@
+{
+  "dc_identifier_s": "8e2b0095-0c1c-472f-8284-f591a8b29920",
+  "dc_title_s": "Water Table Aquifer Vulnerability: Minnesota",
+  "dc_description_s": "This dataset provides a rating of Minnesota water table aquifer vulnerability. The data, methodology and ratings are based on similar work done previously by Porcher [Porcher, E. (1989), Ground water contamination susceptibility in Minnesota, Minnesota Pollution Control Agency, St. Paul, Minn., 29 p.].  In 1989, Porcher prepared a statewide assessment of groundwater contamination susceptibility, using the statewide Quaternary geology map that was prepared by the Minnesota Geological Survey (Hobbs, 1982). In 2011, an interagency group (MDH, MDA, and DNR) worked to find a map that would be an update to the map used by Porcher in 1989.  The interagency work group decided that the statewide geomorphology layer that was produced by the Minnesota Geological Survey and the University of Minnesota at Duluth (DNR, UMD, MGS 1997) provided an updated interpretation of Quaternary materials and at higher level of resolution than the 1982 map with the addition of a Quaternary sand and gravel layer file to capture the \"Beach Sands\" in the northeast.  The geomorphology layer includes generalized categories of the sediments or bedrock types that are associated with landforms and can be used to assign geologic sensitivity ratings.  The ratings are based upon guidance from the Geologic Sensitivity Project Workgroup (DNR, 1991).  MDA developed this dataset based on the guidance from the 2011 interagency workgroup.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": "Dataset",
+  "dc_publisher_sm": [
+    "Minnesota Department of Agriculture"
+  ],
+  "dc_creator_sm": [
+    "Minnesota Department of Agriculture"
+  ],
+  "dc_subject_sm": [
+    "Environment",
+    "Inland Waters"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/8e2b0095-0c1c-472f-8284-f591a8b29920\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mda/water_aquifer_vulnerability/fgdb_water_aquifer_vulnerability.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_mda/water_aquifer_vulnerability/metadata/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_mda/water_aquifer_vulnerability/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2016-04-16T10:03:41.540243",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "8e2b0095-0c1c-472f-8284-f591a8b29920",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
+  "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "46.435,-93.38",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_mda/water_aquifer_vulnerability/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
+  "geoblacklight_version": "1.0"
+}

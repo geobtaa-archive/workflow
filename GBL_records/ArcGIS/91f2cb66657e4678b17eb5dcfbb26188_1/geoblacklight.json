@@ -1,0 +1,48 @@
+{
+  "dc_identifier_s": "91f2cb66657e4678b17eb5dcfbb26188_1",
+  "dc_title_s": "Working Waterfronts - Working Waterfront Parcels: Maryland",
+  "dc_description_s": "This is a MD iMAP hosted service layer. Find more information at http://imap.maryland.gov. In 2012 The Chesapeake and Coastal Service (CSS), a division of the Maryland Department of Natural Resources developed a pilot project to identify working waterfronts for both water dependent business and commercial watermen. The intent of the project was to compile an inventory of waterfront dependent Industries throughout the watershed of the Choptank River, which is located on the eastern shore of Maryland. The second year of the regional project expanded the year 1 pilot inventory focusing next on the lower eastern shore of Maryland including the Atlantic Coastal Bays, south of the Choptank watershed pilot study area to the Virginia border. On the western shore the inventory includes the Potomac River from Washington harbor to Point Lookout and then along the shore to the South River. Last Updated: 02/2015",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dc_creator_sm": [
+    "Maryland iMap"
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/91f2cb66657e4678b17eb5dcfbb26188_1\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/91f2cb66657e4678b17eb5dcfbb26188_1.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://geodata.md.gov/imap/rest/services/Society/MD_WorkingWaterfronts/FeatureServer/1\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2016-02-16",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "Maryland, United States"
+  ],
+  "layer_slug_s": "91f2cb66657e4678b17eb5dcfbb26188_1",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-19T20:31:05Z",
+  "solr_geom": "ENVELOPE(-77.2657, -75.0631, 38.8943, 37.9642)",
+  "solr_year_i": 2016,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "38.42925,-76.1644",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS",
+  "geoblacklight_version": "1.0"
+}

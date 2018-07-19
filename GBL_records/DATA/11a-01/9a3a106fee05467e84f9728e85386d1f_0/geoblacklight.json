@@ -1,0 +1,50 @@
+{
+  "dc_identifier_s": "9a3a106fee05467e84f9728e85386d1f_0",
+  "dc_title_s": "Addresses: Ashtabula County, Ohio",
+  "dc_description_s": "The State of Ohio Location Based Response System address points depict the access points to addressable structures along public and private roads within participating Ohio Counties. Address point data was developed from data collected by field observation of existing address locations at the time of collection.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Ohio"
+  ],
+  "dc_creator_sm": [
+    "Ohio Geographically Referenced Information Program"
+  ],
+  "dc_subject_sm": [
+    "Location"
+  ],
+  "dct_provenance_s": "Ohio",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/9a3a106fee05467e84f9728e85386d1f_0\",\"http://schema.org/downloadUrl\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/9a3a106fee05467e84f9728e85386d1f_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://geo.oit.ohio.gov/arcgis/rest/services/LBRS/Ashtabula_LBRS/FeatureServer/0\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2014-12-29",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Ashtabula County, Ohio, United States",
+    "Ohio, United States"
+  ],
+  "layer_slug_s": "9a3a106fee05467e84f9728e85386d1f_0",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2018-07-19T21:08:01Z",
+  "solr_geom": "ENVELOPE(-81.0102, -80.5066, 41.9759, 41.4947)",
+  "solr_year_i": 2014,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "41.7353,-80.7584",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "11a-01",
+  "geoblacklight_version": "1.0"
+}

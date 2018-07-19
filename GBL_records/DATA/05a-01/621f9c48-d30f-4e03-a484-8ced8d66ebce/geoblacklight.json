@@ -1,0 +1,47 @@
+{
+  "dc_identifier_s": "621f9c48-d30f-4e03-a484-8ced8d66ebce",
+  "dc_title_s": "MetroGIS Regional Parcel Dataset (Year End 2003): Minnesota",
+  "dc_description_s": "This dataset is a compilation of tax parcel polygon layers from the seven Twin Cities, Minnesota metropolitan area counties of Anoka, Carver, Dakota, Hennepin, Ramsey, Scott and Washington.  The seven counties were assembled into a common coordinate system.  No attempt has been made to edgematch or rubbersheet between counties.  A standard set of attribute fields is included for each county.  Not all attributes are populated for all counties.  This is an annual version of the MetroGIS Regional Parcel Dataset that can be used with other annual versions to do change analysis and time series investigations. This dataset is intended to contain all updates to each county's parcel data through the end of 2003.  It was originally published as the 'January 1, 2004' version of the dataset. See the Currentness Reference below and the Entity and Attribute information in Section 5 for more information about the dates for specific aspects of the dataset.   This dataset contains one record for each real estate/tax parcel polygon.  In many places a one-to-one relationship does not exist between these parcel polygons and the actual buildings or occupancy units that lie within them.  There may be many buildings on one parcel and there may be many occupancy units (e.g. apartments, stores or offices) within each building.  Additionally, no information exists within this dataset about residents of parcels.  Parcel owner and taxpayer information exists for many, but not all counties.  Some counties have also made available a parcel points dataset that includes the same attribute fields as the polygon dataset.  The point are intended to provide information in situations where multiple tax parcels are represented by a single polygon.  The primary example of this is the condominium.  Condominiums, by definition, are legally owned as individual, taxed real estate units.  Records for condominiums may not show up in the polygon dataset.  This is a MetroGIS Regionally Endorsed dataset.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": "Dataset",
+  "dc_publisher_sm": [
+    "MetroGIS"
+  ],
+  "dc_creator_sm": [
+    "Counties of Anoka, Carver, Dakota, Hennepin, Ramsey, Scott and Washington"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/621f9c48-d30f-4e03-a484-8ced8d66ebce\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metrogis/plan_regonal_parcels_2003/fgdb_plan_regonal_parcels_2003.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_metrogis/plan_regonal_parcels_2003/metadata/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_metrogis/plan_regonal_parcels_2003/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2015-08-29T10:01:53.075848",
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "621f9c48-d30f-4e03-a484-8ced8d66ebce",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2018-06-26T17:12:31Z",
+  "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
+  "solr_year_i": 2003,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "44.943,-93.372",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_metrogis/plan_regonal_parcels_2003/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
+  "geoblacklight_version": "1.0"
+}

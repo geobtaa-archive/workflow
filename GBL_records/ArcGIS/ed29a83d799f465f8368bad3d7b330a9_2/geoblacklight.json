@@ -1,0 +1,54 @@
+{
+  "dc_identifier_s": "ed29a83d799f465f8368bad3d7b330a9_2",
+  "dc_title_s": "Closed Public Schools: Washington, D.C.",
+  "dc_description_s": "DC public schools. This dataset contains points representing public schools. It was created for the D.C. public schools and later added to the DC Geographic Information System (DC GIS) for the D.C. Office of the Chief Technology Officer (OCTO). This dataset includes all identifiable DCPS public elementary Does not include private or charter schools. School locations were identified from a database from the DC Public Schools Current for the 2011-12 school year. All DC GIS data is stored and exported in Maryland State Plane coordinates NAD 83 meters. METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Education",
+    "Schools",
+    "DC Public Schools",
+    "Education",
+    "Campus",
+    "Elementary"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/ed29a83d799f465f8368bad3d7b330a9_2\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/ed29a83d799f465f8368bad3d7b330a9_2.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Education_WebMercator/MapServer/2\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015-02-27",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "layer_slug_s": "ed29a83d799f465f8368bad3d7b330a9_2",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-19T20:30:51Z",
+  "solr_geom": "ENVELOPE(-77.0613632971, -76.9207850824, 38.962165351, 38.8238768537)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "38.8930211024,-76.9910741898",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS",
+  "geoblacklight_version": "1.0"
+}

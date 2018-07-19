@@ -1,0 +1,50 @@
+{
+  "dc_identifier_s": "ee27eb8a-1f5b-4e8d-a886-d83f9aa07151",
+  "dc_title_s": "Census Geography 2000 - TLG Aligned; Blocks, Block Groups & Tracts: Metro Twin Cities, Minnesota",
+  "dc_description_s": "The Lawrence Group, under contract with Metropolitan Council, created a 2000 Census Bureau block polygon dataset for the Twin Cities Metropolitan Area (Anoka, Carver, Dakota, Hennepin, Ramsey, Scott and Washington Counties). This dataset is coincident with and developed using the TLG Street Centerline and Landmarks databases where 2000 block boundaries fall on those features. For those block boundaries that are defined by features not included in TLG databases, TLG used other digital resources to generate these boundaries, such as orthophotography or additional features from city and county GIS databases. TLG used it's best judgement to digitize block boundaries when the block boundaries followed nonvisible features or street extensions.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Metropolitan Council"
+  ],
+  "dc_creator_sm": [
+    "Metropolitan Council and The Lawrence Group (TLG)"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/ee27eb8a-1f5b-4e8d-a886-d83f9aa07151\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/society_census2000tlg/fgdb_society_census2000tlg.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_metc/society_census2000tlg/metadata/preview.jpg\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Census2000/MapServer/6\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_metc/society_census2000tlg/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2015-09-03T10:01:54.711565",
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "ee27eb8a-1f5b-4e8d-a886-d83f9aa07151",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2018-06-26T17:12:31Z",
+  "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
+  "solr_year_i": 2000,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "44.943,-93.372",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_metc/society_census2000tlg/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
+  "geoblacklight_version": "1.0"
+}

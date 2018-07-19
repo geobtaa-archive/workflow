@@ -1,0 +1,50 @@
+{
+  "dc_identifier_s": "582d73921317450b85b6a8d6feba991e_0",
+  "dc_title_s": "Snow Tags-Yardv'l: Minneapolis, Minnesota, 2018",
+  "dc_description_s": "This is the information about the number and location of tags (parking tickets) during this snow emergency. Tag data will be retained for all Snow Emergencies in each snow season, until there is five full seasons of snow emergencies. Disclaimer: At this point we only have the tag data enclosed for day 2 and day 3 the snow emergencies. Day 1 tag data is collected manually and is not available at this time electronically. There is also an expected address error rate of between 5 and 10 percent. Snow Emergency Tags--2017/2018. Season #4 Yardville (2/25/18 thru 2/27/18).",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Minneapolis, Minnesota"
+  ],
+  "dc_creator_sm": [
+    "MapIT Minneapolis"
+  ],
+  "dc_subject_sm": [
+    "Location",
+    "Climatology, Meteorology and Atmosphere"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/582d73921317450b85b6a8d6feba991e_0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/582d73921317450b85b6a8d6feba991e_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Snow_Emergency_Yardville_Tags_2018/FeatureServer/0\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2018-03-05",
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dct_spatial_sm": [
+    "Minneapolis, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "582d73921317450b85b6a8d6feba991e_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-19T20:31:20Z",
+  "solr_geom": "ENVELOPE(-93.328407287597, -93.202720642089, 45.050949096679, 44.89246749877899)",
+  "solr_year_i": 2018,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "44.9717082977,-93.2655639648",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS",
+  "geoblacklight_version": "1.0"
+}

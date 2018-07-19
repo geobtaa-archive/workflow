@@ -1,0 +1,48 @@
+{
+  "dc_identifier_s": "99a120a66cec458b9bb41c2e0269563e_4",
+  "dc_title_s": "Watersheds - Coastal Zone: Maryland",
+  "dc_description_s": "This is a MD iMAP hosted service layer. Find more information at http://imap.maryland.gov. The Maryland coastal zone is comprised of the land, water and subaqueous land between the territorial limits of Maryland in the Chesapeake Bay, Atlantic Coastal Bays and the Atlantic Ocean, as well as the towns, cities and counties that contain and help govern the thousands of miles of Maryland shoreline. The Maryland coastal zone extends from three miles out in the Atlantic Ocean to the inland boundaries of the 16 counties and Baltimore City that border the Atlantic Ocean, Chesapeake Bay and the Potomac River up to the District of Columbia. This area encompasses two-thirds of the State s land area and is home to almost 70% of Maryland s residents. Last Updated: Unknown",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dc_creator_sm": [
+    "Maryland iMap"
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/99a120a66cec458b9bb41c2e0269563e_4\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/99a120a66cec458b9bb41c2e0269563e_4.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://geodata.md.gov/imap/rest/services/Hydrology/MD_Watersheds/FeatureServer/4\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2016-02-10",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "Maryland, United States"
+  ],
+  "layer_slug_s": "99a120a66cec458b9bb41c2e0269563e_4",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-19T20:31:05Z",
+  "solr_geom": "ENVELOPE(-77.3227, -75.0492, 39.7221, 37.891)",
+  "solr_year_i": 2016,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "38.80655,-76.18595",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS",
+  "geoblacklight_version": "1.0"
+}

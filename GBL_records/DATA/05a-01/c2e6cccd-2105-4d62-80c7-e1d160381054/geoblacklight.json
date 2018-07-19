@@ -1,0 +1,50 @@
+{
+  "dc_identifier_s": "c2e6cccd-2105-4d62-80c7-e1d160381054",
+  "dc_title_s": "Aggregate Resources 1997, 2020 and 2040: Metro Twin Cities, Minnesota",
+  "dc_description_s": "The Aggregate Resources (sand, gravel and limestone and dolomite) dataset contains three separate shape files for aggregate resources for 1997, 2020 and 2040. Each layer encompasses the seven-county Twin Cities (Minneapolis and St. Paul) Metropolitan Area in Minnesota. The dataset was developed by the Metropolitan Council, a regional governmental organization that deals, in part, with regional issues and long range planning for the Twin Cities area. The data were derived from a map by Meyer, G.N., and Mossler, J.H., 1999, Primary sources of construction aggregate in the seven-county metropolitan area, Minnesota: Minnesota Geological Survey, Miscellaneous Map Series M-102, two plates, scale 1:100,000 that depicts pre-urbanization resources. The data were then modified to reflect depletion by mining and areas that were occupied by urban and rural development in 1997, or are forecasted to urbanize by 2020 and 2040. The data were also modified by removing aggregate deposits that cannot be mined because of such environmental constraints as wetlands, streams, scientific and natural resources areas, open water bodies, and roadways.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Metropolitan Council"
+  ],
+  "dc_creator_sm": [
+    "Metropolitan Council"
+  ],
+  "dc_subject_sm": [
+    "Geoscientific Information"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/c2e6cccd-2105-4d62-80c7-e1d160381054\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_metc/geos_aggregate_resources/gpkg_geos_aggregate_resources.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis2.metc.state.mn.us/arcgis/rest/services/MetroGIS/Geology_Geophysics/MapServer/2\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_metc/geos_aggregate_resources/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2015-08-12T10:01:39.837750",
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "c2e6cccd-2105-4d62-80c7-e1d160381054",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2018-06-26T17:12:31Z",
+  "solr_geom": "ENVELOPE(-94.012, -92.732, 45.415, 44.471)",
+  "solr_year_i": 2000,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "44.943,-93.372",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05a-01",
+  "geoblacklight_version": "1.0"
+}

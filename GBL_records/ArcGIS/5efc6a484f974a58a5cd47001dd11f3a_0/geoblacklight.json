@@ -1,0 +1,49 @@
+{
+  "dc_identifier_s": "5efc6a484f974a58a5cd47001dd11f3a_0",
+  "dc_title_s": "Buildings Washtenaw: Michigan",
+  "dc_description_s": "SEMCOG's buildings data layer represents the digital footprint of each building in Southeast Michigan, as of April 2015, along with associated attributes of each building. The building footprints were originally compiled using heads-up digitizing of 2010 aerial photography, and then attributed with additional information on their location and physical characteristics using a variety of sources.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Michigan"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Structure",
+    "Location"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://maps-semcog.opendata.arcgis.com/datasets/5efc6a484f974a58a5cd47001dd11f3a_0\",\"http://schema.org/downloadUrl\":\"http://maps-semcog.opendata.arcgis.com/datasets/5efc6a484f974a58a5cd47001dd11f3a_0.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://arcgisserver.semcog.org/arcgis/rest/services/OpenData/Buildings_Washtenaw/MapServer/0\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2016-09-26",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "Michigan, United States"
+  ],
+  "layer_slug_s": "5efc6a484f974a58a5cd47001dd11f3a_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-19T20:30:30Z",
+  "solr_geom": "ENVELOPE(-84.134, -83.5352, 42.4376, 42.0689)",
+  "solr_year_i": 2016,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "42.25325,-83.8346",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS",
+  "geoblacklight_version": "1.0"
+}

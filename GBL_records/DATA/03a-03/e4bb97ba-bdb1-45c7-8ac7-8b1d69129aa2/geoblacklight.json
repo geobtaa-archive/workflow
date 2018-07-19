@@ -1,0 +1,47 @@
+{
+  "dc_identifier_s": "e4bb97ba-bdb1-45c7-8ac7-8b1d69129aa2",
+  "dc_title_s": "CIR Aerial Photography Dates: Iowa, 1980s",
+  "dc_description_s": "This data has centroids and dates of individual images used.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": "Dataset",
+  "dc_publisher_sm": [
+    "State of Iowa"
+  ],
+  "dc_creator_sm": [
+    "Iowa Department of Natural Resources"
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "dct_provenance_s": "Iowa",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.iowa.gov/dataset/1980s-color-infra-red-aerial-photography-iowa\",\"http://schema.org/downloadUrl\":\"https://iowageodata.s3.amazonaws.com/imageryBaseMapsEarthCover/imagery/imagery_1980s_CIR/Airphotos_1980s_CIR_Dates.zip\"}",
+  "dct_isPartOf_sm": [
+    "Iowa GeoData"
+  ],
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    "1980"
+  ],
+  "dct_spatial_sm": [
+    "Iowa, United States"
+  ],
+  "layer_slug_s": "e4bb97ba-bdb1-45c7-8ac7-8b1d69129aa2",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-06-26T17:11:42Z",
+  "solr_geom": "ENVELOPE(-96.6395, -90.1401, 43.5022, 40.3754)",
+  "solr_year_i": 1980,
+  "b1g_genre_sm": [
+    "Aerial imagery"
+  ],
+  "b1g_centroid_ss": "41.9388,-93.3898",
+  "b1g_geonames_sm": [
+    "https://sws.geonames.org/4862192"
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "03a-03",
+  "geoblacklight_version": "1.0"
+}

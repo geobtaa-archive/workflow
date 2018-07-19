@@ -1,0 +1,51 @@
+{
+  "dc_identifier_s": "21980b5286b94cd797f0dbe799b86dda_4",
+  "dc_title_s": "Registered Community Organization Boundaries: Indianapolis, Indiana",
+  "dc_description_s": "Indianapolis maintains a database of all community organizations that have been registered with the Department of Metropolitan Development. The purpose of registering an organization with the Department of Metropolitan Development is to receive notification of public hearings regarding re-zonings, variances, special exceptions, approvals, administrative appeals, plat approvals/vacations, street and alley vacations, and liquor licensing activities. Information provided by organizations that voluntarily register is shared with any interested party(ies), including other public and private agencies, organizations and individuals.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Indianapolis and Marion County"
+  ],
+  "dc_creator_sm": [
+    "IndyGIS"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral",
+    "Boundaries"
+  ],
+  "dct_provenance_s": "Indiana",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data1-indygis.opendata.arcgis.com/datasets/21980b5286b94cd797f0dbe799b86dda_4\",\"http://schema.org/downloadUrl\":\"https://data1-indygis.opendata.arcgis.com/datasets/21980b5286b94cd797f0dbe799b86dda_4.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://xmaps.indy.gov/arcgis/rest/services/OpenData/OpenData_Boundaries/MapServer/4\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015-08-11",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "Indianapolis, Indiana, United States",
+    "Marion County, Indiana, United States",
+    "Indiana, United States"
+  ],
+  "layer_slug_s": "21980b5286b94cd797f0dbe799b86dda_4",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2018-07-18T22:21:04Z",
+  "solr_geom": "ENVELOPE(-86.328121, -85.937379, 39.927392, 39.632177)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "39.7797845,-86.13275",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/4259418"
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "01c-02",
+  "geoblacklight_version": "1.0"
+}

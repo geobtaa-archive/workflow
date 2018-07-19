@@ -1,0 +1,48 @@
+{
+  "dc_identifier_s": "c749474454934ed59776d69fc3d84479_6",
+  "dc_title_s": "Housing Designated Areas - BRHP Opportunity Designations: Maryland",
+  "dc_description_s": "This is a MD iMAP hosted service layer. Find more information at http://imap. maryland. gov. The Baltimore Regional Housing Partnership (BRHP) operates the Baltimore Housing Mobility Program (BHMP) in Baltimore City and the five metropolitan counties of Anne Arundel, Baltimore, Carroll, Harford and Howard. The Baltimore Housing Mobility Program encourages families to lease in Opportunity Areas, which provide opportunities for our families to access areas with good schools, goods and services, low crime rates, and low poverty concentrations. http://www. brhp. org/landlords/development_information_page. The case of Thompson v. HUD. The following link provides information on census tracts designated as Communities of Opportunity in the Thompson case: http://www. brhp. orghttp://dhcd. maryland. gov/HousingDevelopment/Documents/lihtc/Final%202016%20MD%20QAP%20Signed%20by%20Governor%208-9-16. pdf Last Updated: 07/2016",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dc_creator_sm": [
+    "Maryland iMap"
+  ],
+  "dc_subject_sm": [
+    "Location"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/c749474454934ed59776d69fc3d84479_6\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/c749474454934ed59776d69fc3d84479_6.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://geodata.md.gov/imap/rest/services/BusinessEconomy/MD_HousingDesignatedAreas/FeatureServer/6\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2017-08-17",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "Maryland, United States"
+  ],
+  "layer_slug_s": "c749474454934ed59776d69fc3d84479_6",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-19T20:31:06Z",
+  "solr_geom": "ENVELOPE(-77.3115, -76.0609, 39.7213, 38.7136)",
+  "solr_year_i": 2016,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "39.21745,-76.6862",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS",
+  "geoblacklight_version": "1.0"
+}

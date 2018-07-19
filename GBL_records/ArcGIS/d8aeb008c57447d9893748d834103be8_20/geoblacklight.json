@@ -1,0 +1,54 @@
+{
+  "dc_identifier_s": "d8aeb008c57447d9893748d834103be8_20",
+  "dc_title_s": "Polling Place: Washington, D.C.",
+  "dc_description_s": "District of Columbia Polling Places. This dataset contains points representing locations of polling placesC. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies. Polling places were identified from data provided by the Board of Elections and Ethics (BOEE). All DC GIS data is stored and exported in Maryland State Plane coordinates NAD 83 meters. METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Boundaries",
+    "Society",
+    "Political",
+    "Administrative",
+    "Voting",
+    "Elections",
+    "Polling places"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/d8aeb008c57447d9893748d834103be8_20\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/d8aeb008c57447d9893748d834103be8_20.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Administrative_Other_Boundaries_WebMercator/MapServer/20\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015-02-27",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "layer_slug_s": "d8aeb008c57447d9893748d834103be8_20",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-19T20:30:29Z",
+  "solr_geom": "ENVELOPE(-77.1027212098, -76.9226121585, 38.9846078894, 38.8269213274)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "38.9057646084,-77.0126666841",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS",
+  "geoblacklight_version": "1.0"
+}

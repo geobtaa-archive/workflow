@@ -1,0 +1,47 @@
+{
+  "dc_identifier_s": "f0709ee3-d425-4ecf-ac21-74b655af8930",
+  "dc_title_s": "Department of Natural Resources Hydrography - Lakes of Phosphorus Sensitivity Significance: Minnesota",
+  "dc_description_s": "This layer was created to identify <B>Lakes of Phosphorus Sensitivity Significance (LPSS)</B> within Minnesota. Available lake data were analyzed to classify lakes based on sensitivity to nutrient pollution.   Phosphorus sensitivity was estimated for each lake by predicting how much water clarity would be reduced with additional phosphorus loading to the lake. A phosphorus sensitivity significance index was formulated to prioritize lakes as they relate to Minnesota Pollution Control Agency's (MPCA) policy objective of focusing on <q>high quality, unimpaired lakes at greatest risk of becoming impaired.</q> The phosphorus sensitivity significance index, which is a function of phosphorus sensitivity, lake size, lake total phosphorus concentration, proximity to MPCA's phosphorus impairment thresholds, and watershed disturbance, was used to determine the lake's Priority Class.  The goal of this list was to objectively prioritize lakes based on their sensitivity to phosphorus pollution. Lakes identified as nutrient-impaired or proposed for nutrient impairment listing are also included.  Many Minnesota lakes have not been sampled for lake phosphorus, and this list will be periodically revised as additional data become available.  <b> For a detailed description of criteria and analysis used, see: </b>  <a href=\"Lakes of Phosphorus Sensitivity Significance 20170418.pdf\" target=_blank>Lakes of Phosphorus Sensitivity Significance - 04/18/2017</a> (pdf, 1.8 MB)",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": "Dataset",
+  "dc_publisher_sm": [
+    "Minnesota Department of Natural Resources (DNR)"
+  ],
+  "dc_creator_sm": [
+    "Minnesota Department of Natural Resources (DNR) - Ecological and Water Resources (EWR)"
+  ],
+  "dc_subject_sm": [
+    "Environment"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/f0709ee3-d425-4ecf-ac21-74b655af8930\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_lakes_phosphorus_sensitivity/shp_env_lakes_phosphorus_sensitivity.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/env_lakes_phosphorus_sensitivity/metadata/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/env_lakes_phosphorus_sensitivity/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2015-09-16T10:02:03.372107",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "f0709ee3-d425-4ecf-ac21-74b655af8930",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2018-06-26T17:12:31Z",
+  "solr_geom": "ENVELOPE(-97.23, -89.53, 49.37, 43.5)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "46.435,-93.38",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/env_lakes_phosphorus_sensitivity/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
+  "geoblacklight_version": "1.0"
+}

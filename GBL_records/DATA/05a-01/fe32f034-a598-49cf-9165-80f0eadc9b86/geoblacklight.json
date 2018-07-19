@@ -1,0 +1,47 @@
+{
+  "dc_identifier_s": "fe32f034-a598-49cf-9165-80f0eadc9b86",
+  "dc_title_s": "Designated Water Features - Trout Stream Designation - PLS Sections: Minnesota",
+  "dc_description_s": "This data layer shows which Public Land Survey (PLS) Sections contain designated trout streams according to <B>MN Rules Chapter 6264</B>.   See link  (http://www.revisor.leg.state.mn.us/arule/6264/0050.html ) for a listing of designated trout waters and restrictions.   Use as a backdrop for the <b>MN Trout Stream Designation </b> layer. Note that if more than one stream is designated within a given PLS section, only one will be referenced in the KITTLE_NO and KITTNAME attributes for that section.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": "Dataset",
+  "dc_publisher_sm": [
+    "Minnesota Department of Natural Resources (DNR)"
+  ],
+  "dc_creator_sm": [
+    "Minnesota Department of Natural Resources (DNR) - Division of Fisheries"
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/fe32f034-a598-49cf-9165-80f0eadc9b86\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/water_trout_streams_pls_sections/fgdb_water_trout_streams_pls_sections.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/water_trout_streams_pls_sections/metadata/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/water_trout_streams_pls_sections/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2015-12-03T11:02:34.104200",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "fe32f034-a598-49cf-9165-80f0eadc9b86",
+  "layer_geom_type_s": "Line",
+  "layer_modified_dt": "2018-06-26T17:12:31Z",
+  "solr_geom": "ENVELOPE(-97.252252, -89.406737, 49.34025, 43.098198)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "46.219224,-93.3294945",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/water_trout_streams_pls_sections/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
+  "geoblacklight_version": "1.0"
+}

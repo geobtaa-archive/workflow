@@ -1,0 +1,53 @@
+{
+  "dc_identifier_s": "20dc3ba98d494e51bee18a42f8430824_4",
+  "dc_title_s": "City Service Requests: Washington, D.C., 2013",
+  "dc_description_s": "Data provided here are from the DC's 311 service request center. They represent all service requests such as abandoned automobiles Requests are received by the Office of Unified Communications (OUC) through the Mayor's Call Center (311)dc.govThe Office of Unified Communications (OUC) oversees the designated call center for all 311 calls and for all District 911 calls.Please also visit the DC 311 Service Request Map which allows the public to see service requests in the last 30 days. Users can view requests by Ward within charts. Just set the area filter to select service requests. Click on a service request to view details.http://311.dc.gov",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Environment",
+    "Resident",
+    "311",
+    "Service requests",
+    "Public Service",
+    "Call center"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/20dc3ba98d494e51bee18a42f8430824_4\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/20dc3ba98d494e51bee18a42f8430824_4.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/ServiceRequests/MapServer/4\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2016-10-19",
+  "dct_temporal_sm": [
+    "2013"
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "layer_slug_s": "20dc3ba98d494e51bee18a42f8430824_4",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-19T20:30:51Z",
+  "solr_geom": "ENVELOPE(-77.176, -76.896, 39.035, 38.755)",
+  "solr_year_i": 2013,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "38.895,-77.036",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS",
+  "geoblacklight_version": "1.0"
+}

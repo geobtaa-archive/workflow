@@ -116,9 +116,9 @@ class CSWToGeoBlacklight(object):
             "dct_temporal_sm",
             "dct_spatial_sm",
             "solr_geom",
-            "centroid_s",
+            "b1g_centroid_ss",
             "solr_year_i",
-#             "thumbnail_path_ss"
+            "thumbnail_path_ss"
 
         ]
 

@@ -1,0 +1,50 @@
+{
+  "dc_identifier_s": "bd582e458df740de87601ea5e6136cdc_0",
+  "dc_title_s": "Police Officer Involved Shootings: Minneapolis, Minnesota",
+  "dc_description_s": "*Please note that thedatetimes shown are in UTC time (not local time).Field Descriptions       ''IncidentDate = the date of when the officer involved shooting occurred in UTC,(not local time).''''''''''''''CaseNumber = a concatenation of the 2 digit year in which the incident wascreated, followed by a dash and then a 6 digit number of sequence for theagency.''''''''''''''OfficerYearsOfService = the number of years of service to MPD by the officer asof the incident date'''''''''''''''Officer = Officer identifier starts with O and follows with a digit to indicatethe number of officers in each incident'''''''''''''''OfficerWeaponUsed = the description of the weapon used by the officer in theincident'''''''''''''''OfficerInjuries = the description of the injury to the officer'''''''''''''''SubjectOfForce = Subject identifier starts with S and follows with a digit toindicate the number of subjects in each incident'''''''''''''''SubjectOfForceRace = the determined racial makeup of the subject of theincident'''''''''''''''SubjectOfForceGender = the determined gender of the subject of the incident'''''''''''''''SubjectOfForceAge = the determined age of the subject as of the date of theincident'''''''''''''''SubjectFatal = Yes/No identifier for subject fatality'''''''''''''''SubjectOfForceInjury = the description of the injury to the subject'''''''''''''''SubjectOfForceeapon = the description of the weapon used by the subject in theincidentCenterLatitude = the anonymized latitude of where the incident tookplace'''''''''''''''CenterLongitude = the anonymized longitude of where the incident took place'''''''''''''''CenterX = the anonymized Web Mercator X coordinate of where the incident tookplace'''''''''''''''CenterY = the anonymized Web Mercator Y coordinate of where the incident tookplace",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Minneapolis, Minnesota"
+  ],
+  "dc_creator_sm": [
+    "MapIT Minneapolis"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Location"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/bd582e458df740de87601ea5e6136cdc_0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/bd582e458df740de87601ea5e6136cdc_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Police_Officer_Involved_Shootings/FeatureServer/0\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2017-11-08",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dct_spatial_sm": [
+    "Minneapolis, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "bd582e458df740de87601ea5e6136cdc_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-19T20:31:21Z",
+  "solr_geom": "ENVELOPE(-93.31788199957968, -93.02965100003635, 45.19629800027545, 44.894932798591114)",
+  "solr_year_i": 2017,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "45.0456153994,-93.1737664998",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS",
+  "geoblacklight_version": "1.0"
+}

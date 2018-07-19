@@ -1,0 +1,48 @@
+{
+  "dc_identifier_s": "e1b48ed01828470d9df38e30e9a3597e_103",
+  "dc_title_s": "Tour Bus Drop-off/Pick-up Locations: Washington, D.C.",
+  "dc_description_s": "Tourbus Loading and Unloading Locations. The dataset contains locations and attributes of locations for Tourbus loading/unloading locations, created as part of the District of Columbia, Department of Transportation (DDOT) Street Spatial Database (SSD). Each location was collected manually, street by street.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/e1b48ed01828470d9df38e30e9a3597e_103\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/e1b48ed01828470d9df38e30e9a3597e_103.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Transportation_WebMercator/MapServer/103\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015-02-27",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "layer_slug_s": "e1b48ed01828470d9df38e30e9a3597e_103",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-19T20:30:51Z",
+  "solr_geom": "ENVELOPE(-77.0535926548, -77.0120331722, 38.9233409683, 38.8800317123)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "38.9016863403,-77.0328129135",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS",
+  "geoblacklight_version": "1.0"
+}

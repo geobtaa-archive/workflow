@@ -1,0 +1,49 @@
+{
+  "dc_identifier_s": "b8538f2b3fb443f99d2c30af86761971_0",
+  "dc_title_s": "Future Land Use: Minneapolis, Minnesota",
+  "dc_description_s": "For questions about this data please contact CPEDOpenData@minneapolismn.gov Parcel level future land use guidance from City's adopted comprehensive plan. This dataset provides guidance for future land use and development, along with land use features. Field DescriptionsRULEID is future land use classificationFLU is the abbreviation of the classification",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Minneapolis, Minnesota"
+  ],
+  "dc_creator_sm": [
+    "MapIT Minneapolis"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/b8538f2b3fb443f99d2c30af86761971_0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/b8538f2b3fb443f99d2c30af86761971_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/FutureLandUse/FeatureServer/0\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2017-07-11",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dct_spatial_sm": [
+    "Minneapolis, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "b8538f2b3fb443f99d2c30af86761971_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-19T20:31:21Z",
+  "solr_geom": "ENVELOPE(-93.32912437836299, -93.19483066057161, 45.051022536941296, 44.89064824604668)",
+  "solr_year_i": 2017,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "44.9708353915,-93.2619775195",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS",
+  "geoblacklight_version": "1.0"
+}

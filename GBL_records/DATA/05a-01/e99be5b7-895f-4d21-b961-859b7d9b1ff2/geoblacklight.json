@@ -1,0 +1,47 @@
+{
+  "dc_identifier_s": "e99be5b7-895f-4d21-b961-859b7d9b1ff2",
+  "dc_title_s": "Department of Natural Resources Wildlife Management Area Land Cover - Publicly Accessible: Minnesota",
+  "dc_description_s": "This polygon feature class contains land cover type boundaries for publicly accessible Wildlife Management Areas(WMAs) across the state. WMAs are part of the Minnesota state recreation system created to protect wildlife habitat and provide wildlife-based recreation.  Cover type polygons are based on a hierarchical classification system modified from the Minnesota Land Cover Classification System (MLCCS).  (The following text is taken from the: Minnesota Land Cover Classification System User Manual, July 2003, MN DNR, Central Region.)  MLCCS integrates classification of cultural features, non-native vegetation, natural and semi-natural vegetation into a comprehensive land cover classification system.  MLCCS is based heavily on the US National Vegetation Classification System (NVCS) and Minnesota's Native Vegetation: A Key to Natural Communities, version 1.5.  The MLCCS uses the natural community terminology developed by the MN DNR Natural Heritage and Nongame Research Program (NHNRP).  To find out further about the MLCCS, refer to the Minnesota Land Cover Classification System website.(http://www.dnr.state.mn.us/mlccs/index.html).",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": "Dataset",
+  "dc_publisher_sm": [
+    "Minnesota Department of Natural Resources (DNR)"
+  ],
+  "dc_creator_sm": [
+    "Minnesota Department of Natural Resources (DNR) - Division of Fish & Wildlife - Wildlife Unit"
+  ],
+  "dc_subject_sm": [
+    "Biota"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/e99be5b7-895f-4d21-b961-859b7d9b1ff2\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/biota_wma_landcover_pub/shp_biota_wma_landcover_pub.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/biota_wma_landcover_pub/metadata/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/biota_wma_landcover_pub/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2014-12-10T09:01:25.365644",
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "e99be5b7-895f-4d21-b961-859b7d9b1ff2",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2018-06-26T17:12:31Z",
+  "solr_geom": "ENVELOPE(-96.774088, -89.847596, 49.238689, 43.43753)",
+  "solr_year_i": 2018,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "46.3381095,-93.310842",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/biota_wma_landcover_pub/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
+  "geoblacklight_version": "1.0"
+}

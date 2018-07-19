@@ -1,0 +1,47 @@
+{
+  "dc_identifier_s": "12c509ac-c90e-4197-a7a9-b08aaa451691",
+  "dc_title_s": "Shallow Lakes Identified by DNR Wildlife: Minnesota",
+  "dc_description_s": "This is a polygon coverage of shallow lakes in Minnesota.  In this coverage, a \"shallow lake\" is defined as a basin 50 acres or greater in size having a maximum depth of 15 feet or less.  It was created using the MN DNR's 'DNR 100K Water (hydrography)' coverage as a base.   A list of shallow lakes was generated from a query of all lakes with assigned Division of Waters ID numbers.  Lakes with unknown depths were assigned a depth of '0', and were subsequently included in the list of shallow lakes.  Some of these lakes with unknown depths may be deeper than 15 feet, and therefore, not shallow lakes.  The depth values are updated as additional data is obtained, and the non-shallow lakes are removed from the list and the coverage.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": "Dataset",
+  "dc_publisher_sm": [
+    "Minnesota Department of Natural Resources (DNR)"
+  ],
+  "dc_creator_sm": [
+    "Minnesota Department of Natural Resources (DNR) - Division of Fish & Wildlife - Wildlife Unit"
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/12c509ac-c90e-4197-a7a9-b08aaa451691\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/water_shallow_lakes_id_by_wldlif/gpkg_water_shallow_lakes_id_by_wldlif.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/water_shallow_lakes_id_by_wldlif/metadata/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/water_shallow_lakes_id_by_wldlif/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2014-10-07T13:08:03.192936",
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "12c509ac-c90e-4197-a7a9-b08aaa451691",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
+  "solr_geom": "ENVELOPE(-96.721312, -89.587051, 48.989955, 43.440334)",
+  "solr_year_i": 2006,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "46.2151445,-93.1541815",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/water_shallow_lakes_id_by_wldlif/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
+  "geoblacklight_version": "1.0"
+}

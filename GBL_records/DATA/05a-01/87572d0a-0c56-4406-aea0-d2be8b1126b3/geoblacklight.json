@@ -1,0 +1,48 @@
+{
+  "dc_identifier_s": "87572d0a-0c56-4406-aea0-d2be8b1126b3",
+  "dc_title_s": "USGS 1:24000 (7 1/2 Minute) Quadrangle Index: Minnesota",
+  "dc_description_s": "Mathematically generated grid representing USGS 7 1/2 Minute Quadrangle Map outlines.  Quadrangle names and standard identifiers are included with the data set.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": "Dataset",
+  "dc_publisher_sm": [
+    "Minnesota Department of Natural Resources (DNR)"
+  ],
+  "dc_creator_sm": [
+    "Land Management Information Center (LMIC)"
+  ],
+  "dc_subject_sm": [
+    "Boundaries",
+    "Location"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/87572d0a-0c56-4406-aea0-d2be8b1126b3\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/loc_index_q024k_tile_scheme/fgdb_loc_index_q024k_tile_scheme.zip\",\"http://schema.org/image\":\"https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/loc_index_q024k_tile_scheme/metadata/preview.jpg\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/loc_index_q024k_tile_scheme/metadata/metadata.xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Geospatial Commons"
+  ],
+  "dct_issued_s": "2015-12-03T11:02:36.548895",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "87572d0a-0c56-4406-aea0-d2be8b1126b3",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2018-06-26T17:12:30Z",
+  "solr_geom": "ENVELOPE(-96.908924, -89.259327, 49.461372, 43.308126)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "46.384749,-93.0841255",
+  "b1g_geonames_sm": [
+    "http://sws.geonames.org/5037779"
+  ],
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/loc_index_q024k_tile_scheme/metadata/preview.jpg",
+  "b1g_collection_sm": "05a-01",
+  "geoblacklight_version": "1.0"
+}

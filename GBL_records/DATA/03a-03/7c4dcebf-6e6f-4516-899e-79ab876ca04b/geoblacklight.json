@@ -1,0 +1,52 @@
+{
+  "dc_identifier_s": "7c4dcebf-6e6f-4516-899e-79ab876ca04b",
+  "dc_title_s": "Flood Risk Web Service of the Two-Hundred-Year Floodplain: Iowa",
+  "dc_description_s": [
+
+  ],
+  "dc_rights_s": "Public",
+  "dc_format_s": "Files",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Iowa"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "dct_provenance_s": "Iowa",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.iowa.gov/dataset/flood-risk-areas\",\"http://schema.org/downloadUrl\":\"https://geodata.iowa.gov/dataset/flood-risk-areas\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://programs.iowadnr.gov/geospatial/rest/services/SurfaceWaters/FloodRisk200yr/MapServer\"}",
+  "dct_isPartOf_sm": [
+    "Iowa GeoData"
+  ],
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dct_spatial_sm": [
+    "Iowa, United States"
+  ],
+  "layer_slug_s": "7c4dcebf-6e6f-4516-899e-79ab876ca04b",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-06-26T17:11:42Z",
+  "solr_geom": "ENVELOPE(-96.6395, -90.1401, 43.5100, 40.3754)",
+  "solr_year_i": 2018,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "41.9427,-93.3898",
+  "b1g_geonames_sm": [
+    "https://sws.geonames.org/4862270"
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "03a-03",
+  "geoblacklight_version": "1.0"
+}

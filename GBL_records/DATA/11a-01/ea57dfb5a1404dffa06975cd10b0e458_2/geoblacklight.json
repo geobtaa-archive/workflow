@@ -1,0 +1,50 @@
+{
+  "dc_identifier_s": "ea57dfb5a1404dffa06975cd10b0e458_2",
+  "dc_title_s": "Landmarks, Ohio Location Based Response System: Huron County",
+  "dc_description_s": "The State of Ohio Location Based Response System landmarks depict the landmarks along public and private roads within participating Ohio Counties. Landmark data was developed from data collected by field observation of existing address locations at the time of collection.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Ohio Geographically Referenced Information Program (OGRIP)"
+  ],
+  "dc_creator_sm": [
+    "State of Ohio Office of Information Technology, Ohio Geographically Referenced Information Program (OGRIP)"
+  ],
+  "dc_subject_sm": [
+    "Location"
+  ],
+  "dct_provenance_s": "Ohio",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/ea57dfb5a1404dffa06975cd10b0e458_2\",\"http://schema.org/downloadUrl\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/ea57dfb5a1404dffa06975cd10b0e458_2.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://geo.oit.ohio.gov/arcgis/rest/services/LBRS/Huron_LBRS/FeatureServer/2\",\"http://www.opengis.net/cat/csw/csdgm\":\"http://gis3.oit.ohio.gov/ZIPARCHIVES/GEOHIO_METADATA/hur_lndmrks.xml\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data",
+    "Ohio Counties LBRS"
+  ],
+  "dct_issued_s": "2015-01-12",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "Huron County, Ohio, United States",
+    "Ohio, United States"
+  ],
+  "layer_slug_s": "ea57dfb5a1404dffa06975cd10b0e458_2",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2018-07-19T21:08:01Z",
+  "solr_geom": "ENVELOPE(-82.8830, -82.3441, 41.2929, 40.9922)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "41.14255,-82.61355",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "11a-01",
+  "geoblacklight_version": "1.0"
+}

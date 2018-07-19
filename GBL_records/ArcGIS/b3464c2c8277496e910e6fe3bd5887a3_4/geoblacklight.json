@@ -1,0 +1,48 @@
+{
+  "dc_identifier_s": "b3464c2c8277496e910e6fe3bd5887a3_4",
+  "dc_title_s": "Historic NAIP Imagery Grid - 2011: Maryland",
+  "dc_description_s": "This is a MD iMAP hosted service. Find more information on http://imap.maryland.gov. This data layer contains the index grid for the National Agriculture Imagery Program (NAIP) 2011 imagery. The NAIP program is administered by the U. S. Department of Agriculture Farm Service Agency and has been established to support two main FSA strategic goals centered on agricultural production. Owner: U. S. Department of Agriculture Farm Service AgencyMap Service Layer:http://imagery. geodata. md. gov/imap/rest/services/NAIP/HistoricNAIPImageryGrid/MapServer/4",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dc_creator_sm": [
+    "Maryland iMap"
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/b3464c2c8277496e910e6fe3bd5887a3_4\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/b3464c2c8277496e910e6fe3bd5887a3_4.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://imagery.geodata.md.gov/imap/rest/services/NAIP/HistoricNAIPImageryGrid/MapServer/4\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2016-11-30",
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "dct_spatial_sm": [
+    "Maryland, United States"
+  ],
+  "layer_slug_s": "b3464c2c8277496e910e6fe3bd5887a3_4",
+  "layer_geom_type_s": "Mixed",
+  "layer_modified_dt": "2018-07-19T20:30:30Z",
+  "solr_geom": "ENVELOPE(-79.5003, -75.0005, 39.7506, 37.8756)",
+  "solr_year_i": 2011,
+  "b1g_genre_sm": [
+    "Aerial imagery"
+  ],
+  "b1g_centroid_ss": "38.8131,-77.2504",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS",
+  "geoblacklight_version": "1.0"
+}

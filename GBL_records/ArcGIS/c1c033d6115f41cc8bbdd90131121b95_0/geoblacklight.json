@@ -1,0 +1,50 @@
+{
+  "dc_identifier_s": "c1c033d6115f41cc8bbdd90131121b95_0",
+  "dc_title_s": "OC 2004 MNFI Potential Natural Areas: Oakland County, Michigan",
+  "dc_description_s": "A spatial representation of potential natural areas. The polygons contained in this feature class were derived from data developed for the 2004 Oakland County Natural Areas Report update. Each feature was assigned a priority of One, Two, or Three. Digital Landcover, orthophotography, and USGS quadrangle maps were the main sources used to identify each natural area. The data from the Oakland County Natural Areas update project was collected in 2004. Key attributes include Priority and TotalScore. Priority is a reflection of quality and indicates the level of priority to retain or conserve the natural state of the identified area.The NaturalArea2004 data should be distributed with the Oakland County Potential Conservation/Natural Areas Report - April 2004. This document provides essential information for the attributes and procedures used to create the features in the dataset. Shiawassee  Huron Headwaters Resource Preservation Project - March 2000 Project Staff: Carlisle Wortman  Associates - Richard Carlisle, PCP, and Carey Nyberg Land Information Access Association - Joe VanderMeulen Michigan Natural Features Inventory - John Paskus Oakland County Planning  Economic Development Services - Bret C. Rasegan, RA, Charlotte P. Burckhardt, AICP, PCP, Lawrence S. Falardeau, RLA, Russell Lewis, RA, Leslie E. Kettren, AICP, Jim Keglovitz, and JoAnn Browning The Shiawassee and Huron Headwaters Resource Preservation Project involved six communities (Highland, Milford, Rose, Springfield, and White Lake Townships, and the Village of Milford) in western Oakland County. A Steering Committee composed of local officials, developers, property owners, and land conservancy members was the policy group that directed the project. The Steering Committee contracted with the Michigan Natural Features Inventory (MNFI) to identify potentially significant natural areas. Oakland County Potential Conservation/Natural Areas Report - July 2002 Prepared by: John Paskus, Associate Program Leader - Conservation Michael Penskar, Program Leader - Botany Helen Enander, Information Technologist I Oakland County Potential Conservation/Natural Areas Report - April 2004 Prepared by: John Paskus, Associate Program Leader - Conservation Helen Enander, Information Technologist I Michigan Natural Features Inventory P.O. Box 30444 8th Floor, Mason Bldg. Lansing, MI 48909-7944 This report identifies and ranks Potential Natural Areas remaining in Oakland County. Potential Natural Areas are defined as places on the landscape dominated by native vegetation that have various levels of potential for harboring high quality natural areas and unique natural features. In addition these areas may provide critical ecological services such as maintaining water quality and quantity, soil development and stabilization, pollination of cropland, wildlife travel corridors, stopover sites for migratory birds, sources of genetic diversity, and floodwater retention. However, the actual ecological value of these areas can only be truly ascertained through on the ground biological surveys. The process established by the Michigan Natural Features Inventory (MNFI) of identifying potential conservation areas can also be used to update and track the status of these remaining sites. The site map and ranking data can be used by local municipalities, land trusts, and other agencies to prioritize conservation efforts and assist in finding opportunities to establish an open space system of linked natural areas throughout Oakland County. In this report the term potential natural area has been used in place of the term potential conservation area. The substitution was made in order to convey to the reader a clearer picture of the type of sites that are being delineated. It is felt that more people have a better understanding of the term natural area. The term potential natural area, however, is not to be confused with the legal term dedicated Natural Area as described in Part 351, Wilderness and Natural Areas, of the Natural Resources and Environmental Protection Act of 1994 which gives land special legal protection.When using this information it is important to keep in mind that site boundaries and ranking are a starting point and tend to be somewhat general in nature. Consequently, each community, group or individual using this information should determine what additional expertise is needed in order to establish more exact boundaries and the most appropriate conservation efforts. Materials and Interpretation Methodology: Interpretation of the 25-township area in Oakland County was conducted by using digital aerial photography taken in 2002, Tax Parcel, and 2002 Oakland County Potential Conservation/Natural Areas provided by Oakland County's Planning and Economic Development Services Division. As the townships were methodically interpreted and digitized using this imagery, the same areas were examined using: Southeast Michigan Council of Governments (SEMCOG) 2000 digital landcover, Michigan Center for Geographic Information (MCGI) MI Geographic Framework Hydrography (v3b), and Michigan Natural Features Inventory (MNFI) Biotics Database. These additional data sources were used to enhance and corroborate the interpretation process. Delineation of sites was done through aerial photo interpretation, with emphasis placed on 1) intactness, 2) wetlands and wetland complexes, 3) riparian corridors, and 4) forested tracts. Delineation of sites during this phase of the process was done conservatively, such that the chance of capturing sites that may end up being eliminated upon closer inspection, was greater than the chance of omitting sites that should have been delineated. Sites were delineated by focusing on wetlands and forest tracts and eliminating as much development (including roads), active agriculture and old fields as possible. Boundaries typically were defined by hard edges such as roads, parking lots, developments, and railroad beds. All potential natural areas were identified and delineated regardless of size. Municipal boundaries were not utilized to delineate site boundaries unless the boundary corresponded to a defined hard edge, such as a road. Once all sites were delineated, sites under 20 acres were deleted. Following the aerial photo interpretation and the delineation of potential natural areas, a more rigorous level of examination was undertaken based upon specific scaled criteria to prioritize sites. The criteria used to first delineate the sites were translated to a numerical scale. Each site could then be assessed based upon the scaled criteria and a total calculated score, based upon the sum of the scores for each criterion.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Oakland County, Michigan"
+  ],
+  "dc_creator_sm": [
+    "Access Oakland"
+  ],
+  "dc_subject_sm": [
+    "Environment",
+    "Planning and Cadastral"
+  ],
+  "dct_provenance_s": "Michigan State",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://accessoakland.oakgov.com/datasets/c1c033d6115f41cc8bbdd90131121b95_0\",\"http://schema.org/downloadUrl\":\"http://accessoakland.oakgov.com/datasets/c1c033d6115f41cc8bbdd90131121b95_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://gisservices.oakgov.com/arcgis/rest/services/Enterprise/EnterpriseNaturalFeaturesMapService/MapServer/0\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2016-10-16",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "Oakland County, Michigan, United States",
+    "Michigan, United States"
+  ],
+  "layer_slug_s": "c1c033d6115f41cc8bbdd90131121b95_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-19T20:31:21Z",
+  "solr_geom": "ENVELOPE(-83.694337, -83.074282, 42.893598, 42.426087)",
+  "solr_year_i": 2016,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "42.6598425,-83.3843095",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS",
+  "geoblacklight_version": "1.0"
+}

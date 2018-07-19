@@ -1,0 +1,52 @@
+{
+  "dc_identifier_s": "5bc259e1a7534e0387ddba05bf425fcb_0",
+  "dc_title_s": "US House of Representative Districts: Ohio",
+  "dc_description_s": "Boundary file showing 115th United States Congress in session 2017-2018 - Ohio Congressional delegation.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Ohio Geographically Referenced Information Program"
+  ],
+  "dc_creator_sm": [
+    "Mid-Ohio Regional Planning Commission"
+  ],
+  "dc_subject_sm": [
+    "Boundaries",
+    "Society",
+    "Federal government",
+    "Districts"
+  ],
+  "dct_provenance_s": "Ohio",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/5bc259e1a7534e0387ddba05bf425fcb_0\",\"http://schema.org/downloadUrl\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/5bc259e1a7534e0387ddba05bf425fcb_0.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://arcgisserver2.morpc.org/arcgis/rest/services/legislative/OhioStateHouse/MapServer/0\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2017-03-06",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dct_spatial_sm": [
+    "Ohio, United States"
+  ],
+  "layer_slug_s": "5bc259e1a7534e0387ddba05bf425fcb_0",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2018-07-19T21:08:01Z",
+  "solr_geom": "ENVELOPE(-84.9313, -80.4691, 42.3432, 38.3804)",
+  "solr_year_i": 2017,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "40.3618,-82.7002",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "11a-01",
+  "geoblacklight_version": "1.0"
+}
