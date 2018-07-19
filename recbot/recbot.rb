@@ -21,9 +21,9 @@ uuid = doc["#{output}"][0]["layer_slug_s"]
 code = doc["#{output}"][0]["b1g_collection_sm"]
 
 record = doc["#{output}"][0]
-%x( mkdir -p {code}}/#{uuid})
+%x( mkdir -p #{code}/#{uuid})
 
-File.open("{code}/#{uuid}/geoblacklight.json","w") do |f|
+File.open("#{code}/#{uuid}/geoblacklight.json","w") do |f|
   f.write(JSON.pretty_generate(record))
 
 end

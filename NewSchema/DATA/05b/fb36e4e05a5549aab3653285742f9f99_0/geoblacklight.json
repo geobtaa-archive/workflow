@@ -4,9 +4,7 @@
   "dc_description_s": "Washington County Elevation Contours derived from 2012 DNR Lidar data. Used in Public GIS Viewer.",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_sm": [
-    "English"
-  ],
+  "dc_language_sm": "English",
   "dc_type_sm": [
     "Dataset",
     "Service"
@@ -36,14 +34,11 @@
   ],
   "layer_slug_s": "fb36e4e05a5549aab3653285742f9f99_0",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-06-26T22:02:53Z",
+  "layer_modified_dt": "2018-07-19T20:36:30Z",
   "solr_geom": "ENVELOPE(-93.0442, -92.713, 45.3163, 44.7168)",
   "solr_year_i": 2017,
   "b1g_genre_sm": [
     "Geospatial data"
-  ],
-  "b1g_geom_type_sm": [
-    "Vector data"
   ],
   "b1g_centroid_ss": "45.01655,-92.8786",
   "b1g_geonames_sm": [

@@ -4,9 +4,7 @@
   "dc_description_s": "2030 Comprehensive Landuse Plan for Scott County. For more information, please visit Scott County's 2030 Comprehensive Plan Implementation webpage. Zoning data falls into 1 of 12 categories: A-1 = Agricultural Preservation District A-2 = Agricultural Woodlands District A-3 = Agricultural Preservation Density District C-1 = General Commercial District I-1 = Rural Industrial District RR-1 = Rural Residential Reserve District RR-1C = Rural Residential Reserve Cluster District RR-2 = Rural Residential Single Family District RR-3 = Residential Suburban Single Family District UBR = Urban Business Reserve District UER = Urban Expansion Reserve District UERC = Urban Expansion Reserve Cluster District UTR = Urban Transition Reserve District UTR-C = Urban Transition Reserve Cluster District",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_sm": [
-    "English"
-  ],
+  "dc_language_sm": "English",
   "dc_type_sm": [
     "Dataset",
     "Service"
@@ -36,14 +34,11 @@
   ],
   "layer_slug_s": "d6dbbc3918d34a4e8ca2a7599cbafd07_0",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-06-26T22:02:53Z",
+  "layer_modified_dt": "2018-07-19T20:36:31Z",
   "solr_geom": "ENVELOPE(-93.9798332055029, -93.21147811130241, 44.897714437658856, 44.456927274273944)",
   "solr_year_i": 2016,
   "b1g_genre_sm": [
     "Geospatial data"
-  ],
-  "b1g_geom_type_sm": [
-    "Vector data"
   ],
   "b1g_centroid_ss": "44.677320856,-93.5956556584",
   "b1g_geonames_sm": [

@@ -4,9 +4,7 @@
   "dc_description_s": "2010 FEMA DFIRM floodplain cross sections.",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_sm": [
-    "English"
-  ],
+  "dc_language_sm": "English",
   "dc_type_sm": [
     "Dataset",
     "Service"
@@ -39,14 +37,11 @@
   ],
   "layer_slug_s": "1a79238bf46048cba73674d5d2ae541a_0",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-06-26T22:02:53Z",
+  "layer_modified_dt": "2018-07-19T20:36:31Z",
   "solr_geom": "ENVELOPE(-94.0129, -93.5203, 44.978, 44.6345)",
   "solr_year_i": 2014,
   "b1g_genre_sm": [
     "Geospatial data"
-  ],
-  "b1g_geom_type_sm": [
-    "Vector data"
   ],
   "b1g_centroid_ss": "44.80625,-93.7666",
   "b1g_geonames_sm": [

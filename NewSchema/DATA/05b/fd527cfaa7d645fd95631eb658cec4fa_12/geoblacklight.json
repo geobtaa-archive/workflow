@@ -4,9 +4,7 @@
   "dc_description_s": "Dataset contains the ZIP code boundaries inside of Hennepin County. Non-taxing polygons for Zip code areas are defined using parcel attributes of property mailing address. The field NAME_TXT contains the ZIP Code number for each polygon. Link to Attribute Table Information: http://gis.hennepin.us/OpenData/Metadata/Zipcodes.pdf Data updated: monthlyUse Limitations: This data (i) is furnished AS IS with no representation as to completeness or accuracy; (ii) is furnished with no warranty of any kind; and (iii) is not suitable for legal, engineering or surveying purposes. Hennepin County shall not be liable for any damage, injury or loss resulting from this data. General questions about this dataset, including errors, omissions, corrections and/or updates should be directed to the Survey Division, Resident and Real Estate Services Department, Hennepin County at 612-348-3131.",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_sm": [
-    "English"
-  ],
+  "dc_language_sm": "English",
   "dc_type_sm": [
     "Dataset",
     "Service"
@@ -36,14 +34,11 @@
   ],
   "layer_slug_s": "fd527cfaa7d645fd95631eb658cec4fa_12",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-06-26T22:02:53Z",
+  "layer_modified_dt": "2018-07-19T20:36:30Z",
   "solr_geom": "ENVELOPE(-93.7727, -93.1766, 45.2471, 44.783)",
   "solr_year_i": 2015,
   "b1g_genre_sm": [
     "Geospatial data"
-  ],
-  "b1g_geom_type_sm": [
-    "Vector data"
   ],
   "b1g_centroid_ss": "45.01505,-93.47465",
   "b1g_geonames_sm": [

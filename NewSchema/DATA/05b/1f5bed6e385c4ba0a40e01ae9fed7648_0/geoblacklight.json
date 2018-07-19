@@ -4,9 +4,7 @@
   "dc_description_s": "Dataset containing a point location (generally placed at the driveway entrance) and the official physical address including house number, street name, postal city name, and postal code (ZIP code).The features and tabular information in this data are continually updated and may change frequently.",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_sm": [
-    "English"
-  ],
+  "dc_language_sm": "English",
   "dc_type_sm": [
     "Dataset",
     "Service"
@@ -37,14 +35,11 @@
   ],
   "layer_slug_s": "1f5bed6e385c4ba0a40e01ae9fed7648_0",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-06-26T22:02:53Z",
+  "layer_modified_dt": "2018-07-19T20:36:30Z",
   "solr_geom": "ENVELOPE(-95.172, -94.66, 47.412, 46.79)",
   "solr_year_i": 2017,
   "b1g_genre_sm": [
     "Geospatial data"
-  ],
-  "b1g_geom_type_sm": [
-    "Vector data"
   ],
   "b1g_centroid_ss": "47.101,-94.916",
   "b1g_geonames_sm": [

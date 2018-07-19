@@ -1,0 +1,50 @@
+{
+  "dc_identifier_s": "693e023ace4f46818edbf0aa7d6a60d3_56",
+  "dc_title_s": "Joyful Food Market Program in Schools: Washington, DC",
+  "dc_description_s": "Represents schools at which Martha's Table and Capital Area Food Bank run the Joyful Food Markets program. These are elementary schools in Wards 7 8. Compiled by the Office of Planning based on Martha's Table's public list of schools. Since Martha's Table is in the process of expanding the program, visit http://marthastable.org/programs/foodaccessprograms/ for the most up-to-date list.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Structure"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/693e023ace4f46818edbf0aa7d6a60d3_56\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/693e023ace4f46818edbf0aa7d6a60d3_56.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Public_Service_WebMercator/MapServer/56\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2018-03-19",
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dct_spatial_sm": [
+    "Washington, DC, District of Columbia, United States",
+    "District of Columbia, United States"
+  ],
+  "layer_slug_s": "693e023ace4f46818edbf0aa7d6a60d3_56",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2018-07-19T20:30:51Z",
+  "solr_geom": "ENVELOPE(-77.008494, -76.919916, 38.905436, 38.826939)",
+  "solr_year_i": 2018,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "38.8661875,-76.964205",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS",
+  "geoblacklight_version": "1.0"
+}

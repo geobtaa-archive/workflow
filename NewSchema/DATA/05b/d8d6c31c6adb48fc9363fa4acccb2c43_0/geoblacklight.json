@@ -4,9 +4,7 @@
   "dc_description_s": "Bikeways and Trials provided by communities for planning purposes and compiled by Washington County. Some data was provided in GIS format and some by PDF drawings. Bikeways provided via PDF were heads-up digitized to approximate trail locations. While compiled in 2016, much of the provided data was more than 10 years old.",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_sm": [
-    "English"
-  ],
+  "dc_language_sm": "English",
   "dc_type_sm": [
     "Dataset",
     "Service"
@@ -36,14 +34,11 @@
   ],
   "layer_slug_s": "d8d6c31c6adb48fc9363fa4acccb2c43_0",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-06-26T22:02:53Z",
+  "layer_modified_dt": "2018-07-19T20:36:31Z",
   "solr_geom": "ENVELOPE(-93.0412660090744, -92.75910833792506, 45.296919527314245, 44.77833320075798)",
   "solr_year_i": 2017,
   "b1g_genre_sm": [
     "Geospatial data"
-  ],
-  "b1g_geom_type_sm": [
-    "Vector data"
   ],
   "b1g_centroid_ss": "45.037626364,-92.9001871735",
   "b1g_geonames_sm": [

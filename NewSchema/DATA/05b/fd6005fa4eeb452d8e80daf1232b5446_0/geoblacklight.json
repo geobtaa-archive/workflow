@@ -4,9 +4,7 @@
   "dc_description_s": "Licensed family child care providers within Scott County.",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_sm": [
-    "English"
-  ],
+  "dc_language_sm": "English",
   "dc_type_sm": [
     "Dataset",
     "Service"
@@ -36,14 +34,11 @@
   ],
   "layer_slug_s": "fd6005fa4eeb452d8e80daf1232b5446_0",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-06-26T22:02:53Z",
+  "layer_modified_dt": "2018-07-19T20:36:31Z",
   "solr_geom": "ENVELOPE(-93.91030384643463, -93.20100097069493, 44.873958936602186, 44.467114064453945)",
   "solr_year_i": 2016,
   "b1g_genre_sm": [
     "Geospatial data"
-  ],
-  "b1g_geom_type_sm": [
-    "Vector data"
   ],
   "b1g_centroid_ss": "44.6705365005,-93.5556524086",
   "b1g_geonames_sm": [

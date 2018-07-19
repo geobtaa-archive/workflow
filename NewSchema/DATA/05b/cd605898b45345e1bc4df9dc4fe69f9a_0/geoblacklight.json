@@ -4,9 +4,7 @@
   "dc_description_s": "Service displaying the tiles and the delivery area for the 2018 Sherburne County Aerial project.",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_sm": [
-    "English"
-  ],
+  "dc_language_sm": "English",
   "dc_type_sm": [
     "Dataset",
     "Service"
@@ -36,14 +34,11 @@
   ],
   "layer_slug_s": "cd605898b45345e1bc4df9dc4fe69f9a_0",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-06-26T22:02:52Z",
+  "layer_modified_dt": "2018-07-19T20:36:30Z",
   "solr_geom": "ENVELOPE(-94.165584, -93.467073, 45.606527, 45.238027)",
   "solr_year_i": 2017,
   "b1g_genre_sm": [
     "Geospatial data"
-  ],
-  "b1g_geom_type_sm": [
-    "Vector data"
   ],
   "b1g_centroid_ss": "45.422277,-93.8163285",
   "b1g_geonames_sm": [

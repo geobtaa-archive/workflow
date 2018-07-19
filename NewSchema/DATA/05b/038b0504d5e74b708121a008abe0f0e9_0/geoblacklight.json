@@ -4,9 +4,7 @@
   "dc_description_s": "Hennepin County Medical Center clinics created for the GIS Office enterprise warehouse and use in various online applications. Originally requested by Hennepin Health for member mapping projects. Hennepin County Medical Center clinics created September 2013 by the GIS Office. Locations are based on information supplied by HSPHD, HCMC, and the http://hcmc.org/index.htm website. Link to Attribute Table Information: http://gis.hennepin.us/OpenData/Metadata/HCMC%20Clinics.pdf Data updated: 08/07/2014Use Limitations: This data (i) is furnished AS IS with no representation as to completeness or accuracy; (ii) is furnished with no warranty of any kind; and (iii) is not suitable for legal, engineering or surveying purposes. Hennepin County shall not be liable for any damage, injury or loss resulting from this data. General questions about this data set, including errors, omissions, corrections and/or updates should be directed to the Hennepin County GIS Office at 612-596-9484.",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_sm": [
-    "English"
-  ],
+  "dc_language_sm": "English",
   "dc_type_sm": [
     "Dataset",
     "Service"
@@ -36,14 +34,11 @@
   ],
   "layer_slug_s": "038b0504d5e74b708121a008abe0f0e9_0",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-06-26T22:02:53Z",
+  "layer_modified_dt": "2018-07-19T20:36:31Z",
   "solr_geom": "ENVELOPE(-93.3558, -93.2195, 45.0938, 44.8606)",
   "solr_year_i": 2015,
   "b1g_genre_sm": [
     "Geospatial data"
-  ],
-  "b1g_geom_type_sm": [
-    "Vector data"
   ],
   "b1g_centroid_ss": "44.9772,-93.28765",
   "b1g_geonames_sm": [

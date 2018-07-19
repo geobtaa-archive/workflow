@@ -4,9 +4,7 @@
   "dc_description_s": "This layer contains address point features which are used for geocoding addresses and property identification numbers. Data attributes include property addresses and property identification numbers. Addresses are stored in both parsed and concatenated fields.Link to Attribute Table Information: http://gis.hennepin.us/OpenData/Metadata/Address%20Points.pdfData updated: dailyUse Limitations: This data (i) is furnished AS IS with no representation as to completeness or accuracy; (ii) is furnished with no warranty of any kind; and (iii) is not suitable for legal, engineering or surveying purposes. Hennepin County shall not be liable for any damage, injury or loss resulting from this data. General questions about this data set, including errors, omissions, corrections and/or updates should be directed to the Hennepin County GIS Office at 612-596-9484.",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_sm": [
-    "English"
-  ],
+  "dc_language_sm": "English",
   "dc_type_sm": [
     "Dataset",
     "Service"
@@ -37,14 +35,11 @@
   ],
   "layer_slug_s": "7a24f282f0d7497f9352519dbb3607e8_0",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-06-26T22:02:53Z",
+  "layer_modified_dt": "2018-07-19T20:36:31Z",
   "solr_geom": "ENVELOPE(-93.7725, -93.1737, 45.2465, 44.7859)",
   "solr_year_i": 2015,
   "b1g_genre_sm": [
     "Geospatial data"
-  ],
-  "b1g_geom_type_sm": [
-    "Vector data"
   ],
   "b1g_centroid_ss": "45.0162,-93.4731",
   "b1g_geonames_sm": [

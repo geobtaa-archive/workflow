@@ -4,9 +4,7 @@
   "dc_description_s": "Scott County building permit data represents permit data that is created and maintained by the Property and Taxation Services department. This permit data represents permits that are issued on or after January 1, 2010, within a township, and that have a status of Finalled, Issued, or Expired. Scott County is the permitting authority for the townships, to obtain permit data for a city within Scott County please contact the city. Once data has been downloaded and opened in Excel, you must select the dateIssued field and change the field type to Short Date or Long Date.",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_sm": [
-    "English"
-  ],
+  "dc_language_sm": "English",
   "dc_type_sm": [
     "Dataset",
     "Service"
@@ -36,14 +34,11 @@
   ],
   "layer_slug_s": "7e4ff334783847f1b85499aed8f3cbb4_0",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-06-26T22:02:53Z",
+  "layer_modified_dt": "2018-07-19T20:36:31Z",
   "solr_geom": "ENVELOPE(-93.76991127218233, -93.33150758240241, 44.78252239863632, 44.62487358074655)",
   "solr_year_i": 2016,
   "b1g_genre_sm": [
     "Geospatial data"
-  ],
-  "b1g_geom_type_sm": [
-    "Vector data"
   ],
   "b1g_centroid_ss": "44.7036979897,-93.5507094273",
   "b1g_geonames_sm": [

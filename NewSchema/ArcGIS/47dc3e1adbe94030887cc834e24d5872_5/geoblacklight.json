@@ -1,0 +1,48 @@
+{
+  "dc_identifier_s": "47dc3e1adbe94030887cc834e24d5872_5",
+  "dc_title_s": "Housing Designated Areas - Rural Areas: Maryland",
+  "dc_description_s": "This is a MD iMAP hosted service. Find more information at http://imap.maryland.gov. The Federal Housing Enterprises Financial Safety and Soundness Act of 1992 establishes a duty for Fannie Mae and Freddie Mac (the Enterprises) to serve the housing needs of very low-, low-, and moderate-income families in rural areas. FHFA has issued a final rule that provides eligibility for Duty to Serve credit for Enterprise mortgage purchases and other activities in rural areas, as defined in the rule. Additionally, the final rule specifies supportfor high-needs rural regions as a Regulatory Activity that the Enterprises may consider when developing their plans for the Duty to Serve program. FHFA s 2017 Rural Areas File designates census tracts in the Metropolitan Statistical Areas (MSAs) and outside of MSAs of the 50 states, the District of Columbia, and Puerto Rico that are considered rural areas or non-rural areas under the final rule. The File also identifies whether census tracts are located in high-needs counties in order to determine whether tracts meet the definition of high-needs rural regions in the final rule. Last Updated: 6/2017",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dc_creator_sm": [
+    "Maryland iMap"
+  ],
+  "dc_subject_sm": [
+    "Economy"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/47dc3e1adbe94030887cc834e24d5872_5\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/47dc3e1adbe94030887cc834e24d5872_5.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://geodata.md.gov/imap/rest/services/BusinessEconomy/MD_HousingDesignatedAreas/FeatureServer/5\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2017-06-27",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dct_spatial_sm": [
+    "Maryland, United States"
+  ],
+  "layer_slug_s": "47dc3e1adbe94030887cc834e24d5872_5",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-19T20:31:06Z",
+  "solr_geom": "ENVELOPE(-79.4877, -75.0489, 39.723, 37.9117)",
+  "solr_year_i": 2017,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "38.81735,-77.2683",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS",
+  "geoblacklight_version": "1.0"
+}

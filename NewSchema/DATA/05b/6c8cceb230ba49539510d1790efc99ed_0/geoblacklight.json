@@ -4,9 +4,7 @@
   "dc_description_s": "Bluffs within Scott County.",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_sm": [
-    "English"
-  ],
+  "dc_language_sm": "English",
   "dc_type_sm": [
     "Dataset",
     "Service"
@@ -36,14 +34,11 @@
   ],
   "layer_slug_s": "6c8cceb230ba49539510d1790efc99ed_0",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-06-26T22:02:53Z",
+  "layer_modified_dt": "2018-07-19T20:36:31Z",
   "solr_geom": "ENVELOPE(-93.89401455348894, -93.28114968593015, 44.77720277070464, 44.5423071814825)",
   "solr_year_i": 2016,
   "b1g_genre_sm": [
     "Geospatial data"
-  ],
-  "b1g_geom_type_sm": [
-    "Vector data"
   ],
   "b1g_centroid_ss": "44.6597549761,-93.5875821197",
   "b1g_geonames_sm": [

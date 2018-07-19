@@ -1,0 +1,48 @@
+{
+  "dc_identifier_s": "473f8427a52d49498c08beec540cd8de_4",
+  "dc_title_s": "Local Transit - Calvert County Public Transportation Stops: Maryland",
+  "dc_description_s": "This is a MD iMAP hosted service. Find more information on http://imap.maryland.gov. This layer contains bus stop locations for Calvert County's Public Transit System. Shapes were drawn in Google Earth, exported to GTFS and then converted to shapefiles. Last updated: 6/21/2016",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dc_creator_sm": [
+    "Maryland iMap"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/473f8427a52d49498c08beec540cd8de_4\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/473f8427a52d49498c08beec540cd8de_4.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://geodata.md.gov/imap/rest/services/Transportation/MD_LocalTransit/FeatureServer/4\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2016-09-01",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "Maryland, United States"
+  ],
+  "layer_slug_s": "473f8427a52d49498c08beec540cd8de_4",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-19T20:31:05Z",
+  "solr_geom": "ENVELOPE(-76.6647, -76.4064, 38.726, 38.3229)",
+  "solr_year_i": 2016,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "38.52445,-76.53555",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS",
+  "geoblacklight_version": "1.0"
+}

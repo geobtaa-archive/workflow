@@ -1,0 +1,51 @@
+{
+  "dc_identifier_s": "05f4b89b7fd94e3cb60b4f16d246fbe9_0",
+  "dc_title_s": "Navigable River: Delaware Valley",
+  "dc_description_s": "The DVRPC navigable river layer is a polygon layer representing the extents of the Delaware and Schulykill rivers that are designated for commercial traffic. Each waterway is segmented by the appropriate channel and reaches division. NOAA data was utilized to populate the segments with related navigation data.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Delaware Valley Regional Planning Commission"
+  ],
+  "dc_creator_sm": [
+    "Delaware Valley Regional Planning Commission"
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/05f4b89b7fd94e3cb60b4f16d246fbe9_0\",\"http://schema.org/downloadUrl\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/05f4b89b7fd94e3cb60b4f16d246fbe9_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://arcgis.dvrpc.org/arcgis/rest/services/Freight/NavigableRiver/FeatureServer/0\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2016-02-17",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "Delaware River, Delaware, United States",
+    "Delaware, United States",
+    "Pennsylvania, United States",
+    "Maryland, United States"
+  ],
+  "layer_slug_s": "05f4b89b7fd94e3cb60b4f16d246fbe9_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-19T20:31:06Z",
+  "solr_geom": "ENVELOPE(-75.424, -74.7158, 40.2089, 39.7955)",
+  "solr_year_i": 2016,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "40.0022,-75.0699",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS",
+  "geoblacklight_version": "1.0"
+}

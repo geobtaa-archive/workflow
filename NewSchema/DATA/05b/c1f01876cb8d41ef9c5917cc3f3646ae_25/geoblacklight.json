@@ -4,9 +4,7 @@
   "dc_description_s": "Polygon features representing waterbodies.Contact for more informationTel: (320) 634-7788Fax: (320) Email: Information Technology130 East Minnesota Avenue, Glenwood, MN 56334",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_sm": [
-    "English"
-  ],
+  "dc_language_sm": "English",
   "dc_type_sm": [
     "Dataset",
     "Service"
@@ -36,14 +34,11 @@
   ],
   "layer_slug_s": "c1f01876cb8d41ef9c5917cc3f3646ae_25",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-06-26T22:02:52Z",
+  "layer_modified_dt": "2018-07-19T20:36:30Z",
   "solr_geom": "ENVELOPE(-95.76, -95.1314, 45.7615, 45.411)",
   "solr_year_i": 2016,
   "b1g_genre_sm": [
     "Geospatial data"
-  ],
-  "b1g_geom_type_sm": [
-    "Vector data"
   ],
   "b1g_centroid_ss": "45.58625,-95.4457",
   "b1g_geonames_sm": [

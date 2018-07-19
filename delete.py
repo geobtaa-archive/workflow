@@ -91,6 +91,7 @@ class CSWToGeoBlacklight(object):
             "wisc": '"Wisconsin"',
             "indiana": '"Indiana"',
             "chicago": '"Chicago"',
+            "ohio": '"Ohio"',
             "stanford": '"Stanford"',
             "uva": '"UVa"',
             "nyu": '"Baruch CUNY"',
@@ -99,7 +100,7 @@ class CSWToGeoBlacklight(object):
         }
 
         self.identifier = {
-            "rec": '"iecw-apwi"'
+            "rec": '"ce90a034-f716-4c99-8d9a-d04759880155"'
 
 
         }

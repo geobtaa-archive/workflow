@@ -4,9 +4,7 @@
   "dc_description_s": "This dataset contains the open and planned Hennepin County on-and off-street bikeway system as defined by the 2040 Bicycle Transportation Plan. The current Hennepin County and Three Rivers Park District bikeway system includes 651 miles of on- and off-street bikeways, 140 miles of which are regional trails operated by the park district. This dataset includes regional, municipal, state and county on-street and off-street bikeways but does not represent all on- and off-street bikeways in Hennepin County. Link to Attribute Table Information: http://gis.hennepin.us/OpenData/Metadata/Bikeways.pdf Data updated: monthly This data (i) is furnished AS IS with no representation as to completeness or accuracy; (ii) is furnished with no warranty of any kind; and (iii) is not suitable for legal, engineering or surveying purposes. Hennepin County shall not be liable for any damage, injury or loss resulting from this data. General questions about this data set, including errors, omissions, corrections and/or updates should be directed to the Hennepin County GIS Office at 612-596-9484.",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_sm": [
-    "English"
-  ],
+  "dc_language_sm": "English",
   "dc_type_sm": [
     "Dataset",
     "Service"
@@ -37,14 +35,11 @@
   ],
   "layer_slug_s": "938c8598f0a0439a8d612bb7894a05cc_1",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-06-26T22:02:53Z",
+  "layer_modified_dt": "2018-07-19T20:36:31Z",
   "solr_geom": "ENVELOPE(-94.0174, -93.162, 45.2467, 44.7877)",
   "solr_year_i": 2015,
   "b1g_genre_sm": [
     "Geospatial data"
-  ],
-  "b1g_geom_type_sm": [
-    "Vector data"
   ],
   "b1g_centroid_ss": "45.0172,-93.5897",
   "b1g_geonames_sm": [

@@ -4,9 +4,7 @@
   "dc_description_s": "Boundary of St. Louis County. Maintained and updated daily with parcel fabric. Link to metadata: http://gis.stlouiscountymn.gov/opendata/CountyBoundary.html",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_sm": [
-    "English"
-  ],
+  "dc_language_sm": "English",
   "dc_type_sm": [
     "Dataset",
     "Service"
@@ -36,14 +34,11 @@
   ],
   "layer_slug_s": "c309b734f6904ec7a29baead68cb598a_1",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-06-26T22:02:53Z",
+  "layer_modified_dt": "2018-07-19T20:36:31Z",
   "solr_geom": "ENVELOPE(-93.0988, -91.7547, 48.6315, 46.5864)",
   "solr_year_i": 2016,
   "b1g_genre_sm": [
     "Geospatial data"
-  ],
-  "b1g_geom_type_sm": [
-    "Vector data"
   ],
   "b1g_centroid_ss": "47.60895,-92.42675",
   "b1g_geonames_sm": [

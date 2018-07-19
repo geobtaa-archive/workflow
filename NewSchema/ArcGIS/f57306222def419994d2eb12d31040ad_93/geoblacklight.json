@@ -1,0 +1,60 @@
+{
+  "dc_identifier_s": "f57306222def419994d2eb12d31040ad_93",
+  "dc_title_s": "Traffic Camera: Washington, D.C.",
+  "dc_description_s": "The dataset contains location and attributes of traffic controls located at each intersection in the District of Columbia. All traffic poles Poles must support traffic control devices in order to be collected. This includes traffic control signs The data set does not include poles supporting only name plate signs and parking enforcement signs.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Transportation",
+    "Camera",
+    "Traffic pole",
+    "Traffic detector",
+    "Signal",
+    "Pavement marking",
+    "Signal arm",
+    "Traffic control",
+    "Transportation Operation Agency",
+    "Manual of Uniform Traffic Control",
+    "Push button",
+    "Terrestrial",
+    "Traffic cabinet"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/f57306222def419994d2eb12d31040ad_93\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/f57306222def419994d2eb12d31040ad_93.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Transportation_WebMercator/MapServer/93\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015-02-27",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "layer_slug_s": "f57306222def419994d2eb12d31040ad_93",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-19T20:30:50Z",
+  "solr_geom": "ENVELOPE(-77.1118467167, -76.912911642, 38.9916851284, 38.8211802221)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "38.9064326753,-77.0123791794",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS",
+  "geoblacklight_version": "1.0"
+}

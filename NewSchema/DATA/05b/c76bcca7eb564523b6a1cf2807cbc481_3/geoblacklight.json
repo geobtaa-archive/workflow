@@ -4,9 +4,7 @@
   "dc_description_s": "This data set contains park locations found within Hennepin County. The locations were derived from a variety of data sources including city, county and regional data. The extent of parks is based on information supplied by each park authority or other research methods. Also, amenities were captured to display facilities or activities associated to each park. The field ParkID is the ID and join field for the park. Link to Attribute Table Information: http://gis.hennepin.us/OpenData/Metadata/Parks.pdf Data updated: 08/20/2014Use Limitations: This data (i) is furnished AS IS with no representation as to completeness or accuracy; (ii) is furnished with no warranty of any kind; and (iii) is not suitable for legal, engineering or surveying purposes. Hennepin County shall not be liable for any damage, injury or loss resulting from this data.",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_sm": [
-    "English"
-  ],
+  "dc_language_sm": "English",
   "dc_type_sm": [
     "Dataset",
     "Service"
@@ -36,14 +34,11 @@
   ],
   "layer_slug_s": "c76bcca7eb564523b6a1cf2807cbc481_3",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-06-26T22:02:53Z",
+  "layer_modified_dt": "2018-07-19T20:36:31Z",
   "solr_geom": "ENVELOPE(-93.7693, -93.1465, 45.2465, 44.7765)",
   "solr_year_i": 2015,
   "b1g_genre_sm": [
     "Geospatial data"
-  ],
-  "b1g_geom_type_sm": [
-    "Vector data"
   ],
   "b1g_centroid_ss": "45.0115,-93.4579",
   "b1g_geonames_sm": [

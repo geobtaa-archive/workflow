@@ -1,0 +1,49 @@
+{
+  "dc_identifier_s": "3bf8f9be1c0142218ac031ae0b15c3cd_0",
+  "dc_title_s": "Snow Emergency Dana Tags: Minneapolis, Minnesota, 2016",
+  "dc_description_s": "This is the information about the number and location of tags (parking tickets) during this snow emergency. Tag data will be retained for all Snow Emergencies in each snow season, until there is five full seasons of snow emergencies. Disclaimer: At this point we only have the tag data enclosed for day 2 and day 3 the snow emergencies. Day 1 tag data is collected manually and is not available at this time electronically. There is also an expected address error rate of between 5 and 10 percent.Snow Emergency Tags 2016/2017 Season #1 Dana (12/11/16 thru 12/13/16)",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Minneapolis, Minnesota"
+  ],
+  "dc_creator_sm": [
+    "MapIT Minneapolis"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/3bf8f9be1c0142218ac031ae0b15c3cd_0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/3bf8f9be1c0142218ac031ae0b15c3cd_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Snow_Emergency_Dana_Tags_2016_b/FeatureServer/0\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2016-12-22",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "Minneapolis, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "3bf8f9be1c0142218ac031ae0b15c3cd_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-19T20:31:20Z",
+  "solr_geom": "ENVELOPE(-93.32808590809476, -93.20362432548, 45.0504670978129, 44.89080297587094)",
+  "solr_year_i": 2016,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "44.9706350368,-93.2658551168",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS",
+  "geoblacklight_version": "1.0"
+}

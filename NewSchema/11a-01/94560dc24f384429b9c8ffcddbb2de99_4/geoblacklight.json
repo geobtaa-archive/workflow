@@ -1,0 +1,52 @@
+{
+  "dc_identifier_s": "94560dc24f384429b9c8ffcddbb2de99_4",
+  "dc_title_s": "State House Districts: Ohio",
+  "dc_description_s": "The district maps represents the results of the 2012-2022 apportionment plan for the State of Ohio. The shapefiles were obtained from the Ohio Secretary of State's Office website. Detailed information regarding the development of these shapefiles can be found at: http://www.sos.state.oh.us/SOS/reshape/GADistricts/adoptedMap.aspxPart A. General Overview  1.   To assist users in their review of the legislative district plan, the plan geography is being provided in different formats. These include a geographic data file known as a shape file and a tabular data file known as an assignment file. The geographic file includes the boundaries for each district. The tabular data file includes one record for the lowest level of geography used to create the plan and the district to which it is assigned.  2.   Users with Geographic Information Systems (GIS) software may note a handful of instances in which the appearance of the geography assigned to each district may not match the legal boundaries. Notes follow on these instances below.  3.   As a general caveat, whatever the geographic representation might appear to be when the legislative plan is viewed via any software, the controlling document as to the status of any geography is the legal definitions as submitted by the Joint Secretaries to the Ohio Apportionment Board. Those definitions can be found in this document.  4.   Any geographic area of the state not specifically named in this legal definition for House and Senate Districts that is wholly contained within the boundaries of a district but not contiguous to any district boundary, is assigned to that district. Any geographic area of the state not specifically named in this legal definition that is contiguous to any district boundary is assigned to that district with which it has the longest continuous boundary. If two or more boundaries are of equal length, the area is assigned to the district with less population. All districts are contiguous including those that are contiguous only by bodies of water.  5.   The legal definition will be posted at the following website designated by the Ohio Apportionment Board: http://www.reshapeohio.org.   [link not valid as of 2/13/2015] Part B. Geographic Database  The underlying geographic database used to create plans for legislative districts was developed by the Urban Center at Cleveland State University (CSU) in conjunction with the Voinovich Center at Ohio University (OU) as part of the project to develop the 2010 Ohio Common and Unified Redistricting Database (OCURD). CSU was selected by bipartisan action by the co-chairs of the Ohio Legislative Task Force on Redistricting, Reapportionment and Demographic Research. The lowest level of geography in this database is not the census block but the split census block.  1.   The overall purpose of the project was to accommodate for the fact that many census blocks contain portions of multiple higher levels of geography, such as a precinct or a municipality. In geographic terms, these are known as ‘split’ units because they did not nest into the higher levels of geography. The project also enabled the creation of geographic layers for wards (which were not part of the census geographic products) and precincts that more closely reflect the boundaries used in the 2008 and 2010 elections.  2.   To create a geographic system that allowed for topological integrity, the OCURD project used the boundaries of the higher levels of geography as overlays and assigned the underlying census block, or portions thereof, to each of the higher levels. When the higher level geography crossed the census block, a new geographic unit was created known as a split block. It is this ‘block split’ layer of geography that was the lowest level of geography from which the legislative districts were created.  3.   Another goal of the OCURD project was to estimate the population in each portion of the split blocks. The project researched several means by which this could be accomplished and chose a method based upon the length of the streets in each such block. Because the population was estimated for each portion, the number of persons was not rounded to a whole person and thus some fractional numbers will be found.  4.   Another issue arose as the OCURD database was being used by the Joint Secretaries of the Ohio Apportionment Board to create legislative plans. This issue relates to the fact that many of the higher levels of geography, notably municipalities, wards, and precincts, contain multiple pieces of territory that are separated by distances short and long. In geographic terms, these are known as ‘non-contiguous areas’ (NCA) because there is some other land or water between the pieces. There are two types of NCAs: those that are not contiguous because they are islands surrounded by water and those that are not contiguous because they are legally or technically a portion of a geographic unit but surrounded by other land-based geographic units. Examples of the first type are the islands off the coast of Lake Erie. Examples of the second type abound in the state.  5.   In most cases, the multi-part units are combined for geographic representation in GIS software. In geographic terms, these are known as ‘shapes’ and are assigned to a district as one unit, even though there may be separate estimates of population for the blocks that comprise the higher level unit. Because they are combined as an entire shape they can only be assigned to one district by the GIS software used for the redistricting phase of the apportionment process. The software used by the Board to undertake this process was Maptitude for Redistricting (MTR) by Caliper Corporation.  6.   Requirements of the Ohio Constitution relate to both creating districts from contiguous territory and the maintenance of political subdivision boundaries. Therefore, making use of a multi-part area as the boundary of a district could present a situation in which a political subdivision would be split and a district would be created using non-contiguous territory.  7.   Whatever the geographic representation of the GIS software, the controlling document as to the status of any geography is the legal definition as adopted by the Apportionment Board. 8.   Because some areas in the higher geographic levels are multi-part units the software flagged some districts as being non-contiguous. Notes on these situations follow.   Part C. Notes on Specific Districts:  The following areas include districts that were designated by the Maptitude software as having some non-contiguous areas:  1.   District 38—Stark County. Block 391517147013085 is split into two pieces including portions of precincts 151ANY &amp; 151AEB. The portion in 151ANY contains no population and is a part of district 49. See the item 4 in Part A and the legal definition.  2.   District 46—Lucas County. Several islands are located off the Lake Erie coast but are portions of Jerusalem Township. See the item 4 in Part A and the legal definition.  3.   District 48—Stark County. Block 391517123002009 is split into three pieces including portions of precincts 151ACD, 151AME, and 151ANG. Each of these portions contains no population. The triangular portion at the lower south east of the block is a part of district 49. See the item 4 in Part A and the legal definition.  4.   District 55—Lorain County. Several islands are located off the Lake Erie coast but are portions of Avon Lake City. See the item 4 in Part A and the legal definition.  5.   District 83—Hardin and Logan Counties. There is one unit in the ‘Block Split’ layer, 390650007003086091AAR, that is unassigned in the map. It contains no population and is surrounded by district 83. See the item 4 in Part A and the legal description.  6.   District 88—Sandusky County. One island is located in Sandusky Bay but is a portion of Riley Township. See the item 4 in Part A and the legal definition.7.   District 89—Ottawa County. This district has three components: the portion above Sandusky Bay; the portion below Sandusky Bay; and several islands off the Lake Erie coast. See the item 4 in Part A and the legal definition. ",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Ohio Geographically Referenced Information Program"
+  ],
+  "dc_creator_sm": [
+    "Ohio Secretary of State's Office"
+  ],
+  "dc_subject_sm": [
+    "Boundaries",
+    "Society",
+    "State government",
+    "Districts"
+  ],
+  "dct_provenance_s": "Ohio",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/94560dc24f384429b9c8ffcddbb2de99_4\",\"http://schema.org/downloadUrl\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/94560dc24f384429b9c8ffcddbb2de99_4.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://fcedpgis.franklincountyohio.gov/edpgis/rest/services/EDP/SmartWorks/FeatureServer/4\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015-02-18",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "Ohio, United States"
+  ],
+  "layer_slug_s": "94560dc24f384429b9c8ffcddbb2de99_4",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2018-07-19T21:08:01Z",
+  "solr_geom": "ENVELOPE(-84.9187, -80.4797, 41.9937, 38.3805)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "40.1871,-82.6992",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "11a-01",
+  "geoblacklight_version": "1.0"
+}

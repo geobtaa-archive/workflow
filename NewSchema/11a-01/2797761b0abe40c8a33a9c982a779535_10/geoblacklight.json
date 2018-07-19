@@ -1,0 +1,49 @@
+{
+  "dc_identifier_s": "2797761b0abe40c8a33a9c982a779535_10",
+  "dc_title_s": "ODOT City Boundaries: Ohio",
+  "dc_description_s": "The city polygon file illustrates the boundaries of municipal jurisdictions within Ohio.  This file is maintained as a process related to the updating of the Road Inventory for the distribution of gas tax monies. This dataset is currently published on an annual basis.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Ohio"
+  ],
+  "dc_creator_sm": [
+    "Ohio Geographically Referenced Information Program"
+  ],
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "dct_provenance_s": "Ohio",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/2797761b0abe40c8a33a9c982a779535_10\",\"http://schema.org/downloadUrl\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/2797761b0abe40c8a33a9c982a779535_10.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://geo.oit.ohio.gov/arcgis/rest/services/ODOT/ODOT_Features/MapServer/10\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2014-10-31",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Ohio, United States"
+  ],
+  "layer_slug_s": "2797761b0abe40c8a33a9c982a779535_10",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2018-07-19T21:08:01Z",
+  "solr_geom": "ENVELOPE(-84.9136, -80.4810, 41.9937, 38.3812)",
+  "solr_year_i": 2014,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "40.18745,-82.6973",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "11a-01",
+  "geoblacklight_version": "1.0"
+}

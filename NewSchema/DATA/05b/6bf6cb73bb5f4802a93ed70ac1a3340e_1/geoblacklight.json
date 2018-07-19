@@ -4,9 +4,7 @@
   "dc_description_s": "SummaryCenterline data was developed for cartographic and geocoding purposes. The attributes of the centerline data are in the MetroGIS Standard format.DescriptionThe geometry of the centerline data is created and maintained by the Carver County's Survey Department. The attribution of the centerline data is a collaborative effort between the Survey Office and GIS Office.",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_sm": [
-    "English"
-  ],
+  "dc_language_sm": "English",
   "dc_type_sm": [
     "Dataset",
     "Service"
@@ -36,14 +34,11 @@
   ],
   "layer_slug_s": "6bf6cb73bb5f4802a93ed70ac1a3340e_1",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-06-26T22:02:53Z",
+  "layer_modified_dt": "2018-07-19T20:36:30Z",
   "solr_geom": "ENVELOPE(-94.0126, -93.5109, 44.9787, 44.6424)",
   "solr_year_i": 2014,
   "b1g_genre_sm": [
     "Geospatial data"
-  ],
-  "b1g_geom_type_sm": [
-    "Vector data"
   ],
   "b1g_centroid_ss": "44.81055,-93.76175",
   "b1g_geonames_sm": [

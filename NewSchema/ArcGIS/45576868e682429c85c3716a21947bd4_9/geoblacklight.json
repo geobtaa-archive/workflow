@@ -1,0 +1,54 @@
+{
+  "dc_identifier_s": "45576868e682429c85c3716a21947bd4_9",
+  "dc_title_s": "School Election Districts: Washington, D.C.",
+  "dc_description_s": "School district polygons. This dataset shows polygons representing districts used in the election of Board of Education representatives. It was created for the D.C. public schools and later added to the DC Geographic Information System (DC GIS) for the D.C. Office of the Chief Technology Officer (OCTO).Each district includes two Councilmanic wards. Created in fall of 2000. Data was reviewed by D.C. Public Schools in fall 2000. All DC GIS data is stored and exported in Maryland State Plane coordinates NAD 83 meters. METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_creator_sm": [
+    "District of Columbia GIS Program"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Education",
+    "Schools",
+    "Education",
+    "DC Public Schools",
+    "Elementary",
+    "Schools"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/45576868e682429c85c3716a21947bd4_9\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/45576868e682429c85c3716a21947bd4_9.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Education_WebMercator/MapServer/9\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015-02-27",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "Washington, D.C., United States"
+  ],
+  "layer_slug_s": "45576868e682429c85c3716a21947bd4_9",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-19T20:30:51Z",
+  "solr_geom": "ENVELOPE(-77.1198964251, -76.9090163369, 38.9959674016, 38.7915818465)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "38.893774624,-77.014456381",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS",
+  "geoblacklight_version": "1.0"
+}

@@ -36,11 +36,7 @@
   "solr_geom": "ENVELOPE(-75.898884, -76.722888, 40.31526, 39.72083)",
   "solr_year_i": 1900,
   "b1g_genre_sm": [
-    "Geospatial data",
     "Maps"
-  ],
-  "b1g_geom_type_sm": [
-    "Scanned map"
   ],
   "b1g_centroid_ss": "40.018045,-76.310886",
   "b1g_geonames_sm": [

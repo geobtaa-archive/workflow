@@ -1,0 +1,49 @@
+{
+  "dc_identifier_s": "f99ce43936d74f718e92a37a560ad875_0",
+  "dc_title_s": "Honey Bee Permits: Minneapolis, Minnesota, 2017",
+  "dc_description_s": "These are active honeybee permits in the City of Minneapolis as of January 1, 2017. Minneapolis residents can keep honeybees if they meet our education requirements, provide notice to the immediately adjacent property owners, and obtain a permit. This permit may be subject to certain conditions specific to the property.For questions about this data please contact RegulatoryServicesOpenData@minneapolismn.gov",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Minneapolis, Minnesota"
+  ],
+  "dc_creator_sm": [
+    "MapIT Minneapolis"
+  ],
+  "dc_subject_sm": [
+    "Economy"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/f99ce43936d74f718e92a37a560ad875_0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/f99ce43936d74f718e92a37a560ad875_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Honey_Bee_Permits_2017/FeatureServer/0\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2017-04-26",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dct_spatial_sm": [
+    "Minneapolis, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "f99ce43936d74f718e92a37a560ad875_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-19T20:31:21Z",
+  "solr_geom": "ENVELOPE(-93.3282269518735, -93.20611557830999, 45.0376420106527, 44.897491559527)",
+  "solr_year_i": 2017,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "44.9675667851,-93.2671712651",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS",
+  "geoblacklight_version": "1.0"
+}

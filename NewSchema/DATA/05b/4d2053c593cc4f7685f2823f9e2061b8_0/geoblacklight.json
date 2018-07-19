@@ -4,9 +4,7 @@
   "dc_description_s": "This dataset was created by the Metro Trails and Bikeways Collaborative, a joint collaborative project involving the technical and managerial GIS staff from the Seven Metropolitan Counties (Anoka, Carver, Dakota, Hennepin, Ramsey, Scott and Washington). Data were gathered from local, state, and federal partners by the project team and put into the metro data model.",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_sm": [
-    "English"
-  ],
+  "dc_language_sm": "English",
   "dc_type_sm": [
     "Dataset",
     "Service"
@@ -36,14 +34,11 @@
   ],
   "layer_slug_s": "4d2053c593cc4f7685f2823f9e2061b8_0",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-06-26T22:02:52Z",
+  "layer_modified_dt": "2018-07-19T20:36:30Z",
   "solr_geom": "ENVELOPE(-93.0412660090744, -92.75813319780501, 45.296919527314245, 44.74678139962091)",
   "solr_year_i": 2018,
   "b1g_genre_sm": [
     "Geospatial data"
-  ],
-  "b1g_geom_type_sm": [
-    "Vector data"
   ],
   "b1g_centroid_ss": "45.0218504635,-92.8996996034",
   "b1g_geonames_sm": [

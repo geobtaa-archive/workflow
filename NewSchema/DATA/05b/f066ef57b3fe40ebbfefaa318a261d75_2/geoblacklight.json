@@ -4,9 +4,7 @@
   "dc_description_s": "Priority Natural Resource Corridors is a subset of the Hennepin County Open Space Corridors feature class. Data set illustrates the general locations of priority natural resource corridors in Hennepin County.Criteria for Priority Corridor:Natural Community Quality - Potential for Rare Species - Good to High Quality Natural AreasOther Unique and/or Ecologically Significant Areas - Moderate to High Quality Natural AreasLarge publicly and privately owned and protected open spaces (e.g. Regional Parks, Scientific and Natural Areas, Wildlife Management Areas, Waterfowl Production Areas, The Nature Conservancy, Wildlife Refuges, Conservation Easements)Connectivity - Natural corridors with natural/semi-natural areas that would serve as logical links between Ecologically Significant Areas (e.g. lakes, streams, wetland complexes, drainage ways, floodplains, steep slopes)Data Creation:The data was developed from the analyses of high resolution aerial photography and several GIS datasets, including but not limited to:Ecologically Significant Areas - a subset of the Hennepin County Minnesota Land Cover Classification SystemNational Wetland Inventory Hennepin County Wetland InventoryPublic Waters InventoryRegional ParksPermanent Conservation EasementsSoilsFEMA FloodplainsMinnesota Department of Natural Resources Scientific Natural AreasMinnesota Department of Natural Resources County Biological Survey SitesRegional Parks and other protected open spacesU.S. Fish and Wildlife Service National Wildlife Refuge System, Wildlife Management Areas and Waterfowl Protection AreasLink to Attribute Table Information: http://gis.hennepin.us/OpenData/Metadata/Priority%20Natural%20Resource%20Corridors.pdf Data updated: 2010Use Limitations: This data (i) is furnished AS IS with no representation as to completeness or accuracy; (ii) is furnished with no warranty of any kind; and (iii) is not suitable for legal, engineering or surveying purposes. Hennepin County shall not be liable for any damage, injury or loss resulting from this data. General questions about this data set, including errors, omissions, corrections and/or updates should be directed to the Hennepin County Department of Environment Energy (612-348-3777).",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_sm": [
-    "English"
-  ],
+  "dc_language_sm": "English",
   "dc_type_sm": [
     "Dataset",
     "Service"
@@ -36,14 +34,11 @@
   ],
   "layer_slug_s": "f066ef57b3fe40ebbfefaa318a261d75_2",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-06-26T22:02:53Z",
+  "layer_modified_dt": "2018-07-19T20:36:30Z",
   "solr_geom": "ENVELOPE(-93.7695, -93.1766, 45.2471, 44.7832)",
   "solr_year_i": 2015,
   "b1g_genre_sm": [
     "Geospatial data"
-  ],
-  "b1g_geom_type_sm": [
-    "Vector data"
   ],
   "b1g_centroid_ss": "45.01515,-93.47305",
   "b1g_geonames_sm": [

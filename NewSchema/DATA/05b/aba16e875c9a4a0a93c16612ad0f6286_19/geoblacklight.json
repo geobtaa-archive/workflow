@@ -4,9 +4,7 @@
   "dc_description_s": "Land and water areas that drain excess surface water to a specific location on the landscape.Contact for more informationTel: (320) 634-7788Fax: (320) Email: Information Technology130 East Minnesota Avenue, Glenwood, MN 56334",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_sm": [
-    "English"
-  ],
+  "dc_language_sm": "English",
   "dc_type_sm": [
     "Dataset",
     "Service"
@@ -36,14 +34,11 @@
   ],
   "layer_slug_s": "aba16e875c9a4a0a93c16612ad0f6286_19",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-06-26T22:02:52Z",
+  "layer_modified_dt": "2018-07-19T20:36:30Z",
   "solr_geom": "ENVELOPE(-95.9898, -93.4771, 46.1938, 44.9236)",
   "solr_year_i": 2016,
   "b1g_genre_sm": [
     "Geospatial data"
-  ],
-  "b1g_geom_type_sm": [
-    "Vector data"
   ],
   "b1g_centroid_ss": "45.5587,-94.73345",
   "b1g_geonames_sm": [

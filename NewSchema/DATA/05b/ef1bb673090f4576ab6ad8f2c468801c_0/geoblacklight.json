@@ -4,9 +4,7 @@
   "dc_description_s": "This dataset contains the street centerlines within Scott County. The data schema is consistent with the standards established by MetroGIS and its partners as part of the Metro Regional Centerline Collaborative (MRCC). This centerline data should be considered preliminary until the MRCC effort is finalized.",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_sm": [
-    "English"
-  ],
+  "dc_language_sm": "English",
   "dc_type_sm": [
     "Dataset",
     "Service"
@@ -36,14 +34,11 @@
   ],
   "layer_slug_s": "ef1bb673090f4576ab6ad8f2c468801c_0",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-06-26T22:02:53Z",
+  "layer_modified_dt": "2018-07-19T20:36:30Z",
   "solr_geom": "ENVELOPE(-93.76991127218233, -93.33150758240241, 44.78252239863632, 44.62487358074655)",
   "solr_year_i": 2017,
   "b1g_genre_sm": [
     "Geospatial data"
-  ],
-  "b1g_geom_type_sm": [
-    "Vector data"
   ],
   "b1g_centroid_ss": "44.7036979897,-93.5507094273",
   "b1g_geonames_sm": [

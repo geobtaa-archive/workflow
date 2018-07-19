@@ -4,9 +4,7 @@
   "dc_description_s": "This dataset contains the Soil and Water District Boundaries in Hennepin County for local elections. Current boundaries are as of the 2002 redistricting for Soil and Water election districts.The field NAME_TXT contains the district identifier for each Soil and Water District. Link to Attribute Table Information: http://gis.hennepin.us/OpenData/Metadata/Soil%20Water%20Districts.pdf Data updated: monthlyUse Limitations: This data (i) is furnished AS IS with no representation as to completeness or accuracy; (ii) is furnished with no warranty of any kind; and (iii) is not suitable for legal, engineering or surveying purposes. Hennepin County shall not be liable for any damage, injury or loss resulting from this data. General questions about this dataset, including errors, omissions, corrections and/or updates should be directed to the Survey Division, Resident and Real Estate Services Department, Hennepin County at 612-348-3131.",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_sm": [
-    "English"
-  ],
+  "dc_language_sm": "English",
   "dc_type_sm": [
     "Dataset",
     "Service"
@@ -37,14 +35,11 @@
   ],
   "layer_slug_s": "b1bd3283733744b992a0d9e27206fef6_7",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-06-26T22:02:53Z",
+  "layer_modified_dt": "2018-07-19T20:36:30Z",
   "solr_geom": "ENVELOPE(-93.7728, -93.1766, 45.2471, 44.783)",
   "solr_year_i": 2015,
   "b1g_genre_sm": [
     "Geospatial data"
-  ],
-  "b1g_geom_type_sm": [
-    "Vector data"
   ],
   "b1g_centroid_ss": "45.01505,-93.4747",
   "b1g_geonames_sm": [

@@ -1,0 +1,49 @@
+{
+  "dc_identifier_s": "79800df5a57c4ddaa74e2ff079c4d03e_0",
+  "dc_title_s": "Water Wells: Ohio",
+  "dc_description_s": "Known locations of water wells within Ohio. This information was supplied to the Ohio Department of Natural Resources (ODNR) by water well contractors per the Ohio Revised Code 1521.05. Water well data was first submitted to the state back in the late 1940's. This dataset is a small subset of all the water well records maintained ODNR-Division of Water Resources. This application is intended to illustrate water wells within the State of Ohio, by status and type. These data are derived from multiple sources and the positional quality may be varied. Locations may require additional research and/or professional surveying to achieve desired accuracy. Less than 55% of the well records in the ODNR well record database have latitude and longitude values and thus only those records with known coordinates will show up on this map.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Ohio"
+  ],
+  "dc_creator_sm": [
+    "Ohio Department of Natural Resources (ODNR)"
+  ],
+  "dc_subject_sm": [
+    "Geoscientific Information"
+  ],
+  "dct_provenance_s": "Ohio",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/79800df5a57c4ddaa74e2ff079c4d03e_0\",\"http://schema.org/downloadUrl\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/79800df5a57c4ddaa74e2ff079c4d03e_0.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.ohiodnr.gov/arcgis/rest/services/DSW_Services/waterwells/MapServer/0\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2016-11-03",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "Ohio, United States"
+  ],
+  "layer_slug_s": "79800df5a57c4ddaa74e2ff079c4d03e_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-19T21:08:01Z",
+  "solr_geom": "ENVELOPE(-84.8198, -80.5192, 42.1644, 38.4062)",
+  "solr_year_i": 2016,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "40.2853,-82.6695",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "11a-01",
+  "geoblacklight_version": "1.0"
+}

@@ -4,9 +4,7 @@
   "dc_description_s": "This dataset contains food shelves for Hennepin County and was created/updated by the Hennepin County GIS Office. The base data was collected from MinnesotaHelp.Info from the following site (http://minnesotahelp.info/public/). Original dataset was developed in order to understand Hennepin County resident access to groceries, in particular, to understand access to fresh fruits and vegetables via food shelves. Additional sites were collected from the following organizations. Individual verification has only been conducted on a few sites.Food Pantries.orghttp://www.foodpantries.orgSouth Minneapolis - The Beehivehttp://sminneapolis.thebeehive.org Hunger Solutionshttp://www.hungersolutions.org/give-help/map/ Link to Attribute Table Information: http://gis.hennepin.us/OpenData/Metadata/Food%20Shelves.pdf Data updated: July 2016Use Limitations: This data (i) is furnished AS IS with no representation as to completeness or accuracy; (ii) is furnished with no warranty of any kind; and (iii) is not suitable for legal, engineering or surveying purposes. Hennepin County shall not be liable for any damage, injury or loss resulting from this data. General questions about this data set, including errors, omissions, corrections and/or updates should be directed to the Hennepin County GIS Office at 612-596-9484.",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_sm": [
-    "English"
-  ],
+  "dc_language_sm": "English",
   "dc_type_sm": [
     "Dataset",
     "Service"
@@ -36,14 +34,11 @@
   ],
   "layer_slug_s": "c102b1d70fb848a5bd8960bc4e437c4c_7",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-06-26T22:02:53Z",
+  "layer_modified_dt": "2018-07-19T20:36:31Z",
   "solr_geom": "ENVELOPE(-93.6711, -93.2129, 45.1901, 44.8278)",
   "solr_year_i": 2015,
   "b1g_genre_sm": [
     "Geospatial data"
-  ],
-  "b1g_geom_type_sm": [
-    "Vector data"
   ],
   "b1g_centroid_ss": "45.00895,-93.442",
   "b1g_geonames_sm": [

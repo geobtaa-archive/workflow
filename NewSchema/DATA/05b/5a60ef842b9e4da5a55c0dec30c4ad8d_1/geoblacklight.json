@@ -4,9 +4,7 @@
   "dc_description_s": "A polling place or polling location is where voters cast their ballots in elections. The relationship between voting precincts and polling places is maintained in the PrecinctPollingPlace table and this table should be used to manage the unique occurrence of polling places to precincts; as well as occurrences that require many voting precincts to be related to a single polling place.",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_sm": [
-    "English"
-  ],
+  "dc_language_sm": "English",
   "dc_type_sm": [
     "Dataset",
     "Service"
@@ -36,14 +34,11 @@
   ],
   "layer_slug_s": "5a60ef842b9e4da5a55c0dec30c4ad8d_1",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-06-26T22:02:53Z",
+  "layer_modified_dt": "2018-07-19T20:36:31Z",
   "solr_geom": "ENVELOPE(-93.9719, -93.532, 44.9616, 44.6887)",
   "solr_year_i": 2014,
   "b1g_genre_sm": [
     "Geospatial data"
-  ],
-  "b1g_geom_type_sm": [
-    "Vector data"
   ],
   "b1g_centroid_ss": "44.82515,-93.75195",
   "b1g_geonames_sm": [

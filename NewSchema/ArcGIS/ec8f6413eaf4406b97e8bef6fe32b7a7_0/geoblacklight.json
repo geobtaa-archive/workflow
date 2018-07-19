@@ -1,0 +1,49 @@
+{
+  "dc_identifier_s": "ec8f6413eaf4406b97e8bef6fe32b7a7_0",
+  "dc_title_s": "Fire Districts: Minneapolis, Minnesota, 2015",
+  "dc_description_s": "For questions about this data please contact FireOpenData@minneapolismn.gov Map service showing the Fire Districts for the Minneapolis Fire Department.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Minneapolis, Minnesota"
+  ],
+  "dc_creator_sm": [
+    "MapIT Minneapolis"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/ec8f6413eaf4406b97e8bef6fe32b7a7_0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/ec8f6413eaf4406b97e8bef6fe32b7a7_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/FireDistricts/FeatureServer/0\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015-04-14",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "Minneapolis, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "ec8f6413eaf4406b97e8bef6fe32b7a7_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-19T20:31:21Z",
+  "solr_geom": "ENVELOPE(-93.32910836426294, -93.18961599873607, 45.051246260236795, 44.89015200184134)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "44.970699131,-93.2593621815",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS",
+  "geoblacklight_version": "1.0"
+}

@@ -4,9 +4,7 @@
   "dc_description_s": "Fire Districts were created by the Sheriff's Office and the local Fire Departments.",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_sm": [
-    "English"
-  ],
+  "dc_language_sm": "English",
   "dc_type_sm": [
     "Dataset",
     "Service"
@@ -36,14 +34,11 @@
   ],
   "layer_slug_s": "39063ddf89984c20b3a41e68d73c4f76_6",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-06-26T22:02:53Z",
+  "layer_modified_dt": "2018-07-19T20:36:31Z",
   "solr_geom": "ENVELOPE(-94.013, -93.5106, 45.007, 44.6346)",
   "solr_year_i": 2014,
   "b1g_genre_sm": [
     "Geospatial data"
-  ],
-  "b1g_geom_type_sm": [
-    "Vector data"
   ],
   "b1g_centroid_ss": "44.8208,-93.7618",
   "b1g_geonames_sm": [

@@ -4,9 +4,7 @@
   "dc_description_s": "Scott County Parcels represent property tax boundaries and were created, and are maintained, by the Survey department. The tax boundaries are joined to the Assessor's CAMA data using the PID field providing field attributes for each property. For a list of field descriptions, click here.",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_sm": [
-    "English"
-  ],
+  "dc_language_sm": "English",
   "dc_type_sm": [
     "Dataset",
     "Service"
@@ -38,14 +36,11 @@
   ],
   "layer_slug_s": "07feb1aed9364b1a9900fe0ec6f93929_0",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-06-26T22:02:53Z",
+  "layer_modified_dt": "2018-07-19T20:36:30Z",
   "solr_geom": "ENVELOPE(-93.9126879072791, -93.2778094810633, 44.81275178054202, 44.542254361528514)",
   "solr_year_i": 2017,
   "b1g_genre_sm": [
     "Geospatial data"
-  ],
-  "b1g_geom_type_sm": [
-    "Vector data"
   ],
   "b1g_centroid_ss": "44.677503071,-93.5952486942",
   "b1g_geonames_sm": [

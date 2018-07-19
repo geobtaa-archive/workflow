@@ -4,9 +4,7 @@
   "dc_description_s": "Depicts addressed structures within St. Louis County. Address points are generally placed near the rooftop centroid or, in the case of larger buildings, near the addressed doorway/structure access. Most addressed structures in this feature class are convential buildings, but addresses are also sometimes assigned to: Recreational vehicles, construction trailers, and mobile homes. Permanent campsites or outdoor facilities, Outdoor sports areas, Trailhead parking lots, Gravel pits, and Telematics Communications towers. Limitations: Addresses within cities, Greenwood Township, and on reservations. The custodians of this feature class (St. Louis County 9-1-1 Communications) administer addressing in rural areas of St. Louis County, not within incorporated municipalities, American Indian Resrvations, or Greenwood Township. Therefore addresses depicted within cities (including Duluth), on reservations, and in Greenwood Township are based on secondhand information and are less likely to be current or accurate. Sub-Addresses: Although it is a future goal, this feature class does not yet contain accurate sub-addresses (i.e. 1234 Spruce Ave, Unit C).Link to metadata: http://gis.stlouiscountymn.gov/opendata/MasterAddressRepository.html",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_sm": [
-    "English"
-  ],
+  "dc_language_sm": "English",
   "dc_type_sm": [
     "Dataset",
     "Service"
@@ -36,14 +34,11 @@
   ],
   "layer_slug_s": "e1ca424971f8470d9afa4083c471a686_17",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-06-26T22:02:53Z",
+  "layer_modified_dt": "2018-07-19T20:36:31Z",
   "solr_geom": "ENVELOPE(-93.1014, -91.7563, 48.5853, 46.6472)",
   "solr_year_i": 2016,
   "b1g_genre_sm": [
     "Geospatial data"
-  ],
-  "b1g_geom_type_sm": [
-    "Vector data"
   ],
   "b1g_centroid_ss": "47.61625,-92.42885",
   "b1g_geonames_sm": [

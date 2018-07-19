@@ -1,0 +1,48 @@
+{
+  "dc_identifier_s": "fea0edf7-c70a-4242-98b5-84538e1e96b9",
+  "dc_title_s": "City Zoning: Chisago County, Minnesota, 2015",
+  "dc_description_s": "Chisago County zoning data within municipalities",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "dc_publisher_sm": [
+    "Chisago County, Minnesota"
+  ],
+  "dc_creator_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://gis.chisagocounty.us/Link/jsfe/index.aspx\",\"http://schema.org/downloadUrl\":\"https://gis.chisagocounty.us/Link/SpatialData/CityZoning.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"http://64.90.181.107/geonetwork/srv/api/records/fea0edf7-c70a-4242-98b5-84538e1e96b9/formatters/xml\"}",
+  "dct_isPartOf_sm": [
+    "Minnesota Counties"
+  ],
+  "dct_issued_s": "2015-08-09",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "Chisago County, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "fea0edf7-c70a-4242-98b5-84538e1e96b9",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2018-07-17T22:55:52Z",
+  "solr_geom": "ENVELOPE(-93.022848, -92.644873, 45.713606, 45.294473)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "45.5040395,-92.8338605",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "05b-ISO",
+  "geoblacklight_version": "1.0"
+}

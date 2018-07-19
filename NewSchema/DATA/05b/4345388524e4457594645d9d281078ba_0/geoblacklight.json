@@ -4,9 +4,7 @@
   "dc_description_s": "EMT Polygons. The dataset contains boundaries of EMT Districts, created as part of the Polk County Geographic Information System (Polk County GIS).",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_sm": [
-    "English"
-  ],
+  "dc_language_sm": "English",
   "dc_type_sm": [
     "Dataset",
     "Service"
@@ -36,14 +34,11 @@
   ],
   "layer_slug_s": "4345388524e4457594645d9d281078ba_0",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-06-26T22:02:53Z",
+  "layer_modified_dt": "2018-07-19T20:36:30Z",
   "solr_geom": "ENVELOPE(-97.1475, -95.5433, 48.1759, 47.496)",
   "solr_year_i": 2016,
   "b1g_genre_sm": [
     "Geospatial data"
-  ],
-  "b1g_geom_type_sm": [
-    "Vector data"
   ],
   "b1g_centroid_ss": "47.83595,-96.3454",
   "b1g_geonames_sm": [

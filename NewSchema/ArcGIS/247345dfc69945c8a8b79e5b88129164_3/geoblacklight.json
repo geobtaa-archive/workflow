@@ -1,0 +1,48 @@
+{
+  "dc_identifier_s": "247345dfc69945c8a8b79e5b88129164_3",
+  "dc_title_s": "Watersheds - Chesapeake Bay Watershed: Maryland",
+  "dc_description_s": "This is a MD iMAP hosted service layer. Find more information at http://imap.maryland.gov. Chesapeake Bay Watershed Outline. Defines extent of the Chesapeake Bay watershed within the state of Maryland. Last Updated: 01/1/2000",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dc_creator_sm": [
+    "Maryland iMap"
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/247345dfc69945c8a8b79e5b88129164_3\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/247345dfc69945c8a8b79e5b88129164_3.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://geodata.md.gov/imap/rest/services/Hydrology/MD_Watersheds/FeatureServer/3\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2016-02-10",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "Maryland, United States"
+  ],
+  "layer_slug_s": "247345dfc69945c8a8b79e5b88129164_3",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-19T20:31:05Z",
+  "solr_geom": "ENVELOPE(-79.487, -75.2433, 39.723, 37.8864)",
+  "solr_year_i": 2016,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "38.8047,-77.36515",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS",
+  "geoblacklight_version": "1.0"
+}

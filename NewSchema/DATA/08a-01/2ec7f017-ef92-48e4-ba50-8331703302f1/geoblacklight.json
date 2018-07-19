@@ -39,9 +39,6 @@
   "b1g_genre_sm": [
     "Geospatial data"
   ],
-  "b1g_geom_type_sm": [
-    "Raster data"
-  ],
   "b1g_centroid_ss": "40.425029,-77.6356725",
   "b1g_geonames_sm": [
     "http://sws.geonames.org/6254927"

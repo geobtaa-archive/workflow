@@ -4,9 +4,7 @@
   "dc_description_s": "Wildlife management areas (WMAs) are part of Minnesota's outdoor recreation system and are established to protect those lands and waters that have a high potential for wildlife production, public hunting, trapping, fishing, and other compatible recreational uses.Contact for more informationTel: (320) 634-7788Fax: (320) Email: Information Technology130 East Minnesota Avenue, Glenwood, MN 56334",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_sm": [
-    "English"
-  ],
+  "dc_language_sm": "English",
   "dc_type_sm": [
     "Dataset",
     "Service"
@@ -37,14 +35,11 @@
   ],
   "layer_slug_s": "1ac3a5799ec445a4bb03f6031125cbb0_33",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-06-26T22:02:52Z",
+  "layer_modified_dt": "2018-07-19T20:36:30Z",
   "solr_geom": "ENVELOPE(-95.7638, -95.1937, 45.7589, 45.4111)",
   "solr_year_i": 2016,
   "b1g_genre_sm": [
     "Geospatial data"
-  ],
-  "b1g_geom_type_sm": [
-    "Vector data"
   ],
   "b1g_centroid_ss": "45.585,-95.47875",
   "b1g_geonames_sm": [

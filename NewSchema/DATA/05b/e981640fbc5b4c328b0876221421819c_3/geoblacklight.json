@@ -4,9 +4,7 @@
   "dc_description_s": "2010 FEMA DFIRM floodzones.",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_sm": [
-    "English"
-  ],
+  "dc_language_sm": "English",
   "dc_type_sm": [
     "Dataset",
     "Service"
@@ -39,14 +37,11 @@
   ],
   "layer_slug_s": "e981640fbc5b4c328b0876221421819c_3",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-06-26T22:02:53Z",
+  "layer_modified_dt": "2018-07-19T20:36:31Z",
   "solr_geom": "ENVELOPE(-94.0129, -93.5194, 44.9788, 44.6343)",
   "solr_year_i": 2014,
   "b1g_genre_sm": [
     "Geospatial data"
-  ],
-  "b1g_geom_type_sm": [
-    "Vector data"
   ],
   "b1g_centroid_ss": "44.80655,-93.76615",
   "b1g_geonames_sm": [

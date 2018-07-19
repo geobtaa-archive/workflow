@@ -1,0 +1,51 @@
+{
+  "dc_identifier_s": "07b3b1fe483043a3b912066fe7823acd_2",
+  "dc_title_s": "Pennsylvania Transportation Improvement Program (TIP) 2017-2020 (polygon): Delaware Valley",
+  "dc_description_s": "The TIP is the regionally agreed-upon list of priority transportation projects, as required by federal law (ISTEA, TEA-21, SAFETEA LU, MAP-21, and the FAST Act). The TIP document must list all projects that intend to use federal funds, along with all non-federally funded projects that are regionally significant. We also include all other State funded capital projects. The projects are multi-modal; that is, they include bicycle, pedestrian, ITS, and freight related projects, as well as the more traditional highway and public transit projects.The?DVRPC FY2017 TIP for PA (FY2017-2020)?was adopted by the DVRPC Board on July 28, 2016, and is in effect from October 1, 2016 to September 30, 2018. This important document catalogs the latest program of transportation projects for the Pennsylvania counties in the bi-state region.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Delaware Valley Regional Planning Commission"
+  ],
+  "dc_creator_sm": [
+    "Delaware Valley Regional Planning Commission"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/07b3b1fe483043a3b912066fe7823acd_2\",\"http://schema.org/downloadUrl\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/07b3b1fe483043a3b912066fe7823acd_2.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://arcgis.dvrpc.org/arcgis/rest/services/Transportation/PATIP/FeatureServer/2\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2018-01-22",
+  "dct_temporal_sm": [
+    "2017-2022"
+  ],
+  "dct_spatial_sm": [
+    "Delaware River, Delaware, United States",
+    "Delaware, United States",
+    "Pennsylvania, United States",
+    "Maryland, United States"
+  ],
+  "layer_slug_s": "07b3b1fe483043a3b912066fe7823acd_2",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-19T20:31:06Z",
+  "solr_geom": "ENVELOPE(-75.7184, -75.0581, 40.3719, 39.8198)",
+  "solr_year_i": 2017,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "40.09585,-75.38825",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS",
+  "geoblacklight_version": "1.0"
+}

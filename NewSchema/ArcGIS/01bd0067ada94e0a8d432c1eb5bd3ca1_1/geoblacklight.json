@@ -1,0 +1,48 @@
+{
+  "dc_identifier_s": "01bd0067ada94e0a8d432c1eb5bd3ca1_1",
+  "dc_title_s": "Highway Access Management - Priority 2: Iowa",
+  "dc_description_s": "The Iowa DOT has established an access management policy to control access to the Primary Highway System. Access Priority Level 2 is for four-lane rural highways with access at interchanges and selected at-grade locations - 1/2 mile minimum, 1 mile preferred spacing.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Iowa Department of Transportation"
+  ],
+  "dc_creator_sm": [
+    "Iowa DOT GIS Services"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_provenance_s": "Iowa",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://public-iowadot.opendata.arcgis.com/datasets/01bd0067ada94e0a8d432c1eb5bd3ca1_1\",\"http://schema.org/downloadUrl\":\"http://public-iowadot.opendata.arcgis.com/datasets/01bd0067ada94e0a8d432c1eb5bd3ca1_1.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://gis.iowadot.gov/public/rest/services/Traffic_Safety/Access_Priority_Classification/FeatureServer/1\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2016-06-16",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "Iowa, United States"
+  ],
+  "layer_slug_s": "01bd0067ada94e0a8d432c1eb5bd3ca1_1",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-19T20:31:21Z",
+  "solr_geom": "ENVELOPE(-96.6695, -90.0866, 43.5389, 40.3572)",
+  "solr_year_i": 2016,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "41.94805,-93.37805",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS",
+  "geoblacklight_version": "1.0"
+}

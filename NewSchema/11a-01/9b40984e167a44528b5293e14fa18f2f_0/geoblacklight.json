@@ -1,0 +1,52 @@
+{
+  "dc_identifier_s": "9b40984e167a44528b5293e14fa18f2f_0",
+  "dc_title_s": "Solid Waste Facilities: Ohio",
+  "dc_description_s": "Active or open solid waste facilities in Ohio.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Ohio Geographically Referenced Information Program"
+  ],
+  "dc_creator_sm": [
+    "Ohio Environmental Protection Agency"
+  ],
+  "dc_subject_sm": [
+    "Structure",
+    "Utilities and Communication",
+    "Wastewater",
+    "Facilities"
+  ],
+  "dct_provenance_s": "Ohio",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/9b40984e167a44528b5293e14fa18f2f_0\",\"http://schema.org/downloadUrl\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/9b40984e167a44528b5293e14fa18f2f_0.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://epagistest2.oit.ohio.gov/arcgis/rest/services/WM/DDAGW_WI/MapServer/0\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2017-03-17",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dct_spatial_sm": [
+    "Ohio, United States"
+  ],
+  "layer_slug_s": "9b40984e167a44528b5293e14fa18f2f_0",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2018-07-19T21:08:01Z",
+  "solr_geom": "ENVELOPE(-85.0000, -80.0000, 45.0000, 37.0000)",
+  "solr_year_i": 2017,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "41,-82.5",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "11a-01",
+  "geoblacklight_version": "1.0"
+}

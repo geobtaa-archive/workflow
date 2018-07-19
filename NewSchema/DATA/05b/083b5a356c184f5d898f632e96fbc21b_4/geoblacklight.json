@@ -4,9 +4,7 @@
   "dc_description_s": "Park and recreation areas within Carver County. This is a collection of city and county data. Updated as the GIS Office becomes aware of new recreation areas.",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_sm": [
-    "English"
-  ],
+  "dc_language_sm": "English",
   "dc_type_sm": [
     "Dataset",
     "Service"
@@ -36,14 +34,11 @@
   ],
   "layer_slug_s": "083b5a356c184f5d898f632e96fbc21b_4",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-06-26T22:02:53Z",
+  "layer_modified_dt": "2018-07-19T20:36:30Z",
   "solr_geom": "ENVELOPE(-93.9741, -93.3086, 44.9805, 44.5411)",
   "solr_year_i": 2015,
   "b1g_genre_sm": [
     "Geospatial data"
-  ],
-  "b1g_geom_type_sm": [
-    "Vector data"
   ],
   "b1g_centroid_ss": "44.7608,-93.64135",
   "b1g_geonames_sm": [

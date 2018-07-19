@@ -4,9 +4,7 @@
   "dc_description_s": "Trails and sidewalk data. Data was collected from cities and compiled together to make a county-wide dataset. Source and accuracy of data vary by city. Updated as the GIS office becomes aware of new trails.",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_sm": [
-    "English"
-  ],
+  "dc_language_sm": "English",
   "dc_type_sm": [
     "Dataset",
     "Service"
@@ -36,14 +34,11 @@
   ],
   "layer_slug_s": "23bd866c86fe4db5a0018b6a150debd4_3",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-06-26T22:02:53Z",
+  "layer_modified_dt": "2018-07-19T20:36:30Z",
   "solr_geom": "ENVELOPE(-94.0126, -93.2997, 44.9765, 44.5268)",
   "solr_year_i": 2015,
   "b1g_genre_sm": [
     "Geospatial data"
-  ],
-  "b1g_geom_type_sm": [
-    "Vector data"
   ],
   "b1g_centroid_ss": "44.75165,-93.65615",
   "b1g_geonames_sm": [

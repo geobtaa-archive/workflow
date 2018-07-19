@@ -4,9 +4,7 @@
   "dc_description_s": "Address points for all of Clay County, MN. This includes all addresses, and attributes. Attributes include information from the Tax System. Points are located on the structure, where possible. Multiple address points may exist on some properties. This data is updated daily.",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_sm": [
-    "English"
-  ],
+  "dc_language_sm": "English",
   "dc_type_sm": [
     "Dataset",
     "Service"
@@ -36,14 +34,11 @@
   ],
   "layer_slug_s": "c60f0da49e894a76b815e2292ced74d8_3",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-06-26T22:02:53Z",
+  "layer_modified_dt": "2018-07-19T20:36:30Z",
   "solr_geom": "ENVELOPE(-96.9507, -96.1682, 47.1523, 46.629)",
   "solr_year_i": 2015,
   "b1g_genre_sm": [
     "Geospatial data"
-  ],
-  "b1g_geom_type_sm": [
-    "Vector data"
   ],
   "b1g_centroid_ss": "46.89065,-96.55945",
   "b1g_geonames_sm": [

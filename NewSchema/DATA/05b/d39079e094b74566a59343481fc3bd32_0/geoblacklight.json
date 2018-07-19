@@ -4,9 +4,7 @@
   "dc_description_s": "Address Points within Carlton County, MN. Data consists of driveway points for parcels over two acres. For parcels less than two acres, point was place on what was determined as the primary structure. Data for Public viewing and is updated on an as needed basis.",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_sm": [
-    "English"
-  ],
+  "dc_language_sm": "English",
   "dc_type_sm": [
     "Dataset",
     "Service"
@@ -37,14 +35,11 @@
   ],
   "layer_slug_s": "d39079e094b74566a59343481fc3bd32_0",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-06-26T22:02:53Z",
+  "layer_modified_dt": "2018-07-19T20:36:30Z",
   "solr_geom": "ENVELOPE(-93.0649, -92.2903, 46.7679, 46.4168)",
   "solr_year_i": 2017,
   "b1g_genre_sm": [
     "Geospatial data"
-  ],
-  "b1g_geom_type_sm": [
-    "Vector data"
   ],
   "b1g_centroid_ss": "46.59235,-92.6776",
   "b1g_geonames_sm": [

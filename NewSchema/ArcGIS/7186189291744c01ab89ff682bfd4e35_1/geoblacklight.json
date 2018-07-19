@@ -1,0 +1,48 @@
+{
+  "dc_identifier_s": "7186189291744c01ab89ff682bfd4e35_1",
+  "dc_title_s": "Shoreline Changes - Baseline: Maryland",
+  "dc_description_s": "This is a MD iMAP hosted service layer. Find more information at http://imap.maryland.gov. This conflated baseline consist of two Digital Shoreline Analysis System (DSAS) Process runs. The original In 2000, the Maryland Geological Survey (MGS) was awarded a Coastal Zone Management grant to complete the acquisition of a recent (ca. 1990) digital shoreline for the coastal regions of Maryland -- the Chesapeake Bay, its tributaries, the coastal bays, and the Atlantic coast. MGS contracted the services of EarthData International, Inc. (EDI), currently of Frederick, Md. , to extract shorelines from an existing wetlands delineation, which was based on photo interpretation of 3. 75-minute digital orthophoto quarter quads (DOQQs). The 2000 baseline which were not created seaward includes all Maryland shoreline areas except for Anne Arundel, Baltimore, Calvert, Harford and Prince George's counties currently. The newest (2015) updated baselines were created offshore (seaward) of the shorelines utilized in DSAS analysis. The baselines were created by 1) buffering at a distance of 10m around the master shoreline feature class converting the buffer polygon to a line, and erasing the landward portion of the buffer line; and 2)manually digitizing baselines up the centerline of tributaries/rivers and other areas where baselines were needed but the buffer-created baselines did not reach. Last Updated: 6/2017Map Service Layer Link:http://geodata. md. gov/imap/rest/services/Hydrology/MD_ShorelineChanges/MapServer/1",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dc_creator_sm": [
+    "Maryland iMap"
+  ],
+  "dc_subject_sm": [
+    "Oceans"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/7186189291744c01ab89ff682bfd4e35_1\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/7186189291744c01ab89ff682bfd4e35_1.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://geodata.md.gov/imap/rest/services/Hydrology/MD_ShorelineChanges/MapServer/1\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2016-03-30",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "Maryland, United States"
+  ],
+  "layer_slug_s": "7186189291744c01ab89ff682bfd4e35_1",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-19T20:30:30Z",
+  "solr_geom": "ENVELOPE(-77.2735, -75.0502, 39.6127, 37.9144)",
+  "solr_year_i": 2016,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "38.76355,-76.16185",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS",
+  "geoblacklight_version": "1.0"
+}

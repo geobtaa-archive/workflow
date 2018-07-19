@@ -4,9 +4,7 @@
   "dc_description_s": "This dataset provides hospital locations in the State of Minnesota. Data was extracted from the Minnesota Department of Health Health Care Facility and Provider Database on February 22, 2016. Please note that licensing and status of hospitals can change; refer to the Minnesota Department of Health webpage for current status.Addresses were cleaned and geocoded by the Hennepin County Human Services and Public Health Dept (HSPHD) the Hennepin County GIS Office. Where possible road centerline geocoded locations were improved to parcel centroid or building footprint. Additional modifications were performed by the Hennepin County GIS Office including the following:Retention of the VA Hospital from previous geocoded versions.Break out of the U of M East Bank, West Bank, and Masonic Childrens Hospitals.Break out of the Rochester Mayo campuses. Addition of Health System information supplied by HCMC staff.Addition of website, trauma, and helipad information from HC GIS staff and Homeland Infrastructure Foundation GIS dataAdditional References:https://hifld-dhs-gii.opendata.arcgis.com/Additional trauma level information from: http://www.health.state.mn.us/traumasystem/designatedhospitals.htmlAdditional helipad information from: http://www.airnav.com/airports/us/mn type=Huse=RLink to Attribute Table Information: http://gis.hennepin.us/OpenData/Metadata/Minnesota%20Hospitals.pdf Data updated: February 2016Use Limitations: This data (i) is furnished AS IS with no representation as to completeness or accuracy; (ii) is furnished with no warranty of any kind; and (iii) is not suitable for legal, engineering or surveying purposes. Hennepin County shall not be liable for any damage, injury or loss resulting from this data.",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_sm": [
-    "English"
-  ],
+  "dc_language_sm": "English",
   "dc_type_sm": [
     "Dataset",
     "Service"
@@ -36,14 +34,11 @@
   ],
   "layer_slug_s": "70e1331d41194f3fa8d48200a2a1af6a_1",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-06-26T22:02:53Z",
+  "layer_modified_dt": "2018-07-19T20:36:31Z",
   "solr_geom": "ENVELOPE(-96.9433, -90.2694, 48.8726, 43.5832)",
   "solr_year_i": 2015,
   "b1g_genre_sm": [
     "Geospatial data"
-  ],
-  "b1g_geom_type_sm": [
-    "Vector data"
   ],
   "b1g_centroid_ss": "46.2279,-93.60635",
   "b1g_geonames_sm": [

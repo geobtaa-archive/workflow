@@ -1,0 +1,48 @@
+{
+  "dc_identifier_s": "2270190440d34881a772fc2ff45a2322_54",
+  "dc_title_s": "Archived Protected Lands Acquisitions - Program Open Space 2013 Land Acquisitions General: Maryland",
+  "dc_description_s": "This is a MD iMAP hosted service. Find more information on http://imap.maryland.gov. Program Open Space (POS) acquires recreation and open space areas for public use. The Program administers funds made available to local communities for open and recreational space through the State real estate transfer tax and from federal programs, such as the Land and Water Conservation Fund of the National Park Service, U. S. Department of the Interior. The Program coordinates the acquisition of lands for the use of all units of DNR. Stateside POS funds are allocated to purchase land for state parks, forests, wildlife habitat, natural, scenic and cultural resources for public use. A portion of stateside funds are also dedicated to capital improvements, critical maintenance, and operations in state parks. Stateside POS projects are now being driven by a new Targeting System, which uses the best scientific information available to target the program's limited funds. In the case of a project with multiple parcels, the Identify results will indicate the total acreage and BPW amount for the project. Hence, you will see the same acreage, BPW amount and TEA result for each part of the project. This file consists of stateside POS projects only.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dc_creator_sm": [
+    "Maryland iMap"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/2270190440d34881a772fc2ff45a2322_54\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/2270190440d34881a772fc2ff45a2322_54.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://archive.geodata.md.gov/imap/rest/services/Environment/MD_ArchivedProtectedLandsAcquisitions/FeatureServer/54\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2016-05-13",
+  "dct_temporal_sm": [
+    "2013"
+  ],
+  "dct_spatial_sm": [
+    "Maryland, United States"
+  ],
+  "layer_slug_s": "2270190440d34881a772fc2ff45a2322_54",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-19T20:31:06Z",
+  "solr_geom": "ENVELOPE(-79.1847, -75.4818, 39.6943, 38.0179)",
+  "solr_year_i": 2013,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "38.8561,-77.33325",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS",
+  "geoblacklight_version": "1.0"
+}

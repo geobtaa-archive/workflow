@@ -1,0 +1,50 @@
+{
+  "dc_identifier_s": "e3f3df7f49b4452ab38e82c8a62ef39c_7",
+  "dc_title_s": "Nature Preserves: Columbus, Ohio",
+  "dc_description_s": "This layer contains points for Columbus Nature Preserve locations including acreage, address and year established.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Ohio"
+  ],
+  "dc_creator_sm": [
+    "Ohio Geographically Referenced Information Program"
+  ],
+  "dc_subject_sm": [
+    "Environment",
+    "Society"
+  ],
+  "dct_provenance_s": "Ohio",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/e3f3df7f49b4452ab38e82c8a62ef39c_7\",\"http://schema.org/downloadUrl\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/e3f3df7f49b4452ab38e82c8a62ef39c_7.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.columbus.gov/arcgis/rest/services/Schemas/RecreationParks/MapServer/7\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2017-11-10",
+  "dct_temporal_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Ohio, United States"
+  ],
+  "layer_slug_s": "e3f3df7f49b4452ab38e82c8a62ef39c_7",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-19T21:08:01Z",
+  "solr_geom": "ENVELOPE(-83.1414, -82.858, 40.2461, 40.0147)",
+  "solr_year_i": 2017,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "40.1304,-82.9997",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "11a-01",
+  "geoblacklight_version": "1.0"
+}

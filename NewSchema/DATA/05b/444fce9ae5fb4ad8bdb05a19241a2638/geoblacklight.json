@@ -4,9 +4,7 @@
   "dc_description_s": "Carver County 2008 Pictometry Imagery",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_sm": [
-    "English"
-  ],
+  "dc_language_sm": "English",
   "dc_type_sm": [
     "Dataset",
     "Service"
@@ -36,14 +34,11 @@
   ],
   "layer_slug_s": "444fce9ae5fb4ad8bdb05a19241a2638",
   "layer_geom_type_s": "Raster",
-  "layer_modified_dt": "2018-06-26T22:02:53Z",
+  "layer_modified_dt": "2018-07-19T20:36:30Z",
   "solr_geom": "ENVELOPE(-94.0317, -93.4974, 44.9887, 44.6245)",
   "solr_year_i": 2008,
   "b1g_genre_sm": [
     "Aerial imagery"
-  ],
-  "b1g_geom_type_sm": [
-    "Raster data"
   ],
   "b1g_centroid_ss": "44.8066,-93.76455",
   "b1g_geonames_sm": [

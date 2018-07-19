@@ -4,9 +4,7 @@
   "dc_description_s": "Depicts roadsways and other addressed line types (i.e. water access shorelines, etc.) within St. Louis County. Address left/right attributes depict theoretical address ranges (low-high) along segments. Road names (spelling and abbreviations), address ranges, and community left/right attributes are intended to reflect accurate synchronization with the county's 9-1-1 Master Street Address Guide (MSAG).Link to metadata: http://gis.stlouiscountymn.gov/OpenData/RoadCenterlines.html",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_sm": [
-    "English"
-  ],
+  "dc_language_sm": "English",
   "dc_type_sm": [
     "Dataset",
     "Service"
@@ -36,14 +34,11 @@
   ],
   "layer_slug_s": "12b9ee5a24f34b5ca7331e3806a31522_18",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-06-26T22:02:53Z",
+  "layer_modified_dt": "2018-07-19T20:36:30Z",
   "solr_geom": "ENVELOPE(-93.2506, -91.7559, 48.5851, 46.6473)",
   "solr_year_i": 2016,
   "b1g_genre_sm": [
     "Geospatial data"
-  ],
-  "b1g_geom_type_sm": [
-    "Vector data"
   ],
   "b1g_centroid_ss": "47.6162,-92.50325",
   "b1g_geonames_sm": [

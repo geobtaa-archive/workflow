@@ -1,0 +1,49 @@
+{
+  "dc_identifier_s": "14f8335c52304a2ca09c4e88ae549eb9_0",
+  "dc_title_s": "Minneapolis Energy Benchmarking Results: Minneapolis, Minnesota, 2012-2015",
+  "dc_description_s": "Properties are organized by the category in which they were phased in to the benchmarking program, with important metrics from the most recent reporting year of 2015 being toggleable. By clicking on a point, a user may learn more about an individual property's characteristics, energy efficiency, and water use from prior reporting years when available. Public buildings from the City of Minneapolis, Hennepin County, the Minneapolis Park and Recreation Board, and Minneapolis Public Schools were phased in first and therefore show data for 2012-2015. The largest private buildings 100,000 sqft and greater, show publicly available data starting in 2014. The remaining category, private buildings between 50,000-100,000 sqft in size, data is made publicly available starting with the 2015 dataset. The toggleable metrics highlight the most summary information of building energy and water efficiency: ENERGY STAR score - The 1-100 ENERGY STAR score was developed by the Environmental Protection Agency (EPA) and provides a metric for comparison with other similar buildings across the country. The score accounts for differences in climate, occupancy and operating hours. A score of 50 represents median energy performance, while a score of 75 or better indicates a building is a top performer. The higher the score, the more efficient the building. Energy Use Intensity (EUI) - The metric used for comparing buildings in Energy Star, EUI expresses a building s energy use relative to its size. In this report it is expressed as kBtu/ft , and is calculated by taking the total energy consumed in a year (in kBtu) and dividing it by the floor area of the building (in ft ). The lower the kBtu/ft , the lower the energy consumption. Weather-normalized Energy Use Intensity - Energy use is adjusted to account year-to-year weather differences, allowing for comparison of a building to itself over time. Through this procedure, the energy in a given year is adjusted to express the energy that would have been consumed under 30-year average weather conditions. Weather-normalized EUI also uses the kBtu/ft unit. The maps provided by the City of Minneapolis are compilations of records, information and data from various sources, and they are to be used for reference purposes only. The City of Minneapolis does not warrant or guarantee that the Geographic Information Systems (GIS) data or maps are complete, current, or accurate. The City of Minneapolis does not represent that the GIS data can be used for navigational, tracking, legal, engineering, surveying, or any other purpose requiring exacting measurement of distance or direction or precision in the depiction of geographic features. Pursuant to Minnesota Statutes, Section 466.03, Subdivision 21, the City of Minneapolis disclaims any liability for claims based on alleged or actual inaccuracies in the GIS data or maps.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Minneapolis, Minnesota"
+  ],
+  "dc_creator_sm": [
+    "MapIT Minneapolis"
+  ],
+  "dc_subject_sm": [
+    "Utilities and Communication"
+  ],
+  "dct_provenance_s": "Minnesota",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/14f8335c52304a2ca09c4e88ae549eb9_0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/14f8335c52304a2ca09c4e88ae549eb9_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/EnergyBenchmarking2012to2015/FeatureServer/0\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2016-11-01",
+  "dct_temporal_sm": [
+    "2012-2015"
+  ],
+  "dct_spatial_sm": [
+    "Minneapolis, Minnesota, United States",
+    "Minnesota, United States"
+  ],
+  "layer_slug_s": "14f8335c52304a2ca09c4e88ae549eb9_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-19T20:31:21Z",
+  "solr_geom": "ENVELOPE(-93.329033, -93.20279199999999, 45.04885000000011, 44.89376699999999)",
+  "solr_year_i": 2012,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "44.9713085,-93.2659125",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS",
+  "geoblacklight_version": "1.0"
+}

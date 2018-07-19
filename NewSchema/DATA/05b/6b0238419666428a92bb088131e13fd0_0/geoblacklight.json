@@ -4,9 +4,7 @@
   "dc_description_s": "All parcels are based on the recorded plat content or Auditor's legal description with interpretive analysis performed through the use of coordinate geometry software. In cases where the legal descriptions are ambiguous, a check may be made with the actual deed of record. Occasionally in these circumstances one or two legal descriptions back in the chain of record are researched, but limits on time and resources oftenprevent this. When possible survey records such as road plans, certificates of survey and other items on file in the County Surveyor's Office are used. Where lines are not defined by plan or description, information may be digitized but this is rare. Resources are not available formaking field inspections or surveys to locate parcel boundaries or ownership. Where occurrences of gaps or overlaps are clear, they are identified. Generally gaps or overlaps under 3 feet are removed.In cases of receding shorelines, extended lot lines are shown for small changes. (Refer to SDLTXLIN explanation) When significant changes in water levels occur, extensions may not be possible and may result in ambiguity. In these cases, extended ownership lines are noted as notdefined and are terminated at previously known limits.Online link to metadata",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_sm": [
-    "English"
-  ],
+  "dc_language_sm": "English",
   "dc_type_sm": [
     "Dataset",
     "Service"
@@ -38,14 +36,11 @@
   ],
   "layer_slug_s": "6b0238419666428a92bb088131e13fd0_0",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-06-26T22:02:53Z",
+  "layer_modified_dt": "2018-07-19T20:36:30Z",
   "solr_geom": "ENVELOPE(-93.0205, -92.7408, 45.2969, 44.7473)",
   "solr_year_i": 2016,
   "b1g_genre_sm": [
     "Geospatial data"
-  ],
-  "b1g_geom_type_sm": [
-    "Vector data"
   ],
   "b1g_centroid_ss": "45.0221,-92.88065",
   "b1g_geonames_sm": [

@@ -4,9 +4,7 @@
   "dc_description_s": "A polygon dataset of PLSS townships (also known as minor civil divisions in U.S. Census Bureau terminology) in Hubbard County, MN.",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_sm": [
-    "English"
-  ],
+  "dc_language_sm": "English",
   "dc_type_sm": [
     "Dataset",
     "Service"
@@ -36,14 +34,11 @@
   ],
   "layer_slug_s": "bb50e158cf43482fa4d425e7ee360141_0",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-06-26T22:02:53Z",
+  "layer_modified_dt": "2018-07-19T20:36:30Z",
   "solr_geom": "ENVELOPE(-95.1833, -94.6563, 47.413, 46.8037)",
   "solr_year_i": 2018,
   "b1g_genre_sm": [
     "Geospatial data"
-  ],
-  "b1g_geom_type_sm": [
-    "Vector data"
   ],
   "b1g_centroid_ss": "47.10835,-94.9198",
   "b1g_geonames_sm": [

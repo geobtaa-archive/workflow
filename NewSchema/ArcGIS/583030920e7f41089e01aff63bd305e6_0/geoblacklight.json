@@ -1,0 +1,49 @@
+{
+  "dc_identifier_s": "583030920e7f41089e01aff63bd305e6_0",
+  "dc_title_s": "Parks: Baltimore, Maryland",
+  "dc_description_s": "This dataset contains polygons representing Baltimore City parks.",
+  "dc_rights_s": "Public",
+  "dc_format_s": "Shapefile",
+  "dc_language_sm": "English",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Baltimore, Maryland"
+  ],
+  "dc_creator_sm": [
+    "City of Baltimore, Maryland"
+  ],
+  "dc_subject_sm": [
+    "Location"
+  ],
+  "dct_provenance_s": "Maryland",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://gis-baltimore.opendata.arcgis.com/datasets/583030920e7f41089e01aff63bd305e6_0\",\"http://schema.org/downloadUrl\":\"http://gis-baltimore.opendata.arcgis.com/datasets/583030920e7f41089e01aff63bd305e6_0.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.baltimorecity.gov/egis/rest/services/opengisdata/Parks/MapServer/0\"}",
+  "dct_isPartOf_sm": [
+    "ArcGIS Open Data"
+  ],
+  "dct_issued_s": "2015-07-09",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "Baltimore, Maryland, United States",
+    "Maryland, United States"
+  ],
+  "layer_slug_s": "583030920e7f41089e01aff63bd305e6_0",
+  "layer_geom_type_s": "Vector",
+  "layer_modified_dt": "2018-07-19T20:30:30Z",
+  "solr_geom": "ENVELOPE(-76.711838, -76.528568, 39.372421, 39.206805)",
+  "solr_year_i": 2015,
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_centroid_ss": "39.289613,-76.620203",
+  "b1g_geonames_sm": [
+
+  ],
+  "b1g_image_ss": "",
+  "b1g_collection_sm": "ArcGIS",
+  "geoblacklight_version": "1.0"
+}

@@ -4,9 +4,7 @@
   "dc_description_s": "Locations classified as bikeway gaps are short (1/2 mile or less) connections that are needed to ensure continuity in the bikeway system. This data corresponds with Appendix E of the Hennepin County 2040 bike plan, and shows the gap ID, initial gap score, and general planned facility type. Link to Attribute Table Information: http://gis.hennepin.us/OpenData/Metadata/BikewayGaps.pdf This data (i) is furnished AS IS with no representation as to completeness or accuracy; (ii) is furnished with no warranty of any kind; and (iii) is not suitable for legal, engineering or surveying purposes. Hennepin County shall not be liable for any damage, injury or loss resulting from this data. General questions about this data set, including errors, omissions, corrections and/or updates should be directed to the Hennepin County GIS Office at 612-596-9484.",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_sm": [
-    "English"
-  ],
+  "dc_language_sm": "English",
   "dc_type_sm": [
     "Dataset",
     "Service"
@@ -37,14 +35,11 @@
   ],
   "layer_slug_s": "09428b0d61d84a04a9d6a2f9fbab0eec_6",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-06-26T22:02:53Z",
+  "layer_modified_dt": "2018-07-19T20:36:30Z",
   "solr_geom": "ENVELOPE(-93.7513, -93.1834, 45.212, 44.7881)",
   "solr_year_i": 2018,
   "b1g_genre_sm": [
     "Geospatial data"
-  ],
-  "b1g_geom_type_sm": [
-    "Vector data"
   ],
   "b1g_centroid_ss": "45.00005,-93.46735",
   "b1g_geonames_sm": [

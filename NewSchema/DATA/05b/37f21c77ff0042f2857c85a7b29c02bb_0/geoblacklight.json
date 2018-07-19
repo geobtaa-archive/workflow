@@ -4,9 +4,7 @@
   "dc_description_s": "2012 Scott County Commissioner Districts. Updated and approved by Scott County Board as of May 2012 and developed by the Redistricting Committee.",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_sm": [
-    "English"
-  ],
+  "dc_language_sm": "English",
   "dc_type_sm": [
     "Dataset",
     "Service"
@@ -36,14 +34,11 @@
   ],
   "layer_slug_s": "37f21c77ff0042f2857c85a7b29c02bb_0",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-06-26T22:02:53Z",
+  "layer_modified_dt": "2018-07-19T20:36:31Z",
   "solr_geom": "ENVELOPE(-93.91444211131241, -93.27780903514713, 44.81331995975671, 44.542139078630655)",
   "solr_year_i": 2016,
   "b1g_genre_sm": [
     "Geospatial data"
-  ],
-  "b1g_geom_type_sm": [
-    "Vector data"
   ],
   "b1g_centroid_ss": "44.6777295192,-93.5961255732",
   "b1g_geonames_sm": [

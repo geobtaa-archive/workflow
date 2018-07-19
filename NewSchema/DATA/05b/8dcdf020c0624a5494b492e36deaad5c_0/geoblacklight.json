@@ -4,9 +4,7 @@
   "dc_description_s": "Hazardous Waste is a solid waste which because of its quantity, concentration, or physical, chemical, or infectious characteristics may: either pose a substantial current or future potential hazard to human health or the environment when improperly treated, stored or disposed of, or otherwise mismanaged; or cause or contribute to an increase in mortality, or an increase in irreversible or incapacitating illness. This spatial data set presents all known locations in Hennepin County where hazardous waste generators are or have been in operation. The information used to create this data comes from the hazardous waste generator licensing and inspection activities of Environment Energy staff. Link to Attribute Table Information: http://gis.hennepin.us/OpenData/Metadata/Hazardous%20Waste%20Generators.pdf Data updated: dailyUse Limitations: This data (i) is furnished AS IS with no representation as to completeness or accuracy; (ii) is furnished with no warranty of any kind; and (iii) is not suitable for legal, engineering or surveying purposes. Hennepin County shall not be liable for any damage, injury or loss resulting from this data.",
   "dc_rights_s": "Public",
   "dc_format_s": "Shapefile",
-  "dc_language_sm": [
-    "English"
-  ],
+  "dc_language_sm": "English",
   "dc_type_sm": [
     "Dataset",
     "Service"
@@ -36,14 +34,11 @@
   ],
   "layer_slug_s": "8dcdf020c0624a5494b492e36deaad5c_0",
   "layer_geom_type_s": "Vector",
-  "layer_modified_dt": "2018-06-26T22:02:53Z",
+  "layer_modified_dt": "2018-07-19T20:36:31Z",
   "solr_geom": "ENVELOPE(-93.7704, -93.1915, 45.2419, 44.7876)",
   "solr_year_i": 2015,
   "b1g_genre_sm": [
     "Geospatial data"
-  ],
-  "b1g_geom_type_sm": [
-    "Vector data"
   ],
   "b1g_centroid_ss": "45.01475,-93.48095",
   "b1g_geonames_sm": [
