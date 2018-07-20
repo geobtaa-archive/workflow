@@ -23,7 +23,7 @@
     "Campuses"
   ],
   "dct_provenance_s": "Purdue",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://mapsweb.lib.purdue.edu/wabashriver/\",\"http://schema.org/downloadUrl\":\"https://mapsweb.lib.purdue.edu/datasets/Wabash1929/wabashAerial_30.tif.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"http://64.90.181.107/geonetwork/srv/api/records/8c027c50-7068-4764-bb03-975797dce44b/formatters/xml\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://mapsweb.lib.purdue.edu/wabashriver/\",\"http://schema.org/downloadUrl\":\"https://mapsweb.lib.purdue.edu/datasets/Wabash1929/wabashAerial_30.tif.zip\",\"urn:x-esri:serviceType:ArcGIS#ImageMapLayer\":\"https://mapsweb.lib.purdue.edu/arcgis/rest/services/Purdue/wabashaerial/ImageServer\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"http://64.90.181.107/geonetwork/srv/api/records/8c027c50-7068-4764-bb03-975797dce44b/formatters/xml\"}",
   "dct_isPartOf_sm": [
     "Purdue Georeferenced Imagery"
   ],
@@ -36,7 +36,7 @@
   ],
   "layer_slug_s": "8c027c50-7068-4764-bb03-975797dce44b",
   "layer_geom_type_s": "Image",
-  "layer_modified_dt": "2018-07-17T22:18:34Z",
+  "layer_modified_dt": "2018-07-20T18:08:03Z",
   "solr_geom": "ENVELOPE(-87.124247, -86.976353, 40.442756, 40.369825)",
   "solr_year_i": 1929,
   "b1g_genre_sm": [
