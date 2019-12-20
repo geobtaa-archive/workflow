@@ -1,0 +1,77 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "d387accdda4d468286787641e23bf884_4",
+  "dc_identifier_s": "d387accdda4d468286787641e23bf884_4",
+  "b1g_date_range_drsim": [
+    "[2017 TO 2017]"
+  ],
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dc_subject_sm": [
+    "Oceans"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2017",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-76.7137,-76.3946,39.2371,38.7127)",
+  "b1g_keyword_sm": [
+    "MD iMAP",
+    "MD",
+    "Maryland",
+    "DNR",
+    "Department of Natural Resources",
+    "shoreline",
+    "shoreline changes",
+    "rates of change",
+    "shoreline erosion",
+    "WMS",
+    "WFS",
+    "dynamic",
+    "vector",
+    "Hydrology",
+    "HYDR",
+    "KML"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2017-06-23",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "This is a MD iMAP hosted service. Find more information on http://imap.maryland.gov.To quantify shoreline rates of change (erosion or accretion), Maryland Geological Survey (MGS) used historical and recent shorelines spanning 1993-2010 as input into the Digital Shoreline Analysis System (DSAS) Version 4.3. DSAS, a computer program developed by the U.S. Geological Survey (USGS), determines linear rates of shoreline change along closely spaced, shore-normal transects. Based on DSAS output, MGS assigned generalized rate of change categories as attributes to a recent shoreline for Anne Arundel County. This recent shoreline consisted of the National Oceanic and Atmospheric Administration (NOAA) Continually Updated Shoreline Product (CUSP) digital shoreline currently available for Anne Arundel County; and 2) portions of the Maryland Department of Natural Resources (MD DNR) Critical Area Commission (CAC) digital shoreline for Anne Arundel County. Based on the results of an End Point Rate (EPR) analysis on the ca. 1990s shoreline and the ca. 2000/2010 shoreline (recent shoreline), MGS grouped the rate results into the following general categories: (a) No change (-0.01 to 0.01 feet/year), (b) Accretion (greater than 0.01 feet/year), (c) Slight erosion rate (0 to -2 feet/year), (d) Low erosion rate (-2 to -4 feet/year), (e) Moderate erosion rate (-4 to -8 ft/yr), (f) High erosion rate (greater than -8 feet/year), (g) Protected, (h) No data (insufficient shorelines to calculate 10-year EPR rate), (i) No data (no transects cast; unprotected or unknown shoreline condition), and (j) No data (rates not delivered; calculated rates suspect). The NOAA CUSP shoreline represents the shoreline position in Anne Arundel County between the years 2005-2010. The CAC shoreline represents the shoreline position in Anne Arundel County in 2007. In Anne Arundel County, the NOAA CUSP data set covered all shoreline in the county with the exception of the Patuxent River along the western county border. As such, MGS utilized the CAC shoreline data set in the Patuxent River area. To identify which shoreline source is responsible for a shoreline segment, view the DSAS_SRC attribute table field -- CAC indicates a shoreline sourced from MD DNR CAC data set; NOAA CUSP indicates a shoreline sourced from the NOAA CUSP data set. Negative rate of change values indicate erosion, and positive values indicate accretion. In general, MGS tried to attribute lengths of shoreline of at least 80 meters in length sharing similar rates of change.Funding for this data set was provided by two Projects of Special Merit (CZM # 14-14-1868 CZM 143 and CZM # 14-15-2005 CZM 143), funded by the National Oceanic and Atmospheric Administration (NOAA) and made available to MGS through the Department of Natural Resources (MD DNR) Chesapeake and Coastal Service (CCS). MGS wishes to thank the following project partners: 1) MD DNR CCS, Contact: Mr. Chris Cortina, Role: CCS Project Manager; 2) NOAA, Contact: Mr. Doug Graham, NOAA National Geodetic Survey, Role: Project partner source of historical and recent shorelines; 3) MD DNR Critical Areas Commission (CAC), Contact: Ms. Lisa Hoerger, Role: Project partner source of recent shorelines; 4) Eastern Shore Regional GIS Cooperative (ESRGC), Salisbury University, Contact: Ryan Mello, Role: Performing the critical area re-mapping for MD DNR CAC and supplying MGS with CAC shorelines; and 5) Ms. Lamere Hennesse, MGS Geologist, retired, Role: Project guidance technical support. Map Service Link:https://geodata.md.gov/imap/rest/services/Hydrology/MD_ShorelineChanges/MapServer/4",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Shoreline Changes - Anne Arundel 10 Years Shoreline Erosion Level: Maryland",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/d387accdda4d468286787641e23bf884_4\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/d387accdda4d468286787641e23bf884_4.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://geodata.md.gov/imap/rest/services/Hydrology/MD_ShorelineChanges/MapServer/4\"}",
+  "dct_isPartOf_sm": [
+    "04a-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dct_spatial_sm": [
+    "Maryland"
+  ],
+  "b1g_centroid_ss": "38.9749,-76.55414999999999",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "04a-01",
+  "dc_creator_sm": [
+    "ArcGIS Online for Maryland"
+  ]
+}

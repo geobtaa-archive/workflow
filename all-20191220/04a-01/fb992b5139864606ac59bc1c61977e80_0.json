@@ -1,0 +1,74 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "fb992b5139864606ac59bc1c61977e80_0",
+  "dc_identifier_s": "fb992b5139864606ac59bc1c61977e80_0",
+  "b1g_date_range_drsim": [
+    "[2007 TO 2007]"
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2007",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-79.3289,-75.4184,39.7193,38.0608)",
+  "b1g_keyword_sm": [
+    "MD",
+    "Maryland",
+    "MD iMAP",
+    "environment",
+    "ENVL",
+    "DNR",
+    "Maryland Department of Natural Resources",
+    "vector",
+    "dynamic",
+    "WMS",
+    "WFS",
+    "Rural Legacy",
+    "protected lands"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2016-04-28",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "This is a MD iMAP hosted service. Find more information on http://imap.maryland.gov.The Rural Legacy Program provides the focus and funding necessary to protect large, contiguous tracts of land and other strategic areas from sprawl development and to enhance natural resource, agricultural, forestry and environmental protection through cooperative efforts among state and local governments and land trusts. Protection is provided through the acquisition of easements and fee estates from willing landowners and the supporting activities of Rural Legacy Sponsors and local governments.This file consists of properties that have been protected using Rural Legacy funds. In the case of a project with multiple parcels, the Identify results will indicate the total acreage and BPW amount for the project. Hence, you will see the same acreage, BPW amount and TEA result for each part of the project.Feature Service Link: https://archive.geodata.md.gov/imap/rest/services/Environment/MD_ArchivedProtectedLandsAcquisitions/FeatureServer/0",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Archived Protected Lands Acquisitions - Rural Legacy 2007 Land Acquisitions General: Maryland",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/fb992b5139864606ac59bc1c61977e80_0\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/fb992b5139864606ac59bc1c61977e80_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://archive.geodata.md.gov/imap/rest/services/Environment/MD_ArchivedProtectedLandsAcquisitions/FeatureServer/0\"}",
+  "dct_isPartOf_sm": [
+    "04a-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dct_spatial_sm": [
+    "Maryland"
+  ],
+  "b1g_centroid_ss": "38.89005,-77.37365",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "04a-01",
+  "dc_creator_sm": [
+    "ArcGIS Online for Maryland"
+  ]
+}

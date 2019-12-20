@@ -1,0 +1,61 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "3ffb1f2e-d617-4361-bc2b-49d9ad270cad",
+  "dc_identifier_s": "3ffb1f2e-d617-4361-bc2b-49d9ad270cad",
+  "b1g_date_range_drsim": [
+    "[1719 TO 1719]"
+  ],
+  "dct_temporal_sm": [
+    "ca. 1719"
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_dateAccessioned_s": "2019-01-16",
+  "solr_year_i": "1719",
+  "dc_format_s": "JPEG",
+  "solr_geom": "ENVELOPE(-179.27,-1.42,68.65,-60.15)",
+  "b1g_keyword_sm": [
+    "Clark Library Map Collections"
+  ],
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Michigan",
+  "dct_accrualMethod_s": "Dublin Core",
+  "b1g_image_ss": "https://quod.lib.umich.edu/cgi/i/image/api/image/clark1ic:012464989:39015095390558/full/res:1/0/native.jpg?attachment=1",
+  "dct_issued_s": "",
+  "suppressed_b": "",
+  "dc_description_s": "Relief shown pictorially. Dedication in title cartouche to [Henry Bowes Howard,] Earl of Berkshire, deputy earl marshal of England. Shows California as an island. Includes elaborate decorative cartouche in the upper left corner. The cartouche depicts scenes of Native American life, such as battle and food as well. 1 map: outline col.; 47 x 55 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "A new map of America from the latest observations; revis'd by I. Senex.",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-012464989/39015095390558\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:012464989\"}",
+  "dct_isPartOf_sm": [
+    "07d-01"
+  ],
+  "layer_id_s": "12464989",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dct_spatial_sm": [
+    "Americas"
+  ],
+  "b1g_centroid_ss": "4.2500000000000036,-90.345",
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "b1g_code_s": "07d-01",
+  "dc_creator_sm": [
+    "Senex, John, -1740.,Harris, John, fl. ca.1685-ca. 1720 engraver.,Senex, John, -1740. A new general atlas.,Dahl, James, former owner."
+  ]
+}

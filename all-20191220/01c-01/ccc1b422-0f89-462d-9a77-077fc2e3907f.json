@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "ccc1b422-0f89-462d-9a77-077fc2e3907f",
+  "dc_identifier_s": "ccc1b422-0f89-462d-9a77-077fc2e3907f",
+  "b1g_date_range_drsim": [
+    "[2017 TO 2017]"
+  ],
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dc_subject_sm": [
+    "Location"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2017",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-86.64072,-86.443129,39.251551,39.068536)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Point",
+  "dct_provenance_s": "Indiana",
+  "dct_accrualMethod_s": "",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2017-12-08T20:50:31.799317",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "Bloomington Address Points GIS Data exported from the CIty's GIS. See summary description (txt) file for information about intended use, projection, currency, attributes, etc.This map data layer represents street address locations within the City of Bloomington, Indiana.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Address Points: Boomington, Indiana",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.bloomington.in.gov/dataset/ccc1b422-0f89-462d-9a77-077fc2e3907f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://bloomington.in.gov/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://bloomington.in.gov/geoserver/wfs\"}",
+  "dct_isPartOf_sm": [
+    "01c-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Bloomington, Indiana"
+  ],
+  "dct_spatial_sm": [
+    "Bloomington, Indiana",
+    "Indiana"
+  ],
+  "b1g_centroid_ss": "39.1600435,-86.5419245",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "01c-01",
+  "dc_creator_sm": [
+    ""
+  ]
+}

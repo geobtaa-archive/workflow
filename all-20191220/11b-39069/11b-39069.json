@@ -1,0 +1,60 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:10:08Z",
+  "layer_slug_s": "11b-39069",
+  "dc_identifier_s": "11b-39069",
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "dct_temporal_sm": [
+    "2016-present"
+  ],
+  "dc_subject_sm": [
+    "Counties geospatial data"
+  ],
+  "b1g_dateAccessioned_s": "",
+  "solr_geom": "ENVELOPE(-84.34193,-83.88113,41.48758,41.16586)",
+  "b1g_keyword_sm": [
+    "Boundaries",
+    "Economy",
+    "Elevation",
+    "Environment",
+    "Geoscientific Information",
+    "Imagery and Base Maps",
+    "Inland Waters",
+    "Location",
+    "Planning and Cadastral",
+    "Society",
+    "Structure",
+    "Transportation",
+    "Utilities and Communication",
+    "Health"
+  ],
+  "layer_geom_type_s": "Table",
+  "dct_provenance_s": "Ohio State",
+  "dct_accrualMethod_s": "",
+  "b1g_image_ss": "",
+  "dct_issued_s": "",
+  "dc_description_s": "ArcGIS REST site referencing layers for all common data types and more.",
+  "dc_rights_s": "Public",
+  "dc_title_s": "ArcGIS REST Services Directory for Henry County, Ohio",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://services.arcgis.com/osmyvTbXDC07yFxn/ArcGIS/rest/services\"}",
+  "dc_type_sm": [
+    "Collection"
+  ],
+  "dc_publisher_sm": [
+    "Henry County, Ohio"
+  ],
+  "dct_spatial_sm": [
+    "Henry County, Ohio",
+    "Ohio"
+  ],
+  "b1g_centroid_ss": "41.32672,-84.11153",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "11b-39069",
+  "dc_creator_sm": [
+    ""
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "38ba41dd74354563bce28a359b59324e_0",
+  "dc_identifier_s": "38ba41dd74354563bce28a359b59324e_0",
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dc_subject_sm": [
+    "Location"
+  ],
+  "b1g_dateAccessioned_s": "2019-01-12",
+  "solr_year_i": "2018",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-60.59011762,179.9999885,90,-69.99444444)",
+  "b1g_keyword_sm": [
+    "2018live",
+    "assault",
+    "burglary",
+    "cdw",
+    "Crime",
+    "DC GIS",
+    "District of Columbia",
+    "Feeds",
+    "homicide",
+    "jan2018",
+    "MPD",
+    "police",
+    "robbery",
+    "safety",
+    "theft",
+    "Washington DC"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2018-01-05",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "DC crime incident locations. The dataset contains a subset of locations and attributes of incidents reported in the ASAP (Analytical Services Application) crime report database by the District of Columbia Metropolitan Police Department (MPD). Visit https://dcatlas.dcgis.dc.gov/crimecards/ for more information. This data is shared via an automated process where addresses are geocoded to the District's Master Address Repository and assigned to the appropriate street block. Block locations for some crime points could not be automatically assigned resulting in 0,0 for x,y coordinates. These can be interactively assigned using the MAR Geocoder.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Crime Incidents in 2018: Washington, D.C.",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/38ba41dd74354563bce28a359b59324e_0\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/38ba41dd74354563bce28a359b59324e_0.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/MPD/MapServer/0\"}",
+  "dct_isPartOf_sm": [
+    "04c-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "District of Columbia"
+  ],
+  "dct_spatial_sm": [
+    "Washington D.C"
+  ],
+  "b1g_centroid_ss": "10.002777780000002,59.70493544",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "04c-01",
+  "dc_creator_sm": [
+    "City of Washington, DC"
+  ]
+}

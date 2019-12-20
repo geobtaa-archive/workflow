@@ -1,0 +1,61 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "997852D2-0972-4718-913C-E49A90C438DD",
+  "dc_identifier_s": "997852D2-0972-4718-913C-E49A90C438DD",
+  "b1g_date_range_drsim": [
+    "[1998 TO 1998]"
+  ],
+  "dct_temporal_sm": [
+    "1998"
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "b1g_dateAccessioned_s": "2019-09-04",
+  "solr_year_i": "1998",
+  "dc_format_s": "Raster Dataset",
+  "solr_geom": "ENVELOPE(-92.964587,-86.706218,47.088093,42.45788)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Raster",
+  "dct_provenance_s": "Wisconsin",
+  "dct_accrualMethod_s": "GeoBlacklight",
+  "b1g_image_ss": "",
+  "dct_issued_s": "",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "This Grid-format data set, known as WISCLAND Land Cover, is a raster representation of land cover of Wisconsin derived from Landsat satellite imagery. The source data were acquired from the nationwide MRLC (Multi-Resolution Land Characteristics Consortium) acquisition of dual-date Landsat Thematic Mapper (TM) data primarily from 1992. The image processing technique followed was published in the UMGAP Image Processing Protocol (1998).The original pixel size of the source TM data is 30 meters, however the classified WISCLAND Land Cover data (excluding URBAN) are generalized or 'smoothed' to an area no smaller than four contiguous pixels (equivalent to approximately one acre). The result of this smoothing is that any feature five acres or larger may be resolved in the data (i.e., Minimum Mapping Unit (MMU) of five acres). The Land Cover data are usable at nominal scales of 1:40,000 to 1:500,000 for a wide variety of resource management and planning applications. The classification scheme was designed to be compatible with existing classification schemes such as UNESCO's and Anderson's.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "WISCLAND Land Cover\\, Wisconsin 1998 (Grid)"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "WISCLAND Land Cover, Wisconsin 1998 (Grid)",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_WISCLAND_Grid_1998.zip\",\"http://schema.org/url\":\"http://data-wi-dnr.opendata.arcgis.com/datasets?q=wiscland\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_WISCLAND_Grid_1998.xml\"}",
+  "dct_isPartOf_sm": [
+    "Statewide"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dct_spatial_sm": [
+    "Wisconsin"
+  ],
+  "b1g_centroid_ss": "44.7729865,-89.8354025",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "10d",
+  "dc_creator_sm": [
+    "Wisconsin Department of Natural Resources"
+  ]
+}

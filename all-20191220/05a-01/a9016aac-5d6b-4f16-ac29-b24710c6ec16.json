@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "a9016aac-5d6b-4f16-ac29-b24710c6ec16",
+  "dc_identifier_s": "a9016aac-5d6b-4f16-ac29-b24710c6ec16",
+  "b1g_date_range_drsim": [
+    "[2009 TO 2009]"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2009",
+  "dc_format_s": "Files",
+  "solr_geom": "ENVELOPE(-93.102598,-89.457962,48.707178,46.600572)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Minnesota",
+  "dct_accrualMethod_s": "Minnesota Geospatial Commons",
+  "b1g_image_ss": "https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_mngeo/base_saip_ne2009_50cm_airphotos/preview/preview.jpg",
+  "dct_issued_s": "2015-02-05",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "This dataset contains 4 Band red, green, blue, infrared (RGBI) digital orthophoto imagery of Cook, Lake, St. Louis and Carlton counties in northern Minnesota.  The orthophotos are 0.5 meter ground sample distance (GSD) and are in UTM Zone 15, NAD83 (meters). The tiling format of the imagery is based on a 3.75' x 3.75' quarter quadrangle with a 150 meter buffer on all four sides. This dataset includes 969 digital orthophoto quarter quadrangles (DOQQs) in GeoTiff format with an associated world file, and this metadata file. The data is available online as a web mapping service (WMS).  All imagery was collected by Keystone Aerial Surveys Inc with a Vexcel UltraCamX camera from an altitude of approximately 24,000 feet. All imagery was processed by Keystone using the camera manufacturer's software, Inpho's photogrammetry suite and Keystone-created software.  Funding for this data was provided by the Minnesota Natural Heritage Fund, the Minnesota Clean Water Legacy Act, The Environmental and Natural Resources Trust Fund, St. Louis County, the Coastal Zone Management Program, and the National Geospatial Intelligence Agency.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Digital Orthoimagery, Northeast, Spring 2009, 0.5-m Resolution: Minnesota",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/a9016aac-5d6b-4f16-ac29-b24710c6ec16\",\"http://www.w3.org/1999/xhtml\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_mngeo/base_saip_ne2009_50cm_airphotos/metadata/metadata.html\"}",
+  "dct_isPartOf_sm": [
+    "05a-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Minnesota"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota"
+  ],
+  "b1g_centroid_ss": "47.653875,-91.28028",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "05a-01",
+  "dc_creator_sm": [
+    "Minnesota Department of Natural Resources (DNR)"
+  ]
+}

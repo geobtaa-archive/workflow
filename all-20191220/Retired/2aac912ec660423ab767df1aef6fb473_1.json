@@ -1,0 +1,65 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "2aac912ec660423ab767df1aef6fb473_1",
+  "dc_identifier_s": "2aac912ec660423ab767df1aef6fb473_1",
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "dct_temporal_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "b1g_dateAccessioned_s": "2019-04-02",
+  "solr_year_i": "2018",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-81.9717,-81.3712,41.6349,41.2713)",
+  "b1g_keyword_sm": [
+    "Parcels",
+    "CAMA",
+    "Real Property",
+    "Property and Use"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Ohio State",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2018-08-11",
+  "suppressed_b": "TRUE",
+  "dc_description_s": "THE ACCESS LINKS FOR THIS RECORD WERE REPORTED AS BROKEN. THE RECORD MAY HAVE BEEN RETIRED BY THE HOST. Tax Parcels with CAMA Real Property characteristics within Cuyahoga County. Point parcels have been converted to polygons for a single parcel featureclass. This layer contains only parcels NOT in Cleveland. Last updated 6/1/2018.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Combined Parcels - Non-Cleveland Only: Cuyahoga County, Ohio",
+  "b1g_dateRetired_s": "2019-02-15",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/2aac912ec660423ab767df1aef6fb473_1\",\"http://schema.org/downloadUrl\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/2aac912ec660423ab767df1aef6fb473_1.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://utility.arcgis.com/usrsvcs/servers/2aac912ec660423ab767df1aef6fb473/rest/services/CUYAHOGA_BASE/Open_Data_Combined_Parcels_FGDB_WGS84/MapServer/1\"}",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Retired",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Ohio"
+  ],
+  "dct_spatial_sm": [
+    "Ohio"
+  ],
+  "b1g_centroid_ss": "41.4531,-81.67145",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "Retired",
+  "dc_creator_sm": [
+    "Ohio Geographically Referenced Information Program"
+  ]
+}

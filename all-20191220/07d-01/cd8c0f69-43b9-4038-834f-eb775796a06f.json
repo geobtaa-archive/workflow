@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "cd8c0f69-43b9-4038-834f-eb775796a06f",
+  "dc_identifier_s": "cd8c0f69-43b9-4038-834f-eb775796a06f",
+  "b1g_date_range_drsim": [
+    "[1888 TO 1888]"
+  ],
+  "dct_temporal_sm": [
+    "c1888"
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_dateAccessioned_s": "2019-01-16",
+  "solr_year_i": "1888",
+  "dc_format_s": "JPEG",
+  "solr_geom": "ENVELOPE(-83.07,-83.03,42.34,42.32)",
+  "b1g_keyword_sm": [
+    "Clark Library Map Collections"
+  ],
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Michigan",
+  "dct_accrualMethod_s": "",
+  "b1g_image_ss": "https://quod.lib.umich.edu/cgi/i/image/api/image/clark1ic:004728211:39015049939666_01/full/res:1/0/native.jpg?attachment=1",
+  "dct_issued_s": "",
+  "suppressed_b": "",
+  "dc_description_s": "Title from cover. Oriented with north toward the upper right. Street index on verso. \"Copyright 1888, F. B. Williams.\" Includes description of street railway lines. 1 map: col.; 19 x 32 cm., folded in cover 16 x 9 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Handy indexed map of the city of Detroit showing complete street railway systems to date October, 1895.",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004728211/39015049939666_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004728211\"}",
+  "dct_isPartOf_sm": [
+    "07d-01"
+  ],
+  "layer_id_s": "4728211",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dct_spatial_sm": [
+    "Detroit, Michigan",
+    "Michigan"
+  ],
+  "b1g_centroid_ss": "42.33,-83.05",
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "b1g_code_s": "07d-01",
+  "dc_creator_sm": [
+    "Williams, F. B. (Frank B.),Tallman, L.D."
+  ]
+}

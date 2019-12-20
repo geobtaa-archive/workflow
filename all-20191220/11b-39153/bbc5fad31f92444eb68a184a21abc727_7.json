@@ -1,0 +1,64 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "bbc5fad31f92444eb68a184a21abc727_7",
+  "dc_identifier_s": "bbc5fad31f92444eb68a184a21abc727_7",
+  "b1g_date_range_drsim": [
+    "[2014 TO 2014]"
+  ],
+  "dct_temporal_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Location"
+  ],
+  "b1g_dateAccessioned_s": "2019-04-14",
+  "solr_year_i": "2014",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-81.6447,-81.4818,41.2819,41.0597)",
+  "b1g_keyword_sm": [
+    "Engineer",
+    "Engineering Stations"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Ohio State",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2014-09-25T13:07:52.000Z",
+  "suppressed_b": "TRUE",
+  "dc_description_s": "ONE OR MORE OF THE ACCESS LINKS FOR THIS RECORD WERE REPORTED AS BROKEN. THE RECORD MAY HAVE BEEN RETIRED BY THE HOST. Dataset created and maintained by the Summit County Engineer showing engineering stations within the Engineer's jurisdiction.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "Engineering Stations"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Engineering Stations: Summit County, Ohio",
+  "b1g_dateRetired_s": "2019-04",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data-summitgis.opendata.arcgis.com/datasets/bbc5fad31f92444eb68a184a21abc727_7\",\"http://schema.org/downloadUrl\":\"http://data-summitgis.opendata.arcgis.com/datasets/bbc5fad31f92444eb68a184a21abc727_7.zip\"}",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Retired",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Summit County, Ohio"
+  ],
+  "dct_spatial_sm": [
+    "Summit County, Ohio",
+    "Ohio"
+  ],
+  "b1g_centroid_ss": "41.1708,-81.56325000000001",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "11b-39153",
+  "dc_creator_sm": [
+    "County of Summit GIS"
+  ]
+}

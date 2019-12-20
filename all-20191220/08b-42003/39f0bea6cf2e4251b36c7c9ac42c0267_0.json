@@ -1,0 +1,68 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "39f0bea6cf2e4251b36c7c9ac42c0267_0",
+  "dc_identifier_s": "39f0bea6cf2e4251b36c7c9ac42c0267_0",
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "dct_temporal_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Location"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2018",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-80.24121806,-79.7076382,40.67298222,40.28896724)",
+  "b1g_keyword_sm": [
+    "schools",
+    "ArcGIS",
+    "Service Definition",
+    "sd",
+    "education",
+    "state data"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Penn State",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "4/23/2018",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "These geocoded locations are based on the Allegheny County extract of Educational Names Addresses (EdNA) via Pennsylvania Department of Education website as of April 19, 2018. Several addresses were not able to be geocoded (ex. If PO Box addresses were provided, they were not geocoded.)If viewing this description on the Western Pennsylvania Regional Data Center s open data portal (http://www.wprdc.org), this dataset is harvested on a weekly basis from Allegheny County s GIS data portal (http://openac.alcogis.opendata.arcgis.com/). The full metadata record for this dataset can also be found on Allegheny County s GIS portal. You can access the metadata record and other resources on the GIS portal by clicking on the Explore button (and choosing the Go to resource option) to the right of the ArcGIS Open Dataset text below. Category: Education Organization: Allegheny County Department: Department of Human Services Temporal Coverage: as of April 19, 2018 Data Notes:  Coordinate System: GCS_North_American_1983 Development Notes: none Other: none Related Document(s): Data Dictionary - none Frequency - Data Change: April, 19, 2018 data Frequency - Publishing: one-time Data Steward Name: See http://www.edna.ed.state.pa.us/Screens/Extracts/wfExtractEntitiesAdmin.aspx for more information. Data Steward Email: RA-DDQDataCollection@pa.gov (Data Collection Team)",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Private Schools Locations: Allegheny County, Pennsylvania",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://openac-alcogis.opendata.arcgis.com/datasets/39f0bea6cf2e4251b36c7c9ac42c0267_0\",\"http://schema.org/downloadUrl\":\"http://openac-alcogis.opendata.arcgis.com/datasets/39f0bea6cf2e4251b36c7c9ac42c0267_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/vdNDkVykv9vEWFX4/arcgis/rest/services/Allegheny_County_Private_Schools/FeatureServer/0\"}",
+  "dct_isPartOf_sm": [
+    "08b-42003"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Allegheny County, Pennsylvania"
+  ],
+  "dct_spatial_sm": [
+    "Allegheny County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "b1g_centroid_ss": "40.48097473,-79.97442813",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "08b-42003",
+  "dc_creator_sm": [
+    "County of Allegheny, PA"
+  ]
+}

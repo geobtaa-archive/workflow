@@ -1,0 +1,65 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "8385b5b1-0e77-4275-8abe-f204d2ba9b6c",
+  "dc_identifier_s": "8385b5b1-0e77-4275-8abe-f204d2ba9b6c",
+  "b1g_date_range_drsim": [
+    "[2012 TO 2012]"
+  ],
+  "dct_temporal_sm": [
+    "2012"
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps",
+    "Elevation"
+  ],
+  "b1g_dateAccessioned_s": "2016-10",
+  "solr_year_i": "2012",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-90.380811,-89.583984,38.664056,37.78662)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Mixed",
+  "dct_provenance_s": "Illinois",
+  "dct_accrualMethod_s": "FGDC",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2011-12-30",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "ASPRS v1.4 final classified LAS data grouped into 12 classifications: 0 = created, never classified, 1 = Unclassified, 2 = Ground, 3 = Low Vegetation, 4 = Medium Vegetation, 5 = High Vegetation, 6 = Building, 7 = Low point (noise), 8 = Model key-point (mass point), 9 = Water, 10 = Ignored Ground (breakline proximity), 12 = Overlap. One-meter Nominal Point Spacing.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Height Modernization (ILHMP) LiDAR Data: Monroe County, Illinois: 2012",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://clearinghouse.isgs.illinois.edu/data/elevation/illinois-height-modernization-ilhmp-lidar-data\",\"http://schema.org/downloadUrl\":\"http://isgs.illinois.edu/clearinghouse/lidar/counties/monroe/monroe_tile_index.zip\"}",
+  "dct_isPartOf_sm": [
+    "9a717589-8bd5-4eae-8414-48ea9d474a43"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "dc_publisher_sm": [
+    "University of Illinois Urbana-Champaign",
+    "Illinois State Geological Survey"
+  ],
+  "dct_spatial_sm": [
+    "Monroe County, Illinois",
+    "Illinois"
+  ],
+  "b1g_centroid_ss": "38.225338,-89.98239749999999",
+  "b1g_genre_sm": [
+    "Geospatial data",
+    "Aerial imagery"
+  ],
+  "b1g_code_s": "02a-01",
+  "dc_creator_sm": [
+    "Merrick & Co"
+  ]
+}

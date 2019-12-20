@@ -1,0 +1,61 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "a4b0ac58-117b-423c-9793-f2bdc990efc7",
+  "dc_identifier_s": "a4b0ac58-117b-423c-9793-f2bdc990efc7",
+  "b1g_date_range_drsim": [
+    "[1899 TO 1899]"
+  ],
+  "dct_temporal_sm": [
+    "1899"
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_dateAccessioned_s": "2019-07-26",
+  "solr_year_i": "1899",
+  "dc_format_s": "JPEG",
+  "solr_geom": "ENVELOPE(-97.57507324,-90.54382324,49.33407182,43.40180483)",
+  "b1g_keyword_sm": [
+    "Minnesota Maps"
+  ],
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Minnesota",
+  "dct_accrualMethod_s": "Blacklight",
+  "b1g_image_ss": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll247/id/200",
+  "dct_issued_s": "",
+  "suppressed_b": "",
+  "dc_description_s": "13 x 10 inches",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "Map of Minnesota"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Map of Minnesota",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/89362\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/200/manifest.json\"}",
+  "dct_isPartOf_sm": [
+    "05d-p16022coll247"
+  ],
+  "layer_id_s": "200",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image"
+  ],
+  "dc_publisher_sm": [
+    "[Mast, Crowell & Kirkpatrick?]"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota"
+  ],
+  "b1g_centroid_ss": "46.367938325,-94.05944824",
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "b1g_code_s": "05d-01",
+  "dc_creator_sm": [
+    ""
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "1118cdc038884214ba79a0712b60ece7_1",
+  "dc_identifier_s": "1118cdc038884214ba79a0712b60ece7_1",
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dc_subject_sm": [
+    "Inland Waters",
+    "Environment"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2016",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-85.383,-79.802,42.22,38.057)",
+  "b1g_keyword_sm": [
+    "Water supply",
+    "Environmental protection",
+    "Permits"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Ohio State",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2014-10-29",
+  "suppressed_b": "",
+  "dc_description_s": "Data updated daily between midnight and 6 am.Whenever a municipality, industry, or other entity wishes to discharge water to a surface water of the State, they must first obtain a permit from the Ohio EPA Division of Surface Water (DSW). This permit is called a National Pollutant Discharge Elimination System (NPDES) permit. NPDES permits regulate wastewater discharges by limiting the quantities of pollutants to be discharged and imposing monitoring requirements and other conditions. The limits and/or requirements in the permit help ensure compliance with Ohio's Water Quality Standards and Federal Regulations, all of which were written to protect public health and the aquatic environment. Pollutants are broadly defined as any type of industrial, municipal or agricultural wastewater. An individual NPDES permit is unique to each facility. The limitations and requirements in an individual permit are based on the facility's operations, type and amount of discharge, and receiving stream, among other factors.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "EPA 401 Water Quality Certification For Nationwide Permits: Ohio",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/1118cdc038884214ba79a0712b60ece7_1\",\"http://schema.org/downloadUrl\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/1118cdc038884214ba79a0712b60ece7_1.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://epagistest2.oit.ohio.gov/arcgis/rest/services/WM/DSW/MapServer/1\"}",
+  "dct_isPartOf_sm": [
+    "11a-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dct_spatial_sm": [
+    "Ohio"
+  ],
+  "b1g_centroid_ss": "40.1385,-82.5925",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "11a-01",
+  "dc_creator_sm": [
+    "Ohio EPA, Division of Surface Water"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "a2b7e468-0cb5-461d-a997-f0a04316d920",
+  "dc_identifier_s": "a2b7e468-0cb5-461d-a997-f0a04316d920",
+  "b1g_date_range_drsim": [
+    "[1922 TO 1922]"
+  ],
+  "dct_temporal_sm": [
+    "1922"
+  ],
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "b1g_dateAccessioned_s": "2019-11-04",
+  "solr_year_i": "1922",
+  "dc_format_s": "TIFF",
+  "solr_geom": "ENVELOPE(3.409416667,3.523530556,50.551725,50.46020278)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "Dublin Core",
+  "b1g_image_ss": "",
+  "dct_issued_s": "1922",
+  "suppressed_b": "",
+  "dc_description_s": "Map of France - Geological Map - Besan\u00e7on , 1922. Scale=1:80,000. Topography, geology, rock types for parts of France ",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "mdu-057144"
+  ],
+  "dc_language_sm": [
+    ""
+  ],
+  "dc_title_s": "Map of France - Geological Map - Besan\u00e7on, 1922",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/d8/ba/de/b5/d8badeb5-491a-4dd4-9dd8-a1374763eda1\"}",
+  "dct_isPartOf_sm": [
+    "04d-02"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image"
+  ],
+  "dc_publisher_sm": [
+    "Inspector General of Mines"
+  ],
+  "dct_spatial_sm": [
+    "Besan\u00e7on, France"
+  ],
+  "b1g_centroid_ss": "50.50596389,3.4664736115",
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "b1g_code_s": "04d-02",
+  "dc_creator_sm": [
+    ""
+  ]
+}

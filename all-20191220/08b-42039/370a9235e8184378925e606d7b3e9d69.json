@@ -1,0 +1,70 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "370a9235e8184378925e606d7b3e9d69",
+  "dc_identifier_s": "370a9235e8184378925e606d7b3e9d69",
+  "b1g_date_range_drsim": [
+    "[2007 TO 2007]"
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "b1g_dateAccessioned_s": "2019-09-04",
+  "solr_year_i": "2007",
+  "dc_format_s": "Imagery",
+  "solr_geom": "ENVELOPE(-80.5538,-79.5807,41.8813,41.4499)",
+  "b1g_keyword_sm": [
+    "Crawford County",
+    "Pennsylvania",
+    "DEM",
+    "imageryBaseMapsEarthCover",
+    "LiDAR",
+    "raster grid",
+    "elevation",
+    "topography"
+  ],
+  "layer_geom_type_s": "Raster",
+  "dct_provenance_s": "Penn State",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2018-12-14",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "This dataset, produced by the PAMAP Program, consists of a raster digital elevation model with a horizontal ground resolution of 3.2 feet. The model was constructed from PAMAP LiDAR (Light Detection and Ranging) elevation points. PAMAP data are organized into blocks, which do not have gaps or overlaps, that represent 10,000 feet by 10,000 feet on the ground. The coordinate system for blocks in the northern half of the state is Pennsylvania State Plane North (datum:NAD83, units: feet); blocks in the southern half of the state are in Pennsylvania State Plane South. A block name is formed by concatenating the first four digits of the State Plane northing and easting defining the block's northwest corner, the State identifier \"PA\", and the State Plane zone designator \"N\" or \"S\" (e.g. 45001210PAS).",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "PAMAP 2007 Digital Elevation Model (DEM)"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "PAMAP Digital Elevation Model (DEM): Crawford County, Pennsylvania, 2007",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://share-open-data-crawfordcountypa.opendata.arcgis.com/datasets/370a9235e8184378925e606d7b3e9d69\",\"https://schema.org/downloadUrl\":\"https://share-open-data-crawfordcountypa.opendata.arcgis.com/datasets/370a9235e8184378925e606d7b3e9d69\",\"urn:x-esri:serviceType:ArcGIS#ImageMapLayer\":\"https://ccgis.crawfordcountypa.net/arcgis/rest/services/raster_lidar/PAMAP_2007_DEM/ImageServer\"}",
+  "dct_isPartOf_sm": [
+    "08b-42039"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Crawford County, Pennsylvania"
+  ],
+  "dct_spatial_sm": [
+    "Crawford County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "b1g_centroid_ss": "41.6656,-80.06725",
+  "b1g_genre_sm": [
+    "Aerial imagery"
+  ],
+  "b1g_code_s": "08b-42039",
+  "dc_creator_sm": [
+    "PAMAP Program, PA Department of Conservation and Natural Resources, Bureau of Topographic and Geologic Survey"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "1c5d4b467eaa4301b976547c65cd7d06_24",
+  "dc_identifier_s": "1c5d4b467eaa4301b976547c65cd7d06_24",
+  "b1g_date_range_drsim": [
+    "[2015 TO 2015]"
+  ],
+  "dct_temporal_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "b1g_dateAccessioned_s": "2019-05-29",
+  "solr_year_i": "2015",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-77.0795483,-76.90903924,38.97802901,38.79160783)",
+  "b1g_keyword_sm": [
+    "Incentive",
+    "Business"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2015-02-27",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "Through the Supermarket Tax Exemption Act of 2000, the District waives certain taxes and fees to supermarkets that locate in specific neighborhoods. The incentive encourages investment in areas lacking access to groceries and fresh food. This map displays the eligible areas for supermarkets to locate and be eligible for the tax incentives. For more information: https://beta.code.dccouncil.us/dc/council/code/titles/47/chapters/38/. Supermarket Tax Incentive locations. The dataset contains locations and attributes of Supermarket Tax Exemption locations, created as part of the DC Geographic Information System (DC GIS) for the D.C. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies. A dataset provided by the Office of the Deputy Mayor for Planning and Economic Development and the Office of Planning, identified eligible locations as identified in the Food, Environmental, and Economic Development in the District of Columbia Act of 2010.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Supermarket Tax Incentives: Washington D.C.",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/1c5d4b467eaa4301b976547c65cd7d06_24\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/1c5d4b467eaa4301b976547c65cd7d06_24.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Administrative_Other_Boundaries_WebMercator/MapServer/24\"}",
+  "dct_isPartOf_sm": [
+    "04c-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "District of Columbia"
+  ],
+  "dct_spatial_sm": [
+    "Washington D.C"
+  ],
+  "b1g_centroid_ss": "38.88481842,-76.99429377",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "04c-01",
+  "dc_creator_sm": [
+    "City of Washington, DC"
+  ]
+}

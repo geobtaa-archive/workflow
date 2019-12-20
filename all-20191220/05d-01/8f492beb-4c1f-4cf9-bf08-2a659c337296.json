@@ -1,0 +1,65 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "8f492beb-4c1f-4cf9-bf08-2a659c337296",
+  "dc_identifier_s": "8f492beb-4c1f-4cf9-bf08-2a659c337296",
+  "b1g_date_range_drsim": [
+    "[1742 TO 1742]"
+  ],
+  "dct_temporal_sm": [
+    "1742"
+  ],
+  "dc_subject_sm": [
+    "Nautical charts"
+  ],
+  "b1g_dateAccessioned_s": "2019-07-26",
+  "solr_year_i": "1742",
+  "dc_format_s": "JPEG",
+  "solr_geom": "ENVELOPE(83.56,95.38,29.08,18.5)",
+  "b1g_keyword_sm": [
+    "Nautical Charts Bengal, Bay of Early Works to 1800",
+    "Bengal, Bay of Maps Early Works to 1800",
+    "Early Maps",
+    "Nautical Charts"
+  ],
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Minnesota",
+  "dct_accrualMethod_s": "Blacklight",
+  "b1g_image_ss": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll246/id/253",
+  "dct_issued_s": "",
+  "suppressed_b": "",
+  "dc_description_s": "Scale approximately 1:2,300,000 (E 83\u00b034\u02b900\u02ba--E 95\u00b023\u02b900\u02ba/N 29\u00b005\u02b900\u02ba--N 18\u00b030\u02b900\u02ba). Date from previous call number. Relief shown pictorially; depth shown by soundings. \"A. Try\u0308sz, sculp. 1742.\" 1 map : color ; 52 x 59 cm",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "Nieuwe paskaart van het noordely\u0308kste gedeelte van de Golf van Bengalen : vertoonende de custen van Orixa Bengalen on Arracam"
+  ],
+  "dc_language_sm": [
+    "Dutch"
+  ],
+  "dc_title_s": "Nieuwe paskaart van het noordely\u0308kste gedeelte van de Golf van Bengalen: vertoonende de custen van Orixa Bengalen on Arracam",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/229474\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/253/manifest.json\"}",
+  "dct_isPartOf_sm": [
+    "05d-p16022coll246"
+  ],
+  "layer_id_s": "253",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image"
+  ],
+  "dc_publisher_sm": [
+    "Ioannes van Keulen"
+  ],
+  "dct_spatial_sm": [
+    ""
+  ],
+  "b1g_centroid_ss": "23.79,89.47",
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "b1g_code_s": "05d-01",
+  "dc_creator_sm": [
+    "van Keulen, Johannes, active 1726-1753",
+    "Try\u0308sz, A."
+  ]
+}

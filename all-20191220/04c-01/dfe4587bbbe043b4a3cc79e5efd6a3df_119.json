@@ -1,0 +1,82 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "dfe4587bbbe043b4a3cc79e5efd6a3df_119",
+  "dc_identifier_s": "dfe4587bbbe043b4a3cc79e5efd6a3df_119",
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "dct_temporal_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2016",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-77.1119,-76.9129,38.9857,38.8225)",
+  "b1g_keyword_sm": [
+    "camera",
+    "DC",
+    "DC",
+    "DC GIS",
+    "DCGIS",
+    "District of Columbia",
+    "Manual of Uniform Traffic Control",
+    "MUTCD",
+    "pavement marking",
+    "push button",
+    "signal",
+    "signal arm",
+    "terrestrial",
+    "TOA",
+    "traffic cabinet",
+    "traffic control",
+    "traffic detector",
+    "traffic pole",
+    "transportation",
+    "Transportation Operation Agency",
+    "Washington"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2016-05-10",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "The dataset contains location and attributes of traffic controls features located at each intersection in the District of Columbia. All traffic poles, pavement markings, traffic cabinets and cameras located within 10 meters of curb face intersections are collected. Poles must support traffic control devices in order to be collected. This includes traffic control signs, traffic signals, traffic arms and cameras. These traffic contorl devices are part the data sets tables and are related to there particular pole. The data set does not include poles supporting only name plate signs and parking enforcement signs.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Traffic Signal Arm: District Of Columbia",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/dfe4587bbbe043b4a3cc79e5efd6a3df_119\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/dfe4587bbbe043b4a3cc79e5efd6a3df_119.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Transportation_WebMercator/MapServer/119\"}",
+  "dct_isPartOf_sm": [
+    "04c-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "District of Columbia"
+  ],
+  "dct_spatial_sm": [
+    "Washington D.C"
+  ],
+  "b1g_centroid_ss": "38.9041,-77.0124",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "04c-01",
+  "dc_creator_sm": [
+    "City of Washington, DC"
+  ]
+}

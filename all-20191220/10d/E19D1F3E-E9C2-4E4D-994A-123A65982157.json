@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "E19D1F3E-E9C2-4E4D-994A-123A65982157",
+  "dc_identifier_s": "E19D1F3E-E9C2-4E4D-994A-123A65982157",
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "b1g_dateAccessioned_s": "2019-09-04",
+  "solr_year_i": "2016",
+  "dc_format_s": "Geodatabase",
+  "solr_geom": "ENVELOPE(-88.694044,-87.745406,45.380166,44.664178)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Polygon",
+  "dct_provenance_s": "Wisconsin",
+  "dct_accrualMethod_s": "GeoBlacklight",
+  "b1g_image_ss": "",
+  "dct_issued_s": "",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "This data layer represents parcels for Oconto County, Wisconsin in 2016. It is a feature class within the geodatabase 'Oconto_Parcels_2016.gdb'.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "Parcels Oconto County\\, WI 2016"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Parcels: Oconto County, Wisconsin, 2016",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Oconto_Parcels_2016.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Oconto_Parcels_2016.xml\"}",
+  "dct_isPartOf_sm": [
+    "Coastal"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dct_spatial_sm": [
+    "Oconto County, Wisconsin",
+    "Wisconsin"
+  ],
+  "b1g_centroid_ss": "45.022172,-88.21972500000001",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "10d",
+  "dc_creator_sm": [
+    "Oconto County, Wisconsin"
+  ]
+}

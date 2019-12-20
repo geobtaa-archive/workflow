@@ -1,0 +1,67 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "b613c2de4ecd4945a7080d798c8b9d68_21",
+  "dc_identifier_s": "b613c2de4ecd4945a7080d798c8b9d68_21",
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dc_subject_sm": [
+    "Utilities and Communications"
+  ],
+  "b1g_dateAccessioned_s": "2019-07-23",
+  "solr_year_i": "2016",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-95.7511,-95.0647,45.8009,45.3866)",
+  "b1g_keyword_sm": [
+    "Infrastructure",
+    "Hydrography",
+    "Public Works",
+    "Pope County",
+    "Ditch"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Minnesota",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2016-10-25",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "The open drains, sometimes called ditches, that are a part of the stormwater network.Contact for more informationTel: (320) 634-7788Fax: (320) Email: Information Technology130 East Minnesota Avenue, Glenwood, MN 56334",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Ditches: Pope County, Minnesota",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data-popecounty.opendata.arcgis.com/datasets/b613c2de4ecd4945a7080d798c8b9d68_21\",\"http://schema.org/downloadUrl\":\"http://data-popecounty.opendata.arcgis.com/datasets/b613c2de4ecd4945a7080d798c8b9d68_21.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.co.pope.mn.us/arcgis/rest/services/OpenData/OpenData/MapServer/21\"}",
+  "dct_isPartOf_sm": [
+    "05b-27121"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Pope County, Minnesota"
+  ],
+  "dct_spatial_sm": [
+    "Pope County, Minnesota",
+    "Minnesota"
+  ],
+  "b1g_centroid_ss": "45.59375,-95.4079",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "05b-27121",
+  "dc_creator_sm": [
+    "Pope County"
+  ]
+}

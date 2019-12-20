@@ -1,0 +1,73 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "e7006eefa0cb4611adb1b7acdba16951_6",
+  "dc_identifier_s": "e7006eefa0cb4611adb1b7acdba16951_6",
+  "b1g_date_range_drsim": [
+    "[2017 TO 2017]"
+  ],
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dc_subject_sm": [
+    "Environment"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2017",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-83.6919,-83.0897,42.892,42.4941)",
+  "b1g_keyword_sm": [
+    "Habitat",
+    "Natural Areas",
+    "natural features",
+    "planning",
+    "environment",
+    "high quality habitat",
+    "Conservation",
+    "Open Space Planning",
+    "endangered species",
+    "green belt",
+    "green space"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Michigan State",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2018-04-27",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "BY USING THIS WEBSITE OR THE CONTENT THEREIN, YOU AGREE TO THE TERMS OF USE. The primary purpose of this data is to assist Oakland County Economic Development Community Affairs, local municipalities, land trusts, and other agencies in prioritizing conservation efforts in order to improve natural resource-based decision making. The information is used to help find opportunities to establish an open space system of linked natural areas throughout Oakland County. Specifically, this data serves as a resource for cartographic output and spatial analysis.This layer is a spatial representation of specific patches of natural vegetation within larger intact landscapes that have the potential to harbor high quality natural communities and/or for harboring rare plants and animals. These patches represent places on the landscape that appear to have experienced the least amount of impact or degradation from human activities since the early 1800s.These potential natural areas (PNAs) represent patches of various natural land cover that also vary in size, quality, and landscape context. The natural land cover types within these PNAs also vary by type and quality. The objective is to identify specific patches of natural land cover (forest, wetland) within priority PNAs, that have a high likelihood of exhibiting ecological intactness and integrity.The polygons contained in this feature class were derived from data developed for the Oakland County Potential Natural Areas Assessment: 2017 Report. Oakland County's digital aerial photography from 1940, 1963, and 2015 along with the Oakland County NaturalArea2017 coverage were the primary data sources used to create this data. Key attributes include Habitat and Notes.The term potential natural area is not to be confused with the legal term dedicated Natural Area as described in Part 351, Wilderness and Natural Areas, of the Natural Resources and Environmental Protection Act of 1994 which gives land special legal protection.For more detailed information, please view the Oakland County Potential Natural Areas Assessment: 2017 Report prepared by: John Paskus, Associate Program Leader - Conservation Helen Enander, Information Technologist I Michigan Natural Features Inventory P.O. Box 13036, Lansing, MI 48901 (Report Number 2017-17) at https://www.oakgov.com/it/gis/Documents/metadata/Oakland_2017_PNA_Final_Report.pdf. This document provides essential information for the attributes and procedures used to create the features in the dataset.The purpose of this assessment was to delineate the highest quality patches of natural land cover within high scoring potential natural areas (PNAs) that demonstrate the greatest opportunity for conservation value. Conservation value can be defined by a number of different factors, such as: the presence of rare and declining species, high plant and/or animal species diversity, structural diversity, presence of biological legacies such as large dead and downed trees, intact ecological processes, intact hydrology, and/or lack of key threats. The problem is that all of these factors are almost impossible to detect from aerial imagery, and almost always require field inspection.However, understanding that there are limitations with remote analysis, this assessment was based on aerial imagery from several different time periods: 1940, 1963 and 2015. The earliest time period available for aerial imagery of Oakland County was from the 1940. As with most of the Lower Peninsula, Oakland County had been significantly altered by European settler activities by the turn of the 20th century. This is the best representation of patches of forests and wetlands that appear to still be intact almost 80 years ago. A key habitat type that is missing from this landscape analysis is grassland. Unfortunately, native grassland systems such as prairie, savanna, and barrens, were virtually eliminated by the early 1900s throughout Michigan, and the remaining small, isolated patches of native grassland are essentially impossible to identify from old, low quality, black and white aerial photographs.Due to the fact that there were not enough funds or resources to delineate and characterize every patch of natural land cover within every PNA, the first step in the process was to identify PNAs with the highest potential for conserving ecological value. That was determined by three key factors: 1) PNA total scores (with enhanced criteria), 2) percentage of private land (higher the better), and 3) proximity to public land (closer the better). First, all enhanced criteria total scores greater than 15 were identified. From that selection, PNAs with greater than fifty percent private ownership were selected. This was determined using the Oakland County 2015 conservation lands database. These were placed in the first priority category for natural community assessment. Once those were selected, PNAs adjacent to or in close proximity to publically owned lands were the first to be evaluated for high quality natural land cover. There were a total of 70 first priority PNAs. Once these were assessed, a second set of PNAs were identified. Although these PNAs also had high total scores (based on the enhanced criteria), they also had a higher percentage of public land; in some cases they were 100 percent publically owned. A key factor for prioritization was the amount of privately owned land (the higher the better), and whether or not the area had been surveyed within the past 20 years. The majority of the highest ranking second priority PNAs had some form of regional or local public ownership (as opposed to state ownership, such as state park and recreation areas). A total of 18 second priority PNAs was identified.Once the priority PNAs were identified, the next step in the process was to determine which patches of natural land cover within these PNAs, had a high probability of still being in good condition. This was done by identifying all natural land cover patches from the 1940 aerial photographs. Once these patches were identified, the next step was to eliminate all portions of these patches that demonstrated major alterations based on the 1963 aerial photographs. In addition, forest patches or portions of forest patches that did not show up as forest on the digital USGS quadrangle topographic maps were also removed. All remaining patches of habitat were considered high quality, and delineated using heads up digitizing. They were also attributed with primary land cover type, size, and notes. Primary land cover types used for this analysis included: 1) lowland deciduous forest, 2) lowland mixed forest, 3) lowland conifer forest, 4) non-forested wetland, 5) mixed wetland complex, and 6) upland forest. These cover types were chosen because of the high confidence levels for delineating each type in this portion of Michigan s Lower Peninsula. If an MNFI Scientist was able to identify more specific natural community types based on topography, soils, hydrology, aspect distinct aerial imagery signature, or other factors, that information was also included in the notes field of the database.Reference Reports:Shiawassee Huron Headwaters Resource Preservation Project - March 2000 Project Staff: Carlisle Wortman Associates - Richard Carlisle, PCP, and Carey Nyberg Land Information Access Association - Joe VanderMeulen Michigan Natural Features Inventory - John Paskus Oakland County Planning Economic Development Services - Bret C. Rasegan, RA, Charlotte P. Burckhardt, AICP, PCP, Lawrence S. Falardeau, RLA, Russell Lewis, RA, Leslie E. Kettren, AICP, Jim Keglovitz, and JoAnn Browning Oakland County Potential Conservation/Natural Areas Report - July 2002 prepared by: John Paskus, Associate Program Leader - Conservation Michael Penskar, Program Leader - Botany Helen Enander, Information TechnologistOakland County Potential Conservation/Natural Areas Report - April 2004 prepared by: John Paskus, Associate Program Leader - Conservation Helen Enander, Information Technologist I Michigan Natural Features Inventory P.O. Box 30444 8th Floor, Mason Bldg. Lansing, MI 48909-7944Oakland County Potential Natural Areas Assessment: 2017 Report prepared by: John Paskus, Associate Program Leader - Conservation Helen Enander, Information Technologist I Michigan Natural Features Inventory P.O. Box 13036, Lansing, MI 48901 (Report Number 2017-17)",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "High Quality Habitat: Oakland County, Michigan, 2017",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://accessoakland.oakgov.com/datasets/e7006eefa0cb4611adb1b7acdba16951_6\",\"http://schema.org/downloadUrl\":\"http://accessoakland.oakgov.com/datasets/e7006eefa0cb4611adb1b7acdba16951_6.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gisservices.oakgov.com/arcgis/rest/services/Enterprise/EnterpriseNaturalFeaturesMapService/MapServer/6\"}",
+  "dct_isPartOf_sm": [
+    "06b-26125"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Oakland County, Michigan"
+  ],
+  "dct_spatial_sm": [
+    "Oakland County, Michigan",
+    "Michigan"
+  ],
+  "b1g_centroid_ss": "42.69305,-83.3908",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "06b-26125",
+  "dc_creator_sm": [
+    "Oakland County, Michigan"
+  ]
+}

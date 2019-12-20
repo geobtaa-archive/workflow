@@ -1,0 +1,64 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "1c1a1d3f-b9ae-4d78-bcb6-0c4e6c65fbda",
+  "dc_identifier_s": "1c1a1d3f-b9ae-4d78-bcb6-0c4e6c65fbda",
+  "b1g_date_range_drsim": [
+    "[1720 TO 1720]"
+  ],
+  "dct_temporal_sm": [
+    "1720?"
+  ],
+  "dc_subject_sm": [
+    "Nautical charts"
+  ],
+  "b1g_dateAccessioned_s": "2019-07-26",
+  "solr_year_i": "1720",
+  "dc_format_s": "JPEG",
+  "solr_geom": "ENVELOPE(72.56,72.83,21.23,20.75)",
+  "b1g_keyword_sm": [
+    "Nautical Charts India Surat Early Works to 1800",
+    "Surat (India) Maps Early Works to 1800",
+    "Early Maps",
+    "Nautical Charts"
+  ],
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Minnesota",
+  "dct_accrualMethod_s": "Blacklight",
+  "b1g_image_ss": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll246/id/371",
+  "dct_issued_s": "",
+  "suppressed_b": "",
+  "dc_description_s": "Scale approximately 1:21,000 ; (E 72\u00b034\u02b931\u02ba--E 72\u00b050\u02b925\u02ba/N 21\u00b014\u02b919\u02ba--N 20\u00b045\u02b925\u02ba). Date from previous call number. Relief shown pictorially; depth shown by soundings. Oriented with north to the upper-right. 1 map : color ; 27 x 47 cm",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "Tinkoomen van de Rivier van Suratte"
+  ],
+  "dc_language_sm": [
+    "Dutch"
+  ],
+  "dc_title_s": "Tinkoomen van de Rivier van Suratte",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/229450\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/371/manifest.json\"}",
+  "dct_isPartOf_sm": [
+    "05d-p16022coll246"
+  ],
+  "layer_id_s": "371",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image"
+  ],
+  "dc_publisher_sm": [
+    "Joannes van Keulen"
+  ],
+  "dct_spatial_sm": [
+    "India"
+  ],
+  "b1g_centroid_ss": "20.990000000000002,72.695",
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "b1g_code_s": "05d-01",
+  "dc_creator_sm": [
+    "van Keulen, Johannes, 1654-1715."
+  ]
+}

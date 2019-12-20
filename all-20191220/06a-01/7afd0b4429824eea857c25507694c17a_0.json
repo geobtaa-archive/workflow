@@ -1,0 +1,65 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "7afd0b4429824eea857c25507694c17a_0",
+  "dc_identifier_s": "7afd0b4429824eea857c25507694c17a_0",
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "dc_subject_sm": [
+    "Location"
+  ],
+  "b1g_dateAccessioned_s": "2019-10-11",
+  "solr_year_i": "2019",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-167.8755,176.8271,76.0179,70.1606)",
+  "b1g_keyword_sm": [
+    "deer",
+    "check station",
+    "hunting",
+    "wildlife"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Michigan State",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2019-09-12T19:49:09.000Z",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "Michigan DNR Deer Check Stations",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "deercheck development"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Michigan DNR Deer Check Stations: State of Michigan",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://gis-michigan.opendata.arcgis.com/datasets/7afd0b4429824eea857c25507694c17a_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services3.arcgis.com/Jdnp1TjADvSDxMAX/arcgis/rest/services/Deer_Check_Pub_2019/FeatureServer/0\",\"http://schema.org/url\":\"http://gis-michigan.opendata.arcgis.com/datasets/7afd0b4429824eea857c25507694c17a_0\"}",
+  "dct_isPartOf_sm": [
+    "06a-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Michigan"
+  ],
+  "dct_spatial_sm": [
+    "Michigan"
+  ],
+  "b1g_centroid_ss": "73.08924999999999,4.475800000000007",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "06a-01",
+  "dc_creator_sm": [
+    "Michigan Department of Natural Resources"
+  ]
+}

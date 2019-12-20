@@ -1,0 +1,72 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "e97e61ce44174faf9d42ae169185e263_0",
+  "dc_identifier_s": "e97e61ce44174faf9d42ae169185e263_0",
+  "b1g_date_range_drsim": [
+    "[2015 TO 2015]"
+  ],
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "b1g_dateAccessioned_s": "2019-10-11",
+  "solr_year_i": "2015",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-76.1513,-74.3815,40.6087,39.5094)",
+  "b1g_keyword_sm": [
+    "Pennsylvania",
+    "DVRPC",
+    "Land Use",
+    "New Jersey",
+    "2015",
+    "Landuse"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2017-09-11T19:42:34.000Z",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "The Delaware Valley Regional Planning Commission (DVRPC) contracted Aerial Information Systems, Inc. (AIS) to perform a 2015 Land Use Update (aka Phase 1, Product 1, P1) and to create a 2015 Enhanced Land Use Update (aka Phase 2, Product 2, P2) data set for the nine-county DVRPC region consisting of Bucks, Chester, Delaware, Montgomery, and Philadelphia counties in Pennsylvania, and Camden, Burlington, Gloucester, and Mercer counties in New Jersey. The project started in February 2016 and completed in April 2017. AIS used computer interactive photo interpretation and heads-up digitizing to create both land use datasets. The project was performed in two phases.This metadata is for the Enhanced Land Use (P2) mapping effort.The P2 layer was the creation of an enhanced land use layer using a more detailed land use classification and standardized data capture criteria, including minimum mapping size guidelines for built-up land use types and parking lots. The P2 layer will support DVRPC s more detailed planning analyses goals and other programs and projects at DVRPC and their member governments and agencies.Despite some overlap in the land use classification and data capture criteria for each effort, the P1 and P2 geodatabases do not completely correlate to one another due to the more detailed P2 classification, changes in the categorization of some land use features from P1 to P2 and revisions to the original DVRPC data capture criteria.All work was performed by AIS staff, at the AIS office in Redlands, California using Esri ArcGIS 10.3 software capabilities. No sub-contractors or outside consultants were used throughout the performance of the contract.Detailed Metadata Document",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "DVRPC - 2015 Land Use - Enhanced (Feature Service) * NEW *"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Land Use Enhanced (Feature Service) * NEW *: Delaware Valley Regional Planning Commission, 2015",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/e97e61ce44174faf9d42ae169185e263_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://arcgis.dvrpc.org/arcgis/rest/services/Planning/LandUse2015_Enhanced/FeatureServer/0\",\"http://schema.org/url\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/e97e61ce44174faf9d42ae169185e263_0\"}",
+  "dct_isPartOf_sm": [
+    "04f-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Delaware Valley Regional Planning Commission"
+  ],
+  "dct_spatial_sm": [
+    "Delaware River, Delaware",
+    "Delaware",
+    "Philadelphia, Pennsylvania",
+    "Pennsylvania",
+    "Maryland",
+    "New Jersey"
+  ],
+  "b1g_centroid_ss": "40.05905,-75.2664",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "04f-01",
+  "dc_creator_sm": [
+    "DVRPC-GIS"
+  ]
+}

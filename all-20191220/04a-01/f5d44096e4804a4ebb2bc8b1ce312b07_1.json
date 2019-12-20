@@ -1,0 +1,70 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "f5d44096e4804a4ebb2bc8b1ce312b07_1",
+  "dc_identifier_s": "f5d44096e4804a4ebb2bc8b1ce312b07_1",
+  "b1g_date_range_drsim": [
+    "[2017 TO 2017]"
+  ],
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dc_subject_sm": [
+    "Transportation",
+    "Planning and Cadastral"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2017",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-76.3876,-76.2838,39.5851,39.4121)",
+  "b1g_keyword_sm": [
+    "Road Closure",
+    "Road Closures",
+    "MDOT",
+    "SHA",
+    "Maryland",
+    "Road",
+    "Closure",
+    "Transportation"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2017-10-12",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "Maryland's future road closure roadway segments submitted and maintained by local jurisdictions.Maryland's Road Closure Reporter",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Locally Reported Future Road Closure Segments, Maryland's Road Closure Reporter: Maryland",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/f5d44096e4804a4ebb2bc8b1ce312b07_1\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/f5d44096e4804a4ebb2bc8b1ce312b07_1.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://geodata.md.gov/appdata/rest/services/SHA_RoadClosure/RoadClosurePlanned/MapServer/1\"}",
+  "dct_isPartOf_sm": [
+    "04a-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dct_spatial_sm": [
+    "Maryland"
+  ],
+  "b1g_centroid_ss": "39.498599999999996,-76.3357",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "04a-01",
+  "dc_creator_sm": [
+    "ArcGIS Online for Maryland"
+  ]
+}

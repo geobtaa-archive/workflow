@@ -1,0 +1,65 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "8755ff120e944b5d84ceecd7a5f2f68a_11",
+  "dc_identifier_s": "8755ff120e944b5d84ceecd7a5f2f68a_11",
+  "b1g_date_range_drsim": [
+    "[2017 TO 2017]"
+  ],
+  "dct_temporal_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2017",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-82.1988,-81.9632,39.4036,39.2428)",
+  "b1g_keyword_sm": [
+    "athens",
+    "ohio",
+    "land records"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Ohio State",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2017-10-03",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Athens 3 Mile Limit: Athens County, Ohio",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://gis.data.athensoh.org/datasets/8755ff120e944b5d84ceecd7a5f2f68a_11\",\"http://schema.org/downloadUrl\":\"http://gis.data.athensoh.org/datasets/8755ff120e944b5d84ceecd7a5f2f68a_11.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.athensoh.org/athgis/rest/services/Cadastral_Mercator/MapServer/11\"}",
+  "dct_isPartOf_sm": [
+    "11b-39009"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Athens County, Ohio"
+  ],
+  "dct_spatial_sm": [
+    "Athens County, Ohio",
+    "Ohio"
+  ],
+  "b1g_centroid_ss": "39.3232,-82.081",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "11b-39009",
+  "dc_creator_sm": [
+    "Athens County GIS"
+  ]
+}

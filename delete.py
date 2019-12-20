@@ -181,7 +181,9 @@ class CSWToGeoBlacklight(object):
 			"10b-01": '"10b-01"',
 			"11a-01": '"11a-01"',
 			"11d-01": '"11d-01"',
-			"12b-01": '"12b-01"'
+			"12b-01": '"12b-01"',
+			"99-0002":'"99-0002"',
+			"99-0001":'"99-0001"'
 
         	}
 
@@ -269,7 +271,7 @@ class CSWToGeoBlacklight(object):
         """
         Delete records from Solr.
         """
-        self.solr.delete_query("b1g_collection_sm:" + self.code[code])
+        self.solr.delete_query("b1g_code_s:" + self.code[code])
 
     def delete_records_publisher(self, publisher):
         """
@@ -410,8 +412,8 @@ def main():
     elif args.delete_one_record:
         interface.delete_one_record(args.delete_one_record)
 
-    elif args.delete_publisher:
-        interface.delete_publisher(args.delete_publisher)
+#     elif args.delete_publisher:
+#         interface.delete_publisher(args.delete_publisher)
 
     elif args.delete_subject:
         interface.delete_subject(args.delete_subject)

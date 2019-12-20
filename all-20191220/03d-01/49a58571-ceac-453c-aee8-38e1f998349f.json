@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "49a58571-ceac-453c-aee8-38e1f998349f",
+  "dc_identifier_s": "49a58571-ceac-453c-aee8-38e1f998349f",
+  "b1g_date_range_drsim": [
+    "[1910 TO 1910]"
+  ],
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "dc_subject_sm": [
+    "Atlases"
+  ],
+  "b1g_dateAccessioned_s": "2019-05-21",
+  "solr_year_i": "1910",
+  "dc_format_s": "JPEG",
+  "solr_geom": "ENVELOPE(-95.88227844,-95.38359833,41.15956879,40.9002533)",
+  "b1g_keyword_sm": [
+    "Iowa Counties Historic Atlases"
+  ],
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Iowa",
+  "dct_accrualMethod_s": "",
+  "b1g_image_ss": "https://digital.lib.uiowa.edu/utils/getdownloaditem/collection/atlases/id/476/type/singleitem/filename/image.jp2/width/8320/height/5698/mapsto/image/filesize/82281747/title/30263/size/fullSize",
+  "dct_issued_s": "1910",
+  "suppressed_b": "TRUE",
+  "dc_description_s": "",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    ""
+  ],
+  "dc_title_s": "The Anderson Publishing Co.",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "",
+  "dct_isPartOf_sm": [
+    "0fcaf870-a519-4c29-b9f9-99895db89b66"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image"
+  ],
+  "dc_publisher_sm": [
+    "Anderson Publishing Co."
+  ],
+  "dct_spatial_sm": [
+    "Mills County, Iowa",
+    "Fremont County, Iowa",
+    "Iowa"
+  ],
+  "b1g_centroid_ss": "41.029911045000006,-95.63293838499999",
+  "b1g_genre_sm": [
+    "Text"
+  ],
+  "b1g_code_s": "03d-01",
+  "dc_creator_sm": [
+    ""
+  ]
+}

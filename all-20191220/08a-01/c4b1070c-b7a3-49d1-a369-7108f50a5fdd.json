@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "c4b1070c-b7a3-49d1-a369-7108f50a5fdd",
+  "dc_identifier_s": "c4b1070c-b7a3-49d1-a369-7108f50a5fdd",
+  "b1g_date_range_drsim": [
+    "[2003 TO 2003]"
+  ],
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "dc_subject_sm": [
+    "Environment"
+  ],
+  "b1g_dateAccessioned_s": "2019-09-05",
+  "solr_year_i": "2003",
+  "dc_format_s": "Files",
+  "solr_geom": "ENVELOPE(-80.5211,-74.6895,42.5147,39.7198)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Penn State",
+  "dct_accrualMethod_s": "HTML",
+  "b1g_image_ss": "",
+  "dct_issued_s": "",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "2003 York County Landcover Layer. Aerial Imagery used for creation of this dataset was from PAMAP program in 2003. Other Layers Used in this layer is Parcels (for snapping and Landuse codes), Lakes and Ponds, Parks, Roads buffered to 11 feet on each side, Streams buffered to 6 feet on each side and Railroads buffered to 8 feet on each side. Dataset has been dissvoled except for Road Rightaway which has been dissolved by tiles that are used in the PAMAP program. Oldest oblqiue and google streetview was used as well. Intended for illustration and demonstration purposes only",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "York County PA - Landcover"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Landcover: York County, Pennsylvania, 2003",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=1781\",\"http://schema.org/downloadUrl\":\"https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=1781\",\"http://www.w3.org/1999/xhtml\":\"https://btaagdp.org/metadata/08a-01/FullMetadataDisplay.aspx%3ffile=YorkCounty_LANDUSE_Landcover.html\"}",
+  "dct_isPartOf_sm": [
+    "08a-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "dc_publisher_sm": [
+    "York County, Pennsylvania"
+  ],
+  "dct_spatial_sm": [
+    "York County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "b1g_centroid_ss": "41.11725,-77.6053",
+  "b1g_genre_sm": [
+    ""
+  ],
+  "b1g_code_s": "08a-01",
+  "dc_creator_sm": [
+    ""
+  ]
+}

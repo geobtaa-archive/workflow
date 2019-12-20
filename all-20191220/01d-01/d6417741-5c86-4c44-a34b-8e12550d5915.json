@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "d6417741-5c86-4c44-a34b-8e12550d5915",
+  "dc_identifier_s": "d6417741-5c86-4c44-a34b-8e12550d5915",
+  "b1g_date_range_drsim": [
+    "[1917 TO 1917]"
+  ],
+  "dct_temporal_sm": [
+    "1917"
+  ],
+  "dc_subject_sm": [
+    "Thematic maps"
+  ],
+  "b1g_dateAccessioned_s": "2019-01-16",
+  "solr_year_i": "1917",
+  "dc_format_s": "JPEG",
+  "solr_geom": "ENVELOPE(-86.76,-86.36,40.73,40.43)",
+  "b1g_keyword_sm": [
+    "Soils",
+    "Indiana Historic Maps"
+  ],
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Indiana",
+  "dct_accrualMethod_s": "",
+  "b1g_image_ss": "https://purl.dlib.indiana.edu/iudl/images/VAC3073/thumbnail/VAC3073-M-01476",
+  "dct_issued_s": "",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "Detached from: Carroll County / C.P. Erni and C.C. Beals. In Forty-first annual report of Department of Geology and Natural Resources, Indiana. Fort Wayne: Fort Wayne Printing Company, 1917.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Soil map of Carroll County /soils surveyed by C.P. Erni and C.C. Beals in 1916.",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-01476\",\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-01476\"}",
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image"
+  ],
+  "dc_publisher_sm": [
+    "Ind. Dept. of Geology"
+  ],
+  "dct_spatial_sm": [
+    "Indiana",
+    "Carroll County, Indiana"
+  ],
+  "b1g_centroid_ss": "40.58,-86.56",
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "b1g_code_s": "01d-01",
+  "dc_creator_sm": [
+    ""
+  ]
+}

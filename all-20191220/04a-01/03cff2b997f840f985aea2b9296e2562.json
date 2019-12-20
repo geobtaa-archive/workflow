@@ -1,0 +1,71 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "03cff2b997f840f985aea2b9296e2562",
+  "dc_identifier_s": "03cff2b997f840f985aea2b9296e2562",
+  "b1g_date_range_drsim": [
+    "[2013 TO 2013]"
+  ],
+  "dct_temporal_sm": [
+    "2013"
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps",
+    "Elevation"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2013",
+  "dc_format_s": "Imagery",
+  "solr_geom": "ENVELOPE(-76.0205,-75.6682,39.1535,38.623)",
+  "b1g_keyword_sm": [
+    "MD",
+    "MD iMAP",
+    "Maryland",
+    "LiDAR",
+    "Maryland Department of Information Technology",
+    "DoIT",
+    "Elevation",
+    "Caroline",
+    "Hillshade"
+  ],
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2018-01-12",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "This is a MD iMAP hosted service. Find more information at http://imap.maryland.gov.Geographic Extent: SANDY_Restoration_DE_MD_QL2 Area of Interest covers approximately 3.096 square miles. Lot #5 contains the full project area Dataset Description: The SANDY_Restoration_DE_MD_QL2 project called for the Planning, Acquisition, processing and derivative products of LIDAR data to be collected at a nominal pulse spacing (NPS) of 0.7 meters. Project specifications are based on the U.S. Geological Survey National Geospatial Program Base LIDAR Specification, Version 1. The data was developed based on a horizontal projection/datum of State Plane Zone Maryland (1900), NAD83, feet and vertical datum of NAVD1988 (GEOID12A), feet. LiDAR data was delivered in RAW flight line swath format, processed to create Classified LAS 1.2 Files formatted to 3842 individual 1500m x 1500m tiles, and corresponding Intensity Images and Bare Earth DEMs tiled to the same 1500m x 1500m schema, and Breaklines in ESRI shapefile format. Ground Conditions: LiDAR was collected in Winter 2013 / Spring 2014, while no snow was on the ground and rivers were at or below normal levels. In order to post process the LiDAR data to meet task order specifications, Quantum Spatial established a total of 78 QA control points and 99 Land Cover control points that were used to calibrate the LIDAR to known ground locations established throughout the SANDY_Restoration_DE_MD_QL2 project area.Image Service Link: https://lidar.geodata.md.gov/imap/rest/services/Caroline/MD_caroline_hillshade_m/ImageServer",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Lidar-Derived Hillshade, Maryland Imap: Caroline County, Maryland, 2013",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/03cff2b997f840f985aea2b9296e2562\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/03cff2b997f840f985aea2b9296e2562\",\"urn:x-esri:serviceType:ArcGIS#ImageMapLayer\":\"https://lidar.geodata.md.gov/imap/rest/services/Caroline/MD_caroline_hillshade_m/ImageServer\"}",
+  "dct_isPartOf_sm": [
+    "04a-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dct_spatial_sm": [
+    "Maryland"
+  ],
+  "b1g_centroid_ss": "38.88825,-75.84434999999999",
+  "b1g_genre_sm": [
+    "Aerial imagery"
+  ],
+  "b1g_code_s": "04a-01",
+  "dc_creator_sm": [
+    "ArcGIS Online for Maryland"
+  ]
+}

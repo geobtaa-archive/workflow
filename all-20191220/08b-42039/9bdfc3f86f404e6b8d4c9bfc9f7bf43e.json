@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "9bdfc3f86f404e6b8d4c9bfc9f7bf43e",
+  "dc_identifier_s": "9bdfc3f86f404e6b8d4c9bfc9f7bf43e",
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "b1g_dateAccessioned_s": "2019-05-29",
+  "solr_year_i": "2019",
+  "dc_format_s": "Imagery",
+  "solr_geom": "ENVELOPE(-180,180,90,-90)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Penn State",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2019-04-15",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "Product: This orthoimagery data set includes 0.5-foot (15-centimeter) 8-bit 4-band (RGBN) digital orthoimage tiles in GeoTIFF format. Geographic Extent: The Crawford County AOI covers approximately 1069 total square miles (2,769 total square kilometers) in the vicinity of Meadville in the Commonwealth of Pennsylvania. Dataset Description: The PEMA 2018 0.5-foot Orthoimagery - Crawford County Delivery project called for the planning, acquisition, processing, and derivative products of imagery data to be collected at a ground sample distance (GSD) of 0.5-foot (15 centimeters). Project specifications are based on the U.S. Geological Survey National Geospatial Program Base Ortho Specification, Version 1.0. The data were developed based on a horizontal projection/datum of NAD83 (2011) State Plane Pennsylvania North FIPS 3701, US Survey Feet. Orthoimagery data was delivered as 352 individual 0.5-foot (15-centimeter) 1 = 100' GeoTIFF (uncompressed) 10,000-foot x 10,000-foot (3,048-meter x 3,048-meter) tiles. Ground Conditions: Aerial photography was captured during the spring of 2018, while no snow was on the ground and rivers were at or below normal levels. In order to post process the imagery data to meet task order specifications and meet horizontal accuracy guidelines, Quantum Spatial, Inc. utilized a total of 496 QC points throughout the Commonwealth of Pennsylvania to assess the horizontal accuracy of the data. These checkpoints were not used to calibrate or post process the data.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "PEMA 2018 Orthoimagery"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "PEMA 2018 Orthoimagery: Crawford County, Pennsylvania",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://share-open-data-crawfordcountypa.opendata.arcgis.com/datasets/9bdfc3f86f404e6b8d4c9bfc9f7bf43e\",\"http://schema.org/downloadUrl\":\"http://share-open-data-crawfordcountypa.opendata.arcgis.com/datasets/9bdfc3f86f404e6b8d4c9bfc9f7bf43e\",\"urn:x-esri:serviceType:ArcGIS#ImageMapLayer\":\"https://ccgis.crawfordcountypa.net/arcgis/rest/services/raster_orthos/PEMA_2018_IMAGERY/ImageServer\"}",
+  "dct_isPartOf_sm": [
+    "08b-42039"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Crawford County, Pennsylvania"
+  ],
+  "dct_spatial_sm": [
+    "Crawford County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "b1g_centroid_ss": "0.0,0.0",
+  "b1g_genre_sm": [
+    "Aerial imagery"
+  ],
+  "b1g_code_s": "08b-42039",
+  "dc_creator_sm": [
+    "Crawford County PA Government"
+  ]
+}

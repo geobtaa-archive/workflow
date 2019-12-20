@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "d684675b-40a9-41c0-960b-2f04f4826185",
+  "dc_identifier_s": "d684675b-40a9-41c0-960b-2f04f4826185",
+  "b1g_date_range_drsim": [
+    "[2017 TO 2017]"
+  ],
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "b1g_dateAccessioned_s": "2019-07-23",
+  "solr_year_i": "2017",
+  "dc_format_s": "Imagery",
+  "solr_geom": "ENVELOPE(-93.329853,-92.729236,44.923499,44.468748)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Minnesota",
+  "dct_accrualMethod_s": "Minnesota Geospatial Commons",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2017-10-26",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "County wide ortho photography at 6-inch pixel resolution in County Coordinates. The photography was exposed on 4/1/17, 4/4/2017, 4/6/2017, 4/7/2017, 4/22/2017, 4/23/2017,  4/29/2017, 5/2/2017, 5/3/2017, 5/4/2017, 5/5/2017, and 5/7/2017.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Aerial Photography - 2017 Spring, Dakota County: Minnesota",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/d684675b-40a9-41c0-960b-2f04f4826185\",\"http://www.w3.org/1999/xhtml\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_co_dakota/base_aerialphotography_2017_sprg/metadata/metadata.html\"}",
+  "dct_isPartOf_sm": [
+    "05a-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Dakota County, Minnesota"
+  ],
+  "dct_spatial_sm": [
+    "Dakota County, Minnesota",
+    "Minnesota"
+  ],
+  "b1g_centroid_ss": "44.6961235,-93.0295445",
+  "b1g_genre_sm": [
+    "Aerial imagery"
+  ],
+  "b1g_code_s": "05a-01",
+  "dc_creator_sm": [
+    ""
+  ]
+}

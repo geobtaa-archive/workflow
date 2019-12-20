@@ -1,0 +1,68 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "7f30864f98784221b586d1c0c0e2ac96_1",
+  "dc_identifier_s": "7f30864f98784221b586d1c0c0e2ac96_1",
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "dc_subject_sm": [
+    "Geoscientific Information"
+  ],
+  "b1g_dateAccessioned_s": "2019-11-10",
+  "solr_year_i": "2019",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-84.2498,-83.1709,42.7701,41.9822)",
+  "b1g_keyword_sm": [
+    "SSURGO",
+    "Soils",
+    "NRCS",
+    "Natural Resources Conservation Service",
+    "Matthaei-Nichols",
+    "Basedata",
+    "Huron Subbasin"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Michigan",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2019-03-13T14:33:40.000Z",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "Soil mapunits are the basic geographic unit of the Soil Survey Geographic Database (SSURGO). The SSURGO dataset is a compilation of soils information collected over the last century by the Natural Resources Conservation Service (NRCS). Mapunits delineate the extent of different soils. Data for each mapunit contains descriptions of the soil s components, productivity, unique properties, and suitability interpretations.Each soil type has a unique combination of physical, chemical, nutrient and moisture properties. Soil type has ramifications for engineering and construction activities, natural hazards such as landslides, agricultural productivity, the distribution of native plant and animal life and hydrologic and other physical processes. Soil types in the context of climate and terrain can be used as a general indicator of engineering constraints, agriculture suitability, biological productivity and the natural distribution of plants and animals.Dataset SummaryThe map packages were created from the January 2018 SSURGO snapshot. The dataset covers the 48 contiguous United States plus Hawaii and portions of Alaska. Map packages are available for Puerto Rico and the US Virgin Islands. A map package for US Island Territories and associated states of the Pacific Ocean can be downloaded by clicking one of the included areas in the map. The Pacific Map Package includes: Guam, the Marshall Islands, the Northern Marianas Islands, Palau, the Federated States of Micronesia, and American Samoa.Not all areas within SSURGO have completed soil surveys and many attributes have areas with no data. AttributesKey fields from eight commonly used SSURGO tables were compiled to create the 155 attribute fields in this layer. Some fields were joined directly to the SSURGO Map Unit polygon feature class while others required summarization and other processing to create a 1:1 relationship between the attributes and polygons prior to joining the tables. Attributes of this layer are listed below in their order of occurrence in the attribute table and are organized by the SSURGO table they originated from and the processing methods used on them.Map Unit Polygon Feature Class Attribute TableThe fields in this table are from the attribute table of the Map Unit polygon feature class which provides the geographic extent of the map units.Area SymbolSpatial VersionMap Unit SymbolMap Unit TableThe fields in this table have a 1:1 relationship with the map unit polygons and were joined to the table using the Map Unit Key field.Map Unit NameMap Unit KindFarmland ClassInterpretive FocusIntensity of MappingIowa Corn Suitability RatingLegend TableThis table has 1:1 relationship with the Map Unit table and was joined using the Legend Key field.Project ScaleSurvey Area Catalog TableThe fields in this table have a 1:1 relationship with the polygons and were joined to the Map Unit table using the Survey Area Catalog Key and Legend Key fields.Survey Area VersionTabular VersionMap Unit Aggregated Attribute TableThe fields in this table have a 1:1 relationship with the map unit polygons and were joined to the Map Unit attribute table using the Map Unit Key field.Slope Gradient - Dominant ComponentSlope Gradient - Weighted AverageBedrock Depth - MinimumWater Table Depth - Annual MinimumWater Table Depth - April to June MinimumFlooding Frequency - Dominant ConditionFlooding Frequency - MaximumPonding Frequency - PresenceAvailable Water Storage 0-25 cm - Weighted AverageAvailable Water Storage 0-50 cm - Weighted AverageAvailable Water Storage 0-100 cm - Weighted AverageAvailable Water Storage 0-150 cm - Weighted AverageDrainage Class - Dominant ConditionDrainage Class - WettestHydrologic Group - Dominant ConditionIrrigated Capability Class - Dominant ConditionIrrigated Capability Class - Proportion of Mapunit with Dominant ConditionNon-Irrigated Capability Class - Dominant ConditionNon-Irrigated Capability Class - Proportion of Mapunit with Dominant ConditionRating for Buildings without Basements - Dominant ConditionRating for Buildings with Basements - Dominant ConditionRating for Buildings with Basements - Least LimitingRating for Buildings with Basements - Most LimitingRating for Septic Tank Absorption Fields - Dominant ConditionRating for Septic Tank Absorption Fields - Least LimitingRating for Septic Tank Absorption Fields - Most LimitingRating for Sewage Lagoons - Dominant ConditionRating for Sewage Lagoons - Dominant ComponentRating for Roads and Streets - Dominant ConditionRating for Sand Source - Dominant ConditionRating for Sand Source - Most ProbableRating for Paths and Trails - Dominant ConditionRating for Paths and Trails - Weighted AverageErosion Hazard of Forest Roads and Trails - Dominant ComponentHydric Classification - PresenceRating for Manure and Food Processing Waste - Weighted AverageComponent Table  Dominant ComponentMap units have one or more components. To create a 1:1 join component data must be summarized by map unit. For these fields a custom script was used to select the component with the highest value for the Component Percentage Representative Value field (comppct_r). Ties were broken with the Slope Representative Value field (slope_r). Components with lower average slope were selected as dominant. If both soil order and slope were tied, the first value in the table was selected.Component Percentage - Low ValueComponent Percentage - Representative ValueComponent Percentage - High ValueComponent NameComponent KindOther Criteria Used to Identify ComponentsCriteria Used to Identify Components at the Local LevelRunoff ClassSoil loss tolerance factorWind Erodibility IndexWind Erodibility GroupErosion ClassEarth Cover 1Earth Cover 2Hydric ConditionHydric RatingAspect Range - Counter Clockwise LimitAspect - Representative ValueAspect Range - Clockwise LimitGeomorphic DescriptionNon-Irrigated Capability SubclassNon-Irrigated Unit Capability ClassIrrigated Capability SubclassIrrigated Unit Capability ClassConservation Tree Shrub GroupGrain Wildlife HabitatGrass Wildlife HabitatHerbaceous Wildlife HabitatShrub Wildlife HabitatConifer Wildlife HabitatHardwood Wildlife HabitatWetland Wildlife HabitatShallow Water Wildlife HabitatRangeland Wildlife HabitatOpenland Wildlife HabitatWoodland Wildlife HabitatWetland Wildlife HabitatSoil Slip PotentialSusceptibility to Frost HeavingConcrete CorrosionSteel CorrosionTaxonomic ClassTaxonomic OrderTaxonomic SuborderGreat GroupSubgroupParticle SizeParticle Size ModCation Exchange Activity ClassCarbonate ReactionTemperature ClassMoist SubclassSoil Temperature RegimeEdition of Keys to Soil Taxonomy Used to Classify SoilCalifornia Storie IndexComponent KeyComponent Table  Weighted AverageMap units may have one or more soil components. To create a 1:1 join, data from the Component table must be summarized by map unit. For these fields a custom script was used to calculate an average value for each map unit weighted by the Component Percentage Representative Value field (comppct_r).Slope Gradient - Low ValueSlope Gradient - Representative ValueSlope Gradient - High ValueSlope Length USLE - Low ValueSlope Length USLE - Representative ValueSlope Length USLE - High ValueElevation - Low ValueElevation - Representative ValueElevation - High ValueAlbedo - Low ValueAlbedo - Representative ValueAlbedo - High ValueMean Annual Air Temperature - Low ValueMean Annual Air Temperature - Representative ValueMean Annual Air Temperature - High ValueMean Annual Precipitation - Low ValueMean Annual Precipitation - Representative ValueMean Annual Precipitation - High ValueRelative Effective Annual Precipitation - Low ValueRelative Effective Annual Precipitation - Representative ValueRelative Effective Annual Precipitation - High ValueDays between Last and First Frost - Low ValueDays between Last and First Frost - Representative ValueDays between Last and First Frost - High ValueRange Forage Annual Potential Production - Low ValueRange Forage Annual Potential Production - Representative ValueRange Forage Annual Potential Production - High ValueInitial Subsidence - Low ValueInitial Subsidence - Representative ValueInitial Subsidence - High ValueTotal Subsidence - Low ValueTotal Subsidence - Representative ValueTotal Subsidence - High ValueValu1 table (gSSURGO)The fields in this table have a 1:1 relationship with the map unit polygons and were joined to the table using the Map Unit Key field.Crop Productivity Index (ncppi_all field)Esri Symbology\tThis field was created to provide symbology based on the Taxonomic Order field (taxorder). Because some mapunits have a null value for soil order, a custom script was used to populate this field using the Component Name (compname) and Mapunit Name (muname) fields. This field was created using the dominant component of each mapunit.Esri SymbologyHorizon TableEach map unit polygon has one or more components and each component has one or more layers known as horizons. To incorporate this field from the Horizon table into the attributes for this layer, a custom script was used to first calculate the mean value weighted by thickness of the horizon for each component and then a mean value of components weighted by the Component Percentage Representative Value field for each map unit. K-Factor Rock FreeEsri Soil OrderThese fields were calculated from the Component table using a model that included the Pivot Table Tool, the Summarize Tool and a custom script. The first 11 fields provide the sum of Component Percentage Representative Value for each soil order for each map unit. The Soil Order Dominant Condition field was calculated by selecting the highest value in the preceding 11 soil order fields. In the case of tied values the component with the lowest average slope value (slope_r) was selected. If both soil order and slope were tied the first value in the table was selected.Percent AlfisolsPercent AndisolsPercent AridisolsPercent EntisolsPercent GelisolsPercent HistosolsPercent InceptisolsPercent MollisolsPercent SpodosolsPercent UltisolsPercent VertisolsSoil Order - Dominant ConditionEsri Popup StringThis field contains a text string calculated by Esri that is used to create a basic pop-up using some of the more popular SSURGO attributes.Map Unit KeyThe Mapunit key field is found throughout SSURGO and provides a primary link between the geographic and tabular data.Map Unit KeyFor more information on the fields, tables and relationships of SSURGO see the metadata produced by NRCS:Link to source metadata",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "Soils of the Huron Subbasin"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Soils of the Huron Subbasin: University of Michigan",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://mbgna-umich.opendata.arcgis.com/datasets/7f30864f98784221b586d1c0c0e2ac96_1\",\"http://schema.org/downloadUrl\":\"http://mbgna-umich.opendata.arcgis.com/datasets/7f30864f98784221b586d1c0c0e2ac96_1.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/4ezfu5dIwH83BUNL/arcgis/rest/services/MBGNA_SOIL_SSURGO_HuronSubbasin_py/FeatureServer/1\"}",
+  "dct_isPartOf_sm": [
+    "07d-02"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "University of Michigan"
+  ],
+  "dct_spatial_sm": [
+    "Michigan"
+  ],
+  "b1g_centroid_ss": "42.376149999999996,-83.71035",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "07d-02",
+  "dc_creator_sm": [
+    "University of Michigan"
+  ]
+}

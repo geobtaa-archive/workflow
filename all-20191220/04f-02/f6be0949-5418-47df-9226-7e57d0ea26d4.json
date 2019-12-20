@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "f6be0949-5418-47df-9226-7e57d0ea26d4",
+  "dc_identifier_s": "f6be0949-5418-47df-9226-7e57d0ea26d4",
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2016",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-77.529239,-76.887308,39.354447,38.933118)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Polygon",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2016-07-18",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "A geographic sub-area of the County delineated by the Planning Board and adopted by the County Council in the Growth Policy for the purpose of staging analysis and the establishment of transportation staging ceiling capacities.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Transportation Policy Areas, Planning Board Growth Policy: Montgomery County, Maryland, 2016",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://montgomeryplanning.org/tools/gis-and-mapping/gis-data/data-downloads/\",\"http://schema.org/downloadUrl\":\"http://mcatlas.org/tiles/00_Shapefiles/Policy_Areas(prior%20to%202017).zip\"}",
+  "dct_isPartOf_sm": [
+    "04f-02"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "dc_publisher_sm": [
+    "The Maryland-National Capital Park and Planning Commission"
+  ],
+  "dct_spatial_sm": [
+    "Montgomery County, Maryland",
+    "Maryland"
+  ],
+  "b1g_centroid_ss": "39.1437825,-77.2082735",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "04f-02",
+  "dc_creator_sm": [
+    "Montgomery County Planning Department of the Maryland National Capital Park and Planning Commission"
+  ]
+}

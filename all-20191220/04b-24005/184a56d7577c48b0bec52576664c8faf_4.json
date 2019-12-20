@@ -1,0 +1,66 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "184a56d7577c48b0bec52576664c8faf_4",
+  "dc_identifier_s": "184a56d7577c48b0bec52576664c8faf_4",
+  "b1g_date_range_drsim": [
+    "[2017 TO 2017]"
+  ],
+  "dct_temporal_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Location"
+  ],
+  "b1g_dateAccessioned_s": "",
+  "solr_year_i": "2017",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-76.8812,-76.3422,39.7219,39.1884)",
+  "b1g_keyword_sm": [
+    "baltimore county",
+    "cultural",
+    "historic",
+    "planning"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2017-03-22T17:46:43.000Z",
+  "suppressed_b": "TRUE",
+  "dc_description_s": "Point location for national Register of Historic Places.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "National Register of Historic Places: Baltimore County, Maryland",
+  "b1g_dateRetired_s": "2019-09-06",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data-bc-gis.opendata.arcgis.com/datasets/184a56d7577c48b0bec52576664c8faf_4\",\"http://schema.org/downloadUrl\":\"http://data-bc-gis.opendata.arcgis.com/datasets/184a56d7577c48b0bec52576664c8faf_4.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://bcgis.baltimorecountymd.gov/arcgis/rest/services/Historic/Historic/MapServer/4\"}",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Retired",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Baltimore County, Maryland"
+  ],
+  "dct_spatial_sm": [
+    "Baltimore County, Maryland",
+    "Maryland"
+  ],
+  "b1g_centroid_ss": "39.45515,-76.61170000000001",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "04b-24005",
+  "dc_creator_sm": [
+    "Baltimore County Web Map Portal"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "77a3baf1-ce66-4a5c-a8a4-c7c155463edc",
+  "dc_identifier_s": "77a3baf1-ce66-4a5c-a8a4-c7c155463edc",
+  "b1g_date_range_drsim": [
+    "[1903 TO 1903]"
+  ],
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_dateAccessioned_s": "2019-01-16",
+  "solr_year_i": "1903",
+  "dc_format_s": "JPEG",
+  "solr_geom": "ENVELOPE(170.6,-66.9,71.5,18.8)",
+  "b1g_keyword_sm": [
+    "Michigan State University Map Library"
+  ],
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Michigan State",
+  "dct_accrualMethod_s": "",
+  "b1g_image_ss": "https://btaagdp.org/maps/files/original/5600871f8e668187dc855dd2227e8e88.jpg",
+  "dct_issued_s": "",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Race and Occupation of immigrants by destination. Also the yearly increase and decrease of each state\u2019s proportion and the number.",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://lib.msu.edu/branches/maps/MSU-Scanned/UnitedStates/1903-immigration/\",\"http://schema.org/downloadUrl\":\"https://archive.lib.msu.edu/maps/MSU-Scanned/UnitedStates/800-C-1903.jpg\"}",
+  "dct_isPartOf_sm": [
+    "06d-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "b1g_centroid_ss": "45.15,51.849999999999994",
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "b1g_code_s": "06d-01",
+  "dc_creator_sm": [
+    ""
+  ]
+}

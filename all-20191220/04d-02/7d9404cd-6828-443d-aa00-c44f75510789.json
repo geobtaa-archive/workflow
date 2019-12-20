@@ -1,0 +1,61 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "7d9404cd-6828-443d-aa00-c44f75510789",
+  "dc_identifier_s": "7d9404cd-6828-443d-aa00-c44f75510789",
+  "b1g_date_range_drsim": [
+    "[1904 TO 1904]"
+  ],
+  "dct_temporal_sm": [
+    "1904"
+  ],
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "b1g_dateAccessioned_s": "2019-11-04",
+  "solr_year_i": "1904",
+  "dc_format_s": "TIFF",
+  "solr_geom": "ENVELOPE(14.482375,14.67887222,53.39745556,53.29906944)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "Dublin Core",
+  "b1g_image_ss": "",
+  "dct_issued_s": "1904",
+  "suppressed_b": "",
+  "dc_description_s": "Map of Denmark - Saxkj\u00f6bing (Saksk\u00f8bing), 1904. Scale=1:20,000. Topography, towns, roads for parts of Denmark",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "mdu-057059"
+  ],
+  "dc_language_sm": [
+    ""
+  ],
+  "dc_title_s": "Map of Denmark - Saxkj\u00f6bing (Saksk\u00f8bing), 1904",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/1d/01/a2/1d/1d01a21d-be56-4a60-84eb-14460c5f1828\"}",
+  "dct_isPartOf_sm": [
+    "04d-02"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image"
+  ],
+  "dc_publisher_sm": [
+    "Geodetic Institute"
+  ],
+  "dct_spatial_sm": [
+    "Saksk\u00f8bing, Denmark"
+  ],
+  "b1g_centroid_ss": "53.3482625,14.58062361",
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "b1g_code_s": "04d-02",
+  "dc_creator_sm": [
+    ""
+  ]
+}

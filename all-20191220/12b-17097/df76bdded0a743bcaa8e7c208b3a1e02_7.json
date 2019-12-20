@@ -1,0 +1,72 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "df76bdded0a743bcaa8e7c208b3a1e02_7",
+  "dc_identifier_s": "df76bdded0a743bcaa8e7c208b3a1e02_7",
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "dct_temporal_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2016",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-88.1489,-87.8269,42.4044,42.2005)",
+  "b1g_keyword_sm": [
+    "Lake County Illinois",
+    "Sanitation",
+    "Water",
+    "Environmental Health",
+    "Lake Michigan",
+    "Joint Action Water Agency",
+    "JAWA",
+    "Tax Districts",
+    "Tax Districts spatial data",
+    "Health spatial data"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Chicago",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2016-11-21",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "The Central Lake County Joint Action Water Agency (JAWA) is a consortium of the municipalities of Grayslake, Gurnee, Lake Bluff, Libertyville, Mundelein, Round Lake, Round Lake Beach, Round Lake Heights, Round Lake Park and Lake County Government representing the communities of Knollwood/Rondout, Vernon Hills and Wildwood for the purpose of supplying Lake Michigan water to these geographic areas. Update Frequency: This dataset is updated on a weekly basis.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Joint Action Water Agency (Jawa): Lake County, Illinois, United States",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data-lakecountyil.opendata.arcgis.com/datasets/df76bdded0a743bcaa8e7c208b3a1e02_7\",\"http://schema.org/downloadUrl\":\"http://data-lakecountyil.opendata.arcgis.com/datasets/df76bdded0a743bcaa8e7c208b3a1e02_7.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services3.arcgis.com/HESxeTbDliKKvec2/arcgis/rest/services/LakeCounty_TaxDistricts/FeatureServer/7\"}",
+  "dct_isPartOf_sm": [
+    "12b-17097"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Lake County, Illinois"
+  ],
+  "dct_spatial_sm": [
+    "Lake County, Illinois",
+    "Illinois"
+  ],
+  "b1g_centroid_ss": "42.30245,-87.9879",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "12b-17097",
+  "dc_creator_sm": [
+    "Lake County, Illinois"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "f81c33b967fd49aa8ef06ab7ce950010_5",
+  "dc_identifier_s": "f81c33b967fd49aa8ef06ab7ce950010_5",
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "dct_temporal_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Health"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2016",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-88.1999,-87.7561,42.4952,42.1524)",
+  "b1g_keyword_sm": [
+    "Lake County Illinois",
+    "Sexually Transmitted Infection",
+    "STI",
+    "Sexually Transmitted Disease",
+    "STD",
+    "Chlamydia",
+    "Gonorrhea",
+    "Health"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Chicago",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2016-12-07",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "STI Rates in Lake County, Illinois. An explanation of field attributes: Chlamydia- Chlamydia is a common sexually transmitted infection (STI) caused by the bacteria Chlamydia trachomatis. This is a rate per 100,000. Gonorrhea Gonorrhea is a common sexually transmitted infection (STI) caused by the bacteria Neisseria gonorrhoeae. This is a rate per 100,000.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Sexually Transmitted Infection Rates: Lake County, Illinois",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data-lakecountyil.opendata.arcgis.com/datasets/f81c33b967fd49aa8ef06ab7ce950010_5\",\"http://schema.org/downloadUrl\":\"http://data-lakecountyil.opendata.arcgis.com/datasets/f81c33b967fd49aa8ef06ab7ce950010_5.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services3.arcgis.com/HESxeTbDliKKvec2/ArcGIS/rest/services/LakeCounty_Health/FeatureServer/5\"}",
+  "dct_isPartOf_sm": [
+    "12b-17097"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Lake County, Illinois"
+  ],
+  "dct_spatial_sm": [
+    "Lake County, Illinois",
+    "Illinois"
+  ],
+  "b1g_centroid_ss": "42.3238,-87.97800000000001",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "12b-17097",
+  "dc_creator_sm": [
+    "Lake County, Illinois"
+  ]
+}

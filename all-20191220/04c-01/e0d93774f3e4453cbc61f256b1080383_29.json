@@ -1,0 +1,71 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "e0d93774f3e4453cbc61f256b1080383_29",
+  "dc_identifier_s": "e0d93774f3e4453cbc61f256b1080383_29",
+  "b1g_date_range_drsim": [
+    "[2015 TO 2015]"
+  ],
+  "dct_temporal_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "b1g_dateAccessioned_s": "2019-05-29",
+  "solr_year_i": "2015",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-77.1194,-76.9092,38.9957,38.8034)",
+  "b1g_keyword_sm": [
+    "DC GIS",
+    "District of Columbia",
+    "june2015",
+    "Landuse",
+    "neighborhood",
+    "neighborhood planning",
+    "Planning",
+    "residential",
+    "Washington DC",
+    "Zoning"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2015-06-04",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "The dataset contains locations and attributes of Neighborhood Planning Areas provided by the Office of Planning (DCOP). These do not reflect precise neighborhood locations and do not necessarily include all commonly-used neighborhood designations.  There is no formal set of standards that describes which neighborhoods are included in this dataset.  Note that the District of Columbia does not have official neighborhood boundaries.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Neighborhood Planning Areas: Washington D.C.",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/e0d93774f3e4453cbc61f256b1080383_29\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/e0d93774f3e4453cbc61f256b1080383_29.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Planning_Landuse_and_Zoning_WebMercator/MapServer/29\"}",
+  "dct_isPartOf_sm": [
+    "04c-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "District of Columbia"
+  ],
+  "dct_spatial_sm": [
+    "Washington D.C"
+  ],
+  "b1g_centroid_ss": "38.899550000000005,-77.01429999999999",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "04c-01",
+  "dc_creator_sm": [
+    "City of Washington, DC"
+  ]
+}

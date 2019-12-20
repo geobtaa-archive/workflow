@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "bdec3b9100824d41b1a9b231ac361c13_0",
+  "dc_identifier_s": "bdec3b9100824d41b1a9b231ac361c13_0",
+  "b1g_date_range_drsim": [
+    "[2014 TO 2014]"
+  ],
+  "dct_temporal_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Climatology, Meteorology and Atmosphere"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2014",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-118.3958624,-65.79470214,48.15141132,23.01233842)",
+  "b1g_keyword_sm": [
+    "tornadoes",
+    "staffprotect"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Ohio State",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2014-05-17",
+  "suppressed_b": "",
+  "dc_description_s": "USA Tornado Analysis 1950-2011",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Tornadoes: Ohio",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/bdec3b9100824d41b1a9b231ac361c13_0\",\"http://schema.org/downloadUrl\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/bdec3b9100824d41b1a9b231ac361c13_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/qEmpZrqTBf5yoq5n/arcgis/rest/services/tornadoes/FeatureServer/0\"}",
+  "dct_isPartOf_sm": [
+    "11a-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dct_spatial_sm": [
+    "Ohio"
+  ],
+  "b1g_centroid_ss": "35.58187487,-92.09528227",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "11a-01",
+  "dc_creator_sm": [
+    "Teachers Teaching Teachers GIS"
+  ]
+}

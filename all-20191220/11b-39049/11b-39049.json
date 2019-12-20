@@ -1,0 +1,47 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:10:08Z",
+  "layer_slug_s": "11b-39049",
+  "dc_identifier_s": "11b-39049",
+  "b1g_date_range_drsim": [
+    ""
+  ],
+  "dct_temporal_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Counties geospatial data"
+  ],
+  "b1g_dateAccessioned_s": "",
+  "solr_geom": "ENVELOPE(-83.26088,-82.76183,40.14309,39.795)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Table",
+  "dct_provenance_s": "Ohio State",
+  "dct_accrualMethod_s": "ArcGIS HUB",
+  "b1g_image_ss": "",
+  "dct_issued_s": "",
+  "dc_description_s": "The Franklin County Auditor's Location Information Portal is the county's public platform for accessing, exploring and downloading publicly accessible open data.",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Franklin County Auditor, Ohio Open Data",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://auditor-fca.opendata.arcgis.com/\"}",
+  "dc_type_sm": [
+    "Collection"
+  ],
+  "dc_publisher_sm": [
+    "Franklin County, Ohio"
+  ],
+  "dct_spatial_sm": [
+    "Franklin County, Ohio",
+    "Ohio"
+  ],
+  "b1g_centroid_ss": "39.969045,-83.01135500000001",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "11b-39049",
+  "dc_creator_sm": [
+    ""
+  ]
+}

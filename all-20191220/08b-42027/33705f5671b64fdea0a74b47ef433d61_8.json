@@ -1,0 +1,66 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "33705f5671b64fdea0a74b47ef433d61_8",
+  "dc_identifier_s": "33705f5671b64fdea0a74b47ef433d61_8",
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "dct_temporal_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2016",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-78.3817,-77.1415,41.2535,40.69)",
+  "b1g_keyword_sm": [
+    "Centre County",
+    "boundaries",
+    "GIS",
+    "Tax Assessment"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Penn State",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2016-11-22",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "This Parcels layer contains basic geometry and attribute information. It is maintained by the Tax Assessment staff with the assistance of the GIS Department. This contains NO ownership information. Please contact the GIS Department for this dataset.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Parcels: Centre County, Pennsylvania",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://gisdata-centrecountygov.opendata.arcgis.com/datasets/33705f5671b64fdea0a74b47ef433d61_8\",\"http://schema.org/downloadUrl\":\"http://gisdata-centrecountygov.opendata.arcgis.com/datasets/33705f5671b64fdea0a74b47ef433d61_8.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gissites2.centrecountypa.gov/arcgis/rest/services/OpenData/MapServer/8\"}",
+  "dct_isPartOf_sm": [
+    "08b-42027"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Centre County, Pennsylvania"
+  ],
+  "dct_spatial_sm": [
+    "Centre County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "b1g_centroid_ss": "40.97175,-77.76159999999999",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "08b-42027",
+  "dc_creator_sm": [
+    "Centre County Government"
+  ]
+}

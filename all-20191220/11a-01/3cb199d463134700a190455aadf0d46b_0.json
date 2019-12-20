@@ -1,0 +1,64 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "3cb199d463134700a190455aadf0d46b_0",
+  "dc_identifier_s": "3cb199d463134700a190455aadf0d46b_0",
+  "b1g_date_range_drsim": [
+    "[2011 TO 2011]"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "dc_subject_sm": [
+    "Elevation"
+  ],
+  "b1g_dateAccessioned_s": "2019-05-29",
+  "solr_year_i": "2011",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-83.2694,-82.7304,40.2648,39.789)",
+  "b1g_keyword_sm": [
+    "contour",
+    "elevation",
+    "2011"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Ohio State",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2018-08-04",
+  "suppressed_b": "TRUE",
+  "dc_description_s": "ONE OR MORE OF THE ACCESS LINKS FOR THIS RECORD WERE REPORTED AS BROKEN. THE RECORD MAY HAVE BEEN RETIRED BY THE HOST. In 2012, the City of Columbus and Franklin County, OH obtained 1-foot contours covering an approximate area of 600 square miles, which contained all of Franklin County and small portions of Delaware, Licking and Fairfield Counties. The contours were produced from aerial LiDAR data (acquired in 2011) and 3D compiled breaklines produced from aerial 3-inch imagery (acquired in 2011). 3D stereo compiled breaklines were only placed where the LiDAR was not sufficiently depicting the ground surface (i.e. edge of river banks, etc.). The resultant DTM (digital terrain model) was then used to produce 1-foot project wide contours with a vertical accuracy of +/- 9-inches. The 1-foot contours were produced in ESRI Shapefile and AutoCAD DWG formats, with the ESRI Shapefiles being produced in block/regional coverages and with the AutoCAD files being produced in tiled format (mirroring the same size and naming convention as the 3-inch ortho-imagery produced in 2011). The contours were referenced to the Ohio State Plane Coordinate System, Ohio South Zone and with units in US Survey Feet. The horizontal datum referenced is NAD83 (1995) and the vertical datum referenced is NAVD88. The AutoCAD file naming convention is as follows: bsxxxyyy (Ohio South Zone); Please note that xxx and yyy represent the easting and northing coordinates (respectively) in state plane feet. File size of each AutoCAD file varies. Ownership of the data products resides with Columbus, Franklin County and the state of Ohio. Ancillary data products produced through this contract are public domain data.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "1ft Contour Lines Spring 2011"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "One Foot Contour Lines Spring: Ohio, 2011",
+  "b1g_dateRetired_s": "2019-05-29",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/3cb199d463134700a190455aadf0d46b_0\",\"http://schema.org/downloadUrl\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/3cb199d463134700a190455aadf0d46b_0.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"http://maps2.columbus.gov/arcgis/rest/services/Schemas/BaseLayers/MapServer/0\"}",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Retired",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Ohio Geographically Referenced Information Program"
+  ],
+  "dct_spatial_sm": [
+    "Ohio"
+  ],
+  "b1g_centroid_ss": "40.0269,-82.9999",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "11a-01",
+  "dc_creator_sm": [
+    ""
+  ]
+}

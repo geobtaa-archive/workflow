@@ -1,0 +1,66 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "31a2127a3f724f16a290965a1ddad3ae_0",
+  "dc_identifier_s": "31a2127a3f724f16a290965a1ddad3ae_0",
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "dct_temporal_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2018",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-84.91885888,-80.4893189,41.88873569,38.38820418)",
+  "b1g_keyword_sm": [
+    "OHIO",
+    "OEMA",
+    "SWPA1",
+    "OEPA",
+    "SURFACE WATER"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Ohio State",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2018-10-31",
+  "suppressed_b": "",
+  "dc_description_s": "The Ohio Source Water Protection Program is intended to protect Ohio's streams, rivers, lakes, reservoirs, and ground waters used for public drinking water from future contamination. To protect drinking water supplies, a protection area is delineated based on the area that supplies water to the well or surface water intake. The data set swpa_1_active contains source water protection areas at active public water systems and only those source water protection areas that were active at the time of the data export. Inactive source water protection areas (e.g. wells have been deactivated) or proposed source water protection areas (e.g. for wells under development) are not included. A Drinking Water Source Water Protection Area for a public water system using ground water is the surface and subsurface area surrounding a public water supply well(s) which will provide water from an aquifer to the well(s) within five years as delineated or endorsed by the agency under Ohio's Wellhead Protection and Source Water Assessment and Protection Programs. The Inner Management Zone is the surface and subsurface area surrounding a public water supply well(s) that will provide water to the well(s) within one year as delineated or endorsed by the agency under the wellhead protection program and the source water assessment and protection program. Several types of source water protection areas have been defined for surface water supplied water systems. The definiton and the method of delineation are based on the type of water body from which the system withdrawls water. The waterbody types are 1) interior lakes, rivers or streams, 2) the Ohio River or 3) Lake Erie. All of these areas are delineated or endorsed by Ohio EPA under Ohio's Source Water Assessment and Protection Program. For systems with intakes on interior lakes, rivers and streams, three types of areas are defined: 1) the Drinking Water Source Protection Area (DWSPA)- the drainage area upstream of the point where a public water system withdraws water from a surface source; 2) the Corridor Managment Zone (CMZ) - the surface and subsurface area where the potential for drinking water contamination warrants delineation, inventory, and management because of its proximity to a public water system intake; and 3) the Emergency Management Zone - the surface and subsurface area in the immediate vicinity of a public water system intake. For systems with intakes on Lake Erie, a Critical Area Zone (CAZ) is delineated. The size of the CAZ is based upon the sensitivity of the intake to contamination which is determined by its depth and distance from shore. The shape and extent of this area may be modified to take into account site specific conditions. Contaminants within this zone can quickly impact water quality at the intake. A Potential Influence Zone (PIZ) may also be delineated. The PIZ is the area along the lake shore and any contributing tributaries up to the point of known contaminant sources and the length of shoreline where pollutants may become a threat to the intake. Public water systems with intakes on the Ohio River have three zones defined. Zone 1, or the Zone of Critical Concern, extends one quarter mile below a water intake to 25 miles upstream in the Ohio River. Zone 2, the Zone of High Concern extends one quarter mile below a surface water intake, upstream, to one quarter mile below the next Ohio River intake. Major tributaries are incorporated within a 25 mile distance upstream from the intake. Zone 3 is the Source Water Area, or the entire portion of the Ohio River Basin upstream from the surface water intake.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Surface Water Protection Area 1 Year Travel Time: Ohio",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/31a2127a3f724f16a290965a1ddad3ae_0\",\"http://schema.org/downloadUrl\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/31a2127a3f724f16a290965a1ddad3ae_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services6.arcgis.com/zxOMWqh0yAD6mMsJ/arcgis/rest/services/SURFACE_WATER_PROTECTION_AREA_1_YEAR_TRAVEL_TIME/FeatureServer/0\"}",
+  "dct_isPartOf_sm": [
+    "11a-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dct_spatial_sm": [
+    "Ohio"
+  ],
+  "b1g_centroid_ss": "40.138469935,-82.70408889000001",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "11a-01",
+  "dc_creator_sm": [
+    "Ohio Emergency Management Agency"
+  ]
+}

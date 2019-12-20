@@ -1,0 +1,66 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "881cb3c2-6b0d-44f6-ad37-1f3fef029c62",
+  "dc_identifier_s": "881cb3c2-6b0d-44f6-ad37-1f3fef029c62",
+  "b1g_date_range_drsim": [
+    "[1926 TO 1926]"
+  ],
+  "dct_temporal_sm": [
+    "1926"
+  ],
+  "dc_subject_sm": [
+    "Atlases"
+  ],
+  "b1g_dateAccessioned_s": "2019-01-16",
+  "solr_year_i": "1926",
+  "dc_format_s": "JPEG",
+  "solr_geom": "ENVELOPE(-92.55539703,-92.06472778,42.64132309,42.29717636)",
+  "b1g_keyword_sm": [
+    "Real property",
+    "Land ownership",
+    "Iowa Counties Historic Atlases"
+  ],
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Iowa",
+  "dct_accrualMethod_s": "",
+  "b1g_image_ss": "https://digital.lib.uiowa.edu/utils/getthumbnail/collection/atlases/id/8389",
+  "dct_issued_s": "1926",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "(Anderson Publishing Co., 1926, Atlas of Black Hawk County and The World); 1 atlas: b&w.; 31 X 42 cm. No commercial reproduction or distribution of this file is permitted without permission. Iowa State University Library (Ames) University of Iowa Libraries Map Collection",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Atlas of Black Hawk County and The World, 1926",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.lib.uiowa.edu/cdm/ref/collection/atlases/id/8389\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.lib.uiowa.edu/gislib1/rest/services/CICADA/BlackHawk1926/MapServer/0\"}",
+  "dct_isPartOf_sm": [
+    "03d-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image"
+  ],
+  "dc_publisher_sm": [
+    "Anderson Publishing Co."
+  ],
+  "dct_spatial_sm": [
+    "Black Hawk County, Iowa",
+    "Iowa"
+  ],
+  "b1g_centroid_ss": "42.469249725,-92.310062405",
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "b1g_code_s": "03d-01",
+  "dc_creator_sm": [
+    "Anderson Publishing Co.",
+    "Iowa State University Library (Ames)",
+    "University of Iowa Libraries Map Collection"
+  ]
+}

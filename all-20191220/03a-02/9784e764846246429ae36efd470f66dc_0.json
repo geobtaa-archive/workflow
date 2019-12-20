@@ -1,0 +1,71 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "9784e764846246429ae36efd470f66dc_0",
+  "dc_identifier_s": "9784e764846246429ae36efd470f66dc_0",
+  "b1g_date_range_drsim": [
+    "[2015 TO 2015]"
+  ],
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "b1g_dateAccessioned_s": "2019-09-04",
+  "solr_year_i": "2015",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-96.4965,-90.0787,43.472,40.3575)",
+  "b1g_keyword_sm": [
+    "SF257",
+    "Classification",
+    "Improvement",
+    "Ground",
+    "Highway",
+    "Road",
+    "Transportation",
+    "Planning",
+    "Iowa DOT",
+    "Asset"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Iowa",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2015-05-01",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "Data depicting breakdown of city and county funding FY 2016.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "City Raw Data"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "City Raw Data: Iowa",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://public-iowadot.opendata.arcgis.com/datasets/9784e764846246429ae36efd470f66dc_0\",\"https://schema.org/downloadUrl\":\"https://public-iowadot.opendata.arcgis.com/datasets/9784e764846246429ae36efd470f66dc_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/8lRhdTsQyJpO52F1/arcgis/rest/services/SF257/FeatureServer/0\"}",
+  "dct_isPartOf_sm": [
+    "03a-02"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Iowa"
+  ],
+  "dct_spatial_sm": [
+    "Iowa"
+  ],
+  "b1g_centroid_ss": "41.91475,-93.2876",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "03a-02",
+  "dc_creator_sm": [
+    "Iowa Department of Transportation"
+  ]
+}

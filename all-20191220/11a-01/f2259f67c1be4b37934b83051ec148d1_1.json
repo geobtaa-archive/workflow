@@ -1,0 +1,74 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "f2259f67c1be4b37934b83051ec148d1_1",
+  "dc_identifier_s": "f2259f67c1be4b37934b83051ec148d1_1",
+  "b1g_date_range_drsim": [
+    "[2017 TO 2017]"
+  ],
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dc_subject_sm": [
+    "Structure",
+    "Location"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2017",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-83.235306,-82.651943,40.194358,39.770815)",
+  "b1g_keyword_sm": [
+    "Ohio",
+    "City",
+    "Columbus",
+    "Preparedness",
+    "Public Safety",
+    "Emergency Services",
+    "Central Ohio",
+    "Station",
+    "Region",
+    "Township",
+    "Fire Department"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Ohio State",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2017-07-05",
+  "suppressed_b": "",
+  "dc_description_s": "This map layer shows the location of central Ohio fire stations. It has fields that describe the station name, number, and agency that owns it. For the Columbus Fire Department, it also gives hyperlinks to each stations webpage. This data is used for 911 dispatching purposes. Locations are updated as stations are built or removed. This data was created by contacting each municipality or visiting their official websites.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Fire Stations: Central Ohio",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/f2259f67c1be4b37934b83051ec148d1_1\",\"http://schema.org/downloadUrl\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/f2259f67c1be4b37934b83051ec148d1_1.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.columbus.gov/arcgis/rest/services/Schemas/PublicSafety/MapServer/1\"}",
+  "dct_isPartOf_sm": [
+    "11a-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dct_spatial_sm": [
+    "Columbus, Ohio",
+    "Ohio"
+  ],
+  "b1g_centroid_ss": "39.9825865,-82.9436245",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "11a-01",
+  "dc_creator_sm": [
+    "City of Columbus, Department of Technology"
+  ]
+}

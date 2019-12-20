@@ -1,0 +1,64 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "fc7a616c7b8c4b2994759d61f5a826b7_12",
+  "dc_identifier_s": "fc7a616c7b8c4b2994759d61f5a826b7_12",
+  "b1g_date_range_drsim": [
+    "[2015 TO 2015]"
+  ],
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Transportation"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2015",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-77.176,-76.896,39.035,38.755)",
+  "b1g_keyword_sm": [
+    "Feeds",
+    "public space permit"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2015-06-18",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "The dataset contains locations and attributes of above ground permits applied for and approved by the District Department of Transportation. They are existing occupied constructions and events. Examples include: moving trucks, roll off debris container, moving storage container, construction staging area, mobile crane work zone, other reserved parking. The public space permit process is described on the DDOT website http://ddot.dc.gov.These data are shared via an automated process where addresses are batch matched (geocoded) to the District's Master Address Repository. Users may find that some data points will contain 0,0 for X,Y coordinates resulting in inconsistent spatial locations. Addresses for these data points could not be automatically geocoded and will need to be manually geocoded to 'best fit' locations in DC. Use the MAR Geocoder to help complete this.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Public Space: Washington, D.C., Last 30 Days",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/fc7a616c7b8c4b2994759d61f5a826b7_12\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/fc7a616c7b8c4b2994759d61f5a826b7_12.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/DDOT/MapServer/12\"}",
+  "dct_isPartOf_sm": [
+    "04c-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "District of Columbia"
+  ],
+  "dct_spatial_sm": [
+    "Washington D.C"
+  ],
+  "b1g_centroid_ss": "38.894999999999996,-77.036",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "04c-01",
+  "dc_creator_sm": [
+    "City of Washington, DC"
+  ]
+}

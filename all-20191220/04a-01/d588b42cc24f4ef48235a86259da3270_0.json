@@ -1,0 +1,73 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "d588b42cc24f4ef48235a86259da3270_0",
+  "dc_identifier_s": "d588b42cc24f4ef48235a86259da3270_0",
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_dateAccessioned_s": "2019-10-11",
+  "solr_year_i": "2019",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-79.4307,-75.0311,39.7144,38.0208)",
+  "b1g_keyword_sm": [
+    "NPDES",
+    "SWMFAC",
+    "BMP",
+    "stormwater",
+    "stormwater facility",
+    "pond",
+    "infiltration",
+    "grass swale",
+    "MDOT",
+    "SHA",
+    "MDOT SHA",
+    "Maryland"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2019-09-06T23:25:07.000Z",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "BackgroundAs a government agency that owns and maintains separate storm sewer systems, the Maryland State Highway Administration (SHA) is mandated to file a National Pollutant Discharge Elimination System (NPDES) permit with the Maryland Department of the Environment (MDE). The permit requires the inventory, inspection, and maintenance of SHA stormwater infrastructure. SHA is responsible for maintaining storm drain infrastructure on more than 5,000 miles of roadway statewide. SHA has developed a program consisting of SHA personnel, data managers, and subject matter experts to support the permit requirements and maintain these roadways. The tasks involved in the SHA NPDES data collection program are often completed by engineering consultants for SHA.The data are organized into a series of drainage systems with stormwater management facilities that are interconnected, allowing for flow-tracing function through distinct systems. A drainage system is defined as a series of storm drain structures or point features (i.e., manholes, inlets, endwalls) that connect hydraulically through conveyance features such as pipes and / or ditches. Closed and open storm drain structures are connected by pipe and ditch conveyance to create the drainage system. Stormwater management facilities (SWMF), also known as stormwater best management practices (BMP) are inventoried with the storm drain system. A system can include both open and closed storm drain features.Stormwater Management FacilitiesStormwater management facilities (SWMFAC) are structural best management practices that temporarily store or treat stormwater runoff to reduce flooding, remove pollutants, and provide other amenities. Stormwater BMPs are impoundment areas that treat stormwater runoff to reduce flooding, remove pollutants, and provide other benefits such as wildlife attraction. Pollutant removal can be accomplished through retaining permanent pools of water, detaining water temporarily and then releasing it slowly, infiltrating runoff into the ground, filtering the water through a medium into the ground, or combining multiple treatments. Stormwater management facilities are represented as polygons in the database.If a stormwater BMP is receiving SHA runoff, the feature is inventoried, regardless of the owner. Attributes recorded for each stormwater BMP feature include type, location, status, and owner. Refer to the Maryland Stormwater Management Guidelines for State Federal Projects - Volume I II for stormwater BMP types and common features related to stormwater BMPs. Stormwater BMP design plan sheets will be supplied to the team and should be used as the source for the stormwater BMP inventory. Stormwater BMPs that are inventoried include, but are not limited to, ponds, wetlands, infiltration practices, filtration practices, and ESD BMPs. Stormwater BMPs are inventoried and recorded in the SWMFAC feature class. Due to the large number of different types, sizes, and shapes of these facilities, the SWMFAC table entries are not as standardized as the storm drain structure elements.SimplificationsThe simplification process flattens database tables that normalize attribute information, resulting in a dataset with all attributes but also many null fields when the attribute type is not relevant to the SWMFAC type. The simplified data are a snapshot in time of the production NPDES data, updated every night.PublishingThis service was last published by Elliott Plack on 9/6/2019 based on a materialized view created by John Shiu.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "MDOT SHA NPDES SWMFAC"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "National Pollutant Discharge Elimination System Stormwater management facilities: State of Maryland",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/d588b42cc24f4ef48235a86259da3270_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://maps.roads.maryland.gov/arcgis/rest/services/NPDES/NPDES_Simple_SWMFAC_Maryland_MDOTSHA/FeatureServer/0\",\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/d588b42cc24f4ef48235a86259da3270_0\"}",
+  "dct_isPartOf_sm": [
+    "04a-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dct_spatial_sm": [
+    "Maryland"
+  ],
+  "b1g_centroid_ss": "38.867599999999996,-77.23089999999999",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "04a-01",
+  "dc_creator_sm": [
+    "ArcGIS Online for Maryland"
+  ]
+}

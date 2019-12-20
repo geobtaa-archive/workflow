@@ -1,0 +1,66 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "2b1bc47c-ea43-4cb4-8b34-a553cce66045",
+  "dc_identifier_s": "2b1bc47c-ea43-4cb4-8b34-a553cce66045",
+  "b1g_date_range_drsim": [
+    "[1786 TO 1786]"
+  ],
+  "dct_temporal_sm": [
+    "1786-05-29"
+  ],
+  "dc_subject_sm": [
+    "Nautical charts"
+  ],
+  "b1g_dateAccessioned_s": "2019-07-26",
+  "solr_year_i": "1786",
+  "dc_format_s": "JPEG",
+  "solr_geom": "ENVELOPE(58.55,58.6301,23.65,23.6)",
+  "b1g_keyword_sm": [
+    "Nautical Charts Oman Muscat Early Works to 1800",
+    "Nautical Charts Oman Mat\u00e3\u00a3rah\u00e3\u00a3 Early Works to 1800",
+    "Muscat (Oman) Maps Early Works to 1800",
+    "Mat\u00e3\u00a3rah\u00e3\u00a3 (Oman) Maps Early Works to 1800",
+    "Early Maps",
+    "Nautical Charts"
+  ],
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Minnesota",
+  "dct_accrualMethod_s": "Blacklight",
+  "b1g_image_ss": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll246/id/283",
+  "dct_issued_s": "",
+  "suppressed_b": "",
+  "dc_description_s": "Scale approximately 1:21 000 (E 58\u00b033'13\"--E 58\u00b038'42\"/N 23\u00b039'03\"--N 23\u00b036'06\"). Oriented with west at the top. Nautical chart of Muscat Cove and Mutrah Harbour, showing depth soundings; bearings from fixed points listed below title. Includes inset 'View of MUTRAH from 20 fathoms on the Plan B'. 30 x 39 cm",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "PLAN of MUSCAT COVE and MUTRAH HARBOUR : Surveyed in 1785"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "PLAN of MUSCAT COVE and MUTRAH HARBOUR: Surveyed in 1785",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/200748\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/283/manifest.json\"}",
+  "dct_isPartOf_sm": [
+    "05d-p16022coll246"
+  ],
+  "layer_id_s": "283",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image"
+  ],
+  "dc_publisher_sm": [
+    "A Dalrymple"
+  ],
+  "dct_spatial_sm": [
+    "Oman"
+  ],
+  "b1g_centroid_ss": "23.625,58.59005",
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "b1g_code_s": "05d-01",
+  "dc_creator_sm": [
+    "Dalrymple, Alexander, 1737-1808"
+  ]
+}

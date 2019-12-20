@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "fc7d913c-40de-4896-b952-fbca7664a635",
+  "dc_identifier_s": "fc7d913c-40de-4896-b952-fbca7664a635",
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2018",
+  "dc_format_s": "Geodatabase",
+  "solr_geom": "ENVELOPE(-77.601413,-76.812585,39.388109,38.892592)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "",
+  "b1g_image_ss": "",
+  "dct_issued_s": "",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "This is a feature class in the geodatabase Zoning: Montgomery County, Maryland, 2018. Certain uses are permitted in these zones, but they are subject to rigid requirements such as: lot size; front, side and rear setbacks; and maximum height. Application for a Euclidean zone may be made either by the property owner or by the government, and thus it may be applied by sectional or local map amendments. Maryland law provides that local map amendment rezoning to a Euclidean zone is permissible only if there has been a change in the planned character of the neighborhood since the last comprehensive rezoning or a mistake in the original zoning.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Zoning Block Requirements: Montgomery County, Maryland, 2018",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://montgomeryplanning.org/tools/gis-and-mapping/gis-data/data-downloads/\",\"http://schema.org/downloadUrl\":\"http://mcatlas.org/tiles/00_Shapefiles/Zoning_May2018.gdb.zip\"}",
+  "dct_isPartOf_sm": [
+    "04f-02"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "dc_publisher_sm": [
+    "The Maryland-National Capital Park and Planning Commission"
+  ],
+  "dct_spatial_sm": [
+    "Montgomery County, Maryland",
+    "Maryland"
+  ],
+  "b1g_centroid_ss": "39.1403505,-77.206999",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "04f-02",
+  "dc_creator_sm": [
+    "Montgomery County Planning Department"
+  ]
+}

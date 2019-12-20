@@ -1,0 +1,64 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "4bfdf4fc137f47159155ad6681a8c595_44",
+  "dc_identifier_s": "4bfdf4fc137f47159155ad6681a8c595_44",
+  "b1g_date_range_drsim": [
+    "[2017 TO 2017]"
+  ],
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "b1g_dateAccessioned_s": "2019-07-23",
+  "solr_year_i": "2017",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-93.2297,-92.9818,45.1252,44.8904)",
+  "b1g_keyword_sm": [
+    "transportation",
+    "street"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Minnesota",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2017-04-26",
+  "suppressed_b": "TRUE",
+  "dc_description_s": "Simple Streets provide a simplified network of federal, state, county and municipal and private roads mapping purposes. All public roads should be represented in the database as well as many of the private roads that are open to the general public. A private section of pavement that serves less than three households is generally considered a private drive and is not included in this set. The features are intended to represent the driving surfaces of the roads, and are often near the center of the road pavement, however, this varies by feature. Where the pavement is divided by a median or raised divider of more than 50', a separate feature represents the pavement in each direction (a dual carriageway representation). The center of physical roadway pavement may or may not represent the center of the road right of way. Road right of ways may taper or change width. There has been no attempt to alter the road centerline to conform to right of way that is not parallel or alters in width.The features from the full dataset have been merged to reduce the number of segments making this data set appropriate for rapid cartographic display, but not for geocoding, routing, or other functions supported by the full dataset.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Street Simple: Ramsey County, Minnesota",
+  "b1g_dateRetired_s": "2019-09-06",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://openramsey-ramseygis.opendata.arcgis.com/datasets/4bfdf4fc137f47159155ad6681a8c595_44\",\"http://schema.org/downloadUrl\":\"http://openramsey-ramseygis.opendata.arcgis.com/datasets/4bfdf4fc137f47159155ad6681a8c595_44.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://maps.co.ramsey.mn.us/arcgis/rest/services/OpenData/OpenData/FeatureServer/44\"}",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Retired",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Ramsey County, Minnesota"
+  ],
+  "dct_spatial_sm": [
+    "Ramsey County, Minnesota",
+    "Minnesota"
+  ],
+  "b1g_centroid_ss": "45.0078,-93.10575",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "05b-27123",
+  "dc_creator_sm": [
+    "Map Portal"
+  ]
+}

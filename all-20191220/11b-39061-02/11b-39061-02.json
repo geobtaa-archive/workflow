@@ -1,0 +1,60 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:10:08Z",
+  "layer_slug_s": "11b-39061-02",
+  "dc_identifier_s": "11b-39061-02",
+  "b1g_date_range_drsim": [
+    "[1932 TO 1932]"
+  ],
+  "dct_temporal_sm": [
+    "1932-present"
+  ],
+  "dc_subject_sm": [
+    "Counties geospatial data"
+  ],
+  "b1g_dateAccessioned_s": "",
+  "solr_geom": "ENVELOPE(-84.8203,-84.25651,39.31206,39.02153)",
+  "b1g_keyword_sm": [
+    "Boundaries",
+    "Economy",
+    "Elevation",
+    "Environment",
+    "Geoscientific Information",
+    "Imagery and Base Maps",
+    "Inland Waters",
+    "Location",
+    "Planning and Cadastral",
+    "Society",
+    "Transportation",
+    "Utilities and Communication",
+    "Health"
+  ],
+  "layer_geom_type_s": "Table",
+  "dct_provenance_s": "Ohio State",
+  "dct_accrualMethod_s": "",
+  "b1g_image_ss": "",
+  "dct_issued_s": "",
+  "dc_description_s": "ArcGIS REST site referencing layers for all common data types and more. Also contains aerial photography from 1996-2017 (10yrs). Also references historic aerial photography in selected years from 1932-1990 (7yrs). Contains references to elevation layer contours - possibly 2015.",
+  "dc_rights_s": "Public",
+  "dc_title_s": "ArcGIS REST Services Directory for Cincinnati, Ohio",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://cagisonline.hamilton-co.org/arcgis/rest/services\"}",
+  "dc_type_sm": [
+    "Collection"
+  ],
+  "dc_publisher_sm": [
+    "Hamilton County, Ohio"
+  ],
+  "dct_spatial_sm": [
+    "Cincinnati, Ohio",
+    "Hamilton County, Ohio",
+    "Ohio"
+  ],
+  "b1g_centroid_ss": "39.166795,-84.53840500000001",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "11b-39061-02",
+  "dc_creator_sm": [
+    ""
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "c93d397c75894c709d0111600083d92a_5",
+  "dc_identifier_s": "c93d397c75894c709d0111600083d92a_5",
+  "b1g_date_range_drsim": [
+    "[2017 TO 2017]"
+  ],
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2017",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-83.0447,-82.9901,39.986,39.9442)",
+  "b1g_keyword_sm": [
+    "Ohio",
+    "City",
+    "Columbus",
+    "Public Service",
+    "Transportation",
+    "Parking"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Ohio State",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2017-08-08",
+  "suppressed_b": "",
+  "dc_description_s": "This map layer shows permitted valet zones in the City of Columbus. Valet zones are designated locations in the public right-of-way or in city-owned public parking facilities where an attendant takes possession of a vehicle and parks it. For more information please see the Department of Public Service website.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Valet Zones: Columbus, Ohio",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/c93d397c75894c709d0111600083d92a_5\",\"http://schema.org/downloadUrl\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/c93d397c75894c709d0111600083d92a_5.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.columbus.gov/arcgis/rest/services/Schemas/PublicService/MapServer/5\"}",
+  "dct_isPartOf_sm": [
+    "11a-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dct_spatial_sm": [
+    "Columbus, Ohio",
+    "Ohio"
+  ],
+  "b1g_centroid_ss": "39.9651,-83.01740000000001",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "11a-01",
+  "dc_creator_sm": [
+    "City of Columbus Maps & Apps"
+  ]
+}

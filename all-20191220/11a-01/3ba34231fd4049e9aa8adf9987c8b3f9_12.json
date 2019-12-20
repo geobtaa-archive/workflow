@@ -1,0 +1,69 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "3ba34231fd4049e9aa8adf9987c8b3f9_12",
+  "dc_identifier_s": "3ba34231fd4049e9aa8adf9987c8b3f9_12",
+  "b1g_date_range_drsim": [
+    "[2017 TO 2017]"
+  ],
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dc_subject_sm": [
+    "Boundaries",
+    "Utilities and Communications"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2017",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-83.1851,-82.7706,40.158,39.8079)",
+  "b1g_keyword_sm": [
+    "Ohio",
+    "City",
+    "Columbus",
+    "Public Service",
+    "Refuse",
+    "City Services"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Ohio State",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2017-08-10",
+  "suppressed_b": "",
+  "dc_description_s": "This map layer shows recycling and yard waste pickup zones in the City of Columbus. Recycling and yard waste pickup occurs every other week for each customer. As a result customers are divided into groups A and B, and are collected in an alternating cycle. Please check the City's Refuse website to determine the recycling and yard waste pickup schedule for individual addresses.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Recycling & Yard Waste Pickup Zones: Columbus, Ohio",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/3ba34231fd4049e9aa8adf9987c8b3f9_12\",\"http://schema.org/downloadUrl\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/3ba34231fd4049e9aa8adf9987c8b3f9_12.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.columbus.gov/arcgis/rest/services/Schemas/PublicService/MapServer/12\"}",
+  "dct_isPartOf_sm": [
+    "11a-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dct_spatial_sm": [
+    "Columbus, Ohio",
+    "Ohio"
+  ],
+  "b1g_centroid_ss": "39.98295,-82.97785",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "11a-01",
+  "dc_creator_sm": [
+    "City of Columbus Maps & Apps"
+  ]
+}

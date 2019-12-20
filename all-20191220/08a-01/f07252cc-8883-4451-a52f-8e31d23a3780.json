@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "f07252cc-8883-4451-a52f-8e31d23a3780",
+  "dc_identifier_s": "f07252cc-8883-4451-a52f-8e31d23a3780",
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2016",
+  "dc_format_s": "Files",
+  "solr_geom": "ENVELOPE(-74.955763,-75.280303,40.1379918,39.8715137)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Penn State",
+  "dct_accrualMethod_s": "",
+  "b1g_image_ss": "",
+  "dct_issued_s": "",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "The primary purpose of PWD_PARCEL layer is to calculate parcel-based stormwater charges for PWD customers under the new parcel-based stormwater billing program. The layer was created from the DOR_PARCELS layer in 2005 after it was decided that none of the other City parcel layers could meet the needs of PWD's stormwater billing program. Those needs are generally that the parcel delineations match up to what people actually own, that there is an accurate assessment of the impervious area on the parcel, and that there is owner information associated with the parcel. Over the past 5 years, PWD has made corrections based off deeds on file with DOR, BRT information, and other City records. PWD also matched up each DOR parcel to a corresponding BRT record that contained the owner information for that parcel.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Water - PWD Parcels: Philadephia, Pennsylvania",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=7119\",\"http://schema.org/downloadUrl\":\"http://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=7119\",\"http://www.w3.org/1999/xhtml\":\"https://btaagdp.org/metadata/08a-01/FullMetadataDisplay.aspx%3ffile=PhillyWater_PWD_PARCELS.html\"}",
+  "dct_isPartOf_sm": [
+    "08a-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "dc_publisher_sm": [
+    "City of Philadelphia, Pennsylvania"
+  ],
+  "dct_spatial_sm": [
+    "Philadelphia, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "b1g_centroid_ss": "40.00475275,-75.118033",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "08a-01",
+  "dc_creator_sm": [
+    ""
+  ]
+}

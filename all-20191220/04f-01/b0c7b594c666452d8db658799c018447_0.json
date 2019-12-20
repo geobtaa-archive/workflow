@@ -1,0 +1,71 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "b0c7b594c666452d8db658799c018447_0",
+  "dc_identifier_s": "b0c7b594c666452d8db658799c018447_0",
+  "b1g_date_range_drsim": [
+    "[2010 TO 2010]"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_dateAccessioned_s": "2019-10-11",
+  "solr_year_i": "2010",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-76.1513,-74.3815,40.6087,39.5094)",
+  "b1g_keyword_sm": [
+    "Transit",
+    "Transit Score",
+    "Transportation",
+    "Demographics",
+    "DVRPC"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2015-07-15T18:47:09.000Z",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "This two-phase project defines a method to assess the appropriateness of variousmodes and intensities of transit service throughout the DVRPC region. Phase I consistedof a statistical evaluation and refinement of New Jersey Transit s existing transit scoremethod. This included a regression analysis to test the relationships between existingvariables, additional variables, and transit mode share for the region, the State of NewJersey, and the combined area of the two. Based on the results of this evaluation, arefined transit score equation was derived for congruent use in both New Jersey andPennsylvania. This DVRPC Transit Score Tool is as follows (all densities gross):Transit score = [0.41*(Population per acre)] +[0.09*(Jobs per acre)] +[0.74*(Zero car households per acre)]The DVRPC Transit Score Tool was then classified into five score category ranges (from low to high ):Low: 7.5The TAZ boundaries used in this file are the TAZ boundaries submitted to the Census Bureau in 2012. At the time of this release, the official TIGER TAZ boundaries have not been released by the Census Bureau.2010 Population source: US Census Bureau's 2010 Census2010 Employment source*: NETS, 2010, adjusted by DVRPC2010 Zero Car Household source: Modeling Department 2010-2040 estimates by TAZ. TAZ boundaries for extended region, aligned with MCDs in DVRPC region using Census block boundaries to divide zones within municipalities",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "DVRPC 2010 Transit Score"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Transit Score: Delaware Valley Regional Planning Commission, 2010",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/b0c7b594c666452d8db658799c018447_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://arcgis.dvrpc.org/arcgis/rest/services/Demographics/TransitScore/FeatureServer/0\",\"http://schema.org/url\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/b0c7b594c666452d8db658799c018447_0\"}",
+  "dct_isPartOf_sm": [
+    "04f-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Delaware Valley Regional Planning Commission"
+  ],
+  "dct_spatial_sm": [
+    "Delaware River, Delaware",
+    "Delaware",
+    "Philadelphia, Pennsylvania",
+    "Pennsylvania",
+    "Maryland",
+    "New Jersey"
+  ],
+  "b1g_centroid_ss": "40.05905,-75.2664",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "04f-01",
+  "dc_creator_sm": [
+    "DVRPC-GIS"
+  ]
+}

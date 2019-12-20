@@ -1,0 +1,65 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "3e4cc060-faa4-4c87-8d40-5ee7c03656a3",
+  "dc_identifier_s": "3e4cc060-faa4-4c87-8d40-5ee7c03656a3",
+  "b1g_date_range_drsim": [
+    "[1931 TO 1931]"
+  ],
+  "dct_temporal_sm": [
+    "1931"
+  ],
+  "dc_subject_sm": [
+    "Thematic maps"
+  ],
+  "b1g_dateAccessioned_s": "2019-01-16",
+  "solr_year_i": "1931",
+  "dc_format_s": "JPEG",
+  "solr_geom": "ENVELOPE(-124.45,-66.88,49.31,24.6)",
+  "b1g_keyword_sm": [
+    "Road maps",
+    "Roads--United States--Maps.",
+    "Roads",
+    "Indiana Historic Maps"
+  ],
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Indiana",
+  "dct_accrualMethod_s": "",
+  "b1g_image_ss": "https://purl.dlib.indiana.edu/iudl/images/VAC3073/thumbnail/VAC3073-M-00368",
+  "dct_issued_s": "",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "Shows routes, with mileages, to the Memorial Day race at Indianapolis from cities in the United States and five cities in Canada.; In order that this map be legible, it is necessary to omit the locations for several hundred newspapers which feature Texaco National Road Reports.; Vol. iv, No. 4. Scale not given.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Memorial Day races at Indianapolis.",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00368\",\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00368\"}",
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image"
+  ],
+  "dc_publisher_sm": [
+    "Texaco National Road Reports"
+  ],
+  "dct_spatial_sm": [
+    "Indiana",
+    "Indianapolis, Indiana"
+  ],
+  "b1g_centroid_ss": "36.955,-95.66499999999999",
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "b1g_code_s": "01d-01",
+  "dc_creator_sm": [
+    ""
+  ]
+}

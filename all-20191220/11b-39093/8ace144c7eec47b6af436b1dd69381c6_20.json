@@ -1,0 +1,65 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "8ace144c7eec47b6af436b1dd69381c6_20",
+  "dc_identifier_s": "8ace144c7eec47b6af436b1dd69381c6_20",
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "dct_temporal_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Elevation"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2016",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-82.355,-81.872,41.5167,41.0607)",
+  "b1g_keyword_sm": [
+    "Contours",
+    "Topographic",
+    "Topography"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Ohio State",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2016-12-06",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "GIS layer composed of Lorain County contours and spot elevations.*Each layer has a different scale visibility. You may have to zoom in to a certain extent for the layer to turn on.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Spot Elevations 19: Lorain County, Ohio",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data-loraingis.opendata.arcgis.com/datasets/8ace144c7eec47b6af436b1dd69381c6_20\",\"http://schema.org/downloadUrl\":\"http://data-loraingis.opendata.arcgis.com/datasets/8ace144c7eec47b6af436b1dd69381c6_20.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://loraincountyauditor.com/arcgis/rest/services/AGS_contours/MapServer/20\"}",
+  "dct_isPartOf_sm": [
+    "11b-39093"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Lorain County, Ohio"
+  ],
+  "dct_spatial_sm": [
+    "Lorain County, Ohio",
+    "Ohio"
+  ],
+  "b1g_centroid_ss": "41.2887,-82.1135",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "11b-39093",
+  "dc_creator_sm": [
+    "Lorain County Auditor GIS Open Data"
+  ]
+}

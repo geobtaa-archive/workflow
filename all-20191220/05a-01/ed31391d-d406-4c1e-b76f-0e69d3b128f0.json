@@ -1,0 +1,61 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "ed31391d-d406-4c1e-b76f-0e69d3b128f0",
+  "dc_identifier_s": "ed31391d-d406-4c1e-b76f-0e69d3b128f0",
+  "b1g_date_range_drsim": [
+    "[2012 TO 2012]"
+  ],
+  "dct_temporal_sm": [
+    "2012"
+  ],
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "b1g_dateAccessioned_s": "2019-04-02",
+  "solr_year_i": "2012",
+  "dc_format_s": "Files",
+  "solr_geom": "ENVELOPE(-97.23,-89.53,49.37,43.5)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Mixed",
+  "dct_provenance_s": "Minnesota",
+  "dct_accrualMethod_s": "CKAN",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2015-09-12T10:01:56.617465",
+  "suppressed_b": "TRUE",
+  "dc_description_s": "THE ACCESS LINKS FOR THIS RECORD WERE REPORTED AS BROKEN. THE RECORD MAY HAVE BEEN RETIRED BY THE HOST. This map of Minnesota cities, townships, and counties was published by MnGeo in November 2013.  The primary data set for the map is the \"Cities, Townships, and Unorganized Territories\" (MnCTU) data maintained by the Minnesota Department of Transportation. Other reference data on the map include County Seats and Other Cities, County Boundaries, Interstate, US Trunk, and State Trunk Highways, Major Rivers, Lakes,  County and State Boundaries. The download is a PDF file with embedded layers that can be printed at E-scale (36\" x 48\").",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Cities, Townships, and Counties  Reference Map: Minnesota",
+  "b1g_dateRetired_s": "2019-02-15",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/ed31391d-d406-4c1e-b76f-0e69d3b128f0\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_mngeo/bdry_cities_counties_twps_map/printable_map_bdry_cities_counties_twps_map.zip\",\"http://www.w3.org/1999/xhtml\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_mngeo/bdry_cities_counties_twps_map/metadata/metadata.html\"}",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Retired",
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "dc_publisher_sm": [
+    "State of Minnnesota"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota"
+  ],
+  "b1g_centroid_ss": "46.435,-93.38",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "05a-01",
+  "dc_creator_sm": [
+    "Minnesota Geospatial Information Office (MnGeo)"
+  ]
+}

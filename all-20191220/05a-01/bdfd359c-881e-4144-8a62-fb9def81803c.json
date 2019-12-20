@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "bdfd359c-881e-4144-8a62-fb9def81803c",
+  "dc_identifier_s": "bdfd359c-881e-4144-8a62-fb9def81803c",
+  "b1g_date_range_drsim": [
+    "[2017 TO 2017]"
+  ],
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dc_subject_sm": [
+    "Elevation"
+  ],
+  "b1g_dateAccessioned_s": "2019-04-02",
+  "solr_year_i": "2017",
+  "dc_format_s": "Files",
+  "solr_geom": "ENVELOPE(-92.35248,-92.052675,46.861033,46.649533)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Mixed",
+  "dct_provenance_s": "Minnesota",
+  "dct_accrualMethod_s": "CKAN",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2017-08-08T10:02:04.476753",
+  "suppressed_b": "TRUE",
+  "dc_description_s": "THE ACCESS LINKS FOR THIS RECORD WERE REPORTED AS BROKEN. THE RECORD MAY HAVE BEEN RETIRED BY THE HOST. LiDAR derived building outlines with height as an attribute. Building height was calculated using LAStools. Units are in meters.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Duluth Urban Intensity - Building Heights: Minnesota",
+  "b1g_dateRetired_s": "2019-02-15",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/bdfd359c-881e-4144-8a62-fb9def81803c\",\"http://schema.org/downloadUrl\":\"https://gisdata.mn.gov/dataset/bdfd359c-881e-4144-8a62-fb9def81803c\",\"http://www.w3.org/1999/xhtml\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/edu_umn_nrri/elev_bldg_height/metadata/metadata.html\"}",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Retired",
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "dc_publisher_sm": [
+    "University of Minnesota"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota"
+  ],
+  "b1g_centroid_ss": "46.755283,-92.20257749999999",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "05a-01",
+  "dc_creator_sm": [
+    "Paul Meysembourg, NRRI, GIS Lab",
+    "Natural Resources Research Institute"
+  ]
+}

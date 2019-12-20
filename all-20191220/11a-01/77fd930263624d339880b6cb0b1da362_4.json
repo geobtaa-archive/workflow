@@ -1,0 +1,79 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "77fd930263624d339880b6cb0b1da362_4",
+  "dc_identifier_s": "77fd930263624d339880b6cb0b1da362_4",
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dc_subject_sm": [
+    "Location",
+    "Society"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2018",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-83.6439,-82.1823,40.7051,39.1692)",
+  "b1g_keyword_sm": [
+    "bike",
+    "bicycle",
+    "bikeway",
+    "bikeway planning",
+    "Active Transportation",
+    "transportation",
+    "GIS",
+    "data",
+    "Geographic Information Systems",
+    "Central Ohio",
+    "MORPC",
+    "County",
+    "MPO",
+    "NonProfit",
+    "Regional Council",
+    "Regional Association",
+    "data download"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Ohio State",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2018-01-25",
+  "suppressed_b": "TRUE",
+  "dc_description_s": "THE ACCESS LINKS FOR THIS RECORD WERE REPORTED AS NONFUNCTIONAL. THE RECORD MAY HAVE BEEN RETIRED FROM THE HOST. Regional file showing existing, committed, proposed, and under construction bikeway facilities and multi-use trails in Central Ohio. Recognized bikeways include Lanes, Sharrows, Bike Boulevards, Routes and multi-use paths 8 ft or wider. Paved shoulders are currently included but are under review. Committed bikeways are those with approved plans and funding. Proposed means a bikeway has been put forward for consideration, either by MORPC or by a locality. MORPC proposed bikeways represent a regional corridor. This file is used as part of the Metropolitan Transportation Plan, the Columbus Metro Bike Users Map and the Central Ohio Greenway Map. Geography: Data are comprehensive for the Metropolitan Planning Organization area, with additional data for a 12-county Central Ohio region as available. Source: Data is collected by MORPC from local agencies and bike advocacy groups compiled into one regional file. Data are checked with ortho photography. When updated orthos are not available alignments are approximate.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Bikeways, Central Ohio, Mid-Ohio Regional Planning Commission: Ohio",
+  "b1g_dateRetired_s": "2019-09-06",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/77fd930263624d339880b6cb0b1da362_4\",\"http://schema.org/downloadUrl\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/77fd930263624d339880b6cb0b1da362_4.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"http://arcgiswebadp1.morpc.org/webadaptor/rest/services/bikes/Bikeways_ExistingAndFuture/MapServer/4\"}",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Retired",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Ohio Geographically Referenced Information Program"
+  ],
+  "dct_spatial_sm": [
+    "Ohio"
+  ],
+  "b1g_centroid_ss": "39.93715,-82.9131",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "11a-01",
+  "dc_creator_sm": [
+    ""
+  ]
+}

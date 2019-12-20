@@ -1,0 +1,65 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "21d4448963034222a8f54c23fbefe693_0",
+  "dc_identifier_s": "21d4448963034222a8f54c23fbefe693_0",
+  "b1g_date_range_drsim": [
+    "[2015 TO 2015]"
+  ],
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dc_subject_sm": [
+    "Location"
+  ],
+  "b1g_dateAccessioned_s": "2019-07-23",
+  "solr_year_i": "2015",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-93.7458,-93.2166,45.2012,44.8233)",
+  "b1g_keyword_sm": [
+    "open data",
+    "places",
+    "cities"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Minnesota",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2015-09-14",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "This dataset contains City Hall locations in Hennepin County. Link to Attribute Table Information: http://gis.hennepin.us/OpenData/Metadata/City%20Halls.pdf Use Limitations: This data (i) is furnished AS IS with no representation as to completeness or accuracy; (ii) is furnished with no warranty of any kind; and (iii) is not suitable for legal, engineering or surveying purposes. Hennepin County shall not be liable for any damage, injury or loss resulting from this data.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "City Halls: Hennepin County, Minnesota",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://gis-hennepin.opendata.arcgis.com/datasets/21d4448963034222a8f54c23fbefe693_0\",\"http://schema.org/downloadUrl\":\"http://gis-hennepin.opendata.arcgis.com/datasets/21d4448963034222a8f54c23fbefe693_0.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.hennepin.us/arcgis/rest/services/HennepinData/PLACES/MapServer/0\"}",
+  "dct_isPartOf_sm": [
+    "05b-27053"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Hennepin County, Minnesota"
+  ],
+  "dct_spatial_sm": [
+    "Hennepin County, Minnesota",
+    "Minnesota"
+  ],
+  "b1g_centroid_ss": "45.01225,-93.4812",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "05b-27053",
+  "dc_creator_sm": [
+    "Hennepin County"
+  ]
+}

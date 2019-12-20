@@ -1,0 +1,87 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "c2cbf10476f74189ba71267e521b2a8c_0",
+  "dc_identifier_s": "c2cbf10476f74189ba71267e521b2a8c_0",
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_dateAccessioned_s": "2019-10-11",
+  "solr_year_i": "2019",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-77.2694,-75.0014,39.7215,37.9559)",
+  "b1g_keyword_sm": [
+    "Inundation",
+    "Flood",
+    "Flooding",
+    "Roadway Inundation",
+    "High Water",
+    "Hurricane",
+    "Model",
+    "Florence",
+    "Hurricane Florence Model",
+    "Statewide",
+    "Maryland",
+    "MD",
+    "Maryland Department of Transportation",
+    "MDOT",
+    "Maryland Department of Transportation State Highway Administration",
+    "MDOT SHA",
+    "MDOT SHA Office of Planning & Preliminary Engineering",
+    "OPPE",
+    "MDOT SHA Innovative Planning & Performance Division",
+    "IPPD",
+    "Climate",
+    "Climate Change",
+    "NOAA",
+    "USGS",
+    "Salisbury University",
+    "ESRGC"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2019-10-05T01:20:50.000Z",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "ArcGIS Online (AGOL) Feature Layer which includes the MDOT SHA Hurricane Florence Model - Roadway Inundation geospatial data product.MDOT SHA Hurricane Florence Model - Roadway Inundation data consists of linear geometric features which represent the geographic extent of predicted storm surge impacts to roadways throughout the State of Maryland during an event similar to Hurricane Florence (2018). This data seeks to replicate conditions of an event of similar magnitude.In light of the significant damage in the state of North Carolina caused by the storm surge from Hurricane Florence on September 14, 2018, concerns about the vulnerability of the coastal communities on the Atlantic coast of Maryland and in Maryland s portion of the Chesapeake Bay have come into focus. This data showcases a what-if scenario for coastal Maryland.MDOT SHA Hurricane Florence Model - Roadway Inundation data was produced as a result of efforts by the Maryland Department of Transportation State Highway Administration (MDOT SHA), Eastern Shore Regional GIS Cooperative (ESRGC), Salisbury University (SU), National Oceanic Atmospheric Administration (NOAA), and the United States Geological Survey (USGS). This data was task-based, and will only be updated on an As-Needed basis where necessary.Last Updated: 10/04/2019For additional information, contact the MDOT SHA Geospatial Technologies Team:Email: GIS@mdot.maryland.govFor information related to the data, visit the Eastern Shore Regional GIS Cooperative (ESRGC) websiteWebsite: https:www.esrgc.org/mapServices/For additional data, visit the MDOT GIS Open Data Portal:Website: https://data.imap.maryland.gov/pages/mdot/For additional information related to the Maryland Department of Transportation (MDOT):Website: https://www.mdot.maryland.gov/For additional information related to the Maryland Department of Transportation State Highway Administration (MDOT SHA):Website: https://www.roads.maryland.gov/Home.aspxMDOT SHA Geospatial Data Legal Disclaimer:The Maryland Department of Transportation State Highway Administration (MDOT SHA) makes no warranty, expressed or implied, as to the use or appropriateness of geospatial data, and there are no warranties of merchantability or fitness for a particular purpose or use. The information contained in geospatial data is from publicly available sources, but no representation is made as to the accuracy or completeness of geospatial data. MDOT SHA shall not be subject to liability for human error, error due to software conversion, defect, or failure of machines, or any material used in the connection with the machines, including tapes, disks, CD-ROMs or DVD-ROMs and energy. MDOT SHA shall not be liable for any lost profits, consequential damages, or claims against MDOT SHA by third parties.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "MDOT SHA Hurricane Florence Model - Roadway Inundation"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Hurricane Florence Model - Roadway Inundation: State of Maryland",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/c2cbf10476f74189ba71267e521b2a8c_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://geoservices.salisbury.edu/arcgis/rest/services/MD_Florence/MD_roadSedments_FLOR/FeatureServer/0\",\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/c2cbf10476f74189ba71267e521b2a8c_0\"}",
+  "dct_isPartOf_sm": [
+    "04a-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dct_spatial_sm": [
+    "Maryland"
+  ],
+  "b1g_centroid_ss": "38.8387,-76.1354",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "04a-01",
+  "dc_creator_sm": [
+    "ArcGIS Online for Maryland"
+  ]
+}

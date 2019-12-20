@@ -1,0 +1,67 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "46b5a151437147c3a1ef07b45295763a_7",
+  "dc_identifier_s": "46b5a151437147c3a1ef07b45295763a_7",
+  "b1g_date_range_drsim": [
+    "[2015 TO 2015]"
+  ],
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2015",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-86.3291,-85.9369,39.9278,39.6322)",
+  "b1g_keyword_sm": [
+    "Indianapolis",
+    "Marion County",
+    "Meridian Street Preservation Area",
+    "Zoning",
+    "Planning"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Indiana",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2015-12-01",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "Polygon file representing the boundaries of the Meridian Street Preservation Area.In 1971, the Meridian Street Preservation Act (Indiana Statute PL 260-1971) was passed. It requires any owner in the North Meridian Street Preservation Area (both Primary and Secondary Areas) to secure the approval of the Meridian Street Preservation Commission (MSPC) for any proposed change in land use (rezoning) or zoning variance of development standards. In addition, the owners of properties on N. Meridian Street (in the Primary Preservation Area) must have proposed modifications of exterior features of their house and property through construction, reconstruction, alteration or demolition approved by the MSPC prior to beginning any work. The MSPC is a nine member commission board that hears and votes on these petitions.Data projection: NAD 1983 StatePlane Indiana East FIPS 1301 (US Feet)",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Meridian Street Preservation Area: Indianapolis, Indiana",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data1-indygis.opendata.arcgis.com/datasets/46b5a151437147c3a1ef07b45295763a_7\",\"http://schema.org/downloadUrl\":\"http://data1-indygis.opendata.arcgis.com/datasets/46b5a151437147c3a1ef07b45295763a_7.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://xmaps.indy.gov/arcgis/rest/services/OpenData/OpenData_PlanningZoning/MapServer/7\"}",
+  "dct_isPartOf_sm": [
+    "01c-02"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Indianapolis, Indiana"
+  ],
+  "dct_spatial_sm": [
+    "City of Indianapolis, Indiana",
+    "Indiana"
+  ],
+  "b1g_centroid_ss": "39.78,-86.133",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "01c-02",
+  "dc_creator_sm": [
+    "City of Indianapolis and Marion County - IndyGIS"
+  ]
+}

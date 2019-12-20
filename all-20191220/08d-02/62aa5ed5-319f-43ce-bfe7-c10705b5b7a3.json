@@ -1,0 +1,65 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "62aa5ed5-319f-43ce-bfe7-c10705b5b7a3",
+  "dc_identifier_s": "62aa5ed5-319f-43ce-bfe7-c10705b5b7a3",
+  "b1g_date_range_drsim": [
+    "[1895 TO 1895]"
+  ],
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "dc_subject_sm": [
+    "Fire insurance maps"
+  ],
+  "b1g_dateAccessioned_s": "2019-04-22",
+  "solr_year_i": "1895",
+  "dc_format_s": "JPEG",
+  "solr_geom": "ENVELOPE(-79.784502,-79.759365,40.2270941,40.199677)",
+  "b1g_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Penn State",
+  "dct_accrualMethod_s": "CONTENTdm",
+  "b1g_image_ss": "",
+  "dct_issued_s": "",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "West Newton, Westmoreland Co., Pa., Oct. 1895. 1 map on 4 sheets: col. ; sheet 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "West Newton, Pennsylvania, 1895",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/24027/manifest.json\",\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/24027\"}",
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image"
+  ],
+  "dc_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_spatial_sm": [
+    "West Newton, Pennsylvania",
+    "Westmoreland County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "b1g_centroid_ss": "40.21338555,-79.7719335",
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "b1g_code_s": "08d-02",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ]
+}

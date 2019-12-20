@@ -1,0 +1,68 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "ace77ce4064c4bf99c05048a30779b3e_6",
+  "dc_identifier_s": "ace77ce4064c4bf99c05048a30779b3e_6",
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "dct_temporal_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2016",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-78.0722,-77.4678,41.0524,40.7695)",
+  "b1g_keyword_sm": [
+    "Lakes",
+    "Centre County",
+    "Environment",
+    "GIS",
+    "water",
+    "Recreation"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Penn State",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2016-11-22",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "Named Lakes",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Lakes: Centre County, Pennsylvania",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://gisdata-centrecountygov.opendata.arcgis.com/datasets/ace77ce4064c4bf99c05048a30779b3e_6\",\"http://schema.org/downloadUrl\":\"http://gisdata-centrecountygov.opendata.arcgis.com/datasets/ace77ce4064c4bf99c05048a30779b3e_6.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gissites2.centrecountypa.gov/arcgis/rest/services/OpenData/MapServer/6\"}",
+  "dct_isPartOf_sm": [
+    "08b-42027"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Centre County, Pennsylvania"
+  ],
+  "dct_spatial_sm": [
+    "Centre County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "b1g_centroid_ss": "40.91095,-77.77",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "08b-42027",
+  "dc_creator_sm": [
+    "Centre County Government"
+  ]
+}

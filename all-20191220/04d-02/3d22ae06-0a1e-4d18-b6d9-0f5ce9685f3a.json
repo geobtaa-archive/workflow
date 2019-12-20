@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "3d22ae06-0a1e-4d18-b6d9-0f5ce9685f3a",
+  "dc_identifier_s": "3d22ae06-0a1e-4d18-b6d9-0f5ce9685f3a",
+  "b1g_date_range_drsim": [
+    "[1921 TO 1921]"
+  ],
+  "dct_temporal_sm": [
+    "1921"
+  ],
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "b1g_dateAccessioned_s": "2019-11-04",
+  "solr_year_i": "1921",
+  "dc_format_s": "TIFF",
+  "solr_geom": "ENVELOPE(11.69580833,11.83971389,54.85901667,54.78642778)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "Dublin Core",
+  "b1g_image_ss": "",
+  "dct_issued_s": "1921",
+  "suppressed_b": "",
+  "dc_description_s": "Map of Great Britain - Dolgelley (Dolgellau) & Lake Vyrnwy , 1921. Scale=1:63,360. Topography, towns, roads, political boundaries for parts of Wales",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "mdu-057183"
+  ],
+  "dc_language_sm": [
+    ""
+  ],
+  "dc_title_s": "Map of Great Britain - Dolgelley (Dolgellau) & Lake Vyrnwy, 1921",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/3e/42/4b/52/3e424b52-f148-435e-8396-75676f082746\"}",
+  "dct_isPartOf_sm": [
+    "04d-02"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image"
+  ],
+  "dc_publisher_sm": [
+    "Ordnance Survey"
+  ],
+  "dct_spatial_sm": [
+    "Dolgellau, United Kingdom",
+    "Lake Vyrnwy, United Kingdom"
+  ],
+  "b1g_centroid_ss": "54.822722225,11.76776111",
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "b1g_code_s": "04d-02",
+  "dc_creator_sm": [
+    ""
+  ]
+}

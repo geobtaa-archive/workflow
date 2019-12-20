@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "0518952B-5CED-48FF-996F-19F1669CBDEE",
+  "dc_identifier_s": "0518952B-5CED-48FF-996F-19F1669CBDEE",
+  "b1g_date_range_drsim": [
+    "[2009 TO 2009]"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "b1g_dateAccessioned_s": "2019-09-04",
+  "solr_year_i": "2009",
+  "dc_format_s": "Geodatabase",
+  "solr_geom": "ENVELOPE(-89.785921,-89.000047,43.646675,43.278606)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Polygon",
+  "dct_provenance_s": "Wisconsin",
+  "dct_accrualMethod_s": "GeoBlacklight",
+  "b1g_image_ss": "",
+  "dct_issued_s": "",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "This data layer represents tax parcels for Columbia County, Wisconsin in 2009. It is a feature class within the geodatabase, Columbia_Parcels_2009.gdb.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "Parcels Columbia County\\, WI 2009"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Parcels: Columbia County, Wisconsin, 2009",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Columbia_Parcels_2009.zip\",\"http://schema.org/url\":\"http://www.co.columbia.wi.us/ColumbiaCounty/landinformation/InteractiveMapping/tabid/235/Default.aspx\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Columbia_Parcels_2009.xml\"}",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dct_spatial_sm": [
+    "Columbia County, Wisconsin",
+    "Wisconsin"
+  ],
+  "b1g_centroid_ss": "43.462640500000006,-89.392984",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "10d",
+  "dc_creator_sm": [
+    "Columbia County, Wisconsin"
+  ]
+}

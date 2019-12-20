@@ -1,0 +1,64 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "5df5948411e94050a70f861d1d66629c_6",
+  "dc_identifier_s": "5df5948411e94050a70f861d1d66629c_6",
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "dct_temporal_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "b1g_dateAccessioned_s": "",
+  "solr_year_i": "2016",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-76.9144,-76.2932,39.7266,39.1859)",
+  "b1g_keyword_sm": [
+    "Position Sheet",
+    "admin"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2016-09-20T12:57:25.000Z",
+  "suppressed_b": "TRUE",
+  "dc_description_s": "This grid represents the 50 scale tiles associated with the Baltimore County Metropolitan District (BCMD) Coordinate System. The tiles are 1,500 feet (E-W) by 1,000 feet (N-S). This is the grid of origin for the county-wide detailed mapping necessary to support the engineering design for the county infrastructure. The 200 scale and keysheet grids were derived from this grid. This grid was in use in Baltimore County, Maryland until 1999 and continues to be referenced in business data.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Position Sheet Grid: Baltimore County, Maryland",
+  "b1g_dateRetired_s": "2019-09-06",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data-bc-gis.opendata.arcgis.com/datasets/5df5948411e94050a70f861d1d66629c_6\",\"http://schema.org/downloadUrl\":\"http://data-bc-gis.opendata.arcgis.com/datasets/5df5948411e94050a70f861d1d66629c_6.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://bcgis.baltimorecountymd.gov/arcgis/rest/services/Admin/Grids/MapServer/6\"}",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Retired",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Baltimore County, Maryland"
+  ],
+  "dct_spatial_sm": [
+    "Baltimore County, Maryland",
+    "Maryland"
+  ],
+  "b1g_centroid_ss": "39.45625,-76.6038",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "04b-24005",
+  "dc_creator_sm": [
+    "Baltimore County Web Map Portal"
+  ]
+}

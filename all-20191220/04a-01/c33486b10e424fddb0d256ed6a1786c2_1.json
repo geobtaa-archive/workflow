@@ -1,0 +1,79 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "c33486b10e424fddb0d256ed6a1786c2_1",
+  "dc_identifier_s": "c33486b10e424fddb0d256ed6a1786c2_1",
+  "b1g_date_range_drsim": [
+    "[1998 TO 1998]"
+  ],
+  "dct_temporal_sm": [
+    "1998"
+  ],
+  "dc_subject_sm": [
+    "Environment"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "1998",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-79.4873,-74.9939,39.723,37.891)",
+  "b1g_keyword_sm": [
+    "Hydrology",
+    "Watersheds",
+    "8 Digit Watersheds",
+    "12 Digit Watersheds",
+    "HUC 11 Federal Watersheds",
+    "Chesapeake Bay",
+    "Coastal Zone",
+    "Vector",
+    "Dynamic",
+    "WFS",
+    "WMS",
+    "HYDR",
+    "DNR",
+    "Department of Natural Resources",
+    "Maryland",
+    "MD",
+    "MD iMAP",
+    "KML"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2016-02-10",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "This is a MD iMAP hosted service layer. Find more information at http://imap.maryland.gov.This file (SWSUB8) is a statewide digital watershed file. It depicts the State with 138 separate watersheds each with an 8-digit numeric code. The file was created primarily for State and Federal agency use. The creation of this file goes back many years and involved several State and Federal agencies. This file was derived from a more detailed watershed file (Maryland's Third-Order Watershed). The process used to create this file is consistent with the elevation contour information found on the US Geological Survey's 7.5 minute topographic quadrangle maps and the Maryland Department of the Environment's watershed location and naming conventions. This file is similar, but not identical, to the US Natural Resources Conservation Service's (NRCS) Hydrologic Unit Code (HUC11) watershed file. The watersheds define Strahler (Strahler 1952 p.1120) third order stream drainage by contours on U.S. Geological Survey (USGS) 7.5 minute quadrangle map sheets. Some watershed drainage areas were defined for streams less than third order and some large area Watersheds were split to maintain a maximum size of 15,000 acres.The Department of Natural Resources makes no warranty, expressed or implied, as to the use or appropriateness of Spatial Data, and there are no warranties of merchantability or fitness for a particular purpose or use. The information contained in Spatial Data is from publicly available sources, but no representation is made as to the accuracy or completeness of Spatial Data. The Department of Natural Resources shall not be subject to liability for human error, error due to software conversion, defect, or failure of machines, or any material used in the connection with the machines, including tapes, disks, CD-ROMs or DVD-ROMs and energy. The Department of Natural Resources shall not be liable for any lost profits, consequential damages, or claims against the Department of Natural Resources by third parties. The liability of the Department of Natural Resources for damage regardless of the form of the action shall not exceed any distribution fees that may have been paid in obtaining Spatial Data.Feature Service Layer Link:https://geodata.md.gov/imap/rest/services/Hydrology/MD_Watersheds/FeatureServer/1",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Watersheds - 8 Digit Watersheds: Maryland",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/c33486b10e424fddb0d256ed6a1786c2_1\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/c33486b10e424fddb0d256ed6a1786c2_1.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://geodata.md.gov/imap/rest/services/Hydrology/MD_Watersheds/FeatureServer/1\"}",
+  "dct_isPartOf_sm": [
+    "04a-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dct_spatial_sm": [
+    "Maryland"
+  ],
+  "b1g_centroid_ss": "38.807,-77.2406",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "04a-01",
+  "dc_creator_sm": [
+    "ArcGIS Online for Maryland"
+  ]
+}

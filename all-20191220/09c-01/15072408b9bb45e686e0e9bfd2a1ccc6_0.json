@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "15072408b9bb45e686e0e9bfd2a1ccc6_0",
+  "dc_identifier_s": "15072408b9bb45e686e0e9bfd2a1ccc6_0",
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "dct_temporal_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2018",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-86.3354,-86.1962,41.743,41.634)",
+  "b1g_keyword_sm": [
+    "Public Safety"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Purdue",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2018-04-03",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "This dataset includes fatal and non fatal, criminally assaulted shootings in South Bend from 2015 - 2017.Note that location is provided at the 100 block level rather than the exact location of the incident.If the location of the incident is unknown, the incident will not appear on the map, but is included in the table.The time listed in the date/time field is a default time provided by the application and does not reflect the actual time of the incident.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Criminally Assaulted Shootings: South Bend, Indiana",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data-southbend.opendata.arcgis.com/datasets/15072408b9bb45e686e0e9bfd2a1ccc6_0\",\"http://schema.org/downloadUrl\":\"http://data-southbend.opendata.arcgis.com/datasets/15072408b9bb45e686e0e9bfd2a1ccc6_0.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.southbendin.gov/arcgis/rest/services/OpenData/Shootings/MapServer/0\"}",
+  "dct_isPartOf_sm": [
+    "09c-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "South Bend, Indiana"
+  ],
+  "dct_spatial_sm": [
+    "South Bend, Indiana",
+    "Indiana"
+  ],
+  "b1g_centroid_ss": "41.688500000000005,-86.26580000000001",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "09c-01",
+  "dc_creator_sm": [
+    "City of South Bend"
+  ]
+}

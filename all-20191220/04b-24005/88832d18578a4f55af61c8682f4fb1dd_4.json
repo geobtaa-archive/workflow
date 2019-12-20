@@ -1,0 +1,65 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "88832d18578a4f55af61c8682f4fb1dd_4",
+  "dc_identifier_s": "88832d18578a4f55af61c8682f4fb1dd_4",
+  "b1g_date_range_drsim": [
+    "[2017 TO 2017]"
+  ],
+  "dct_temporal_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_dateAccessioned_s": "2019-04-05",
+  "solr_year_i": "2017",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-76.8893,-76.3289,39.7225,39.1964)",
+  "b1g_keyword_sm": [
+    "minor roads",
+    "baltimore county",
+    "centerlines"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "7/12/2017",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Minor Roads: Baltimore County, Maryland",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data-bc-gis.opendata.arcgis.com/datasets/88832d18578a4f55af61c8682f4fb1dd_4\",\"http://schema.org/downloadUrl\":\"http://data-bc-gis.opendata.arcgis.com/datasets/88832d18578a4f55af61c8682f4fb1dd_4.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://bcgis.baltimorecountymd.gov/arcgis/rest/services/Transportation/Centerlines/MapServer/4\"}",
+  "dct_isPartOf_sm": [
+    "04b-24005"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Baltimore County, Maryland"
+  ],
+  "dct_spatial_sm": [
+    "Baltimore County, Maryland",
+    "Maryland"
+  ],
+  "b1g_centroid_ss": "39.45945,-76.60910000000001",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "04b-24005",
+  "dc_creator_sm": [
+    "Baltimore County Web Map Portal"
+  ]
+}

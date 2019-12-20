@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "b99f6585-789b-4183-bc6e-bb69929e9dc7",
+  "dc_identifier_s": "b99f6585-789b-4183-bc6e-bb69929e9dc7",
+  "b1g_date_range_drsim": [
+    "[2010 TO 2016]"
+  ],
+  "dct_temporal_sm": [
+    "2010-2016"
+  ],
+  "dc_subject_sm": [
+    "Environment"
+  ],
+  "b1g_dateAccessioned_s": "2019-09-05",
+  "solr_year_i": "2010",
+  "dc_format_s": "Files",
+  "solr_geom": "ENVELOPE(-80.444191,-79.588984,40.832057,40.143151)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Penn State",
+  "dct_accrualMethod_s": "HTML",
+  "b1g_image_ss": "",
+  "dct_issued_s": "",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "Tree canopy change in Allegheny County Pennsylvania for the years 2010 to 2015. This tree canopy change data set consists of three classes: no change, gain, and loss. No change polygons are those in which the tree canopy remained the same between the two time periods. Gain polygons are those in which tree canopy increased between the two time periods. Loss polygons are those in which tree canopy decrease between the two time periods. 2010 tree canopy can be calculated by adding the \\u201cno change\\u201d and loss classes. Tree canopy for 2015 can be calculated by adding the \\u201cno change\\u201d and \\u201cgain\\u201d classes.Several data sets were used to map tree canopy change. The starting point was the 2010 high-resolution land cover data set developed for Allegheny County. Change was then mapped using leaf-off lidar data collected in 2006, 4-band leaf-on National Agriculture Imagery Program (NAIP) data collected in 2010, leaf off lidar data collected in 2015, and 4-band leaf-on NAIP data collected in 2015. All four data sets were integratedinto an object-based image analysis system (OBIA), which a rule-based expert system. A combination of segmentation, classification, and morphology algorithms were employed to determine if tree canopy had changed between the two time periods. The data set was then manually edited at a scale of 1:5000. The main factors determining change were a decrease in height, indicating tree removal, as identified by the lidar, and the change in the spectral characteristics, as identified in the aerial imagery. There were spatial misalignment issues between all four of the data sets. As a result, very fine scale changes at the edges of tree canopy could not be determined. The data set can thus be considered to be slightly biased towards tree canopy loss, and fine-scale tree canopy gains could not be determined. Most of the gain identified is not new growth, but rather canopy from trees that were too small to be detected in the original 2010 mapping.The incorporation of newer lidar data enabled a revisit of the original 2010 tree canopy mapping. The 2015 lidar data was substantially higher quality than the 2006 lidar data used for the 2010 high-resolution land cover mapping project. This enabled errors of omission and commission in the original 2010 tree canopy mapping to be corrected. Examples include shrubby areas in 2010 falsely classified as tree canopy and tall trees that were not clearly visible in the data used to map tree canopy in 2010. This data set should be considered to be the most accurate depiction of tree canopy for both the 2010 and 2015 time periods.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "Allegheny County -Tree Canopy Change"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Tree Canopy Change: Allegheny County, Pennsylvania, 2010-2015, 2016",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=1235\",\"http://schema.org/downloadUrl\":\"https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=1235\",\"http://www.w3.org/1999/xhtml\":\"https://btaagdp.org/metadata/08a-01/FullMetadataDisplay.aspx%3ffile=AlleghenyCounty_TreeCanopyChange_2010_2015.html\"}",
+  "dct_isPartOf_sm": [
+    "08a-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "dc_publisher_sm": [
+    "Allegheny County, Pennsylvania"
+  ],
+  "dct_spatial_sm": [
+    "Allegheny County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "b1g_centroid_ss": "40.487604000000005,-80.0165875",
+  "b1g_genre_sm": [
+    ""
+  ],
+  "b1g_code_s": "08a-01",
+  "dc_creator_sm": [
+    ""
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "cea3ea81f7bb447abd5747904b47351a_0",
+  "dc_identifier_s": "cea3ea81f7bb447abd5747904b47351a_0",
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "dc_subject_sm": [
+    "Location"
+  ],
+  "b1g_dateAccessioned_s": "2019-09-04",
+  "solr_year_i": "2019",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-80.2852,-79.7011,40.6805,40.1902)",
+  "b1g_keyword_sm": [
+    "Elections; Allegheny"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Penn State",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2019-05-06",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "Allegheny County Polling Places May2019"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Polling Places: Allegheny County, Pennsylvania, May 2019",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://openac-alcogis.opendata.arcgis.com/datasets/cea3ea81f7bb447abd5747904b47351a_0\",\"https://schema.org/downloadUrl\":\"https://openac-alcogis.opendata.arcgis.com/datasets/cea3ea81f7bb447abd5747904b47351a_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/vdNDkVykv9vEWFX4/arcgis/rest/services/Allegheny_County_Polling_Places_May2019/FeatureServer/0\"}",
+  "dct_isPartOf_sm": [
+    "08b-42003"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Allegheny County, Pennsylvania"
+  ],
+  "dct_spatial_sm": [
+    "Allegheny County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "b1g_centroid_ss": "40.43535,-79.99315",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "08b-42003",
+  "dc_creator_sm": [
+    "County of Allegheny, PA"
+  ]
+}

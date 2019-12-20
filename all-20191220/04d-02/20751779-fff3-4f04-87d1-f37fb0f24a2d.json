@@ -1,0 +1,61 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "20751779-fff3-4f04-87d1-f37fb0f24a2d",
+  "dc_identifier_s": "20751779-fff3-4f04-87d1-f37fb0f24a2d",
+  "b1g_date_range_drsim": [
+    "[1911 TO 1911]"
+  ],
+  "dct_temporal_sm": [
+    "1911"
+  ],
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "b1g_dateAccessioned_s": "2019-11-04",
+  "solr_year_i": "1911",
+  "dc_format_s": "TIFF",
+  "solr_geom": "ENVELOPE(6.112541667,6.929666667,46.91971111,46.53013056)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "Dublin Core",
+  "b1g_image_ss": "",
+  "dct_issued_s": "1911",
+  "suppressed_b": "",
+  "dc_description_s": "Map of Denmark - L\u00f6nborg Gd (L\u00f8nborg), 1911. Scale=1:20,000. Topography, towns, roads for parts of Denmark",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "mdu-057083"
+  ],
+  "dc_language_sm": [
+    ""
+  ],
+  "dc_title_s": "Map of Denmark - L\u00f6nborg Gd (L\u00f8nborg), 1911",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/b8/61/48/42/b8614842-fe27-4d33-b132-7322c4229224\"}",
+  "dct_isPartOf_sm": [
+    "04d-02"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image"
+  ],
+  "dc_publisher_sm": [
+    "Geodetic Institute"
+  ],
+  "dct_spatial_sm": [
+    "L\u00f8nborg, Denmark"
+  ],
+  "b1g_centroid_ss": "46.724920835,6.521104167",
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "b1g_code_s": "04d-02",
+  "dc_creator_sm": [
+    ""
+  ]
+}

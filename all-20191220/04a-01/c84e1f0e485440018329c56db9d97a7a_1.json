@@ -1,0 +1,75 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "c84e1f0e485440018329c56db9d97a7a_1",
+  "dc_identifier_s": "c84e1f0e485440018329c56db9d97a7a_1",
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dc_subject_sm": [
+    "Oceans"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2016",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-77.2179,-75.0656,39.6598,37.9066)",
+  "b1g_keyword_sm": [
+    "MD",
+    "Maryland",
+    "MD iMAP",
+    "HYDR",
+    "hydrology",
+    "DNR",
+    "Maryland Department of Natural Resources",
+    "vector",
+    "dynamic",
+    "WMS",
+    "WFS",
+    "coastal atlas",
+    "blue infrastructure",
+    "KML"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2016-03-30",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "This is a MD iMAP hosted service layer. Find more information at http://imap.maryland.gov.A subset of watersheds created for the Blue Infrastructure Project (BI) based on the DNR 12 digit watershes as follows; This file (SWSHED12) is a statewide digital watershed file. It was created primarily for state and federal agency use. The watersheds define Strahler (Strahler 1952 p. 1120) third order stream drainage by contours on U.S. Geological Survey (USGS) 7.5 minute quadrangle map sheets. Some watersheds drainage areas were defined for streams less than third order and some large area watershed were split to maintain a maximum size of 15,000 acres. The watershed boundaries in this file were developed in a joint state and federal effort to create a consistent watershed file for use by all government agencies with an interest in Maryland's watersheds. The U.S. Natural Resources Conservation Service (NRCS) redefined the third order watersheds creating the HUA14 file. This file contains all of the HUA14 watersheds and some added watersheds to maintain water quality sampling sites. It was also used to create the Maryland Sub-Watershed file.Feature Service Layer Link:https://geodata.md.gov/imap/rest/services/Hydrology/MD_BlueInfrastructure/FeatureServer/1",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Blue Infrastructure - Blue Infrastructure Watersheds: Maryland",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/c84e1f0e485440018329c56db9d97a7a_1\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/c84e1f0e485440018329c56db9d97a7a_1.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://geodata.md.gov/imap/rest/services/Hydrology/MD_BlueInfrastructure/FeatureServer/1\"}",
+  "dct_isPartOf_sm": [
+    "04a-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dct_spatial_sm": [
+    "Maryland"
+  ],
+  "b1g_centroid_ss": "38.783199999999994,-76.14175",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "04a-01",
+  "dc_creator_sm": [
+    "ArcGIS Online for Maryland"
+  ]
+}

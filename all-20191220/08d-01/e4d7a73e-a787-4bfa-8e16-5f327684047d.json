@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "e4d7a73e-a787-4bfa-8e16-5f327684047d",
+  "dc_identifier_s": "e4d7a73e-a787-4bfa-8e16-5f327684047d",
+  "b1g_date_range_drsim": [
+    "[1670 TO 1670]"
+  ],
+  "dct_temporal_sm": [
+    "1670"
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_dateAccessioned_s": "2019-01-16",
+  "solr_year_i": "1670",
+  "dc_format_s": "JPEG",
+  "solr_geom": "ENVELOPE(-77.75,-74.3,39.96666667,36.6)",
+  "b1g_keyword_sm": [
+    "Penn State Rare Maps"
+  ],
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Penn State",
+  "dct_accrualMethod_s": "",
+  "b1g_image_ss": "",
+  "dct_issued_s": "",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "Scale approximately 1:475,200. 1 in. = approximately 2.5 leagues; 1 map on 4 sheets; 79 x 95 cm, sheets 41 x 49 cm, in envelope 45 x 52 cm Maps--Facsimile",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Virginia and Maryland as it is planted and inhabited this present year 1670.",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30103/manifest.json\",\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30103\"}",
+  "dct_isPartOf_sm": [
+    "08d-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "Maryland"
+  ],
+  "b1g_centroid_ss": "38.283333335,-76.025",
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "b1g_code_s": "08d-01",
+  "dc_creator_sm": [
+    "Heermans, Augustus, 1621?-1686."
+  ]
+}

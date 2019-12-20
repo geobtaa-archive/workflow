@@ -1,0 +1,71 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "6eed37b1444741a4b5fe6b28cc2fdd95_0",
+  "dc_identifier_s": "6eed37b1444741a4b5fe6b28cc2fdd95_0",
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "dct_temporal_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2018",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-77.0320599,-76.53362778,40.66202405,40.11901756)",
+  "b1g_keyword_sm": [
+    "Planning",
+    "Dauphin County",
+    "Land Use",
+    "Landuse",
+    "Anderson",
+    "TriCounty Planning",
+    "TriCounty Regional Planning",
+    "TCRP",
+    "TCRPC"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Penn State",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2018-10-01",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "Land uses and land cover for use in comprehensive plans, transportation plans, growth management initiatives, and determining the potential change to land and land use from various projects.This layer is a land use and land cover layer based on A Land Use And Land Cover Classification System For Use With Remote Sensor Data by James R. Anderson, Ernest E. Hardy, John T. Roach and Richard E. Witmer. It covers the Tri-County region, and uses: the ID categories set forth by Lancaster County's modified Anderson level 3 land use and land cover model, completed in 1999, the existing land use layers from each county, aerial photographs (from 2012, 2013, and 2014), hydrology, and forest block layers from each county. It features a minimum land area threshold size of 3 acres. ID Modified Anderson Level II Land use code 111 through 970. Valid codes are as follows: 111 Residential - less than 2 units per acre. 112 Residential - 2.1 to 7 units per acre (villages, neighborhoods, highway strip houses). 113 Residential - more than 7 units per acre (trailer parks, apartment buildings, condominiums, row homes). 114 Farmsteads - farmhouses, usually associated with and including, barns and outbuildings. (NOT including large, commercial-sized hog/chicken operations - #230). Agricultural production may or may not be active. 120 Commercial and services - Any apparent store, shop, mall, gas station or place of business where large-scale production is not occurring. 130 Industrial - Large buildings that may have production in process. 140 Transportation and utilities - Wide transportation corridors (including 4-lane divided highways), toll booth areas, highway departments, transmission stations, water towers/tanks, sewage treatment plants. 150 Industrial and commercial complexes - Large areas where there are many adjacent industrial plants and/or other businesses. Only used when unable to determine the exact use as either 120 or 130. 160 Mixed urban or built-up land - Densely developed land generally associated with urban centers. This category is often comprised of a mix of other developed land categories (i.e. 113, 120, 150, and 180) and is generally only used where development patterns are too complex to easily delineate separate developed land categories. For this project, this category will be rarely (if ever) used because the 300-scale photos appear to be sufficiently detailed to allow discrimination of separate categories. 170 Other: Areas whose land use does not fit into any particular category or can not be interpreted from the aerial photography. 180 Institutional - Schools, hospitals, or other institutional facilities. Churches and adjoining cemeteries. Stand-alone municipal buildings, including parking/storage areas for municipal equipment (i.e. snow plows). Also, stand-alone fire houses. Usually large buildings, surrounding access road with parking areas some landscaping, well-kept grounds. 190 Recreational - Active Recreation Parks (i.e. ball fields, playgrounds, tennis courts). Also campgrounds, golf courses, hunt clubs. 211 Agriculture: cropland 212 Agriculture: pasture 213 Agriculture: other unclassified agriculture land 220 Orchards/groves/vineyards/nurseries/other horticulture,Trees/plants forming grid or regular patterns. 230 Large Confined Feeding Operations - Usually associated with a farmstead (114) these are commercial-sized buildings housing hog or chicken operations. 240 Other agriculture 310 Herbaceous - Open, grassy areas with few tress or shrubs. Generally refers to ungrazed or uncontrolled grass land, but also includes very large lawns and large cemeteries not adjacent to a church. 320 Shrub/brush - Areas where shrubs, brush, and/or very small trees are present. 330 Mixed cover - Areas that are not forested but have a mixture of vegetation. 410 Deciduous forest. 420 Coniferous forest. 430 Mixed forest. 500 Open water (Hydrology polygons from ADR). 610 Forest Wetlands. 730 Sandy non-beach. 740 Rock outcrops 750 Mines/quarries/pits and junk yards/land fills. 760 Transitional (under construction). 770 Mixed barren and vegetated (basic disturbed class). 997 Islands less than minimum mapping unit size. 998 Any land within a tile that is not in an area where mapping is required.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "anderson Land Use - Generalized: Dauphin County, Pennsylvania, United States",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data-dauphinco.opendata.arcgis.com/datasets/6eed37b1444741a4b5fe6b28cc2fdd95_0\",\"http://schema.org/downloadUrl\":\"http://data-dauphinco.opendata.arcgis.com/datasets/6eed37b1444741a4b5fe6b28cc2fdd95_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services2.arcgis.com/EEtiX55QzkHKYQKY/arcgis/rest/services/Land_Use_2016/FeatureServer/0\"}",
+  "dct_isPartOf_sm": [
+    "08b-42043"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Dauphin County, Pennsylvania"
+  ],
+  "dct_spatial_sm": [
+    "Dauphin County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "b1g_centroid_ss": "40.390520805,-76.78284384",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "08b-42043",
+  "dc_creator_sm": [
+    "Dauphin County, PA"
+  ]
+}

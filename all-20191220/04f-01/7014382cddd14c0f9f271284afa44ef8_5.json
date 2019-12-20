@@ -1,0 +1,70 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "7014382cddd14c0f9f271284afa44ef8_5",
+  "dc_identifier_s": "7014382cddd14c0f9f271284afa44ef8_5",
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_dateAccessioned_s": "2019-10-11",
+  "solr_year_i": "2019",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-75.2415,-74.389,40.4189,39.5403)",
+  "b1g_keyword_sm": [
+    "DVRPC",
+    "Safety",
+    "Transportation",
+    "HSIP"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2019-06-25T21:17:45.000Z",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "The Federal Highway Administration (FHWA) established the Highway Safety Improvement Program (HSIP) to achieve a significant reduction in traffic fatalities and serious injuries on all public roads. The HSIP emphasizes a data-driven, strategic approach to improving highway safety that focuses on results. Under the enabling transportation legislation enacted in December 2015, Fixing America's Surface Transportation (FAST), New Jersey receives approximately $57 million annually for safety improvements. The HSIP requires a statewide strategic highway safety plan to set goals and prioritize safety investments. The HSIP also requires annual progress reporting to the FHWA.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "High Risk Rural Roads"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "High Risk Rural Roads: Delaware Valley Regional Planning Commission",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/7014382cddd14c0f9f271284afa44ef8_5.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/LWtWv6q6BJyKidj8/arcgis/rest/services/DVRPC_HSIP/FeatureServer/5\",\"http://schema.org/url\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/7014382cddd14c0f9f271284afa44ef8_5\"}",
+  "dct_isPartOf_sm": [
+    "04f-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Delaware Valley Regional Planning Commission"
+  ],
+  "dct_spatial_sm": [
+    "Delaware River, Delaware",
+    "Delaware",
+    "Philadelphia, Pennsylvania",
+    "Pennsylvania",
+    "Maryland",
+    "New Jersey"
+  ],
+  "b1g_centroid_ss": "39.979600000000005,-74.81524999999999",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "04f-01",
+  "dc_creator_sm": [
+    "DVRPC-GIS"
+  ]
+}

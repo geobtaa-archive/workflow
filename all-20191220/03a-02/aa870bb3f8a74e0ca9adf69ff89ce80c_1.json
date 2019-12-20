@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "aa870bb3f8a74e0ca9adf69ff89ce80c_1",
+  "dc_identifier_s": "aa870bb3f8a74e0ca9adf69ff89ce80c_1",
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "dct_temporal_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_dateAccessioned_s": "2019-07-23",
+  "solr_year_i": "2019",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-96.947,-89.981,43.751,40.259)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Iowa",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2019-03-11",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "An SHSP (Strategic Highway Safety Plan) is a statewide-coordinated safety plan that provides a comprehensive framework for reducing highway fatalities and serious injuries on all public roads. The SHSP strategically establishes statewide goals, objectives and key emphasis areas developed in consultation with federal, state, local and private sector safety stakeholders. The SHSP plan process is a requirement of the Federal Highway Administration's Highway Safety Improvement Program (HSIP). In general, the federal HSIP requires that state transportation departments develop an SHSP that: includes consultation from a variety of stakeholders during the development process, analyzes and makes effective use of crash data, addresses the 5Es (engineering, enforcement, education, emergency services and everyone) plus management and operations, considers the safety needs of all public roads, describes a program of projects or strategies to reduce or eliminate safety hazards, is implemented and evaluated.Note: This data represents analysis conducted for the 2019-2023 SHSP only. This data will not be updated once published.Polygon features: SHSP, DemographicsLine features: Passenger Annual Average Daily Traffic (AADT)Tables: Crash Rates, Age and Gender, Road System Classification, Rural and Urban",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Demographics: Iowa",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://public-iowadot.opendata.arcgis.com/datasets/aa870bb3f8a74e0ca9adf69ff89ce80c_1\",\"http://schema.org/downloadUrl\":\"http://public-iowadot.opendata.arcgis.com/datasets/aa870bb3f8a74e0ca9adf69ff89ce80c_1.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/8lRhdTsQyJpO52F1/arcgis/rest/services/SHSP_(Strategic_Highway_Safety_Plan)_Data_view/FeatureServer/1\"}",
+  "dct_isPartOf_sm": [
+    "03a-02"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Iowa"
+  ],
+  "dct_spatial_sm": [
+    "Iowa"
+  ],
+  "b1g_centroid_ss": "42.004999999999995,-93.464",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "03a-02",
+  "dc_creator_sm": [
+    "Iowa Department of Transportation"
+  ]
+}

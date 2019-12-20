@@ -1,0 +1,75 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "434154a107e5497282bbad286c192c9d_0",
+  "dc_identifier_s": "434154a107e5497282bbad286c192c9d_0",
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dc_subject_sm": [
+    "Environment"
+  ],
+  "b1g_dateAccessioned_s": "2019-10-11",
+  "solr_year_i": "2016",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-76.1332,-74.3807,40.6065,39.5238)",
+  "b1g_keyword_sm": [
+    "Open Space",
+    "Protected Lands",
+    "Preserved Farmland",
+    "Federal Lands",
+    "State Lands",
+    "Muncipal Lands",
+    "Nonprofit Lands",
+    "County Lands",
+    "DVRPC"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2015-07-16T14:39:12.000Z",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "Protected Open Space for the DVRPC Region as of 2016. DVRPC maintains an inventory of protected public and private open space in the Delaware Valley. The inventory tracks all publicly-owned open space, preserved farmland, and non profit protected open space. State, county and municipal programs preserve farms by purchasing development rights with public funds. Non-profits (land trusts and conservancies) protect privately owned open space lands by purchasing easements or by acquiring land outright with a combination of public and private funds. This file is a compilation from the following sources and is not necessarily parcel-based: Bucks County Planning Commission; Burlington County Department of Economic Development and Regional Planning; Camden County Division of Open Space and Farmland Preservation; Camden County Improvement Authority; Chester County Planning Commission; Delaware County Planning Department; Gloucester County Planning Division; Mercer County Planning Division; Montgomery County Planning Commission; Natural Lands Trust; New Jersey Conservation Foundation; New Jersey Department of Environmental Protection; New Jersey State Agriculture Development Committee; Pennsylvania Department of Conservation and Natural Resources; Philadelphia City Planning Commission; Philadelphia Department of Parks and Recreation In the cases where land had multiple owners, the following heirarchy was applied: 1. Preserved Farmland 2. Federal 3. State 4. County 5. Municipal 6. Nonprofit",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "DVRPC Protected Open Space (2016)"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Protected Open Space (2016): Delaware Valley Regional Planning Commission",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/434154a107e5497282bbad286c192c9d_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://arcgis.dvrpc.org/arcgis/rest/services/Planning/ProtectedOpenSpace/FeatureServer/0\",\"http://schema.org/url\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/434154a107e5497282bbad286c192c9d_0\"}",
+  "dct_isPartOf_sm": [
+    "04f-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Delaware Valley Regional Planning Commission"
+  ],
+  "dct_spatial_sm": [
+    "Delaware River, Delaware",
+    "Delaware",
+    "Philadelphia, Pennsylvania",
+    "Pennsylvania",
+    "Maryland",
+    "New Jersey"
+  ],
+  "b1g_centroid_ss": "40.06515,-75.25695",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "04f-01",
+  "dc_creator_sm": [
+    "DVRPC-GIS"
+  ]
+}

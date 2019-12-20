@@ -1,0 +1,72 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "383b7266bd3e48d7a0ce499c93f09e92_0",
+  "dc_identifier_s": "383b7266bd3e48d7a0ce499c93f09e92_0",
+  "b1g_date_range_drsim": [
+    "[2017 TO 2017]"
+  ],
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dc_subject_sm": [
+    "Biota"
+  ],
+  "b1g_dateAccessioned_s": "2019-10-11",
+  "solr_year_i": "2017",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-168.0772,174.2743,76.0564,70.066)",
+  "b1g_keyword_sm": [
+    "dnr",
+    "        forestry",
+    "        public land",
+    "        state forest",
+    "        inventory",
+    "        compartment",
+    "        stand",
+    "        treatment",
+    "        site condition",
+    "        canopy",
+    "        subcanopy"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Michigan State",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2017-12-19T12:49:11.000Z",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "ESRI Hosted Feature Service of Forest Inventory data layers for the Michigan DNR Open Data Portal",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "open ForestInventory3"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Forest Inventory: State of Michigan",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://gis-michigan.opendata.arcgis.com/datasets/383b7266bd3e48d7a0ce499c93f09e92_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services3.arcgis.com/Jdnp1TjADvSDxMAX/arcgis/rest/services/open_ForestInventory3/FeatureServer/0\",\"http://schema.org/url\":\"http://gis-michigan.opendata.arcgis.com/datasets/383b7266bd3e48d7a0ce499c93f09e92_0\"}",
+  "dct_isPartOf_sm": [
+    "06a-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Michigan"
+  ],
+  "dct_spatial_sm": [
+    "Michigan"
+  ],
+  "b1g_centroid_ss": "73.0612,3.098550000000003",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "06a-01",
+  "dc_creator_sm": [
+    "Michigan Department of Natural Resources"
+  ]
+}

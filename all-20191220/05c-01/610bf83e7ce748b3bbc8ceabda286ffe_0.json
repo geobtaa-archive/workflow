@@ -1,0 +1,68 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "610bf83e7ce748b3bbc8ceabda286ffe_0",
+  "dc_identifier_s": "610bf83e7ce748b3bbc8ceabda286ffe_0",
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dc_subject_sm": [
+    "Location",
+    "Climatology, Meteorology and Atmosphere"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2018",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-93.324372,-93.207733,45.038633,44.892078)",
+  "b1g_keyword_sm": [
+    "Public Works",
+    "Minneapolis",
+    "Snow Emergency",
+    "Tows",
+    "2018"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Minnesota",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2018-03-05",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "This is the information about the number and location of tows during this snow emergency. Tow data will be retained for all Snow Emergencies in each snow season, until there is five full seasons of snow emergencies. Disclaimer: There is an expected address error rate of between 8 and 14 percent. Snow Emergency Tows 2017/2018 Season #4 Yardville (2/25/18 thru 2/27/18)Field NameField TypeField DescriptionFIDObject IDObject IDCall_TakenTextDate and time tag writtenCustomerTextSnow EmergencyLocation TextAddressLatitudeNumericX Coordinate - GeocodeLongitudeNumericY Coordinate - GeocodeNeighborhoTextName of NeighborhoodWardTextWard number 1 - 13CommunityTextName of CommunityDay_identiTextDay of EventTowDistTextTow District",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Snow Tows-Yardv'l: Minneapolis, Minnesota, 2018",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/610bf83e7ce748b3bbc8ceabda286ffe_0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/610bf83e7ce748b3bbc8ceabda286ffe_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Snow_Emergency_Yardville_Tows_2018/FeatureServer/0\"}",
+  "dct_isPartOf_sm": [
+    "05c-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Minneapolis, Minnesota"
+  ],
+  "dct_spatial_sm": [
+    "Minneapolis, Minnesota",
+    "Minnesota"
+  ],
+  "b1g_centroid_ss": "44.9653555,-93.2660525",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "05c-01",
+  "dc_creator_sm": [
+    "MapIT Minneapolis"
+  ]
+}

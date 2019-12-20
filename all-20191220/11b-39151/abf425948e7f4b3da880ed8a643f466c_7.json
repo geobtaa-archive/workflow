@@ -1,0 +1,68 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "abf425948e7f4b3da880ed8a643f466c_7",
+  "dc_identifier_s": "abf425948e7f4b3da880ed8a643f466c_7",
+  "b1g_date_range_drsim": [
+    "[2015 TO 2015]"
+  ],
+  "dct_temporal_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "b1g_dateAccessioned_s": "2019-04-14",
+  "solr_year_i": "2015",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-81.4212,-81.415,40.9155,40.9044)",
+  "b1g_keyword_sm": [
+    "Stark County",
+    "Ohio",
+    "Stormwater",
+    "Flood Control Facilities",
+    "Sewer",
+    "SCGIS"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Ohio State",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2015-08-19T18:27:20.000Z",
+  "suppressed_b": "TRUE",
+  "dc_description_s": "ONE OR MORE OF THE ACCESS LINKS FOR THIS RECORD WERE REPORTED AS BROKEN. THE RECORD MAY HAVE BEEN RETIRED BY THE HOST. A flood control facility refers to any method used to prevent or reduce the detrimental effects of flood waters. This may include, but not limited to; planting vegetation, construction of flood ways, levees, lakes, dams, reservoirs or retention/detention ponds.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "Stormwater - Flood Control Facilities"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Stormwater - Flood Control Facilities: Stark County, Ohio",
+  "b1g_dateRetired_s": "2019-04",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.starkcountyohio.gov/datasets/abf425948e7f4b3da880ed8a643f466c_7\",\"http://schema.org/downloadUrl\":\"http://opendata.starkcountyohio.gov/datasets/abf425948e7f4b3da880ed8a643f466c_7.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://scgisa.starkcountyohio.gov/arcgis/rest/services/RegionalPlanningCommission/Stormwater/MapServer/7\"}",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Retired",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Stark County, Ohio"
+  ],
+  "dct_spatial_sm": [
+    "Stark County, Ohio",
+    "Ohio"
+  ],
+  "b1g_centroid_ss": "40.90995,-81.41810000000001",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "11b-39151",
+  "dc_creator_sm": [
+    "Stark County Ohio"
+  ]
+}

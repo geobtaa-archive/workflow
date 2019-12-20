@@ -1,0 +1,65 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "3333213780e741a6a4b39eaf57bf28d2",
+  "dc_identifier_s": "3333213780e741a6a4b39eaf57bf28d2",
+  "b1g_date_range_drsim": [
+    "[1969 TO 1969]"
+  ],
+  "dct_temporal_sm": [
+    "1969"
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "b1g_dateAccessioned_s": "2019-11-10",
+  "solr_year_i": "1969",
+  "dc_format_s": "Imagery",
+  "solr_geom": "ENVELOPE(-83.6721,-83.6392,42.3094,42.277)",
+  "b1g_keyword_sm": [
+    "Matthaei-Nichols",
+    "Historical Aerial Imagery",
+    "Imagery",
+    "Matthaei Botanical Gardens"
+  ],
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Michigan",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2018-12-07T14:44:27.000Z",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "Historic aerial photo of the Matthaei Botanical Gardens property on May 21st, 1969.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "Matthaei Botanical Gardens - 1969\\, Partial (Image Service)."
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Matthaei Botanical Gardens - 1969, Partial (Image Service).: University of Michigan",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://mbgna-umich.opendata.arcgis.com/datasets/3333213780e741a6a4b39eaf57bf28d2\",\"urn:x-esri:serviceType:ArcGIS#ImageMapLayer\":\"https://arcgis.lsa.umich.edu/arcgis/rest/services/MBGNA/MBG_IMG_1969_c_ra/ImageServer\"}",
+  "dct_isPartOf_sm": [
+    "07d-02"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "University of Michigan"
+  ],
+  "dct_spatial_sm": [
+    "Michigan"
+  ],
+  "b1g_centroid_ss": "42.2932,-83.65565000000001",
+  "b1g_genre_sm": [
+    "Aerial imagery"
+  ],
+  "b1g_code_s": "07d-02",
+  "dc_creator_sm": [
+    "University of Michigan"
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "acd1f3cc95e649be846110fed7ce1234_0",
+  "dc_identifier_s": "acd1f3cc95e649be846110fed7ce1234_0",
+  "b1g_date_range_drsim": [
+    "[2017 TO 2017]"
+  ],
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2017",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-79.2519,-75.3785,39.6947,38.1821)",
+  "b1g_keyword_sm": [
+    "MDOT SHA Maintenance Shops",
+    "MDOT SHA Shops",
+    "Maintenance Shops",
+    "Shops",
+    "Shop",
+    "MDOT SHA Maintenance Garages",
+    "MDOT SHA Garages",
+    "Maintenance Garages",
+    "Garages",
+    "Garage",
+    "MDOT SHA Shop Locations",
+    "Shop Locations",
+    "MDOT SHA Garage Locations",
+    "Garage Locations",
+    "MDOT SHA Facility",
+    "MDOT SHA Facilities",
+    "Transportation",
+    "Statewide",
+    "Maryland",
+    "MD",
+    "Maryland Department of Transportation",
+    "MDOT",
+    "Maryland Department of Transportation State Highway Administration",
+    "MDOT SHA",
+    "State Highway Administration",
+    "SHA",
+    "Office of Maintenance",
+    "OOM",
+    "Office of Planning and Preliminary Engineering",
+    "OPPE",
+    "Data Governance Division",
+    "DGD",
+    "MD iMAP",
+    "Vector",
+    "Dynamic",
+    "WFS",
+    "WMS",
+    "KML",
+    "TRAN",
+    "2014"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2017-08-25",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "This is a MD iMAP hosted service layer. Find more information at http://imap.maryland.gov.Point features which represent the locations of all Maryland Department of Transportation State Highway Administration (MDOT SHA) Maintenance Shop Facilities throughout the State of Maryland.MDOT SHA Maintenance Shop Facilities data is used by various modules throughout the Maryland Department of Transportation (MDOT), as well as many other State and local government agencies. This data is key to understanding where the MDOT SHA Maintenance Shops are located throughout the State of Maryland.MDOT SHA Maintenance Shop Facilities data is updated and published on an As-Needed basis, as this data does not frequently or regularly change. For additional information, contact the MDOT SHA Geospatial Technologies Team: GIS@sha.state.md.usFor additional information related to the Maryland Department of Transportation (MDOT):http://www.mdot.maryland.gov/ For additional information related to the Maryland Department of Transportation State Highway Administration (MDOT SHA):http://www.roads.maryland.gov/Home.aspx MDOT SHA Geospatial Data Legal Disclaimer:The Maryland Department of Transportation State Highway Administration (MDOT SHA) makes no warranty, expressed or implied, as to the use or appropriateness of geospatial data, and there are no warranties of merchantability or fitness for a particular purpose or use. The information contained in geospatial data is from publicly available sources, but no representation is made as to the accuracy or completeness of geospatial data. MDOT SHA shall not be subject to liability for human error, error due to software conversion, defect, or failure of machines, or any material used in the connection with the machines, including tapes, disks, CD-ROMs or DVD-ROMs and energy. MDOT SHA shall not be liable for any lost profits, consequential damages, or claims against MDOT SHA by third parties.Feature Service Link:https://geodata.md.gov/imap/rest/services/Transportation/MD_MDOTSHAMaintenanceShopFacilities/FeatureServer/0",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Mdot Sha Maintenance Shop Facilities - Mdot Sha Maintenance Shop Facilities: Maryland",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/acd1f3cc95e649be846110fed7ce1234_0\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/acd1f3cc95e649be846110fed7ce1234_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://geodata.md.gov/imap/rest/services/Transportation/MD_MDOTSHAMaintenanceShopFacilities/FeatureServer/0\"}",
+  "dct_isPartOf_sm": [
+    "04a-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dct_spatial_sm": [
+    "Maryland"
+  ],
+  "b1g_centroid_ss": "38.9384,-77.3152",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "04a-01",
+  "dc_creator_sm": [
+    "ArcGIS Online for Maryland"
+  ]
+}

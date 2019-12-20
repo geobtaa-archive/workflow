@@ -1,0 +1,70 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "55e99f2631fe4c34b1c713cd73e76b0a_29",
+  "dc_identifier_s": "55e99f2631fe4c34b1c713cd73e76b0a_29",
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "b1g_dateAccessioned_s": "2019-04-02",
+  "solr_year_i": "2016",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-95.7602,-95.1313,45.7616,45.4108)",
+  "b1g_keyword_sm": [
+    "Public Land Survey",
+    "PLSS",
+    "Cadastre",
+    "Cadastral",
+    "Boundaries",
+    "Section",
+    "Pope County",
+    "Administrative"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Minnesota",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2016-10-25",
+  "suppressed_b": "TRUE",
+  "dc_description_s": "THE ACCESS LINKS FOR THIS RECORD WERE REPORTED AS BROKEN. THE RECORD MAY HAVE BEEN RETIRED BY THE HOST. The first division of the PLSS and commonly called a section.Contact for more informationTel: (320) 634-7788Fax: (320) Email: Information Technology130 East Minnesota Avenue, Glenwood, MN 56334",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Public Land Survey System (Plss) Sections: Pope County, Minnesota",
+  "b1g_dateRetired_s": "2019-02-15",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data-popecounty.opendata.arcgis.com/datasets/55e99f2631fe4c34b1c713cd73e76b0a_29\",\"http://schema.org/downloadUrl\":\"http://data-popecounty.opendata.arcgis.com/datasets/55e99f2631fe4c34b1c713cd73e76b0a_29.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"http://gis.co.pope.mn.us/arcgis/rest/services/OpenData/OpenData/MapServer/29\"}",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Retired",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Pope County, Minnesota"
+  ],
+  "dct_spatial_sm": [
+    "Pope County, Minnesota",
+    "Minnesota"
+  ],
+  "b1g_centroid_ss": "45.586200000000005,-95.44575",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "Retired",
+  "dc_creator_sm": [
+    "Pope County"
+  ]
+}

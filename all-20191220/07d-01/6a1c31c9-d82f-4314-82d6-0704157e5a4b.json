@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "6a1c31c9-d82f-4314-82d6-0704157e5a4b",
+  "dc_identifier_s": "6a1c31c9-d82f-4314-82d6-0704157e5a4b",
+  "b1g_date_range_drsim": [
+    "[1898 TO 1898]"
+  ],
+  "dct_temporal_sm": [
+    "c1898"
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_dateAccessioned_s": "2019-01-16",
+  "solr_year_i": "1898",
+  "dc_format_s": "JPEG",
+  "solr_geom": "ENVELOPE(-83.14,-82.98,42.4,42.29)",
+  "b1g_keyword_sm": [
+    "Clark Library Map Collections"
+  ],
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Michigan",
+  "dct_accrualMethod_s": "",
+  "b1g_image_ss": "https://quod.lib.umich.edu/cgi/i/image/api/image/clark1ic:013014050:39015095413020_01/full/res:1/0/native.jpg?attachment=1",
+  "dct_issued_s": "",
+  "suppressed_b": "",
+  "dc_description_s": "North is oriented towards top right corner of the map. Title at head of map: Rand McNally & Co.'s Detroit. Includes two copyright dates, 1895 and 1898. Includes index on verso, \"Rand, McNally & Co.'s Michigan\" includes county seats and location of money order P.O. Inset: Detroit and Vicinity, includes Grosse Isle. Page no. 229-232. 1 map: col.; 52 x 69 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Detroit and Vicinity.; Rand McNally & Co.'s Detroit;Rand McNally & Co.'s New Indexed Atlas of the World, Map of Detroit.",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-013014050/39015095413020_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:013014050\"}",
+  "dct_isPartOf_sm": [
+    "07d-01"
+  ],
+  "layer_id_s": "13014050",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dct_spatial_sm": [
+    "Detroit, Michigan",
+    "Michigan"
+  ],
+  "b1g_centroid_ss": "42.345,-83.06",
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "b1g_code_s": "07d-01",
+  "dc_creator_sm": [
+    "Rand McNally and Company."
+  ]
+}

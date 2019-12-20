@@ -1,0 +1,64 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "6bc500804ecc4e6bab0f9a373cf155dd_3",
+  "dc_identifier_s": "6bc500804ecc4e6bab0f9a373cf155dd_3",
+  "b1g_date_range_drsim": [
+    "[2015 TO 2015]"
+  ],
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dc_subject_sm": [
+    "Transportation",
+    "Location"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2015",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-84.8051,-84.2251,41.3507,41.2475)",
+  "b1g_keyword_sm": [
+    "Railroads"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Ohio State",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2014-12-31",
+  "suppressed_b": "",
+  "dc_description_s": "The State of Ohio Location Based Response System railroads depict the railroads along public and private roads within participating Ohio Counties. Rail data was developed from data collected by field observation of existing address locations at the time of collection.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Rail Crossings: Defiance County",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/6bc500804ecc4e6bab0f9a373cf155dd_3\",\"http://schema.org/downloadUrl\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/6bc500804ecc4e6bab0f9a373cf155dd_3.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://geo.oit.ohio.gov/arcgis/rest/services/LBRS/Defiance_LBRS/FeatureServer/3\"}",
+  "dct_isPartOf_sm": [
+    "11a-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Ohio Geographically Referenced Information Program"
+  ],
+  "dct_spatial_sm": [
+    "Defiance County, Ohio",
+    "Ohio"
+  ],
+  "b1g_centroid_ss": "41.2991,-84.51509999999999",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "11a-01",
+  "dc_creator_sm": [
+    "Defiance County, Ohio"
+  ]
+}

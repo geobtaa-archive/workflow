@@ -1,0 +1,71 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "ed8e3abea7274e5383796f59545f3ac3",
+  "dc_identifier_s": "ed8e3abea7274e5383796f59545f3ac3",
+  "b1g_date_range_drsim": [
+    "[2012 TO 2012]"
+  ],
+  "dct_temporal_sm": [
+    "2012"
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps",
+    "Elevation"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2012",
+  "dc_format_s": "Imagery",
+  "solr_geom": "ENVELOPE(-75.9464,-75.2903,38.5726,38.2184)",
+  "b1g_keyword_sm": [
+    "MD",
+    "MD iMAP",
+    "Maryland",
+    "LiDAR",
+    "Wicomico",
+    "Maryland Department of Information Technology",
+    "DoIT",
+    "DEM",
+    "Elevation"
+  ],
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2018-01-25",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "This is a MD iMAP hosted service. Find more information at http://imap.maryland.gov.Aerial Cartographics of America, Inc. collected LiDAR for over 681 square miles in Accomack, Dorchester, Somerset, Sussex, Wicomico, and Worchester Counties in Maryland, Delaware and Virginia. The nominal pulse spacing for this project was no greater than 0.7 meters. This project was collected with a Riegl LMS-Q680i Full Waveform LiDAR Sensor which collects an intensity value, GPS Week Time, Flightline and echo number attributes for each discrete pulse. Dewberry used proprietary procedures to classify the LAS into an initial ground surface. Dewberry used proprietary procedures to classify the LAS and then performed manual classifications according to project specifications: 1-Unclassified, 2-Ground, 7-Noise, 9-Water, and 10-Ignored Ground due to breakline proximity. Dewberry produced 3D breaklines and combined these with the final LiDAR data to produce seamless DTMs, DSMs and hydro flattened DEMs, for 833 tiles (1500 meters x 1500 meters) that cover the project area.Image Service Link: https://lidar.geodata.md.gov/imap/rest/services/Wicomico/MD_wicomico_dem_ft/ImageServer",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Lidar-Derived Dem In Feet, Maryland Imap: Wicomico County, Maryland, 2012",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/ed8e3abea7274e5383796f59545f3ac3\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/ed8e3abea7274e5383796f59545f3ac3\",\"urn:x-esri:serviceType:ArcGIS#ImageMapLayer\":\"https://lidar.geodata.md.gov/imap/rest/services/Wicomico/MD_wicomico_dem_ft/ImageServer\"}",
+  "dct_isPartOf_sm": [
+    "04a-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dct_spatial_sm": [
+    "Maryland"
+  ],
+  "b1g_centroid_ss": "38.3955,-75.61834999999999",
+  "b1g_genre_sm": [
+    "Aerial imagery"
+  ],
+  "b1g_code_s": "04a-01",
+  "dc_creator_sm": [
+    "ArcGIS Online for Maryland"
+  ]
+}

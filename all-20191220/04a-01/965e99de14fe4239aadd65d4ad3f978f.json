@@ -1,0 +1,73 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "965e99de14fe4239aadd65d4ad3f978f",
+  "dc_identifier_s": "965e99de14fe4239aadd65d4ad3f978f",
+  "b1g_date_range_drsim": [
+    "[2017 TO 2017]"
+  ],
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "b1g_dateAccessioned_s": "2019-09-04",
+  "solr_year_i": "2017",
+  "dc_format_s": "Imagery",
+  "solr_geom": "ENVELOPE(-79.5363,-74.9806,39.7806,37.8641)",
+  "b1g_keyword_sm": [
+    "MD iMAP",
+    "Maryland",
+    "MD",
+    "NAIP",
+    "Dynamic",
+    "Imagery",
+    "USDA",
+    "U.S. Department of Agriculture",
+    "IMAG",
+    "Vector",
+    "WMS",
+    "National Agriculture Imagery Program"
+  ],
+  "layer_geom_type_s": "Raster",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2019-07-11",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "The National Agriculture Imagery Program (NAIP) acquires aerial imagery during the agricultural growing seasons in the continental United States. This service contains NAIP imagery from 2017 in the Web Mercator projection.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "Maryland Historic NAIP Imagery - 2017"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Historic NAIP Imagery: Maryland, 2017",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.imap.maryland.gov/datasets/965e99de14fe4239aadd65d4ad3f978f\",\"https://schema.org/downloadUrl\":\"https://data.imap.maryland.gov/datasets/965e99de14fe4239aadd65d4ad3f978f\",\"urn:x-esri:serviceType:ArcGIS#ImageMapLayer\":\"https://imagery.geodata.md.gov/imap/rest/services/NAIP/NAIPImagery2017/ImageServer\"}",
+  "dct_isPartOf_sm": [
+    "04a-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dct_spatial_sm": [
+    "Maryland"
+  ],
+  "b1g_centroid_ss": "38.82235,-77.25845",
+  "b1g_genre_sm": [
+    "Aerial imagery"
+  ],
+  "b1g_code_s": "04a-01",
+  "dc_creator_sm": [
+    "ArcGIS Online for Maryland"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "c6a1a430-e481-4e58-ab2b-ac23d3ca199f",
+  "dc_identifier_s": "c6a1a430-e481-4e58-ab2b-ac23d3ca199f",
+  "b1g_date_range_drsim": [
+    "[1760 TO 1760]"
+  ],
+  "dct_temporal_sm": [
+    "approximately 1760?"
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_dateAccessioned_s": "2019-01-16",
+  "solr_year_i": "1760",
+  "dc_format_s": "JPEG",
+  "solr_geom": "ENVELOPE(-74.85,-51.73333333,51.78333333,42.76666667)",
+  "b1g_keyword_sm": [
+    "Penn State Rare Maps"
+  ],
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Penn State",
+  "dct_accrualMethod_s": "",
+  "b1g_image_ss": "",
+  "dct_issued_s": "",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "Scale not given; 1 map; 27 x 32 cm, on sheet 33 x 33 cm Qu\u00e9bec Region (Qu\u00e9bec)--Maps--Early works to 1800",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "A new and accurate map of Quebec and its boundaries. : from a late survey.",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/27173/manifest.json\",\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/27173\"}",
+  "dct_isPartOf_sm": [
+    "08d-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dct_spatial_sm": [
+    "Qu\u00e9bec, Canada",
+    "Canada"
+  ],
+  "b1g_centroid_ss": "47.275,-63.291666664999994",
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "b1g_code_s": "08d-01",
+  "dc_creator_sm": [
+    ""
+  ]
+}

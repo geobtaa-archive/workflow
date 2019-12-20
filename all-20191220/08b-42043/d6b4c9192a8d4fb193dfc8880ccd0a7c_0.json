@@ -1,0 +1,68 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "d6b4c9192a8d4fb193dfc8880ccd0a7c_0",
+  "dc_identifier_s": "d6b4c9192a8d4fb193dfc8880ccd0a7c_0",
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "dct_temporal_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Structure"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2016",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-76.98780872,-76.60883226,40.64530907,40.16721023)",
+  "b1g_keyword_sm": [
+    "Dauphin County",
+    "Parks",
+    "Playground",
+    "Drug Free",
+    "Boundary",
+    "Recreation"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Penn State",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2016-12-01",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "Park and playground boundaries. Created using data from the Tri-County Regional Planning Commission, municipal websites, tax parcels, and aerial imagery.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Parks and Playgrounds: Dauphin County, Pennsylvania",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data-dauphinco.opendata.arcgis.com/datasets/d6b4c9192a8d4fb193dfc8880ccd0a7c_0\",\"http://schema.org/downloadUrl\":\"http://data-dauphinco.opendata.arcgis.com/datasets/d6b4c9192a8d4fb193dfc8880ccd0a7c_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services2.arcgis.com/EEtiX55QzkHKYQKY/arcgis/rest/services/DC_ParksPlaygrounds/FeatureServer/0\"}",
+  "dct_isPartOf_sm": [
+    "08b-42043"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Dauphin County, Pennsylvania"
+  ],
+  "dct_spatial_sm": [
+    "Dauphin County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "b1g_centroid_ss": "40.40625965,-76.79832049000001",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "08b-42043",
+  "dc_creator_sm": [
+    "Dauphin County, PA"
+  ]
+}

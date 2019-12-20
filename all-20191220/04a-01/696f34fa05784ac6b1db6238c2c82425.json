@@ -1,0 +1,80 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "696f34fa05784ac6b1db6238c2c82425",
+  "dc_identifier_s": "696f34fa05784ac6b1db6238c2c82425",
+  "b1g_date_range_drsim": [
+    "[2014 TO 2014]"
+  ],
+  "dct_temporal_sm": [
+    "2014, 2016"
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2014",
+  "dc_format_s": "Imagery",
+  "solr_geom": "ENVELOPE(-77.255,-76.0222,39.1739,38.72)",
+  "b1g_keyword_sm": [
+    "MD",
+    "Maryland",
+    "MD iMAP",
+    "Image Service",
+    "Raster",
+    "Dynamic",
+    "WMS",
+    "WCS",
+    "DoIT",
+    "Department of Information Technology",
+    "USDA",
+    "Imagery",
+    "Three Inch",
+    "Rockville",
+    "Gaithersburg",
+    "Annapolis",
+    "Easton",
+    "Aerial",
+    "IMAG"
+  ],
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2018-02-20",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "This is a MD iMAP hosted service. Find more information at http://imap.maryland.gov.This image service provides Three Inch resolution aerial imagery for the State of Maryland. The imagery for this service is composed of imagery flown in 2014 (Annapolis, Rockville and Gaithersburg) and 2016 (Easton). Image Service Link: https://geodata.md.gov/imap/rest/services/Imagery/MD_ThreeInchImagery/ImageServer",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Aerial Imagery, 3 Inch Resolution: Baltimore, Annapolis, Gaithersburg, Maryland, 2014, 2016",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/696f34fa05784ac6b1db6238c2c82425\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/696f34fa05784ac6b1db6238c2c82425\",\"urn:x-esri:serviceType:ArcGIS#ImageMapLayer\":\"https://geodata.md.gov/imap/rest/services/Imagery/MD_ThreeInchImagery/ImageServer\"}",
+  "dct_isPartOf_sm": [
+    "04a-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dct_spatial_sm": [
+    "Maryland"
+  ],
+  "b1g_centroid_ss": "38.94695,-76.6386",
+  "b1g_genre_sm": [
+    "Aerial imagery"
+  ],
+  "b1g_code_s": "04a-01",
+  "dc_creator_sm": [
+    "ArcGIS Online for Maryland"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "bff7f3de236e4fb797fb57735ffd84a3_14",
+  "dc_identifier_s": "bff7f3de236e4fb797fb57735ffd84a3_14",
+  "b1g_date_range_drsim": [
+    "[2017 TO 2017]"
+  ],
+  "dct_temporal_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Location"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2017",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-91.8931,-91.1856,42.3026,41.8023)",
+  "b1g_keyword_sm": [
+    "Linn County",
+    "Iowa",
+    "Library",
+    "Education",
+    "Points of Interest",
+    "POI"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Iowa",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "10/30/2017",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "This feature layer contains Linn County, Iowa libraries.Feature Layer DetailsUpdate Frequency: As neededFeature Class Coordinate System: NAD 1983 Iowa North State Plane (2011)Max Visibility Scale: NoneMin Visibility Scale: 1:288,895Max Features Returned: 10,000Additional ResourcesVisit Linn County, Iowa on the web.Visit Linn County, Iowa GIS on the web.Visit the Linn County, Iowa GIS portal. This site is updated as needed to reflect maps and apps of interest from various departments.Contact InformationQuestions  Contact the GIS Division by phone at 319.892.5250 or by email.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Library: Linn County, Iowa",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata-linncounty-gis.opendata.arcgis.com/datasets/bff7f3de236e4fb797fb57735ffd84a3_14\",\"http://schema.org/downloadUrl\":\"http://opendata-linncounty-gis.opendata.arcgis.com/datasets/bff7f3de236e4fb797fb57735ffd84a3_14.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.linncounty.org/arcgis/rest/services/PublicLayer/lyrPointOfInterest/MapServer/14\"}",
+  "dct_isPartOf_sm": [
+    "03b-19113"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Linn County, Iowa"
+  ],
+  "dct_spatial_sm": [
+    "Linn County, Iowa",
+    "Iowa"
+  ],
+  "b1g_centroid_ss": "42.05245,-91.53935",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "03b-19113",
+  "dc_creator_sm": [
+    "Linn County Iowa GIS"
+  ]
+}

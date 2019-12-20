@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "35f7178e-547b-4bd9-980a-26b40eac9fab",
+  "dc_identifier_s": "35f7178e-547b-4bd9-980a-26b40eac9fab",
+  "b1g_date_range_drsim": [
+    "[1920 TO 1920]"
+  ],
+  "dct_temporal_sm": [
+    "192-?)"
+  ],
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "b1g_dateAccessioned_s": "2019-01-16",
+  "solr_year_i": "1920",
+  "dc_format_s": "JPEG",
+  "solr_geom": "ENVELOPE(-85.41,-85.41,38.75,38.75)",
+  "b1g_keyword_sm": [
+    "Indiana Historic Maps"
+  ],
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Indiana",
+  "dct_accrualMethod_s": "",
+  "b1g_image_ss": "https://purl.dlib.indiana.edu/iudl/images/VAC3073/thumbnail/VAC3073-M-00114",
+  "dct_issued_s": "",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "Surveyed 1921-22 by The Department of Conservation, State of Indiana, Division of Engineering.; Oriented with north toward the lower right.; Black line print. Scale approximately 1:2,400. not 1 inch = 100 feet.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Topographic map of Clifty Falls State Park, Jefferson Co., Indiana.",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00114\",\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00114\"}",
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image"
+  ],
+  "dc_publisher_sm": [
+    "Indiana Dept. of Conservation?"
+  ],
+  "dct_spatial_sm": [
+    "Indiana",
+    "Clifty Falls State Park, Indiana"
+  ],
+  "b1g_centroid_ss": "38.75,-85.41",
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "b1g_code_s": "01d-01",
+  "dc_creator_sm": [
+    ""
+  ]
+}

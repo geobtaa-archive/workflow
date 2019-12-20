@@ -1,0 +1,67 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "8c7b0c217ba0406f9c8e269c40b50632_5",
+  "dc_identifier_s": "8c7b0c217ba0406f9c8e269c40b50632_5",
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dc_subject_sm": [
+    "Location"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2016",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-86.3316,-85.9366,39.9351,39.6324)",
+  "b1g_keyword_sm": [
+    "Indianapolis",
+    "Marion County",
+    "Buildings",
+    "Boundaries",
+    "Building Addresses"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Indiana",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2016-03-23",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "Polygon file depicting building footprints for buildings that have an address (i.e. no outbuildings) in Indianapolis and Marion County, Indiana along with the associated address attribute information. Data projection: NAD 1983 StatePlane Indiana East FIPS 1301 (US Feet)",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Buildings: Indianapolis, Indiana",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data1-indygis.opendata.arcgis.com/datasets/8c7b0c217ba0406f9c8e269c40b50632_5\",\"http://schema.org/downloadUrl\":\"http://data1-indygis.opendata.arcgis.com/datasets/8c7b0c217ba0406f9c8e269c40b50632_5.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://xmaps.indy.gov/arcgis/rest/services/OpenData/OpenData_Boundaries/MapServer/5\"}",
+  "dct_isPartOf_sm": [
+    "01c-02"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Indianapolis, Indiana"
+  ],
+  "dct_spatial_sm": [
+    "City of Indianapolis, Indiana",
+    "Indiana"
+  ],
+  "b1g_centroid_ss": "39.78375,-86.13409999999999",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "01c-02",
+  "dc_creator_sm": [
+    "City of Indianapolis and Marion County - IndyGIS"
+  ]
+}

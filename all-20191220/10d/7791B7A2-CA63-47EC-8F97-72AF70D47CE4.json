@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "7791B7A2-CA63-47EC-8F97-72AF70D47CE4",
+  "dc_identifier_s": "7791B7A2-CA63-47EC-8F97-72AF70D47CE4",
+  "b1g_date_range_drsim": [
+    "[2014 TO 2014]"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "b1g_dateAccessioned_s": "2019-09-04",
+  "solr_year_i": "2014",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-92.295833,-91.547693,46.757784,46.156737)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Polygon",
+  "dct_provenance_s": "Wisconsin",
+  "dct_accrualMethod_s": "GeoBlacklight",
+  "b1g_image_ss": "",
+  "dct_issued_s": "",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "This data layer represents lake hydrography for Douglas County, Wisconsin in 2014. [Douglas County Lakes/Waterbodies and Lakes Classifications]",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "Hydro (Lakes) Douglas County\\, WI 2014"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Hydro (Lakes): Douglas County, Wisconsin, 2014",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Douglas_Hydro_Lakes_2014.zip\",\"http://schema.org/url\":\"http://www.ci.superior.wi.us/index.aspx?NID=474 \",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Douglas_Hydro_Lakes_2014.xml\"}",
+  "dct_isPartOf_sm": [
+    "Coastal"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dct_spatial_sm": [
+    "Douglas County, Wisconsin",
+    "Wisconsin"
+  ],
+  "b1g_centroid_ss": "46.457260500000004,-91.921763",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "10d",
+  "dc_creator_sm": [
+    "Douglas County, Wisconsin"
+  ]
+}

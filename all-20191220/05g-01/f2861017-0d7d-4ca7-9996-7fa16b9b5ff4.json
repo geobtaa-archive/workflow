@@ -1,0 +1,65 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "f2861017-0d7d-4ca7-9996-7fa16b9b5ff4",
+  "dc_identifier_s": "f2861017-0d7d-4ca7-9996-7fa16b9b5ff4",
+  "b1g_date_range_drsim": [
+    "[2002 TO 2002]"
+  ],
+  "dct_temporal_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Inland Waters",
+    "Transportation"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2002",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-95.254057,-90.90659,47.510304,42.769764)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Minnesota",
+  "dct_accrualMethod_s": "",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2002",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "River miles (point data) from the Mississippi Headwaters to Lock and Dam 10, including a section of the Minnesota, St. Croix, and Black Rivers. Data has been adjusted to match the Upper Mississippi River Navigation Charts sailing line and the Channel Maintenance Base Maps (CMBM).",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "River Miles: Mississippi River and Tributaries",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://mvp-extstp.mvp.usace.army.mil/gis/\",\"http://schema.org/downloadUrl\":\"http://mvp-extstp.mvp.usace.army.mil/gis/data/St_PaulDistrict_RiverMiles.zip\",\"http://www.w3.org/1999/xhtml\":\"https://btaagdp.org/metadata/05g-01/St_PaulDistrict_RiverMiles.htm\"}",
+  "dct_isPartOf_sm": [
+    "05g-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "dc_publisher_sm": [
+    "US Army Corps of Engineers"
+  ],
+  "dct_spatial_sm": [
+    "Mississippi River",
+    "Minnesota River",
+    "St. Croix River",
+    "Black River"
+  ],
+  "b1g_centroid_ss": "45.140034,-93.08032349999999",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "05g-01",
+  "dc_creator_sm": [
+    "US Army Corps of Engineers, St. Paul District Office"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:10:08Z",
+  "layer_slug_s": "04b-24003",
+  "dc_identifier_s": "04b-24003",
+  "b1g_date_range_drsim": [
+    ""
+  ],
+  "dct_temporal_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Counties geospatial data"
+  ],
+  "b1g_dateAccessioned_s": "",
+  "solr_geom": "ENVELOPE(-76.84036,-76.3942,39.2374,38.71268)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Table",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "",
+  "b1g_image_ss": "",
+  "dct_issued_s": "",
+  "dc_description_s": "County maps and GIS data for Anne Arundel County. Several County Departments have collaborated to provide maps and GIS data for citizens and businesses to utilize",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Anne Arundel County GIS Data",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.aacounty.org/county-maps/index.html\"}",
+  "dc_type_sm": [
+    "Collection"
+  ],
+  "dc_publisher_sm": [
+    "Anne Arundel County, Maryland"
+  ],
+  "dct_spatial_sm": [
+    "Anne Arundel County, Maryland",
+    "Maryland"
+  ],
+  "b1g_centroid_ss": "38.97504,-76.61728",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "04b-24003",
+  "dc_creator_sm": [
+    "Information Technology, GIS Group"
+  ]
+}

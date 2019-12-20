@@ -1,0 +1,67 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "86458e5d8a264dff9204518e109c0f93_10",
+  "dc_identifier_s": "86458e5d8a264dff9204518e109c0f93_10",
+  "b1g_date_range_drsim": [
+    "[2017 TO 2017]"
+  ],
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dc_subject_sm": [
+    "Location",
+    "Society"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2017",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-83.1901,-82.7817,40.1527,39.8142)",
+  "b1g_keyword_sm": [
+    "Ohio",
+    "City",
+    "Columbus",
+    "POI"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Ohio State",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2017-08-10",
+  "suppressed_b": "",
+  "dc_description_s": "This map layer shows points of interest in the City of Columbus. Points of interest include education, emergency response, government, group quarters, industrial, medical, office, retail, and transportation facilities. This layer is maintained through a cooperative effort by multiple departments of the City of Columbus using first-hand knowledge of the area as well as a variety of authoritative data sources. While significant effort is made to ensure the data is as accurate and comprehensive as possible, some points of interest may be excluded and included points may not be immediately updated as change occurs.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Points Of Interest: Columbus, Ohio",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/86458e5d8a264dff9204518e109c0f93_10\",\"http://schema.org/downloadUrl\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/86458e5d8a264dff9204518e109c0f93_10.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.columbus.gov/arcgis/rest/services/Schemas/PointsOfInterest/MapServer/10\"}",
+  "dct_isPartOf_sm": [
+    "11a-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dct_spatial_sm": [
+    "Columbus, Ohio",
+    "Ohio"
+  ],
+  "b1g_centroid_ss": "39.983450000000005,-82.9859",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "11a-01",
+  "dc_creator_sm": [
+    "City of Columbus Maps & Apps"
+  ]
+}

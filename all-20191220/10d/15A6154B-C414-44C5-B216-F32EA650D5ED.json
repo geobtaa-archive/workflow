@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "15A6154B-C414-44C5-B216-F32EA650D5ED",
+  "dc_identifier_s": "15A6154B-C414-44C5-B216-F32EA650D5ED",
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "b1g_dateAccessioned_s": "2019-09-04",
+  "solr_year_i": "2019",
+  "dc_format_s": "Geodatabase",
+  "solr_geom": "ENVELOPE(-90.93051,-90.295381,46.872079,45.980124)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Point",
+  "dct_provenance_s": "Wisconsin",
+  "dct_accrualMethod_s": "GeoBlacklight",
+  "b1g_image_ss": "",
+  "dct_issued_s": "",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "This data represents boat access sites for Ashland County, Wisconsin in 2019.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "Boat Access Sites Ashland County\\, WI 2019"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Boat Access Sites Ashland County, Wisconsin, 2019",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Ashland_BoatAccess_2019.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Ashland_BoatAccess_2019.xml\"}",
+  "dct_isPartOf_sm": [
+    "Coastal"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dct_spatial_sm": [
+    "Ashland County, Wisconsin",
+    "Wisconsin"
+  ],
+  "b1g_centroid_ss": "46.4261015,-90.6129455",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "10d",
+  "dc_creator_sm": [
+    "Ashland County, Wisconsin"
+  ]
+}

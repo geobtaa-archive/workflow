@@ -1,0 +1,67 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "33651c3104144a89a6909ac825a40cf2_0",
+  "dc_identifier_s": "33651c3104144a89a6909ac825a40cf2_0",
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "dct_temporal_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2018",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-96.947,-89.981,43.751,40.259)",
+  "b1g_keyword_sm": [
+    "Iowa Department of Transportation",
+    "Iowa DOT",
+    "Scoping",
+    "Assets",
+    "Inventory",
+    "Asset Classification"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Iowa",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2018-10-16",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "Existing and candidate park and ride lots in the state of Iowa, represented as linear features. Features were created using a 2-mile buffer around each lot to represent primary routes that could potentially be viable (re)locations for park and ride lots. 2-miles was selected for the buffer area based on the FHWA report Safety Assessment of Interchange Spacing on Urban Freeways publication number FHWA-HRT-07-031. https://www.fhwa.dot.gov/publications/research/safety/07031/The Iowa Department of Transportation s park and ride system consists of state-owned park and ride lots. Many of these lots were developed during the 1980s, primarily in response to a growing demand that resulted from an increase in fuel prices. In most cases, lot development was truly the result of grassroots efforts, with Iowa DOT s district offices often responding to specific public requests for park and ride facilities. In 2014, The Iowa Park and Ride System Plan was developed. This plan includes an update of the existing inventory, an identification of additional locations suitable for park and ride facilities, and strategies for implementation .The plan will be used by the Iowa DOT to plan, evaluate, and develop a formal state-owned-and-operated system of park and ride facilities. The primary objective of the plan is to provide a location-specific, priority-based park and ride system that allows for coordinated planning and implementation of park and ride facilities. As a part of the plan this database was created to geographically reference both existing state-owned park and ride facilities and ideal candidates for future expansion of the system. This database will also be used in coordination with the statewide rideshare program, so it will also include other existing park and ride facilities not owned by the state or identified in the plan. Ultimately this inventory has two main purposes that can be described generally as internal and external. Internally, the database will be used to keep track of state-owned inventory and identify opportunities for the expansion of the state-owned and operated park and ride system. Externally, the database will be expanded to include a wide array of park and ride facilities across the state of Iowa that can be disseminated to the public via the Iowa DOT website and coordinated with the rideshare program.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Scoping Park and Ride Location: Iowa, United States",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://public-iowadot.opendata.arcgis.com/datasets/33651c3104144a89a6909ac825a40cf2_0\",\"http://schema.org/downloadUrl\":\"http://public-iowadot.opendata.arcgis.com/datasets/33651c3104144a89a6909ac825a40cf2_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/8lRhdTsQyJpO52F1/arcgis/rest/services/Scoping_Park_and_Ride_view/FeatureServer/0\"}",
+  "dct_isPartOf_sm": [
+    "03a-02"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Iowa"
+  ],
+  "dct_spatial_sm": [
+    "Iowa"
+  ],
+  "b1g_centroid_ss": "42.004999999999995,-93.464",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "03a-02",
+  "dc_creator_sm": [
+    "Iowa Department of Transportation"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "818308c9079c4c0c89944b1fe0e600b1_0",
+  "dc_identifier_s": "818308c9079c4c0c89944b1fe0e600b1_0",
+  "b1g_date_range_drsim": [
+    "[2014 TO 2014]"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2014",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-93.32913577,-93.1938489,45.05125116,44.89047145)",
+  "b1g_keyword_sm": [
+    "IT",
+    "Communities",
+    "Community Technology Survey",
+    "Open Data"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Minnesota",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2014-12-03",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "For questions about this data please contact ITOpenData@minneapolismn.gov2014 Minneapolis Community Technology Survey Data Thanks to the 3,015 residents for their participation, the third year's results are in on a survey the City of Minneapolis conducted to understand how Minneapolis residents use computers, mobile devices and the Internet. Access to computers and the Internet, along with the skills to use these tools is critical as technology becomes more and more a part of our daily lives and is integrated in our economic, educational, health, and workforce systems. The results will inform priorities for the City s digital inclusion initiatives, and help engage businesses, neighborhood and community groups, public sector partners, and funders to more effectively address community technology and economic development needs. In addition, the survey provides data to measure changes in the community over time. The City of Minneapolis Information Technology Department contracted with National Research Center, Inc. (NRC) to conduct a survey of residents to inform the City s efforts to overcome the digital equity gap between individuals and groups in their access to and use and knowledge of information and communication technologies. This is the third iteration of the Minneapolis Community Technology Survey; the first was conducted in 2012 and the second in 2013.Summary of Data Fields:Field 1 Overall percentage of respondents who have lived in Minneapolis for 5 years or less by community and user levelField 2 Overall percentage of foreign-born respondents by community and user levelField 3 Overall percentage of respondents who rent their homes by community and user levelField 4 Overall percentage of respondents who live in attached homes by community and user levelField 5 Overall percentage of respondents living in households with three or more people by community and user levelField 6 Overall percentage of respondents living in households with children under the age of 18 by community and user levelField 7 Overall percentage of female respondents by community and user levelField 8 Overall percentage of respondents aged 55 years or older by community and user levelField 9 Overall percentage of respondents who are hispanic and/or any race other than white by community and user levelField 10 Overall percentage of respondents who prefer to speak a language other than English at home by community and user levelField 11 Overall percentage of respondents having annual household incomes of less than $50,000 by community and user levelField 12 Overall percentage of respondents who do not work full- or part-time by community and user level Field 13 Overall percentage of respondents who do not have a 4-year degree by community and user level Full data set (Raw data and data dictionary in Excel format) The workbook has two tabs, the first is the data dictionary that is needed to translate the data; the second is the raw data. See data summarized in a variety of formats at: http://www.minneapolismn.gov/it/inclusion/WCMS1P-118865 For additional details about the survey, the survey questionnaire, methodology and more, see: http://www.minneapolismn.gov/it/inclusion/WCMS1P-118865 or contact: Elise Ebhardt, 612-673-2026, City of Minneapolis IT Department See also: 2012 and 2013 survey results The City's IT Vision includes a component for addressing the digital divide in Minneapolis: All City residents, institutions and businesses will have the tools, skills and motivation to gain value from the digital society. Our residents and businesses need to be equipped to effectively compete with others around the world to be smarter, more creative, more knowledgeable, and more innovative. Leveraging technology is a necessary ingredient of success.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Technology Outreach Survey: Minneapolis, Minnesota, 2015",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/818308c9079c4c0c89944b1fe0e600b1_0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/818308c9079c4c0c89944b1fe0e600b1_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/OPENDATA_IT_OUTREACHSURVEY/FeatureServer/0\"}",
+  "dct_isPartOf_sm": [
+    "05c-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Minneapolis, Minnesota"
+  ],
+  "dct_spatial_sm": [
+    "Minneapolis, Minnesota",
+    "Minnesota"
+  ],
+  "b1g_centroid_ss": "44.970861305,-93.261492335",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "05c-01",
+  "dc_creator_sm": [
+    "MapIT Minneapolis"
+  ]
+}

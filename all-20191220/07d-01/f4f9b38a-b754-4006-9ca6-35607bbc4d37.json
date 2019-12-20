@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "f4f9b38a-b754-4006-9ca6-35607bbc4d37",
+  "dc_identifier_s": "f4f9b38a-b754-4006-9ca6-35607bbc4d37",
+  "b1g_date_range_drsim": [
+    "[1871 TO 1871]"
+  ],
+  "dct_temporal_sm": [
+    "Apr. 20th, 1871"
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_dateAccessioned_s": "2019-01-16",
+  "solr_year_i": "1871",
+  "dc_format_s": "JPEG",
+  "solr_geom": "ENVELOPE(73.98,73.96,40.81,40.78)",
+  "b1g_keyword_sm": [
+    "Clark Library Map Collections"
+  ],
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Michigan",
+  "dct_accrualMethod_s": "",
+  "b1g_image_ss": "https://quod.lib.umich.edu/cgi/i/image/api/image/clark1ic:000081663:39015091186729/full/res:1/0/native.jpg?attachment=1",
+  "dct_issued_s": "",
+  "suppressed_b": "",
+  "dc_description_s": "Relief shown by hachures. Oriented with North to upper right. 1 map: col.; 24 x 89 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Map of the Central Park.",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000081663/39015091186729\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000081663\"}",
+  "dct_isPartOf_sm": [
+    "07d-01"
+  ],
+  "layer_id_s": "81663",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dct_spatial_sm": [
+    "Central Park, New York",
+    "New York State, New York"
+  ],
+  "b1g_centroid_ss": "40.795,73.97",
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "b1g_code_s": "07d-01",
+  "dc_creator_sm": [
+    "unknown"
+  ]
+}

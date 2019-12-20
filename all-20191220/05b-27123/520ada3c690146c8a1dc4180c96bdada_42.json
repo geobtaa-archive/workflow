@@ -1,0 +1,67 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "520ada3c690146c8a1dc4180c96bdada_42",
+  "dc_identifier_s": "520ada3c690146c8a1dc4180c96bdada_42",
+  "b1g_date_range_drsim": [
+    "[2014 TO 2014]"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_dateAccessioned_s": "2019-07-23",
+  "solr_year_i": "2014",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-93.2341,-92.9782,45.125,44.8829)",
+  "b1g_keyword_sm": [
+    "transportation",
+    "railroad",
+    "railway",
+    "heavy rail",
+    "light rail"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Minnesota",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2014-12-02",
+  "suppressed_b": "TRUE",
+  "dc_description_s": "Railroads contain vector represents of heavy and light railroad centerlines. The vector information was created from 2015 aerial photography observation and interpretation using stereo processing techniques.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Railroads: Ramsey County, Minnesota",
+  "b1g_dateRetired_s": "2019-09-06",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://openramsey-ramseygis.opendata.arcgis.com/datasets/520ada3c690146c8a1dc4180c96bdada_42\",\"http://schema.org/downloadUrl\":\"http://openramsey-ramseygis.opendata.arcgis.com/datasets/520ada3c690146c8a1dc4180c96bdada_42.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://maps.co.ramsey.mn.us/arcgis/rest/services/OpenData/OpenData/FeatureServer/42\"}",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Retired",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Ramsey County, Minnesota"
+  ],
+  "dct_spatial_sm": [
+    "Ramsey County, Minnesota",
+    "Minnesota"
+  ],
+  "b1g_centroid_ss": "45.00395,-93.10615",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "05b-27123",
+  "dc_creator_sm": [
+    "Map Portal"
+  ]
+}

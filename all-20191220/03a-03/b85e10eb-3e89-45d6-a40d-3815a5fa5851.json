@@ -1,0 +1,61 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "b85e10eb-3e89-45d6-a40d-3815a5fa5851",
+  "dc_identifier_s": "b85e10eb-3e89-45d6-a40d-3815a5fa5851",
+  "b1g_date_range_drsim": [
+    "[2004 TO 2004]"
+  ],
+  "dct_temporal_sm": [
+    "2004"
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2004",
+  "dc_format_s": "Raster Dataset",
+  "solr_geom": "ENVELOPE(-96.6395,-90.1401,43.5023,40.3754)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Raster",
+  "dct_provenance_s": "Iowa",
+  "dct_accrualMethod_s": "",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2017-11-20",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "2004 National Agriculture Imagery Program (NAIP) Aerial Photography of Iowa Each zip file is a county download.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "NAIP Aerial Photography: Iowa, 2004",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.iowa.gov/dataset/2004-national-agriculture-imagery-program-naip-aerial-photography-iowa\",\"http://schema.org/downloadUrl\":\"https://iowageodata.s3.amazonaws.com/imageryBaseMapsEarthCover/imagery/imagery_2004_NAIP/Airphotos_2004_NAIP_County_Downloads.html\",\"urn:x-esri:serviceType:ArcGIS#ImageMapLayer\":\"https://athene.gis.iastate.edu/arcgis/rest/services/ortho/naip_2004_nc/ImageServer\"}",
+  "dct_isPartOf_sm": [
+    "03a-03"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "dc_publisher_sm": [
+    "State of Iowa"
+  ],
+  "dct_spatial_sm": [
+    "Iowa"
+  ],
+  "b1g_centroid_ss": "41.93885,-93.38980000000001",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "03a-03",
+  "dc_creator_sm": [
+    "USDA-FSA"
+  ]
+}

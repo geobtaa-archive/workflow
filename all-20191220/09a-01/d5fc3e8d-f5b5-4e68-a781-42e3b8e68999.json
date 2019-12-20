@@ -1,0 +1,69 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "d5fc3e8d-f5b5-4e68-a781-42e3b8e68999",
+  "dc_identifier_s": "d5fc3e8d-f5b5-4e68-a781-42e3b8e68999",
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dc_subject_sm": [
+    "Biota",
+    "Environment",
+    "Boundaries",
+    "Society",
+    "Location"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2018",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-88.13479,-84.734683,41.774012,37.766556)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Polygon",
+  "dct_provenance_s": "Purdue",
+  "dct_accrualMethod_s": "",
+  "b1g_image_ss": "http://maps.indiana.edu/images/Environment/Managed_Lands_IDNR.png",
+  "dct_issued_s": "2018-02-12",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "Managed_Lands_IDNR_IN is an Esri polygon shapefile that contains managed land areas in Indiana, provided by personnel of the Indiana Natural Heritage Data Center, Indiana Department of Natural Resources (INHDC-IDNR) as of February 12, 2018. Attributes include contact information for land managers, as well as whether the land is open to the general public or if access is restricted. For additional information regarding lands owned by federal agencies, local agencies, and non-profit organizations, as well as conservation easements, persons should contact the IDNR Indiana Natural Heritage Data Center (317-232-4052).  The following is excerpted from the metadata provided by INHDC-IDNR for the source shapefile MANAGEDLANDS_DNR_INHD_IN_180212.SHP:  \"ManagedLands_DNR_INHD_IN is a subset of ManagedLandsAll_DNR_INHD_IN, excluding those areas that are listed as conservation easements or listed as closed.  \"ManagedLandsAll_DNR is the Indiana Natural Heritage Data Center Managed Areas dataset. It includes natural and recreation areas which are owned or managed by the Indiana Department of Natural Resources, federal agencies, local agencies, and non-profit organizations. It also includes private lands with Conservation Easements owned by IDNR.  \"NATURAL AREAS THAT ARE NOT OWNED NOR MANAGED BY DNR ARE ADDED AS DATA IS AVAILABLE. IT IS BY NO MEANS A COMPLETE AND COMPREHENSIVE DATASET FOR ALL SUCH AREAS IN THE STATE.  \"The Indiana Natural Heritage Data Center Managed Area Database is a digital, geospatial file containing information on Indiana's significant protected natural areas. All counties in the state are represented.\"",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Managed Lands: Indiana",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://maps.indiana.edu/layerGallery.html\",\"http://www.opengis.net/cat/csw/csdgm\":\"http://maps.indiana.edu/metadata/Environment/Managed_Lands_IDNR.xml\",\"http://schema.org/downloadUrl\":\"http://maps.indiana.edu/download/Environment/Managed_Lands_IDNR.zip\"}",
+  "dct_isPartOf_sm": [
+    "09a-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Indiana"
+  ],
+  "dct_spatial_sm": [
+    "Indiana",
+    "Tippecano County, Indiana",
+    "Wabash River, Indiana"
+  ],
+  "b1g_centroid_ss": "39.770284,-86.4347365",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "09a-01",
+  "dc_creator_sm": [
+    "Indiana Natural Heritage Data Center",
+    "Indiana Department of Natural Resources"
+  ]
+}

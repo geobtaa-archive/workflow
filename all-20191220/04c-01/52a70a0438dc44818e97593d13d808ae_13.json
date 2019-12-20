@@ -1,0 +1,78 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "52a70a0438dc44818e97593d13d808ae_13",
+  "dc_identifier_s": "52a70a0438dc44818e97593d13d808ae_13",
+  "b1g_date_range_drsim": [
+    "[2015 TO 2015]"
+  ],
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dc_subject_sm": [
+    "Utilities and Communications"
+  ],
+  "b1g_dateAccessioned_s": "2019-09-04",
+  "solr_year_i": "2015",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-77.1164,-76.9094,38.9958,38.7931)",
+  "b1g_keyword_sm": [
+    "Open Data",
+    "Washington DC",
+    "DC GIS",
+    "District of Columbia",
+    "Utility",
+    "Communication",
+    "utilitiesCommunication",
+    "society",
+    "signalSign",
+    "utility pole",
+    "Planimetrics",
+    "Washington",
+    "DC",
+    "Utilitycommunication"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2015-02-27",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "Utilities (Utility pole, Street Light, Traffic Signal Pole, and Power Transmission Tower). Contract NCPC 93-02. This document describes the planimetric map production for the 350 tiles located in Washington DC and the surrounding states of MD and VA.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "Utility Poles"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Utility Poles: Washington D.C.",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.dc.gov/datasets/52a70a0438dc44818e97593d13d808ae_13\",\"https://schema.org/downloadUrl\":\"https://opendata.dc.gov/datasets/52a70a0438dc44818e97593d13d808ae_13.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Utility_and_Communication_WebMercator/MapServer/13\"}",
+  "dct_isPartOf_sm": [
+    "04c-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Washington, District of Columbia"
+  ],
+  "dct_spatial_sm": [
+    "Washington, District of Columbia",
+    "District of Columbia",
+    "Maryland",
+    "Virginia"
+  ],
+  "b1g_centroid_ss": "38.894450000000006,-77.0129",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "04c-01",
+  "dc_creator_sm": [
+    "DC Office of the Chief Technology Officer (OCTO)"
+  ]
+}

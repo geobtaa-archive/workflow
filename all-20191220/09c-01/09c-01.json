@@ -1,0 +1,47 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:10:08Z",
+  "layer_slug_s": "09c-01",
+  "dc_identifier_s": "09c-01",
+  "b1g_date_range_drsim": [
+    ""
+  ],
+  "dct_temporal_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Municipalities geospatial data"
+  ],
+  "b1g_dateAccessioned_s": "",
+  "solr_geom": "ENVELOPE(-86.360748,-86.191291,41.760267,41.59745)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Table",
+  "dct_provenance_s": "Purdue",
+  "dct_accrualMethod_s": "ArcGIS HUB",
+  "b1g_image_ss": "",
+  "dct_issued_s": "",
+  "dc_description_s": "ArcGIS open data portal for the city of South Bend, Indiana",
+  "dc_rights_s": "Public",
+  "dc_title_s": "South Bend, IN Open Data",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data-southbend.opendata.arcgis.com\"}",
+  "dc_type_sm": [
+    "Collection"
+  ],
+  "dc_publisher_sm": [
+    "South Bend, Indiana"
+  ],
+  "dct_spatial_sm": [
+    "South Bend, Indiana",
+    "Ohio"
+  ],
+  "b1g_centroid_ss": "41.678858500000004,-86.2760195",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "09c-01",
+  "dc_creator_sm": [
+    ""
+  ]
+}

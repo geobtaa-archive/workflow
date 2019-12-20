@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "58e71633593a4803ac28993833ba8d7d_42",
+  "dc_identifier_s": "58e71633593a4803ac28993833ba8d7d_42",
+  "b1g_date_range_drsim": [
+    "[2012 TO 2012]"
+  ],
+  "dct_temporal_sm": [
+    "2012"
+  ],
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2012",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-77.22575918,-76.81253535,39.00086196,38.78665889)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2/27/2019",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "Anacostia Waterfront Development Zone (AWDZ) is the boundary that delineates the area that was dictated by the Anacostia Waterfront Environmental Standards Amendment Act of 2012. Large construction and redevelopment projects must comply with the District s stormwater management regulations. If these projects are owned or financed by the District government and are located within the Anacostia Waterfront Development Zone (AWDZ), they are considered AWDZ Sites and are subject to additional requirements. This layer identifies the boundaries of the AWDZ to assist in determining whether a project is an AWDZ Site. The District s stormwater management regulations and the additional AWDZ requirements may be found at http://doee.dc.gov/swregs and in Chapter 5 of Title 21 of the District of Columbia Municipal Regulations (DCMR).",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Anacostia Waterfront Development Zone: District of Columbia",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/58e71633593a4803ac28993833ba8d7d_42\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/58e71633593a4803ac28993833ba8d7d_42.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Planning_Landuse_and_Zoning_WebMercator/MapServer/42\"}",
+  "dct_isPartOf_sm": [
+    "04c-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "District of Columbia"
+  ],
+  "dct_spatial_sm": [
+    "Washington D.C"
+  ],
+  "b1g_centroid_ss": "38.893760424999996,-77.019147265",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "04c-01",
+  "dc_creator_sm": [
+    "City of Washington, DC"
+  ]
+}

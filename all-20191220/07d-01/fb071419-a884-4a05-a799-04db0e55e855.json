@@ -1,0 +1,61 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "fb071419-a884-4a05-a799-04db0e55e855",
+  "dc_identifier_s": "fb071419-a884-4a05-a799-04db0e55e855",
+  "b1g_date_range_drsim": [
+    "[1676 TO 1676]"
+  ],
+  "dct_temporal_sm": [
+    "1676"
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_dateAccessioned_s": "2019-01-16",
+  "solr_year_i": "1676",
+  "dc_format_s": "JPEG",
+  "solr_geom": "ENVELOPE(-25.78,54.65,37.58,-35.48)",
+  "b1g_keyword_sm": [
+    "Clark Library Map Collections"
+  ],
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Michigan",
+  "dct_accrualMethod_s": "",
+  "b1g_image_ss": "https://quod.lib.umich.edu/cgi/i/image/api/image/clark1ic:003281434:39015091193501/full/res:1/0/native.jpg?attachment=1",
+  "dct_issued_s": "",
+  "suppressed_b": "",
+  "dc_description_s": "Relief shown pictorially. Prime meridian: Ferro. 1 map: hand col.; 40 x 52 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "L'Afrique: reueu\u00eb et augmente\u00e9; par P. Du Val.",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-003281434/39015091193501\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:003281434\"}",
+  "dct_isPartOf_sm": [
+    "07d-01"
+  ],
+  "layer_id_s": "3281434",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dct_spatial_sm": [
+    "Africa"
+  ],
+  "b1g_centroid_ss": "1.0500000000000007,14.434999999999999",
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "b1g_code_s": "07d-01",
+  "dc_creator_sm": [
+    "Duval, P. (Pierre), 1619-1682."
+  ]
+}

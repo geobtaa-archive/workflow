@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "dd1673d9-b5da-4337-835f-188a80881e23",
+  "dc_identifier_s": "dd1673d9-b5da-4337-835f-188a80881e23",
+  "b1g_date_range_drsim": [
+    "[1872 TO 1872]"
+  ],
+  "dct_temporal_sm": [
+    "1872"
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_dateAccessioned_s": "2019-01-16",
+  "solr_year_i": "1872",
+  "dc_format_s": "JPEG",
+  "solr_geom": "ENVELOPE(-83.09,-83.01,42.38,42.31)",
+  "b1g_keyword_sm": [
+    "Guidebooks",
+    "Clark Library Map Collections"
+  ],
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Michigan",
+  "dct_accrualMethod_s": "",
+  "b1g_image_ss": "https://quod.lib.umich.edu/cgi/i/image/api/image/clark1ic:001268723:39015091183536/full/res:1/0/native.jpg?attachment=1",
+  "dct_issued_s": "",
+  "suppressed_b": "",
+  "dc_description_s": "Entered according to act of Congress, in the year 1872, by Silas Farmer, in the office of the Librarian of Congress at Washington. \"Tribune Print, Detroit\". 79 p.: ill.; 16 cm.  map This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Map and manual of the city of Detroit: issued from the publishing house of Silas Farmer.; Map title: Guide map of the city of Detroit",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-001268723/39015091183536\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:001268723\"}",
+  "dct_isPartOf_sm": [
+    "07d-01"
+  ],
+  "layer_id_s": "1268723",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dct_spatial_sm": [
+    "Detroit, Michigan",
+    "Michigan"
+  ],
+  "b1g_centroid_ss": "42.345,-83.05000000000001",
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "b1g_code_s": "07d-01",
+  "dc_creator_sm": [
+    "Silas Farmer & Co."
+  ]
+}

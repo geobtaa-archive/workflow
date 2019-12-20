@@ -1,0 +1,77 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "558a969daa8a4b4a8170f3b3fca133d5_10",
+  "dc_identifier_s": "558a969daa8a4b4a8170f3b3fca133d5_10",
+  "b1g_date_range_drsim": [
+    "[2017 TO 2017]"
+  ],
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dc_subject_sm": [
+    "Structure",
+    "Society"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2017",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-76.0768,-76.0637,39.2217,39.2027)",
+  "b1g_keyword_sm": [
+    "Buildings",
+    "Building",
+    "Washington College",
+    "WAC",
+    "Maryland",
+    "MD",
+    "Structure",
+    "STRU",
+    "MD iMAP",
+    "Vector",
+    "Dynamic",
+    "Building Outlines",
+    "WMS",
+    "WFS",
+    "KML"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2017-11-01",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "This is a MD iMAP hosted service layer. Find more information at http://imap.maryland.gov.Polygon layer of buildings at Washington College.Feature Service Layer Link:https://geodata.md.gov/imap/rest/services/Structure/MD_CampusFacilities/FeatureServer/10",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Wac Campus Buildings: Maryland",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/558a969daa8a4b4a8170f3b3fca133d5_10\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/558a969daa8a4b4a8170f3b3fca133d5_10.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://geodata.md.gov/imap/rest/services/Structure/MD_CampusFacilities/FeatureServer/10\"}",
+  "dct_isPartOf_sm": [
+    "04a-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dct_spatial_sm": [
+    "Maryland"
+  ],
+  "b1g_centroid_ss": "39.212199999999996,-76.07025",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "04a-01",
+  "dc_creator_sm": [
+    "ArcGIS Online for Maryland"
+  ]
+}

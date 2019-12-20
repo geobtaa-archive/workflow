@@ -1,0 +1,66 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "cda7d43295f54cdcb918f06938258ca2_0",
+  "dc_identifier_s": "cda7d43295f54cdcb918f06938258ca2_0",
+  "b1g_date_range_drsim": [
+    "[2015 TO 2015]"
+  ],
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dc_subject_sm": [
+    "Structure"
+  ],
+  "b1g_dateAccessioned_s": "2019-07-23",
+  "solr_year_i": "2015",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-93.89057168,-93.27791667,44.80406557,44.54252457)",
+  "b1g_keyword_sm": [
+    "Scott County Minnesota",
+    "Buildings",
+    "Livable",
+    "Property"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Minnesota",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2015-09-03",
+  "suppressed_b": "TRUE",
+  "dc_description_s": "Buildings within Scott County. This planimetric data was collected in 2003.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Buildings: Scott County, Minnesota",
+  "b1g_dateRetired_s": "2019-09-06",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.gis.co.scott.mn.us/datasets/cda7d43295f54cdcb918f06938258ca2_0\",\"http://schema.org/downloadUrl\":\"http://opendata.gis.co.scott.mn.us/datasets/cda7d43295f54cdcb918f06938258ca2_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/DqIh9WAsIZcPlBEF/arcgis/rest/services/Buildings/FeatureServer/0\"}",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Retired",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Scott County, Minnesota"
+  ],
+  "dct_spatial_sm": [
+    "Scott County, Minnesota",
+    "Minnesota"
+  ],
+  "b1g_centroid_ss": "44.673295069999995,-93.584244175",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "05b-27139",
+  "dc_creator_sm": [
+    "Scott County Minnesota"
+  ]
+}

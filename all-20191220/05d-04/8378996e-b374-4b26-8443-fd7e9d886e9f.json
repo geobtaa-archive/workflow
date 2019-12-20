@@ -1,0 +1,64 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "8378996e-b374-4b26-8443-fd7e9d886e9f",
+  "dc_identifier_s": "8378996e-b374-4b26-8443-fd7e9d886e9f",
+  "b1g_date_range_drsim": [
+    "[2004 TO 2004]"
+  ],
+  "dct_temporal_sm": [
+    "2004"
+  ],
+  "dc_subject_sm": [
+    "Geoscientific Information"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2004",
+  "dc_format_s": "Files",
+  "solr_geom": "ENVELOPE(-94.394402,-93.775993,46.805992,46.155106)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Mixed",
+  "dct_provenance_s": "Minnesota",
+  "dct_accrualMethod_s": "",
+  "b1g_image_ss": "https://conservancy.umn.edu/bitstream/handle/11299/58716/plate6%5b3%5d.pdf.jpg",
+  "dct_issued_s": "2010-03-03",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "6 pls. Scales 1:100,000 and 1:200,000. Pl. 1, data-base map; pl. 2, bedrock geology; pl. 3, surficial geology; pl. 4, Quaternary stratigraphy; pl. 5, bedrock topography, depth to bedrock, and Quaternary subsurface geology; pl. 6, mineral endowment. Part B Published separately by the Minnesota Department of Natural Resources, Division of Waters. Supplementary files include ArcGis coverages, shapefiles and/or ESRI grids used to construct the plates, and metadata.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "C-16 Geologic atlas of Crow Wing County, Minnesota [Part A]",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://hdl.handle.net/11299/58716\",\"http://schema.org/downloadUrl\":\"https://hdl.handle.net/11299/58716\",\"http://schema.org/image\":\"https://conservancy.umn.edu/bitstream/handle/11299/58716/plate6%5b3%5d.pdf.jpg\"}",
+  "dct_isPartOf_sm": [
+    "05d-04"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "dc_publisher_sm": [
+    "University of Minnesota"
+  ],
+  "dct_spatial_sm": [
+    "Crow Wing County, Minnesota",
+    "Minnesota"
+  ],
+  "b1g_centroid_ss": "46.480549,-94.08519749999999",
+  "b1g_genre_sm": [
+    "Geospatial data",
+    "Maps"
+  ],
+  "b1g_code_s": "05d-04",
+  "dc_creator_sm": [
+    "Setterholm, D.R",
+    "Minnesota Geological Survey"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "a2a83e99-5ed3-45e1-9b69-65b23ad467f1",
+  "dc_identifier_s": "a2a83e99-5ed3-45e1-9b69-65b23ad467f1",
+  "b1g_date_range_drsim": [
+    "[1998 TO 1998]"
+  ],
+  "dct_temporal_sm": [
+    "1998"
+  ],
+  "dc_subject_sm": [
+    "Geoscientific Information"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "1998",
+  "dc_format_s": "Files",
+  "solr_geom": "ENVELOPE(-93.050507,-92.449036,43.85178,43.499687)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Mixed",
+  "dct_provenance_s": "Minnesota",
+  "dct_accrualMethod_s": "",
+  "b1g_image_ss": "https://conservancy.umn.edu/bitstream/handle/11299/58549/rs%5b1%5d.pdf.jpg",
+  "dct_issued_s": "2010-02-26",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "6 pls. Scale 1:100,000. Pl. 1, data-base; pl. 2, bedrock geology; pl. 3, surficial geology; pl. 4, depth to the pre-Cretaceous bedrock surface and topography of the pre-Cretaceous bedrock surface; pl. 5, subsurface stratigraphy; pl. 6, sand and gravel resources and bedrock resources. See also RI-50. Part B Published separately by the Minnesota Department of Natural Resources, Division of Waters. Supplementary files include ESRI GIS coverages pertaining to the geology plates and metadata.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "C-11 Geologic atlas of Mower County, Minnesota [Part A]",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://hdl.handle.net/11299/58549\",\"http://schema.org/downloadUrl\":\"https://hdl.handle.net/11299/58549\",\"http://schema.org/image\":\"https://conservancy.umn.edu/bitstream/handle/11299/58549/rs%5b1%5d.pdf.jpg\"}",
+  "dct_isPartOf_sm": [
+    "05d-04"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "dc_publisher_sm": [
+    "University of Minnesota"
+  ],
+  "dct_spatial_sm": [
+    "Mower County, Minnesota",
+    "Minnesota"
+  ],
+  "b1g_centroid_ss": "43.6757335,-92.74977150000001",
+  "b1g_genre_sm": [
+    "Geospatial data",
+    "Maps"
+  ],
+  "b1g_code_s": "05d-04",
+  "dc_creator_sm": [
+    "Mossler, J.H",
+    "Minnesota Geological Survey"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "d59b21f762c648869d4df3b3cb4d6ad4_0",
+  "dc_identifier_s": "d59b21f762c648869d4df3b3cb4d6ad4_0",
+  "b1g_date_range_drsim": [
+    "[1993 TO 1993]"
+  ],
+  "dct_temporal_sm": [
+    "1993"
+  ],
+  "dc_subject_sm": [
+    "Biota"
+  ],
+  "b1g_dateAccessioned_s": "",
+  "solr_year_i": "1993",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-88.19982978,-87.75589131,42.49583132,42.15236363)",
+  "b1g_keyword_sm": [
+    "Lake County Illinois",
+    "Water",
+    "Hydrology",
+    "Wetlands",
+    "LCWI",
+    "Surface Water",
+    "Surface Water spatial data"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Chicago",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "9/30/2016",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "Download In State Plane Projection Here. The Lake County Wetland Inventory (LCWI) maps natural and artificial  wetlands meeting definitions established by the federal agencies who  work with the Lake County Geographic Information System staff to  periodically review and update it. These agencies include the United States Environmental Protection Agency, the U.S. Fish and Wildlife Service, the USDA Natural Resources Conservation Service and the United States Army Corps of Engineers.          The 1989 federal wetland delineation standards for offsite  wetland mapping are used. This data was last published in March of 1993.  This update includes changes to the previous version of LCWI including:  adjust current wetland boundaries to omit development, including roads;  to fine tune boundary placement where that was intended by the original  delineation, in some cases, adjust the wetland to photographic features  / signature; delete wetlands which the committee decided were mapped in  error - for example, trees which were mistaken for wet areas; create  polygons for newly delineated artificial wetlands; and newly delineated  wetlands or farmed wetlands caused by the continued deterioration of the  agricultural drain tile system and increased runoff due to  urbanization.          The LCWI is a useful tool for general planning and review  purposes, but it does not take the place of an on-site delineation by a  certified wetland specialist.          High resolution (1 = 100') orthorectified aerial imagery  captured in April 2002 was used as the base for this update. Other data  used as reference for this update include: 2004 SOIL SURVEY GEOGRAPHIC  (SSURGO) DATABASE FOR LAKE COUNTY, IL - U.S. Department of Agriculture,  Natural Resources Conservation Service; HYDROLOGY2002 - Lake County  GIS/Map Division; 2' topography (CONTOURS) - Lake County GIS/Map  Division; and various years of historical aerial photography for  clarification. By using the more recent higher resolution photography,  the resulting updated wetland boundaries are more accurate then the  original boundaries published in 1993.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Lake County Wetland Inventory: Lake County, Illinois",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data-lakecountyil.opendata.arcgis.com/datasets/d59b21f762c648869d4df3b3cb4d6ad4_0\",\"http://schema.org/downloadUrl\":\"http://data-lakecountyil.opendata.arcgis.com/datasets/d59b21f762c648869d4df3b3cb4d6ad4_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services3.arcgis.com/HESxeTbDliKKvec2/arcgis/rest/services/Lake_County_Wetland_Inventory/FeatureServer/0\"}",
+  "dct_isPartOf_sm": [
+    "12b-17097"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Unknown",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Lake County, Illinois"
+  ],
+  "dct_spatial_sm": [
+    "Lake County, Illinois",
+    "Illinois"
+  ],
+  "b1g_centroid_ss": "42.324097475,-87.977860545",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "12b-17097",
+  "dc_creator_sm": [
+    "Lake County, Illinois"
+  ]
+}

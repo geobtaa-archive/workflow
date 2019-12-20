@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "cba41afdb4754c46962d8f1354004f54_0",
+  "dc_identifier_s": "cba41afdb4754c46962d8f1354004f54_0",
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "dc_subject_sm": [
+    "Transportation",
+    "Environment"
+  ],
+  "b1g_dateAccessioned_s": "2019-04-14",
+  "solr_year_i": "2019",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-96.56372,-90.3672,43.50031,40.58373)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Iowa",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2019-03-19",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "This layer depicts up-to-date transportation route \"events\" (by linear extent) from the Iowa DOT 511 traveler information system. Updated every 30 minutes.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "511 Traveler Information Event Lines - Iowa"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Transportation Events by Route, DOT 511 Traveler Info: Iowa, 2019",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://public-iowadot.opendata.arcgis.com/datasets/cba41afdb4754c46962d8f1354004f54_0\",\"http://schema.org/downloadUrl\":\"https://public-iowadot.opendata.arcgis.com/datasets/cba41afdb4754c46962d8f1354004f54_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/8lRhdTsQyJpO52F1/arcgis/rest/services/511_IA_Event_Lines_View/FeatureServer/0\"}",
+  "dct_isPartOf_sm": [
+    "03a-02"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Iowa"
+  ],
+  "dct_spatial_sm": [
+    "Iowa"
+  ],
+  "b1g_centroid_ss": "42.04202,-93.46546000000001",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "03a-02",
+  "dc_creator_sm": [
+    "Iowa Department of Transportation"
+  ]
+}

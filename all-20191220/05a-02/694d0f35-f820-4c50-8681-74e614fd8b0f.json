@@ -1,0 +1,65 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "694d0f35-f820-4c50-8681-74e614fd8b0f",
+  "dc_identifier_s": "694d0f35-f820-4c50-8681-74e614fd8b0f",
+  "b1g_date_range_drsim": [
+    "[2013 TO 2013]"
+  ],
+  "dct_temporal_sm": [
+    "2013"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Boundaries"
+  ],
+  "b1g_dateAccessioned_s": "2017-12-28",
+  "solr_year_i": "2013",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-97.269689,-89.397194,49.403805,43.435423)",
+  "b1g_keyword_sm": [
+    "Voting districts",
+    "Precincts",
+    "Election districts",
+    "Voting precinct"
+  ],
+  "layer_geom_type_s": "Polygon",
+  "dct_provenance_s": "Minnesota",
+  "dct_accrualMethod_s": "HTML",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2013-03-05",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "Voting precincts for the State of Minnesota, those to be used in the 2013 State General election. Includes election district attributes for each precinct.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Precincts (Voting Districts): Minnesota, 2013",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.gis.leg.mn/html/download.html\",\"http://schema.org/downloadUrl\":\"ftp://ftp.commissions.leg.state.mn.us/pub/gis/shape/vtd2012.zip\",\"http://www.w3.org/1999/xhtml\":\"https://btaagdp.org/metadata/05a-02/vtd2012.htm\"}",
+  "dct_isPartOf_sm": [
+    "05a-02"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "dc_publisher_sm": [
+    "State of Minnnesota"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota"
+  ],
+  "b1g_centroid_ss": "46.419613999999996,-93.33344149999999",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "05a-02",
+  "dc_creator_sm": [
+    "Minnesota Legislative Commission"
+  ]
+}

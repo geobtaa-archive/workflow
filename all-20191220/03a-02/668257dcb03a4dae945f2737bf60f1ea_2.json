@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "668257dcb03a4dae945f2737bf60f1ea_2",
+  "dc_identifier_s": "668257dcb03a4dae945f2737bf60f1ea_2",
+  "b1g_date_range_drsim": [
+    "[2017 TO 2017]"
+  ],
+  "dct_temporal_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "b1g_dateAccessioned_s": "2019-07-23",
+  "solr_year_i": "2017",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-96.67791742,-90.05986074,43.54129168,40.34614054)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Iowa",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2017-01-26",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "Statistical boundaries for state bridges based on the Leg17Bridges for the Iowa Bridge Application.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "County: Iowa",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://public-iowadot.opendata.arcgis.com/datasets/668257dcb03a4dae945f2737bf60f1ea_2\",\"http://schema.org/downloadUrl\":\"http://public-iowadot.opendata.arcgis.com/datasets/668257dcb03a4dae945f2737bf60f1ea_2.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/8lRhdTsQyJpO52F1/arcgis/rest/services/LegNBI_STATE/FeatureServer/2\"}",
+  "dct_isPartOf_sm": [
+    "03a-02"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Iowa"
+  ],
+  "dct_spatial_sm": [
+    "Iowa"
+  ],
+  "b1g_centroid_ss": "41.94371611,-93.36888908",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "03a-02",
+  "dc_creator_sm": [
+    "Iowa Department of Transportation"
+  ]
+}

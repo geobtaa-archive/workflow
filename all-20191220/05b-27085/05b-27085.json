@@ -1,0 +1,51 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:10:08Z",
+  "layer_slug_s": "05b-27085",
+  "dc_identifier_s": "05b-27085",
+  "b1g_date_range_drsim": [
+    "[2007 TO 2007]"
+  ],
+  "dct_temporal_sm": [
+    "2007-2019"
+  ],
+  "dc_subject_sm": [
+    "Counties geospatial data"
+  ],
+  "b1g_dateAccessioned_s": "",
+  "solr_geom": "ENVELOPE(-94.50239,-94.00965,44.9797,44.62988)",
+  "b1g_keyword_sm": [
+    "Elevation",
+    "Inland Waters",
+    "Location",
+    "Planning and Cadastral",
+    "Transportation"
+  ],
+  "layer_geom_type_s": "Table",
+  "dct_provenance_s": "Minnesota",
+  "dct_accrualMethod_s": "",
+  "b1g_image_ss": "",
+  "dct_issued_s": "",
+  "dc_description_s": "The McLeod County, Minnesota website GIS Division page provides an access link to their geospatial dataset downloads FTP site. Datasets available include address points, parcels, roads, hydrology, and others. Elevation contours dating from 2007 (1-foot) are also available.",
+  "dc_rights_s": "Public",
+  "dc_title_s": "McLeod County GIS Data Downloads",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.co.mcleod.mn.us/gis_(mapping_and_surveying)/gis_data.php\"}",
+  "dc_type_sm": [
+    "Collection"
+  ],
+  "dc_publisher_sm": [
+    "McLeod County, Minnesota"
+  ],
+  "dct_spatial_sm": [
+    "McLeod County, Minnesota",
+    "Minnesota"
+  ],
+  "b1g_centroid_ss": "44.80479,-94.25602",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "05b-27085",
+  "dc_creator_sm": [
+    "Highway, GIS Division"
+  ]
+}

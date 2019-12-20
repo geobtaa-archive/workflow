@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "9e9f5dd5-eef2-470a-8ca9-0ec067fd97f0",
+  "dc_identifier_s": "9e9f5dd5-eef2-470a-8ca9-0ec067fd97f0",
+  "b1g_date_range_drsim": [
+    "[1931 TO 1931]"
+  ],
+  "dct_temporal_sm": [
+    "1931"
+  ],
+  "dc_subject_sm": [
+    "Road maps"
+  ],
+  "b1g_dateAccessioned_s": "2019-01-16",
+  "solr_year_i": "1931",
+  "dc_format_s": "JPEG",
+  "solr_geom": "ENVELOPE(-86.3101,-85.93,39.9101,39.6101)",
+  "b1g_keyword_sm": [
+    "Roads",
+    "Indiana Historic Maps"
+  ],
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Indiana",
+  "dct_accrualMethod_s": "",
+  "b1g_image_ss": "https://purl.dlib.indiana.edu/iudl/images/VAC3073/thumbnail/VAC3073-M-00147",
+  "dct_issued_s": "",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "The crossroads of America.; Includes one mile distance circles centered on Monument Circle, street index and advertisements.; Includes Dreher's county, township and 'all the roads' map of Central Indiana : showing all dedicated highways--improved and unimproved--state roads, main inter-county roads, townships, cities, towns and villages of the environs of Indianapolis, indexes and advertisements on verso.; Includes indexes. Scale approximately 1:31,000.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Dreher's mile square index map of the city of Indianapolis",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00147\",\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00147\"}",
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image"
+  ],
+  "dc_publisher_sm": [
+    "D. Frank Dreher"
+  ],
+  "dct_spatial_sm": [
+    "Indiana",
+    "Indianapolis, Indiana"
+  ],
+  "b1g_centroid_ss": "39.7601,-86.12005",
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "b1g_code_s": "01d-01",
+  "dc_creator_sm": [
+    "Swinehart,  C. V., cartographer."
+  ]
+}

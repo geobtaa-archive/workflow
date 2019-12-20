@@ -1,0 +1,61 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "797D93B2-7D99-4C9C-A5F5-E7BDD4AAC25E",
+  "dc_identifier_s": "797D93B2-7D99-4C9C-A5F5-E7BDD4AAC25E",
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "dc_subject_sm": [
+    "Farming"
+  ],
+  "b1g_dateAccessioned_s": "2019-09-04",
+  "solr_year_i": "2019",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-92.820288,-87.268678,46.093014,42.467581)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Polygon",
+  "dct_provenance_s": "Wisconsin",
+  "dct_accrualMethod_s": "GeoBlacklight",
+  "b1g_image_ss": "",
+  "dct_issued_s": "",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "[This feature class contains the location of certified farmland preservation districts as identified in farmland preservation ordinances with both texts and maps that have been certified (or recertified) by DATCP Land and Water Resource Managment (LWRM) Bureau since July 1, 2009. This feature class was created by DATCP by standardizing and aggregating data submitted by counties as part of the farmland preservation plan certification process. This feature class was last updated February 2019. ]",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "Farmland Preservation Zoning\\, Wisconsin 2019"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Farmland Preservation Zoning, Wisconsin 2019",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_FarmPres_Zoning_2019.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_FarmPres_Zoning_2019.xml\"}",
+  "dct_isPartOf_sm": [
+    "Statewide"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dct_spatial_sm": [
+    "Wisconsin"
+  ],
+  "b1g_centroid_ss": "44.2802975,-90.044483",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "10d",
+  "dc_creator_sm": [
+    "Wisconsin Department of Agriculture, Trade and Consumer Protection"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "7bc2480f50c14443a4a42d92ceb3331f_0",
+  "dc_identifier_s": "7bc2480f50c14443a4a42d92ceb3331f_0",
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "dct_temporal_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "b1g_dateAccessioned_s": "2019-05-29",
+  "solr_year_i": "2019",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-81.7358,-81.0837,41.0302,40.6411)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Ohio State",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2019-05-23",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "A polygon index of recorded plats within Stark County, Ohio. A plat is a legally-recorded document that shows land divisions. This index includes all types of plats and is not limited to allotment subdivisions (this layer replaces the Allotment layer previously used within our organization). The most common document type included in this index is a subdivision plat, which are referred to as allotments in Stark County. It also includes, but is not limited to replats, annexations, and street dedications. This layer is updated and maintained by the Stark County Auditor Office (SCAO) Tax Map Department. It is by no means complete and is updated as new plats become available to the Tax Map Department. Where available, the attribute table includes a Subdivision Link, which allows the downloading of an archived folder containing a digital copy of the document(s). There are also links (where available) to the Auditor's and Recorder's sites. Where links are not available, use the record volumes/pages or the instrument number to locate the documents through the Stark County Recorder's?Search Records?site.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Plat Index: Stark County, Ohio",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.starkcountyohio.gov/datasets/7bc2480f50c14443a4a42d92ceb3331f_0\",\"http://schema.org/downloadUrl\":\"http://opendata.starkcountyohio.gov/datasets/7bc2480f50c14443a4a42d92ceb3331f_0.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://scgisa.starkcountyohio.gov/arcgis/rest/services/Auditor/PlatIndex/MapServer/0\"}",
+  "dct_isPartOf_sm": [
+    "11b-39151"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Stark County, Ohio"
+  ],
+  "dct_spatial_sm": [
+    "Stark County, Ohio",
+    "Ohio"
+  ],
+  "b1g_centroid_ss": "40.83565,-81.40975",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "11b-39151",
+  "dc_creator_sm": [
+    "Stark County Ohio"
+  ]
+}

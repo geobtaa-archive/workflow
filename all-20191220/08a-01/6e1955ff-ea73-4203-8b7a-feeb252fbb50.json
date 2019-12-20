@@ -1,0 +1,61 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "6e1955ff-ea73-4203-8b7a-feeb252fbb50",
+  "dc_identifier_s": "6e1955ff-ea73-4203-8b7a-feeb252fbb50",
+  "b1g_date_range_drsim": [
+    "[2017 TO 2017]"
+  ],
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2017",
+  "dc_format_s": "Files",
+  "solr_geom": "ENVELOPE(-80.552193,-79.73936,42.27633,41.649693)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Mixed",
+  "dct_provenance_s": "Penn State",
+  "dct_accrualMethod_s": "",
+  "b1g_image_ss": "",
+  "dct_issued_s": "",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "Lake Erie Watershed 2015 Ortho/LiDAR/Hydro Project will consist the following: New project wide 1\\u201d=100 scale color digital orthoimagery (with a 6-inch pixel resolution) New project wide 0.7-meter LiDAR (average point density) New project wide hydrology Crest Delineation This task is for a high resolution data set of lidar covering approximately 512 square miles of the Lake Erie Shoreline, PA. The lidar data was acquired and processed under the requirements identified in this task order. Lidar data is a remotely sensed high resolution elevation data collected by an airborne platform. The lidar sensor uses a combination of laser range finding, GPS positioning, and inertial measurement technologies. The lidar systems collect data point clouds that are used to produce highly detailed Digital Elevation Models (DEMs) of the earth's terrain, man-made structures, and vegetation. The task required the LiDAR data to be collected at a nominal pulse spacing (NPS) of 0.7 meters. The final products include classified LAS, 2.5' pixel raster DEMs of the bare-earth surface in ERDAS IMG Format. Each LAS file contains lidar point information, which has been calibrated, controlled, and classified. Additional deliverables include hydrologic breakline data, 8-bit intensity images, control data, tile index, lidar processing and survey reports in PDF format, FGDC metadata files for each data deliverable in .xml format. Ground conditions: Water at normal levels; no unusual inundation; no snow; leaf off. To better understand one of the states most vital natural resources and accurately plan for the future, the Pennsylvania Department of Environmental Protection (PADEP), through grant funding provided to the Pennsylvania Sea Grant (PASG) College Program, partnered with Woolpert to acquire imagery and lidar data for the entire Pennsylvania Lake Erie Watershed and all 77 miles of shoreline. - See more at: http://www.xyht.com/aerialuas/heights-april-2017-mapping-the-pennsylvania-lake-erie-watershed/#sthash.n3pVphR6.dpuf",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Lake Erie Watershed LiDAR 2015 - hydro breaklines: Pennsylvania",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=3206\",\"http://schema.org/downloadUrl\":\"http://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=3206\",\"http://www.w3.org/1999/xhtml\":\"https://btaagdp.org/metadata/08a-01/FullMetadataDisplay.aspx%3ffile=Lake_Erie_Watershed_Imagery2015.html\"}",
+  "dct_isPartOf_sm": [
+    "08a-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "dc_publisher_sm": [
+    "The Pennsylvania State University"
+  ],
+  "dct_spatial_sm": [
+    "Lake Erie"
+  ],
+  "b1g_centroid_ss": "41.9630115,-80.14577650000001",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "08a-01",
+  "dc_creator_sm": [
+    ""
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "6c8bbcd5-cc98-481f-b2a1-a151221980c5",
+  "dc_identifier_s": "6c8bbcd5-cc98-481f-b2a1-a151221980c5",
+  "b1g_date_range_drsim": [
+    "[1750 TO 1750]"
+  ],
+  "dct_temporal_sm": [
+    "1750?"
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_dateAccessioned_s": "2019-07-26",
+  "solr_year_i": "1750",
+  "dc_format_s": "JPEG",
+  "solr_geom": "ENVELOPE(30,145,75,-15)",
+  "b1g_keyword_sm": [
+    "Asia Boundaries Maps"
+  ],
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Minnesota",
+  "dct_accrualMethod_s": "Blacklight",
+  "b1g_image_ss": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll246/id/260",
+  "dct_issued_s": "",
+  "suppressed_b": "",
+  "dc_description_s": "Scale approximately 1:23,000,000 (E 30\u00b0--E 145\u00b0/N 75\u00b0--S 15\u00b0). Relief shown pictorially. Scale shown with 9 bars in differing measures. 45 x 57 cm",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "L'Asie divisea\u0301e en ses principales regions\\, et ou se peuvent voir l'estendue des empires monarchies\\, royaumes\\, et estats qui partagent presentement l'Asie"
+  ],
+  "dc_language_sm": [
+    "French,Italian"
+  ],
+  "dc_title_s": "L'Asie divise\u0301e en ses principales regions, et ou se peuvent voir l'estendue des empires monarchies, royaumes, et estats qui partagent presentement l'Asie",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/200746\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/260/manifest.json\"}",
+  "dct_isPartOf_sm": [
+    "05d-p16022coll246"
+  ],
+  "layer_id_s": "260",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image"
+  ],
+  "dc_publisher_sm": [
+    "Coa\u0301vens et C. Mortier"
+  ],
+  "dct_spatial_sm": [
+    ""
+  ],
+  "b1g_centroid_ss": "30.0,87.5",
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "b1g_code_s": "05d-01",
+  "dc_creator_sm": [
+    "de L'Isle, Guillaume, 1675-1726"
+  ]
+}

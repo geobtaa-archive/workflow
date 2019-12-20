@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "e68d01d782c04d88876bbd51e1c40702_0",
+  "dc_identifier_s": "e68d01d782c04d88876bbd51e1c40702_0",
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "dct_temporal_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_dateAccessioned_s": "2019-05-29",
+  "solr_year_i": "2019",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-93.32915861,-93.19806903,45.05124513,44.88703369)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Minnesota",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2019-04-15",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "This centerline file is maintained by the GIS Office at the City of Minneapolis.  These centerlines represent the center of pavement for all of the drivable streets in the City.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "MPLS Centerline: Minneapolis, Minnesota",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/e68d01d782c04d88876bbd51e1c40702_0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/e68d01d782c04d88876bbd51e1c40702_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/MPLS_Centerline/FeatureServer/0\"}",
+  "dct_isPartOf_sm": [
+    "05c-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Minneapolis, Minnesota"
+  ],
+  "dct_spatial_sm": [
+    "Minneapolis, Minnesota",
+    "Minnesota"
+  ],
+  "b1g_centroid_ss": "44.96913941,-93.26361381999999",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "05c-01",
+  "dc_creator_sm": [
+    "MapIT Minneapolis"
+  ]
+}

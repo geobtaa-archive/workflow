@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "524a20dc-4615-48f8-b972-282a19c0ba0d",
+  "dc_identifier_s": "524a20dc-4615-48f8-b972-282a19c0ba0d",
+  "b1g_date_range_drsim": [
+    "[1842 TO 1842]"
+  ],
+  "dct_temporal_sm": [
+    "1842"
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_dateAccessioned_s": "2019-07-26",
+  "solr_year_i": "1842",
+  "dc_format_s": "JPEG",
+  "solr_geom": "ENVELOPE(88.32235336,88.38430166,22.61169333,22.53986967)",
+  "b1g_keyword_sm": [
+    "Kolkata (India) Maps"
+  ],
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Minnesota",
+  "dct_accrualMethod_s": "Blacklight",
+  "b1g_image_ss": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll246/id/139",
+  "dct_issued_s": "",
+  "suppressed_b": "",
+  "dc_description_s": "Scale approximately 1:21,000. Includes index to public buildings and 3 ill. (Writers Buildings ; Government House ; Esplande Row). Oriented with north to lower left. 1 map : hand color ; 24 x 41 cm",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "Calcutta"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Calcutta",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/229075\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/139/manifest.json\"}",
+  "dct_isPartOf_sm": [
+    "05d-p16022coll246"
+  ],
+  "layer_id_s": "139",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image"
+  ],
+  "dc_publisher_sm": [
+    "Chapman & Hall"
+  ],
+  "dct_spatial_sm": [
+    "India"
+  ],
+  "b1g_centroid_ss": "22.5757815,88.35332751",
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "b1g_code_s": "05d-01",
+  "dc_creator_sm": [
+    "Society for the Diffusion of Useful Knowledge (Great Britain)",
+    "Chapman and Hall."
+  ]
+}

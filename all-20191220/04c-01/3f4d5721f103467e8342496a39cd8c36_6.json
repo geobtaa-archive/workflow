@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "3f4d5721f103467e8342496a39cd8c36_6",
+  "dc_identifier_s": "3f4d5721f103467e8342496a39cd8c36_6",
+  "b1g_date_range_drsim": [
+    "[2015 TO 2015]"
+  ],
+  "dct_temporal_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "b1g_dateAccessioned_s": "2019-05-29",
+  "solr_year_i": "2015",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-77.11989628,-76.90926199,38.99588896,38.79158258)",
+  "b1g_keyword_sm": [
+    "Demographic",
+    "People"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2015-02-27",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "Unofficial Census block group boundaries for the District of Columbia. These boundaries were compiled from an unofficial U.S. Census TIGER/line product that reflects updates to the original TIGER boundaries based on planimetric data supplied by the District of Columbia. This product is generally consistent with District of Columbia planimetric data, although boundary geometries are not identical, and often vary by 5 to 10 centimeters.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Census Block Groups by 2000 Population: Washington D.C.",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/3f4d5721f103467e8342496a39cd8c36_6\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/3f4d5721f103467e8342496a39cd8c36_6.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Demographic_WebMercator/MapServer/6\"}",
+  "dct_isPartOf_sm": [
+    "04c-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "District of Columbia"
+  ],
+  "dct_spatial_sm": [
+    "Washington D.C"
+  ],
+  "b1g_centroid_ss": "38.89373577,-77.014579135",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "04c-01",
+  "dc_creator_sm": [
+    "City of Washington, DC"
+  ]
+}

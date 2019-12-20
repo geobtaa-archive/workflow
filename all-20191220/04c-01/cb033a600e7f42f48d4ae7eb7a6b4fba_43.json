@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "cb033a600e7f42f48d4ae7eb7a6b4fba_43",
+  "dc_identifier_s": "cb033a600e7f42f48d4ae7eb7a6b4fba_43",
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "dct_temporal_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "b1g_dateAccessioned_s": "2019-07-23",
+  "solr_year_i": "2019",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-60.59011762,179.9999885,90,-69.99444444)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2019-06-17",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "The  EntertainmentSportsGamblingZones  layer identifies a two-block restriction zone emanating from the gambling entity s physical location going outward two blocks in all directions. The class  A  entity s square suffix and lot (SSL) shall be the central point and the restriction zone shall emanate outward from that central point two blocks. This layer will become part of the Districts gambling licensing procedure and will be used to notify the user seeking a gambling license whether they are within the two-block restriction zone or not.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Entertainment Sports Gambling Restriction Zones: Washington, D.C.",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/cb033a600e7f42f48d4ae7eb7a6b4fba_43\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/cb033a600e7f42f48d4ae7eb7a6b4fba_43.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Administrative_Other_Boundaries_WebMercator/MapServer/43\"}",
+  "dct_isPartOf_sm": [
+    "04c-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "District of Columbia"
+  ],
+  "dct_spatial_sm": [
+    "Washington D.C"
+  ],
+  "b1g_centroid_ss": "10.002777780000002,59.70493544",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "04c-01",
+  "dc_creator_sm": [
+    "City of Washington, DC"
+  ]
+}

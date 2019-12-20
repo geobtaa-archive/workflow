@@ -1,0 +1,71 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "aafc3d381ee8407ab63ca47131ed9a54_0",
+  "dc_identifier_s": "aafc3d381ee8407ab63ca47131ed9a54_0",
+  "b1g_date_range_drsim": [
+    "[2017 TO 2017]"
+  ],
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "b1g_dateAccessioned_s": "2019-05-29",
+  "solr_year_i": "2017",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-89.97984918,-89.48767522,40.93991417,40.56786048)",
+  "b1g_keyword_sm": [
+    "polling",
+    "place",
+    "places",
+    "voting",
+    "vote",
+    "elections",
+    "ArcGIS",
+    "Service Definition",
+    "sd"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Chicago",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2017-10-12",
+  "suppressed_b": "TRUE",
+  "dc_description_s": "ONE OR MORE OF THE ACCESS LINKS FOR THIS RECORD WERE REPORTED AS BROKEN. THE RECORD MAY HAVE BEEN RETIRED BY THE HOST. Point feature class containing polling places within Peoria County, Illinois. Attributes include: polling place, polling place address, polling place hours, handicap accessible (Yes/No), next election date, voter registration deadline, contact name, contact phone, contact email, polling place wait time (minutes), township, precinct names, precinct building photos.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "Polling Places"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Polling Places: Peoria County, Illinois",
+  "b1g_dateRetired_s": "2019-05-29",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data-peoriacountygis.opendata.arcgis.com/datasets/aafc3d381ee8407ab63ca47131ed9a54_0\",\"http://schema.org/downloadUrl\":\"http://data-peoriacountygis.opendata.arcgis.com/datasets/aafc3d381ee8407ab63ca47131ed9a54_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/iPiPjILCMYxPZWTc/arcgis/rest/services/Polling_Places/FeatureServer/0\"}",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Retired",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Peoria County, Illinois"
+  ],
+  "dct_spatial_sm": [
+    "Peoria County, Illinois",
+    "Illinois"
+  ],
+  "b1g_centroid_ss": "40.753887325,-89.7337622",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "12b-17143",
+  "dc_creator_sm": [
+    "Peoria County GIS"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "F250490C-7F82-4251-9C54-2BD3DD5FFEB4",
+  "dc_identifier_s": "F250490C-7F82-4251-9C54-2BD3DD5FFEB4",
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "b1g_dateAccessioned_s": "2019-09-04",
+  "solr_year_i": "2016",
+  "dc_format_s": "Geodatabase",
+  "solr_geom": "ENVELOPE(-89.229429,-88.603987,44.684148,44.237574)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Polygon",
+  "dct_provenance_s": "Wisconsin",
+  "dct_accrualMethod_s": "GeoBlacklight",
+  "b1g_image_ss": "",
+  "dct_issued_s": "",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "This polygon data layer represents zoning for Waupaca County, Wisconsin in 2016. It is a feature class within the geodatabase, Waupaca_Zoning_2016.gdb. The features included in this geodatabse are 'FARMAND', 'FLOODPLAIN', 'GENERAL', and 'SHORELAND'.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "Zoning Waupaca County\\, WI 2016"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Zoning: Waupaca County, Wisconsin, 2016",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Waupaca_Zoning_2016.zip\",\"http://schema.org/downloadUrl\":\"http://data.waupacacounty.opendata.arcgis.com/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Waupaca_Zoning_2016.xml\"}",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dct_spatial_sm": [
+    "Waupaca County, Wisconsin",
+    "Wisconsin"
+  ],
+  "b1g_centroid_ss": "44.460861,-88.916708",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "10d",
+  "dc_creator_sm": [
+    "Waupaca County, Wisconsin"
+  ]
+}

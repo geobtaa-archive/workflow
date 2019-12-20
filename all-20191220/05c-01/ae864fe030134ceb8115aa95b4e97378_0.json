@@ -1,0 +1,67 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "ae864fe030134ceb8115aa95b4e97378_0",
+  "dc_identifier_s": "ae864fe030134ceb8115aa95b4e97378_0",
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "b1g_dateAccessioned_s": "2019-09-04",
+  "solr_year_i": "2018",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-95.2996,-93.1897,45.0517,44.5006)",
+  "b1g_keyword_sm": [
+    "Open Data",
+    "  Minneapolis",
+    "  Public Works",
+    "  Centerline",
+    "  Planimetric"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Minnesota",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2018-02-21",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "For questions about this data please contact PublicWorksOpenData@minneapolismn.gov Attribute Overview: Lighting Pole, Post, Power Pole, Lighting, Parking Meter, Traffic Sign, Water Hydrant, Hedge, Shrub, Tree Coniferous, Tree Deciduous. Fields: Field Name Field Type Field Description OBJECTID Object ID Unique ID PLAN_PT_REVD Date Graphic revision date SOURCE Text Source of data SOURCE_DATE Date Source date PLAN_PT_CREATED Date Graphic creation date SYMBOL_NAME Text Graphic symbol name Shape Geometry Geometry Symbol Name Definitions Symbol Name Definition HYDRANT Water Hydrant POST Post POWER_POLE Power Pole PRKG_METER Traffic Parking Meter STREET_LIGHT Traffic Lighting STREET_SIGN Traffic Sign TREE_CONIF Tree Coniferous TREE_DECID Tree Deciduous ",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "PW Planimetric Points"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "PW Planimetric Points: Minneapolis, Minnesota",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.minneapolismn.gov/datasets/ae864fe030134ceb8115aa95b4e97378_0\",\"https://schema.org/downloadUrl\":\"https://opendata.minneapolismn.gov/datasets/ae864fe030134ceb8115aa95b4e97378_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/PW_Planimetric_Points/FeatureServer/0\"}",
+  "dct_isPartOf_sm": [
+    "05c-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "City of Minneapolis, Minnesota"
+  ],
+  "dct_spatial_sm": [
+    "District of Columbia",
+    "Maryland"
+  ],
+  "b1g_centroid_ss": "44.77615,-94.24465000000001",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "05c-01",
+  "dc_creator_sm": [
+    "MapIT Minneapolis"
+  ]
+}

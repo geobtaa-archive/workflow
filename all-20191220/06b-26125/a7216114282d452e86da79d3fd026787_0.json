@@ -1,0 +1,64 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "a7216114282d452e86da79d3fd026787_0",
+  "dc_identifier_s": "a7216114282d452e86da79d3fd026787_0",
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2016",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-83.65281392,-83.08194483,42.84874507,42.43172888)",
+  "b1g_keyword_sm": [
+    "Holiday",
+    "Events"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Michigan State",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2016-11-10",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "BY USING THIS WEBSITE OR THE CONTENT THEREIN, YOU AGREE TO THE TERMS OF USE. These events were identified by doing multiple internet searches. The data is hosted within ArcGIS Online.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Holiday Events 2016: Oakland County, Michigan",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://accessoakland.oakgov.com/datasets/a7216114282d452e86da79d3fd026787_0\",\"http://schema.org/downloadUrl\":\"http://accessoakland.oakgov.com/datasets/a7216114282d452e86da79d3fd026787_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/GE4Idg9FL97XBa3P/arcgis/rest/services/Holiday_Events/FeatureServer/0\"}",
+  "dct_isPartOf_sm": [
+    "06b-26125"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Oakland County, Michigan"
+  ],
+  "dct_spatial_sm": [
+    "Oakland County, Michigan",
+    "Michigan"
+  ],
+  "b1g_centroid_ss": "42.640236975,-83.367379375",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "06b-26125",
+  "dc_creator_sm": [
+    "Oakland County, Michigan"
+  ]
+}

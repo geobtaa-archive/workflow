@@ -1,0 +1,47 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:10:08Z",
+  "layer_slug_s": "05b-27167",
+  "dc_identifier_s": "05b-27167",
+  "b1g_date_range_drsim": [
+    ""
+  ],
+  "dct_temporal_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Counties geospatial data"
+  ],
+  "b1g_dateAccessioned_s": "",
+  "solr_geom": "ENVELOPE(-96.79132,-96.26465,46.63091,46.02153)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Table",
+  "dct_provenance_s": "Minnesota",
+  "dct_accrualMethod_s": "ArcGIS HUB",
+  "b1g_image_ss": "",
+  "dct_issued_s": "",
+  "dc_description_s": "ArcGIS HUB Open Data Portal for Wilkin County, Minnesota",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Wilkin County, Minnesota Open Data",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://share-wilkinco.opendata.arcgis.com\"}",
+  "dc_type_sm": [
+    "Collection"
+  ],
+  "dc_publisher_sm": [
+    "Wilkin County, Minnesota"
+  ],
+  "dct_spatial_sm": [
+    "Wilkin County, Minnesota",
+    "Minnesota"
+  ],
+  "b1g_centroid_ss": "46.32622,-96.527985",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "05b-27167",
+  "dc_creator_sm": [
+    ""
+  ]
+}

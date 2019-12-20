@@ -1,0 +1,61 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "e371dfb0-5e91-4e6c-8940-47a6fedf0ac9",
+  "dc_identifier_s": "e371dfb0-5e91-4e6c-8940-47a6fedf0ac9",
+  "b1g_date_range_drsim": [
+    "[1945 TO 1945]"
+  ],
+  "dct_temporal_sm": [
+    "1945"
+  ],
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "b1g_dateAccessioned_s": "2019-11-04",
+  "solr_year_i": "1945",
+  "dc_format_s": "TIFF",
+  "solr_geom": "ENVELOPE(29.82854167,29.85617222,31.14573333,31.12328611)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "Dublin Core",
+  "b1g_image_ss": "",
+  "dct_issued_s": "1945",
+  "suppressed_b": "",
+  "dc_description_s": "Map of Asia - Southern Asia - Thailand, 1945. Scale=1:2,000,000. Topography, towns, roads for parts of Kampuchea, Myanmar, Thailand, Vietnam",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "mdu-056980"
+  ],
+  "dc_language_sm": [
+    ""
+  ],
+  "dc_title_s": "Map of Asia - Southern Asia - Thailand, 1945",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/66/b0/49/a2/66b049a2-738d-4066-a330-6402018f5593\"}",
+  "dct_isPartOf_sm": [
+    "04d-02"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image"
+  ],
+  "dc_publisher_sm": [
+    "Army Map Service"
+  ],
+  "dct_spatial_sm": [
+    "Thailand"
+  ],
+  "b1g_centroid_ss": "31.13450972,29.842356945",
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "b1g_code_s": "04d-02",
+  "dc_creator_sm": [
+    ""
+  ]
+}

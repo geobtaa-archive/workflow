@@ -1,0 +1,71 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "8c6e2575c8ad46eb887e6bb35825e1a6_0",
+  "dc_identifier_s": "8c6e2575c8ad46eb887e6bb35825e1a6_0",
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_dateAccessioned_s": "2019-10-11",
+  "solr_year_i": "2018",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-75.2597,-75.0779,40.023,39.9499)",
+  "b1g_keyword_sm": [
+    "Highspeed",
+    "MFL",
+    "SEPTA",
+    "Stations",
+    "Transit"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2018-07-02T18:12:23.000Z",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "Spring 2018 Market-Frankford Line Stations with Ridership. Station ridership data is from FY17 turn-style counts and excludes free interchange riders.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "SEPTA - Market-Frankford Line Stations"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "SEPTA - Market-Frankford Line Stations: Delaware Valley Regional Planning Commission",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/8c6e2575c8ad46eb887e6bb35825e1a6_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services2.arcgis.com/9U43PSoL47wawX5S/arcgis/rest/services/Market_Frankford_Line_Stations/FeatureServer/0\",\"http://schema.org/url\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/8c6e2575c8ad46eb887e6bb35825e1a6_0\"}",
+  "dct_isPartOf_sm": [
+    "04f-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Delaware Valley Regional Planning Commission"
+  ],
+  "dct_spatial_sm": [
+    "Delaware River, Delaware",
+    "Delaware",
+    "Philadelphia, Pennsylvania",
+    "Pennsylvania",
+    "Maryland",
+    "New Jersey"
+  ],
+  "b1g_centroid_ss": "39.986450000000005,-75.1688",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "04f-01",
+  "dc_creator_sm": [
+    "SEPTA Web Mapping Portal"
+  ]
+}

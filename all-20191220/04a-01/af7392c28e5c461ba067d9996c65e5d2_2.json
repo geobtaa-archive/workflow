@@ -1,0 +1,94 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "af7392c28e5c461ba067d9996c65e5d2_2",
+  "dc_identifier_s": "af7392c28e5c461ba067d9996c65e5d2_2",
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2016",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-79.4835,-75.0522,39.723,37.9646)",
+  "b1g_keyword_sm": [
+    "Centerline",
+    "Route Centerline",
+    "Street Centerline",
+    "Interstates",
+    "Expressways",
+    "Freeways",
+    "Parkways",
+    "Highways",
+    "Streets",
+    "Roads",
+    "Roadways",
+    "Routes",
+    "Transportation",
+    "Statewide",
+    "Maryland",
+    "MD",
+    "Maryland Department of Transportation",
+    "MDOT",
+    "Maryland Department of Transportation State Highway Administration",
+    "MDOT SHA",
+    "State Highway Administration",
+    "SHA",
+    "Office of Planning and Preliminary Engineering",
+    "OPPE",
+    "Data Services Division",
+    "DSD",
+    "MD iMAP",
+    "Vector",
+    "Dynamic",
+    "WFS",
+    "WMS",
+    "KML",
+    "2016"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2016-04-05",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "This is a MD iMAP hosted service layer. Find more information at http://imap.maryland.gov.Road Centerlines data consists of linear features which represent the street centerline for all public roadways in the State of Maryland. Road Centerlines data is segmented for each intersecting feature along a route, which means multiple linear features may represent a single route. This layer specifically shows the Maryland State (MD) roadways and Maryland State ramps (RP) throughout the State of Maryland.Road Centerlines data is the end product of a statewide data sharing process between the Federal Highway Administration (FHWA), Maryland Department of Transportation (MDOT), Maryland Department of Transportation State Highway Administration (MDOT SHA), county governments and local municipal governments. Using a common centerline allows for better exchange of information related to the roadway system and provides opportunities for more efficient collection of information about roadway assets. Some centerlines were created in-house using imagery, GPS data, and MDOT SHA's Highway Performance Monitoring System (HPMS) database and others were received from county governments and updated in house using imagery, GPS data and MDOT SHA's HPMS database. The Centerline data includes annual HPMS updates / improvements submitted to the Federal Highway Administration (FHWA).Road Centerlines data is needed for emergency response and management, routing buses and other vehicles, planning for land use and transportation needs, continuity of roadway data and display at county boundaries leading to the same look and feel across jurisdictions, tracking assets on and along the roadway network, producing maps at various scales, and numerous other applications. There are opportunities to make these processes more efficient, and this program addresses a shared foundation to solve some of these issues. This data is also used by various modules throughout MDOT, as well as many other State and local government agencies.Road Centerlines data is updated and published on an annual (yearly) basis for the prior year. For questions, contact the MDOT SHA Geospatial Technologies Team:(GIS@sha.state.md.us)For additional information related to the Maryland Department of Transportation (MDOT):(http://www.mdot.maryland.gov/)For additional information related to the Maryland Department of Transportation State Highway Administration (MDOT SHA):(http://www.roads.maryland.gov/Home.aspx)MDOT SHA Geospatial Data Legal Disclaimer:The Maryland Department of Transportation State Highway Administration (MDOT SHA) makes no warranty, expressed or implied, as to the use or appropriateness of geospatial data, and there are no warranties of merchantability or fitness for a particular purpose or use. The information contained in geospatial data is from publicly available sources, but no representation is made as to the accuracy or completeness of geospatial data. MDOT SHA shall not be subject to liability for human error, error due to software conversion, defect, or failure of machines, or any material used in the connection with the machines, including tapes, disks, CD-ROMs or DVD-ROMs and energy. MDOT SHA shall not be liable for any lost profits, consequential damages, or claims against MDOT SHA by third parties.Feature Service Layer Link:https://geodata.md.gov/imap/rest/services/Transportation/MD_RoadCenterlines/MapServer/2",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Road Centerlines - Routes: Maryland",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/af7392c28e5c461ba067d9996c65e5d2_2\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/af7392c28e5c461ba067d9996c65e5d2_2.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://geodata.md.gov/imap/rest/services/Transportation/MD_RoadCenterlines/MapServer/2\"}",
+  "dct_isPartOf_sm": [
+    "04a-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dct_spatial_sm": [
+    "Maryland"
+  ],
+  "b1g_centroid_ss": "38.8438,-77.26785000000001",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "04a-01",
+  "dc_creator_sm": [
+    "ArcGIS Online for Maryland"
+  ]
+}

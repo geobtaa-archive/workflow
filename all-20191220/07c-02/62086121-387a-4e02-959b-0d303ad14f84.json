@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "62086121-387a-4e02-959b-0d303ad14f84",
+  "dc_identifier_s": "62086121-387a-4e02-959b-0d303ad14f84",
+  "b1g_date_range_drsim": [
+    "[2012 TO 2012]"
+  ],
+  "dct_temporal_sm": [
+    "2012"
+  ],
+  "dc_subject_sm": [
+    "Elevation",
+    "Inland Waters"
+  ],
+  "b1g_dateAccessioned_s": "2016-05",
+  "solr_year_i": "2012",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-84.070374,-83.540683,42.417816,42.072775)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Line",
+  "dct_provenance_s": "Michigan",
+  "dct_accrualMethod_s": "ArcGIS Metadata",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2012-03-14",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "A 'Regulatory Floodway' means the channel of a river or other watercourse and the adjacent land areas that must be reserved in order to discharge the base flood without cumulatively increasing the water surface elevation more than a designated height. Communities must regulate development in these floodways to ensure that there are no increases in upstream flood elevations. For streams and other watercourses where FEMA has provided Base Flood Elevations (BFEs) but no floodway has been designated, the community must review floodplain development on a case-by-case basis to ensure that increases in water surface elevations do not occur, or identify the need to adopt a floodway if adequate information is available. Created by Systems Planning based using FEMA floodplain info. In the process of being updated based on newest FEMA data.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Floodway: Ann Arbor, Michigan, 2012",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://www.a2gov.org/services/data/Pages/default.aspx\",\"http://schema.org/downloadUrl\":\"http://data.a2gov.org/feeds/GIS/AA%20Floodway/AA_Floodway.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://btaagdp.org/metadata/07c-02/AA_Floodway.xml\"}",
+  "dct_isPartOf_sm": [
+    "07c-02"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "dc_publisher_sm": [
+    "City of Ann Arbor, Michigan"
+  ],
+  "dct_spatial_sm": [
+    "Ann Arbor, Michigan",
+    "Michigan"
+  ],
+  "b1g_centroid_ss": "42.2452955,-83.80552850000001",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "07c-02",
+  "dc_creator_sm": [
+    ""
+  ]
+}

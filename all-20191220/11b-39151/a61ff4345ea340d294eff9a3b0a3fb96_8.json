@@ -1,0 +1,74 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "a61ff4345ea340d294eff9a3b0a3fb96_8",
+  "dc_identifier_s": "a61ff4345ea340d294eff9a3b0a3fb96_8",
+  "b1g_date_range_drsim": [
+    "[2015 TO 2015]"
+  ],
+  "dct_temporal_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "b1g_dateAccessioned_s": "2019-04-14",
+  "solr_year_i": "2015",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-81.5405,-81.2057,40.9735,40.6902)",
+  "b1g_keyword_sm": [
+    "Stark County",
+    "Ohio",
+    "Stormwater",
+    "Detention Areas",
+    "Multiple",
+    "Separate",
+    "Storm",
+    "Sewer",
+    "System",
+    "RPC",
+    "MS4",
+    "SCGIS"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Ohio State",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2015-08-19T18:28:14.000Z",
+  "suppressed_b": "TRUE",
+  "dc_description_s": "ONE OR MORE OF THE ACCESS LINKS FOR THIS RECORD WERE REPORTED AS BROKEN. THE RECORD MAY HAVE BEEN RETIRED BY THE HOST. Detention areas are a basin in an area where excess storm water is stored or held temporarily. Retention basins hold water and Detention basins slowly drain when water levels in the receiving channel recede.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "Stormwater - Detention Areas"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Stormwater - Detention Areas: Stark County, Ohio",
+  "b1g_dateRetired_s": "2019-04",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.starkcountyohio.gov/datasets/a61ff4345ea340d294eff9a3b0a3fb96_8\",\"http://schema.org/downloadUrl\":\"http://opendata.starkcountyohio.gov/datasets/a61ff4345ea340d294eff9a3b0a3fb96_8.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://scgisa.starkcountyohio.gov/arcgis/rest/services/RegionalPlanningCommission/Stormwater/MapServer/8\"}",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Retired",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Stark County, Ohio"
+  ],
+  "dct_spatial_sm": [
+    "Stark County, Ohio",
+    "Ohio"
+  ],
+  "b1g_centroid_ss": "40.83185,-81.3731",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "11b-39151",
+  "dc_creator_sm": [
+    "Stark County Ohio"
+  ]
+}

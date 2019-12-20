@@ -1,0 +1,69 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "b47d0bd9cef14b2fbeec45bc0df50935_0",
+  "dc_identifier_s": "b47d0bd9cef14b2fbeec45bc0df50935_0",
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2018",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-88.2633,-87.9125,41.9946,41.6849)",
+  "b1g_keyword_sm": [
+    "Parcels",
+    "DuPage",
+    "Real Estate",
+    "DuPage County",
+    "Parcel",
+    "Cadastral",
+    "cadastral"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Chicago",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2018-02-16",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "Notice: 1. If you download this feature layer on our Open data website. The process may be slow. This feature layer is very large. 2. Several field names are truncated or altered when you download the data. The field names (within the download) will not match the attribute field names listed below in this description. This feature layer contains the most current parcels data with real estate data for DuPage County, Illinois. The dataset was created and is maintained by the DuPage County Information Technology Department, GIS Division in conjunction with the DuPage County Clerk for the visual and spatial representation of deeds, road rights-of-way, and subdivision plats. The ParcelsRealEstate feature layer contains the Current Assessment Parcels as well as the Current Real Estate File which is joined to the parcels on a weekly basis. DuPage County Parcel Data: NOTE: Field ACRE_SOURCE = 0 is Calculated, 1 is Deeded, NULL is unverified. FIELDS IN ParcelsRealEstateCC: OBJECTID Long Integer 4 General Info: Object Identification Number. PIN Text 10 General Info: Parcel Identification Number. ACREAGE Long Integer General Info: Acreage of a Parcel. ACRE_SOURCE Long Integer General Info: Acre Source values = 0 is Calculated, 1 is Deeded, NULL is unverified. BILLNAME Text 25 General Info: Billing Name. BILLSTNUM Text 6 General Info: Billing Street Number. BILLSTDIR Text 1 General Info: Billing Street Direction. BILLSTNAME Text 16 General Info: Billing Street Name. BILLAPT Text 6 General Info: Billing Apartment. BILLCITY Text 18 General Info: Billing City. BILLSTATE Text 2 General Info: Billing State. BILLZIP Text 5 General Info: Billing ZIPCODE. BILLZIPSUF Text 4 General Info: Billing ZIP Suffix. PROPNAME Text 25 General Info: Property Name. PROPSTNUM Text 6 General Info: Property Street Number. PROPSTDIR Text 1 General Info: Property Street Direction. PROPSTNAME Text 16 General Info: Property Street Name. PROPAPT Text 6 General Info: Property Apartment. PROPCITY Text 18 General Info: Property City. PROPSTATE Text 2 General Info: Property State. PROPZIP Text 5 General Info: Property ZIPCODE. PROPZIPSUF Text 4 General Info: Property ZIPCODE Suffix. PARCELSTAT Text 3 General Info: Parcel Status. EXEMPTCODE Text 1 General Info: Parcel Exempt Code. PROPCLASS Text 1 General Info: Property Classification. Values: F = Farm H = Farm_Homesite C = Commercial I = Industrial A = Apartment R = Residential M = Prop_Multiple V = Prop_Vacant G = Prop_Golf_Course E = Prop_Exempt D = Prop_Historical N = Prop_Non_Resident O = Prop_Open_Space P = Prop_Airport L = Prop_Lease U = Prop_Utility S = Prop_Subdivision T = Prop_Leasehold K = Prop_Model TAXCODE Text 4 General Info: Property Tax Code. FCVLAND Long Integer 4 General Info: Land Value. FCVIMP Long Integer 4 General Info: Fair Cash Value Improvement. FCVTOTAL Long Integer 4 General Info: Value total. BILLVALUE Long Integer 4 General Info: Billing Value. TAXRATE Double 8 General Info: Property Tax Rate. TAXAMOUNT Double 8 General Info: Property Tax Amount. MUNICIPALITY Text 50 General Info: The parcel is in this Municipality. SPECIALSERVICEDISTRICT Text 50 General Info: The parcel is in this Special Service District. SPECIALPOLICEDISTRICT Text 50 General Info: The parcel is in this Special Police District. FIREPROTECTIONDISTRICT Text 50 General Info: The parcel is in this Fire Protection District. LIBRARYDISTRICT Text 50 General Info: The parcel is in this Library District. PARKDISTRICT Text 50 General Info: The parcel is in this Park District. SANITARYDISTRICT Text 50 General Info: The parcel is in this Sanitary District. MOSQUITOABATEMENTDISTRICT Text 50 General Info: The parcel is in this Mosquito Abatement District. SURFACEWATERDISTRICT Text 50 General Info: The parcel is in this Surface Water District. GRADESCHOOLDISTRICT Text 50 General Info: The parcel is in this Grade School District. HIGHSCHOOLDISTRICT Text 50 General Info: The parcel is in this High School District. UNITSCHOOLDISTRICT Text 50 General Info: The parcel is in this Unit School District. COMMUNITYCOLLEGEDISTRICT Text 50 General Info: The parcel is in this Community College District. OTHERDISTRICT Text 50 General Info: The parcel is in this Other District. WATERCOMMISSION Text 50 General Info: The parcel is in this Water Commission. AIRPORTAUTHORITY Text 50 General Info: The parcel is in this Airport Authority. LEGALDES1 Text 23 General Info: Legal Description for the Parcel. LEGALCODE1 Text 9 General Info: Legal Description for the Parcel. LEGALDES2 Text 23 General Info: Legal Description for the Parcel. LEGALCODE2 Text 9 General Info: Legal Description for the Parcel. LEGALDES3 Text 23 General Info: Legal Description for the Parcel. LEGALCODE3 Text 9 General Info: Legal Description for the Parcel. LEGALDES4 Text 23 General Info: Legal Description for the Parcel. LEGALCODE4 Text 9 General Info: Legal Description for the Parcel. LEGALDES5 Text 23 General Info: Legal Description for the Parcel. LEGALCODE5 Text 9 General Info: Legal Description for the Parcel. LEGALDES6 Text 23 General Info: Legal Description for the Parcel. LEGALCODE6 Text 9 General Info: Legal Description for the Parcel. LEGALDES7 Text 23 General Info: Legal Description for the Parcel. LEGALCODE7 Text 9 General Info: Legal Description for the Parcel. LEGALCODE8 Text 9 General Info: Legal Description for the Parcel. LEGALDES9 Text 23 General Info: Legal Description for the Parcel. LEGALCODE9 Text 9 General Info: Legal Description for the Parcel. BILLADDRL1 Text 25 General Info: (BILLNUMB + BILLSTDIR + BILLSTNAME) Combined - Billing Address 1 BILLADDRL2 Text 27 General Info: (BILLCITY + BILLSTATE + BILLZIP) Combined - Billing Address 2 PROPADDRL1 Text 25 General Info: (PROPSTNUMB + PROPSTDIR + PROPSTNAME) Combined - Property Address 1 PROPADDRL2 Text 27 General Info: (PROPCITY + PROPSTATE + PROPZIP) Combined - Property Address 2 HQS_PAGES Text 100 General Info: The printable page the Parcel/PIN is located on within DuPage County.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Parcels: Dupage County, Illinois",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://gisdata-dupage.opendata.arcgis.com/datasets/b47d0bd9cef14b2fbeec45bc0df50935_0\",\"http://schema.org/downloadUrl\":\"http://gisdata-dupage.opendata.arcgis.com/datasets/b47d0bd9cef14b2fbeec45bc0df50935_0.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.dupageco.org/arcgis/rest/services/DuPage_County_IL/ParcelsWithRealEstateCC/MapServer/0\"}",
+  "dct_isPartOf_sm": [
+    "12b-17043"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "DuPage County, Illinois"
+  ],
+  "dct_spatial_sm": [
+    "DuPage County, Illinois",
+    "Illinois"
+  ],
+  "b1g_centroid_ss": "41.839749999999995,-88.08789999999999",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "12b-17043",
+  "dc_creator_sm": [
+    "DuPage County Illinois"
+  ]
+}

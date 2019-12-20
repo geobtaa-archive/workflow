@@ -1,0 +1,68 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "6894d544-c9a9-4c4d-aae7-da4a84f69c07",
+  "dc_identifier_s": "6894d544-c9a9-4c4d-aae7-da4a84f69c07",
+  "b1g_date_range_drsim": [
+    "[1797 TO 1797]"
+  ],
+  "dct_temporal_sm": [
+    "1797"
+  ],
+  "dc_subject_sm": [
+    "Nautical charts"
+  ],
+  "b1g_dateAccessioned_s": "2019-07-26",
+  "solr_year_i": "1797",
+  "dc_format_s": "JPEG",
+  "solr_geom": "ENVELOPE(23.5,-179.65,42.5,-50)",
+  "b1g_keyword_sm": [
+    "Discoveries in Geography",
+    "Pacific Ocean Maps",
+    "Australia Discovery and Exploration Maps",
+    "Indian Ocean Maps",
+    "Australia",
+    "Indian Ocean",
+    "Pacific Ocean",
+    "Nautical Charts"
+  ],
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Minnesota",
+  "dct_accrualMethod_s": "Blacklight",
+  "b1g_image_ss": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll246/id/209",
+  "dct_issued_s": "",
+  "suppressed_b": "",
+  "dc_description_s": "comprehending New Zealand, New Caledonia, New Britain, New Ireland, New Guinea &c., Louisiade and New Georgia ; also The Pelew, New Caroline, Ladrone and Philippine Islands &c. with the most remarkable tracks of the English, Spanish, French and Dutch navigators and chiefly the track of the Walpole, EastIndiaman, Captn. Thos. Butler, 1794 from the Cape of Good Hope to Van Diemen's Land and from thence to China, and the track of the Royal Admiral Captn. Henr. Bond in 1792 and 93 from the Cape to Port Jackson and China.; Scale approximately 1:17 000 000. Map of Indian and Pacific Oceans showing explorers' tracks. Relief shown pictorially. Prime meridian: London. Includes 3 views and notes. Australia named \"New Holland or Terra Australis.\" Contents: Insets: Anson's road at the west end of Tinian -- Isle of Norfolk or New Norfolk. 1 map : color ; 75 x 109 cm",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "Laurie and Whittle's new chart of the Indian and Pacific Oceans between the Cape of Good Hope\\, New Holland and Japan :"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Laurie and Whittle's new chart of the Indian and Pacific Oceans between the Cape of Good Hope, New Holland and Japan:",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/229472\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/209/manifest.json\"}",
+  "dct_isPartOf_sm": [
+    "05d-p16022coll246"
+  ],
+  "layer_id_s": "209",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image"
+  ],
+  "dc_publisher_sm": [
+    "R. Laurie & J. Whittle Fleet Street"
+  ],
+  "dct_spatial_sm": [
+    "Australia"
+  ],
+  "b1g_centroid_ss": "-3.75,-78.075",
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "b1g_code_s": "05d-01",
+  "dc_creator_sm": [
+    ""
+  ]
+}

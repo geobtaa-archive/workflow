@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "7807a2ec-fdd7-4f2f-a52e-cd036ba26b0a",
+  "dc_identifier_s": "7807a2ec-fdd7-4f2f-a52e-cd036ba26b0a",
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "dct_temporal_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Farming"
+  ],
+  "b1g_dateAccessioned_s": "2019-04-05",
+  "solr_year_i": "2018",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-77.382574,-77.342208,39.719598,39.581905)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "",
+  "b1g_image_ss": "",
+  "dct_issued_s": "",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "The Farm and Ranch Land Protection Program (FRPP) provides matching funds to help purchase development rights to keep productive farm and ranchland in agricultural uses. Working through existing programs, USDA partners with State, tribal, or local governments and non-governmental organizations to acquire conservation easements or other interests in land from landowners. USDA provides up to 50 percent of the fair market easement value of the conservation easement.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "FRPP Program, Agricultural Preservation: Frederick County, Maryland",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.frederickcountymd.gov/5969/Download-GIS-Data\",\"http://schema.org/downloadUrl\":\"https://www.frederickcountymd.gov/GISDownloadTracker---Agricultural-Preservation\"}",
+  "dct_isPartOf_sm": [
+    "04b-24021"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "dc_publisher_sm": [
+    "Frederick County, Maryland"
+  ],
+  "dct_spatial_sm": [
+    "Frederick County, Maryland",
+    "Maryland"
+  ],
+  "b1g_centroid_ss": "39.6507515,-77.362391",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "04b-24021",
+  "dc_creator_sm": [
+    ""
+  ]
+}

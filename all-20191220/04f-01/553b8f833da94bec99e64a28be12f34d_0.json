@@ -1,0 +1,70 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "553b8f833da94bec99e64a28be12f34d_0",
+  "dc_identifier_s": "553b8f833da94bec99e64a28be12f34d_0",
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_dateAccessioned_s": "2019-10-11",
+  "solr_year_i": "2019",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-76.1103,-74.3815,40.6082,39.5131)",
+  "b1g_keyword_sm": [
+    "DVRPC",
+    "LTS",
+    "Bicycle",
+    "Stress"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2019-06-13T19:34:45.000Z",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "LTS is a road classification scheme based on the comfort of bicyclists. DVRPC's LTS assignment is based on the number of lanes, effective vehicle speed, and presence/type of bicycle facility.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "DVRPC Existing Condition Level of Traffic Stress"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Existing Condition Level of Traffic Stress: Delaware Valley Regional Planning Commission",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/553b8f833da94bec99e64a28be12f34d_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://arcgis.dvrpc.org/arcgis/rest/services/AppData/BSTRESSv2_ExistingConditionLTS/FeatureServer/0\",\"http://schema.org/url\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/553b8f833da94bec99e64a28be12f34d_0\"}",
+  "dct_isPartOf_sm": [
+    "04f-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Delaware Valley Regional Planning Commission"
+  ],
+  "dct_spatial_sm": [
+    "Delaware River, Delaware",
+    "Delaware",
+    "Philadelphia, Pennsylvania",
+    "Pennsylvania",
+    "Maryland",
+    "New Jersey"
+  ],
+  "b1g_centroid_ss": "40.060649999999995,-75.2459",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "04f-01",
+  "dc_creator_sm": [
+    "DVRPC-GIS"
+  ]
+}

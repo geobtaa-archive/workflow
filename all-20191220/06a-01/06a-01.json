@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:10:08Z",
+  "layer_slug_s": "06a-01",
+  "dc_identifier_s": "06a-01",
+  "b1g_date_range_drsim": [
+    ""
+  ],
+  "dct_temporal_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "State agencies geospatial data"
+  ],
+  "b1g_dateAccessioned_s": "",
+  "solr_geom": "ENVELOPE(-90.42,-82.12,48.31,41.7)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Table",
+  "dct_provenance_s": "Michigan State",
+  "dct_accrualMethod_s": "ArcGIS HUB",
+  "b1g_image_ss": "http://www.mcgi.state.mi.us/agoopendata/images/icons/SOMCoatOfArms.png",
+  "dct_issued_s": "",
+  "dc_description_s": "ArcGIS open data portal for the state of Michigan. Contains datasets relating to boundaries, hydrology, and other topics",
+  "dc_rights_s": "Public",
+  "dc_title_s": "State of Michigan Open Data Portal",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://gis-michigan.opendata.arcgis.com\"}",
+  "dc_type_sm": [
+    "Collection"
+  ],
+  "dc_publisher_sm": [
+    "State of Michigan"
+  ],
+  "dct_spatial_sm": [
+    "Michigan"
+  ],
+  "b1g_centroid_ss": "45.005,-86.27000000000001",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "06a-01",
+  "dc_creator_sm": [
+    ""
+  ]
+}

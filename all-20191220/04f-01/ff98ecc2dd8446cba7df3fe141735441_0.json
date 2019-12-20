@@ -1,0 +1,79 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "ff98ecc2dd8446cba7df3fe141735441_0",
+  "dc_identifier_s": "ff98ecc2dd8446cba7df3fe141735441_0",
+  "b1g_date_range_drsim": [
+    "[2015 TO 2015]"
+  ],
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dc_subject_sm": [
+    "Structure"
+  ],
+  "b1g_dateAccessioned_s": "2019-10-11",
+  "solr_year_i": "2015",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-75.4955,-74.7093,40.596,40.0642)",
+  "b1g_keyword_sm": [
+    "DVRPC",
+    "Pennsylvania",
+    "Bucks County",
+    "Impervious Surface",
+    "Structures",
+    "Building Footprints",
+    "Building Heights",
+    "Buildings",
+    "Roads",
+    "Driveways",
+    "Parking Lots",
+    "Sidewalks",
+    "Planning"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2017-04-05T20:48:13.000Z",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "This dataset contains impervious landbase features updated using digital orthoimagery acquired in 2015 by the Delaware Valley Regional Regional Planning Commission (DVRPC) and its partners. This is an update of existing features originally captured in 2013 using 2010 orthoimagery. Additionally, estimated building heights were derived from high resolution normalized digital surface elevation data models generated from NIR LiDAR data using the highest hit method. Digital surface elevation models were derived from LiDAR data collected by Quantum Spatial and other vendors and compiled for delivery to USGS and its partners. The horizontal datum for this dataset is North American Datum, 1983, Geoid GRS 1980, and the data is projected in Lambert Conformal Conic StatePlane Pennsylvania South (FIPS 3702). Units are US Foot. The minimum size for building features is 200 square feet.Process Steps for Calculating Building Height Statistics:Normalized digital surface models (nDSM) and slope rasters were generated from 0.5-meter LiDAR data.Geodesic area was calculated (in square feet) for all features classified as Building .A negative 1 meter buffer was applied to all building features with an area greater than 200 square meters - applied in an effort to ensure nDSM input values were those corresponding to the building roof and not the adjacent ground.Zonal statistics (Spatial Analyst extension) were calculated on the buffered features for each nDSM raster (first multiplying each raster by 10 to maintain precision and then converting from floating point to integer raster) and slope raster (generated from each integerized nDSM raster). Zonal percentile statistics were also calculated on buffered features for each raster to obtain the 90th percentile building heights (HEIGHT_ESTIMATE field).All output statistics fields were joined to the original input feature class (with unit conversions applied, where necessary).A complete dataset, which includes the following fields that are populated with various statistical outputs generated during the building height estimation process, is available upon request:HEIGHT_PCT90  90th percentile value of all cells in the nDSM raster located within the building footprint.HEIGHT_PCT50  median value of all cells in the nDSM raster located within the building footprint.HEIGHT_COUNT  total number of cells with tabulated values in the nDSM raster located within the building footprint.SLOPE_MEAN  average of all cells in the slope raster located within the building footprint.SLOPE_STD  standard deviation of all cells in the slope raster located within the building footprint. SLOPE_COUNT - total number of cells with tabulated values in the slope raster located within the building footprint.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "DVRPC 2015 Impervious Surface - Bucks County\\, PA"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Impervious Surface - Bucks County, PA: Delaware Valley Regional Planning Commission, 2015",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/ff98ecc2dd8446cba7df3fe141735441_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://arcgis.dvrpc.org/arcgis/rest/services/Structures/BucksCo_Impervious/FeatureServer/0\",\"http://schema.org/url\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/ff98ecc2dd8446cba7df3fe141735441_0\"}",
+  "dct_isPartOf_sm": [
+    "04f-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Delaware Valley Regional Planning Commission"
+  ],
+  "dct_spatial_sm": [
+    "Delaware River, Delaware",
+    "Delaware",
+    "Philadelphia, Pennsylvania",
+    "Pennsylvania",
+    "Maryland",
+    "New Jersey"
+  ],
+  "b1g_centroid_ss": "40.3301,-75.1024",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "04f-01",
+  "dc_creator_sm": [
+    "DVRPC-GIS"
+  ]
+}

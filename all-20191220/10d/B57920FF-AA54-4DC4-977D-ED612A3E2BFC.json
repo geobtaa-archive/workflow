@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "B57920FF-AA54-4DC4-977D-ED612A3E2BFC",
+  "dc_identifier_s": "B57920FF-AA54-4DC4-977D-ED612A3E2BFC",
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_dateAccessioned_s": "2019-09-04",
+  "solr_year_i": "2016",
+  "dc_format_s": "Geodatabase",
+  "solr_geom": "ENVELOPE(-90.312529,-89.59926,43.644499,43.146814)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Line",
+  "dct_provenance_s": "Wisconsin",
+  "dct_accrualMethod_s": "GeoBlacklight",
+  "b1g_image_ss": "",
+  "dct_issued_s": "",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "This data group represents Roads for Sauk County, Wisconsin in 20XX and includes the layers \u2018Sauk_Roads_2016\u2019, \u2018ROWROAD\u2019,[This feature class contains detailed line work supporting Sauk Counties road network and contains street name, classification, and address range attributes]",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "Roads Sauk County\\, WI 2016"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Roads: Sauk County, Wisconsin, 2016",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_Watersheds_2008.zip\",\"http://schema.org/downloadUrl\":\"http://saukgis.maps.arcgis.com/home/index.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Sauk_Roads_2016.xml\"}",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dct_spatial_sm": [
+    "Sauk County, Wisconsin",
+    "Wisconsin"
+  ],
+  "b1g_centroid_ss": "43.3956565,-89.9558945",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "10d",
+  "dc_creator_sm": [
+    "Sauk County, Wisconsin"
+  ]
+}

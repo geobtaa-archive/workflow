@@ -1,0 +1,65 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "1f56331d-40cc-4186-a811-9f48776a6e22",
+  "dc_identifier_s": "1f56331d-40cc-4186-a811-9f48776a6e22",
+  "b1g_date_range_drsim": [
+    "[2007 TO 2007]"
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "dc_subject_sm": [
+    "Elevation",
+    "Imagery and Base Maps"
+  ],
+  "b1g_dateAccessioned_s": "2016-10",
+  "solr_year_i": "2007",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-89.405734,-88.933097,42.500482,42.148039)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Mixed",
+  "dct_provenance_s": "Illinois",
+  "dct_accrualMethod_s": "FGDC",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2007-01-02",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "Provide FEMA compliant elevation, topography and contour map of Winnebago County, Illinois. Provide Bare Earth DEM (vegetation removal) of Winnebago County, Illinois.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Height Modernization (ILHMP) LiDAR Data: Winnebago County, Illinois: 2007",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://clearinghouse.isgs.illinois.edu/data/elevation/illinois-height-modernization-ilhmp-lidar-data\",\"http://schema.org/downloadUrl\":\"http://isgs.illinois.edu/clearinghouse/lidar/counties/winnebago/winnebago_tile_index.zip\"}",
+  "dct_isPartOf_sm": [
+    "9a717589-8bd5-4eae-8414-48ea9d474a43"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "dc_publisher_sm": [
+    "University of Illinois Urbana-Champaign",
+    "Illinois State Geological Survey"
+  ],
+  "dct_spatial_sm": [
+    "Illinois",
+    "Winnebago County, Illinois"
+  ],
+  "b1g_centroid_ss": "42.324260499999994,-89.1694155",
+  "b1g_genre_sm": [
+    "Geospatial data",
+    "Aerial imagery"
+  ],
+  "b1g_code_s": "02a-01",
+  "dc_creator_sm": [
+    "This data set was developed for the United States Geological Survey by Sanborn Mapping."
+  ]
+}

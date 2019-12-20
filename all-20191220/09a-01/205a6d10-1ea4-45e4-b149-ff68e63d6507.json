@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "205a6d10-1ea4-45e4-b149-ff68e63d6507",
+  "dc_identifier_s": "205a6d10-1ea4-45e4-b149-ff68e63d6507",
+  "b1g_date_range_drsim": [
+    "[2017 TO 2017]"
+  ],
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2017",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-88.0972,-84.6884,41.7734,37.7606)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Polygon",
+  "dct_provenance_s": "Purdue",
+  "dct_accrualMethod_s": "",
+  "b1g_image_ss": "http://maps.indiana.edu/images/Government/Congress_113th_Districts.png",
+  "dct_issued_s": "2017-01-03",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "This data set shows Indiana's nine district boundaries (redistricted boundaries were adopted in May 2011 until 2021) for the 115th U.S. Congress and provides the name, party affiliation, and additional contact information for each of the representatives. The 115th U.S. Congress, Session I began on January 3, 2017.  NOTE: A new Congress begins at noon January 3 of each odd-numbered year following a general election, unless it designates a different day by law. A Congress lasts for two years, with each year constituting a separate session.  NOTE: Redistricting of all Indiana legislative boundaries were adopted in May 2011, and will be used from 2011 through 2021. Republicans who controlled the Indiana House and Senate from the 117th General Assembly oversaw the drawing of new maps in the Spring of 2011 for all 100 state house and 50 state senate districts and Indiana's nine congressional seats. New political districts are drawn every 10 years to incorporate information from the latest U.S. Census.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Districts and Representatives for the 115th Congress: Indiana",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://maps.indiana.edu/previewMaps/Government/Congress_115th_Districts.html\",\"http://www.opengis.net/cat/csw/csdgm\":\"http://maps.indiana.edu/metadata/Government/Congress_115th_Districts.xml\",\"http://schema.org/downloadUrl\":\"http://maps.indiana.edu/download/Government/Congress_115th_Districts.zip\"}",
+  "dct_isPartOf_sm": [
+    "09a-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Indiana"
+  ],
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "b1g_centroid_ss": "39.767,-86.3928",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "09a-01",
+  "dc_creator_sm": [
+    "United States Census Bureau"
+  ]
+}

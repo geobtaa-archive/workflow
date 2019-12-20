@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "7724ec52-1138-4c30-9ab7-d59fb31f77fc",
+  "dc_identifier_s": "7724ec52-1138-4c30-9ab7-d59fb31f77fc",
+  "b1g_date_range_drsim": [
+    "[2013 TO 2013]"
+  ],
+  "dct_temporal_sm": [
+    "2013"
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "b1g_dateAccessioned_s": "2019-07-23",
+  "solr_year_i": "2013",
+  "dc_format_s": "Files",
+  "solr_geom": "ENVELOPE(-93.33,-92.73,44.93,44.47)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Raster",
+  "dct_provenance_s": "Minnesota",
+  "dct_accrualMethod_s": "Minnesota Geospatial Commons",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2015-03-20",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "This dataset consists of 0.15-meter (approximately 0.5-foot), natural color and false color infrared orthoimages covering Dakota County. Data were collected by Aerometric (now Quantum Spatial).",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "High Resolution Orthoimagery\\, Dakota County\\, Spring 2013"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "High Resolution Orthoimagery, Dakota County, MN, Spring 2013: Minnesota",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/7724ec52-1138-4c30-9ab7-d59fb31f77fc\",\"http://www.w3.org/1999/xhtml\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_mngeo/base_dakota_2013_airphotos/metadata/metadata.html\"}",
+  "dct_isPartOf_sm": [
+    "05a-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Dakota County, Minnesota"
+  ],
+  "dct_spatial_sm": [
+    "Dakota County, Minnesota",
+    "Minnesota"
+  ],
+  "b1g_centroid_ss": "44.7,-93.03",
+  "b1g_genre_sm": [
+    "Aerial imagery"
+  ],
+  "b1g_code_s": "05a-01",
+  "dc_creator_sm": [
+    "Geospatial Information Office"
+  ]
+}

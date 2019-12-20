@@ -1,0 +1,68 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "67fea942-aba3-4b6d-bda5-fb328d70aeb6",
+  "dc_identifier_s": "67fea942-aba3-4b6d-bda5-fb328d70aeb6",
+  "b1g_date_range_drsim": [
+    "[1858 TO 1858]"
+  ],
+  "dct_temporal_sm": [
+    "1858"
+  ],
+  "dc_subject_sm": [
+    "Mine maps"
+  ],
+  "b1g_dateAccessioned_s": "2019-07-26",
+  "solr_year_i": "1858",
+  "dc_format_s": "JPEG",
+  "solr_geom": "ENVELOPE(70,100,35,5)",
+  "b1g_keyword_sm": [
+    "Mines and Mineral Resources India Maps",
+    "Plant Products India Maps",
+    "Railroads India Maps",
+    "Mines and Mineral Resources",
+    "Plant Products",
+    "Railroads",
+    "India"
+  ],
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Minnesota",
+  "dct_accrualMethod_s": "Blacklight",
+  "b1g_image_ss": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll246/id/122",
+  "dct_issued_s": "",
+  "suppressed_b": "",
+  "dc_description_s": "Scale approximately 1:8,750,000 (E 70\u00b0--E 100\u00b0/N 35\u00b0--N 5\u00b0) Relief shown by hachures. In right upper margin: Report--Colonization and settlement (India). In right lower margin: Number 326. Ordered by the House of Commons to be printed 10. June 1858. On cover: Ordered by the House of Commons, to be printed, 6 May 1858. At head of cover title: Colonization, &c. (India). Errata included. 37 x 40 cm",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "Map showing the localities of the principal mineral and vegetable products of India and the course of the trunk railways"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Map showing the localities of the principal mineral and vegetable products of India and the course of the trunk railways",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/225732\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/122/manifest.json\"}",
+  "dct_isPartOf_sm": [
+    "05d-p16022coll246"
+  ],
+  "layer_id_s": "122",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image"
+  ],
+  "dc_publisher_sm": [
+    "Ordered by the House of Commons to be printed"
+  ],
+  "dct_spatial_sm": [
+    "India"
+  ],
+  "b1g_centroid_ss": "20.0,85.0",
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "b1g_code_s": "05d-01",
+  "dc_creator_sm": [
+    "Tremenheere, George Borlase, 1809-1896",
+    "J. & C. Walker (Firm)"
+  ]
+}

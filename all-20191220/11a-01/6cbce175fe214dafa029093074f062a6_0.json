@@ -1,0 +1,84 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "6cbce175fe214dafa029093074f062a6_0",
+  "dc_identifier_s": "6cbce175fe214dafa029093074f062a6_0",
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dc_subject_sm": [
+    "Location",
+    "Society"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2018",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-84.81943,-80.539305,41.944237,38.419491)",
+  "b1g_keyword_sm": [
+    "OEMA",
+    "ohio",
+    "OP3",
+    "stores",
+    "merchants",
+    "KROGER",
+    "ALDI",
+    "WALGREENS",
+    "WALMART",
+    "GIANT EAGLE",
+    "TARGET",
+    "BIG LOTS",
+    "COSTCO",
+    "CVS",
+    "MEIJER",
+    "HOME DEPOT",
+    "LOWES",
+    "MCDONALDS",
+    "WENDYS",
+    "WHITE CASTLE",
+    "UDF",
+    "UNITED DAIRY FARMERS"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Ohio State",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2018-07-06",
+  "suppressed_b": "",
+  "dc_description_s": "This is not an all-inclusive listing. The actual official listing is kept in the Ohio Public Private Partnership(OP3) section of Ohio Homeland Security, at the link below.The intended focus of this listing and application, is to show the businesses that are normally associated with the mass retail of water and food, as grocery, convenience, department(big-box) stores or fast-food chains, that are on the official OP3 list.This list and application are subject to update and modification, as membership changes and as businesses add delete or change locations.The locations and data associated with each location is from the Reference USA database, mined from the State of Ohio Library web-portal. Data contained for each of the listed businesses was mined from the site June 25 through June 28, 2018.Locations and attributes were gathered for the following Businesses, in no particular order:WALMARTKROGERALDIGIANT EAGLETARGETBIG LOTSCOSTCOCVS PHARMACIESMEIJERWALGREENSTHE HOME DEPOTLOWESUNITED DAIRY FARMERS(UDF)MCDONALDSWENDYSWHITE CASTLEShttps://homelandsecurity.ohio.gov/op3.stmVisionTo build a safer Ohio through an effective partnership committed to protecting, responding, and recovering from disasters, aiding businesses to continue to operate and assisting communities to recover following a disaster, ultimately reducing the impact on Ohio s citizens and saving lives.MissionIn an effort to serve Ohioans before ,during and after a disaster the Ohio Department of Public Safety created the Ohio Public Private Partnership (OP3) to provide the opportunity for state and local government agencies, businesses, associations, Ohio Colleges and Universities and non-profits to engage in crisis disaster protection, planning, response and recovery efforts which will promote business continuity, speed recovery, improve the quality of life and build a safer Ohio for all its citizens.Partner with OP3David R. Brown, Program Administrator614-466-0332",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Merchants, Ohio Public Private Partnership, Ohio Homeland Security: Ohio",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/6cbce175fe214dafa029093074f062a6_0\",\"http://schema.org/downloadUrl\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/6cbce175fe214dafa029093074f062a6_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services6.arcgis.com/zxOMWqh0yAD6mMsJ/arcgis/rest/services/OP3_MERCHANTS/FeatureServer/0\"}",
+  "dct_isPartOf_sm": [
+    "11a-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dct_spatial_sm": [
+    "Ohio"
+  ],
+  "b1g_centroid_ss": "40.181864000000004,-82.6793675",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "11a-01",
+  "dc_creator_sm": [
+    ""
+  ]
+}

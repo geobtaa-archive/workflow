@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "378d875a227e417cb84f6e3f7bccac01_0",
+  "dc_identifier_s": "378d875a227e417cb84f6e3f7bccac01_0",
+  "b1g_date_range_drsim": [
+    "[2017 TO 2017]"
+  ],
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2017",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-76.066421,-74.74823,40.608239,39.720322)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2019-03-07T20:56:43.000Z",
+  "suppressed_b": "TRUE",
+  "dc_description_s": "This linear feature class contains representations of existing sidewalks, and assumed and existing crosswalks for Bucks, Chester, Delaware, and Montgomery counties in Pennsylvania.Please note that this data was digitized using 2017 aerial photo interpretation. As of February 2019, data has not been field checked. This dataset can be used to determine the presence of sidewalks and marked crosswalks as of 2017. Sidewalks and crosswalks will need to be verified before using this dataset as an accurate inventory.This polyline feature class contains detailed digital representations of pedestrian network features found throughout the DVRPC region. The feature class leverages five (5) FGDB Subtypes. Sidewalk (1) - Paved pathway running primarily parallel to named roadway.Connector (2) - Non-discrete path connecting discrete pedestrian features (ramps, sidewalk, etc.)Crosswalk (3) - Discrete path connecting discrete pedestrian features across a named roadway (ramps, sidewalks, etc.)Trail (4) - Paved or unpaved pathway serving sporting or aesthetic purposes.Bike Lane (5) - Paved bike lanes.**UPDATE: Trails, bike lanes, and connectors have been removed due to change in methodology after data delivery.**Data will be updated periodically. To receive notifications when the data has been updated, please visit walk.dvrpc.org and add your contact information in the Stay in Touch section.See Pedestrian Data Development for the DVRPC Region Process Methodology, November 20, 2018 for more information.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "DVRPC Pedestrian Network: Delaware Valley",
+  "b1g_dateRetired_s": "2019-09-06",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/378d875a227e417cb84f6e3f7bccac01_0\",\"http://schema.org/downloadUrl\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/378d875a227e417cb84f6e3f7bccac01_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/LWtWv6q6BJyKidj8/arcgis/rest/services/DVRPC_Pedestrian_Network/FeatureServer/0\"}",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Retired",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Delaware Valley"
+  ],
+  "dct_spatial_sm": [
+    "Delaware Valley",
+    "Maryland"
+  ],
+  "b1g_centroid_ss": "40.164280500000004,-75.40732550000001",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "04f-01",
+  "dc_creator_sm": [
+    "DVRPC-GIS"
+  ]
+}

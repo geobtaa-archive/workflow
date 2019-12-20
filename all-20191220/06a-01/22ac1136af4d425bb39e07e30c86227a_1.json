@@ -1,0 +1,74 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "22ac1136af4d425bb39e07e30c86227a_1",
+  "dc_identifier_s": "22ac1136af4d425bb39e07e30c86227a_1",
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "dct_temporal_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2018",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-90.402227,-82.419332,47.47128,41.759164)",
+  "b1g_keyword_sm": [
+    "FO210",
+    "Michigan Department of Natural Resources",
+    "MDNR",
+    "Designated Trout Streams",
+    "inlandWaters",
+    "Trout and Salmon Inland Stream Regulations",
+    "boundaries",
+    "Regulations",
+    "Michigan",
+    "environment",
+    "Institute for Fisheries Research",
+    "IFR",
+    "FO200"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Michigan State",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2018-04-19",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "Features from the 1:24,000 scale National Hydrography Dataset (NHD) were used to depict inland stream trout and salmon type regulations for 2018-2019. NHD features were altered to fit the extent of the regulations described in FO 200 and FO 210. Except for streams in the Michigan-Wisconsin Boundary Waters, any other inland stream not classified by type (1-4; GR, RA, BTRA, 10BKT) are still subject to trout and salmon fishing regulations as described on page 40 of the Michigan Fishing Guide. Please see pp. 24-25 for Michigan-Wisconsin Boundary Waters regulations. Note that the 4 inland stream trout and salmon regulation type GIS layers only show the streams classified by type; these layers do not include any streams that are not classified by type. The regulation type associated with a stream feature is indicated in the Reg_Type field and the designation status is indicated in the Designated field (with 0 as non-designated and 1 as designated). Each regulation type is associated with specific rules for the length of the fishing and possession seasons, minimum size limits, and daily possession limits. See FO 200 and the Michigan Fishing Guide for more details about the individual regulation types. Regulation types are as follows:1 - Type 1 Trout Stream; 2 - Type 2 Trout Stream; 3 - Type 3 Trout Stream; 4 - Type 4 Trout Stream; 10BKT - 10 Brook Trout Stream; BTRA Brook Trout Restoration Area; RA - Research Area Trout Stream; GR - Gear Restricted Stream. Designation status is either designated or non-designated. Designated trout streams are inland streams containing a significant population of trout or salmon, as identified by the State of Michigan. Designated trout streams are protected from certain activities, see the Michigan Fishing Guide or FO 210 for more details. All Type 1, Type 2, GR, 10BKT, and BTRA are designated trout streams. Most Type 3 and Type 4 streams are designated trout streams. The main layer shows the majority of inland streams that are classified by type for trout and salmon regulations. However, streams with multiple types will have additional features in the BTRA lines, BTRA polygon or the dual regulation layers. To show all inland streams that are classified by type for trout and salmon regulations, all four layers must be displayed in the proper order using established symbology. The BTRA polygon layer should be displayed on the top of the other layers, with the dual regulations underneath the BTRA polygon, the main file underneath the dual regulations, and finally the BTRA lines on the bottom. When displaying with inland trout and salmon lakes Types A-F, all four of the stream layers should be displayed underneath the Types A-F layer. For the main regulation type layer, set the drawing order so that specific regulations type display on top of others. Do this by going to Properties Symbology Advanced Symbol levels and using the following order, from top to bottom: GR, RA, 4_0, 4_1, 3_0, 3_1, 2_1, 10BKT, 1_1. GIS layer was last updated 03/28/2018.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Trout and Salmon Inland Stream Regulation Types (Layer 3 Of 4) - Main: Michigan",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://gis-michigan.opendata.arcgis.com/datasets/22ac1136af4d425bb39e07e30c86227a_1\",\"http://schema.org/downloadUrl\":\"http://gis-michigan.opendata.arcgis.com/datasets/22ac1136af4d425bb39e07e30c86227a_1.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services3.arcgis.com/Jdnp1TjADvSDxMAX/arcgis/rest/services/dnrFisheriesTroutRegs/FeatureServer/1\"}",
+  "dct_isPartOf_sm": [
+    "06a-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Michigan"
+  ],
+  "dct_spatial_sm": [
+    "Michigan"
+  ],
+  "b1g_centroid_ss": "44.615222,-86.41077949999999",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "06a-01",
+  "dc_creator_sm": [
+    "State of Michigan"
+  ]
+}

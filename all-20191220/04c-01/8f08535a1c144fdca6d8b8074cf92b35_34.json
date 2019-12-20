@@ -1,0 +1,74 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "8f08535a1c144fdca6d8b8074cf92b35_34",
+  "dc_identifier_s": "8f08535a1c144fdca6d8b8074cf92b35_34",
+  "b1g_date_range_drsim": [
+    "[2017 TO 2017]"
+  ],
+  "dct_temporal_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_dateAccessioned_s": "2019-02-22",
+  "solr_year_i": "2017",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-60.59011762,179.9999885,90,-69.99444444)",
+  "b1g_keyword_sm": [
+    "Business",
+    "DC",
+    "DC",
+    "DC GIS",
+    "DCGIS",
+    "District of Columbia",
+    "Economic",
+    "economic development",
+    "great streets",
+    "incentive",
+    "may2017",
+    "Washington",
+    "Washington DC"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2017-05-10",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "Grant and grantee information at https://greatstreets.dc.gov/ and https://greatstreets.dc.gov/service/grantees-corner. In 2006, Great Streets began as a three-prong, commercial revitalization initiative to transform emerging corridors throughout the District of Columbia into thriving and inviting neighborhood centers. Led by the Office of the Deputy Mayor for Planning and Economic Development (DMPED) in conjunction with the Office of Planning (OP) and the District Department of Transportation (DDOT), Great Streets has grown into a multi-year, multi-agency program that utilizes public actions and resources to leverage private investment in retail, office space, housing, and cultural facilities across the District. The Government of the District of Columbia through the Office of the Deputy Mayor for Planning and Economic Development (DMPED) administers the Great Streets Retail Small Business Reimbursement Grants, which are competitive grants of up to $50,000 for qualified small business owners who wish to improve their place of business. The purpose of the grant program is to support existing small businesses, attract new businesses, increase the District's tax base, create new job opportunities for District residents, and transform emerging commercial corridors into thriving and inviting neighborhood centers. If you would like to be added to the Great Streets email list to receive updates about small business opportunities in the District of Columbia, please email us at greatstreets@dc.gov. Visit http://greatstreets.dc.gov/ for more information. METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Great Streets Grantees: Washington, D.C.",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/8f08535a1c144fdca6d8b8074cf92b35_34\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/8f08535a1c144fdca6d8b8074cf92b35_34.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Business_and_Economic_Development_WebMercator/MapServer/34\"}",
+  "dct_isPartOf_sm": [
+    "04c-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "District of Columbia"
+  ],
+  "dct_spatial_sm": [
+    "Washington D.C"
+  ],
+  "b1g_centroid_ss": "10.002777780000002,59.70493544",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "04c-01",
+  "dc_creator_sm": [
+    "City of Washington, DC"
+  ]
+}

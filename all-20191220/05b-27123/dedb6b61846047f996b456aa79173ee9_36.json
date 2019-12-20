@@ -1,0 +1,73 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "dedb6b61846047f996b456aa79173ee9_36",
+  "dc_identifier_s": "dedb6b61846047f996b456aa79173ee9_36",
+  "b1g_date_range_drsim": [
+    "[2017 TO 2017]"
+  ],
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dc_subject_sm": [
+    "Structure"
+  ],
+  "b1g_dateAccessioned_s": "2019-07-23",
+  "solr_year_i": "2017",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-93.235,-92.9752,45.1292,44.8828)",
+  "b1g_keyword_sm": [
+    "location",
+    "structure",
+    "catch basin",
+    "dam",
+    "platform",
+    "silo",
+    "smokestack",
+    "solar panel",
+    "tank",
+    "water tower",
+    "Infrastructure"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Minnesota",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2017-04-26",
+  "suppressed_b": "TRUE",
+  "dc_description_s": "Miscellaneous structures contain polygons features including catch basins, dams, loading docks, smokestacks, tanks, water towers and other impervious structures. These features were created from 2015 aerial photography observation and interpretation",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Miscellaneous Structures: Ramsey County, Minnesota",
+  "b1g_dateRetired_s": "2019-09-06",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://openramsey-ramseygis.opendata.arcgis.com/datasets/dedb6b61846047f996b456aa79173ee9_36\",\"http://schema.org/downloadUrl\":\"http://openramsey-ramseygis.opendata.arcgis.com/datasets/dedb6b61846047f996b456aa79173ee9_36.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://maps.co.ramsey.mn.us/arcgis/rest/services/OpenData/OpenData/FeatureServer/36\"}",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Retired",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Ramsey County, Minnesota"
+  ],
+  "dct_spatial_sm": [
+    "Ramsey County, Minnesota",
+    "Minnesota"
+  ],
+  "b1g_centroid_ss": "45.006,-93.1051",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "05b-27123",
+  "dc_creator_sm": [
+    "Map Portal"
+  ]
+}

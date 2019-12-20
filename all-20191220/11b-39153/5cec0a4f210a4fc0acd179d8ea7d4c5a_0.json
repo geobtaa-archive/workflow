@@ -1,0 +1,66 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "5cec0a4f210a4fc0acd179d8ea7d4c5a_0",
+  "dc_identifier_s": "5cec0a4f210a4fc0acd179d8ea7d4c5a_0",
+  "b1g_date_range_drsim": [
+    "[2015 TO 2015]"
+  ],
+  "dct_temporal_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Elevation"
+  ],
+  "b1g_dateAccessioned_s": "2019-04-14",
+  "solr_year_i": "2015",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-81.6905,-81.3872,41.352,40.9061)",
+  "b1g_keyword_sm": [
+    "Environmental",
+    "Elevations",
+    "Spot Elevations",
+    "Topography"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Ohio State",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2015-01-08T15:33:34.000Z",
+  "suppressed_b": "TRUE",
+  "dc_description_s": "ONE OR MORE OF THE ACCESS LINKS FOR THIS RECORD WERE REPORTED AS BROKEN. THE RECORD MAY HAVE BEEN RETIRED BY THE HOST. The data used in this layer were created in 2000 as an update of the 1994 contours layer. It contains spot elevation points depicting ground elevations at a specific points within the County.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "Spot Elevations"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Spot Elevations: Summit County, Ohio",
+  "b1g_dateRetired_s": "2019-04",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data-summitgis.opendata.arcgis.com/datasets/5cec0a4f210a4fc0acd179d8ea7d4c5a_0\",\"http://schema.org/downloadUrl\":\"http://data-summitgis.opendata.arcgis.com/datasets/5cec0a4f210a4fc0acd179d8ea7d4c5a_0.zip\"}",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Retired",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Summit County, Ohio"
+  ],
+  "dct_spatial_sm": [
+    "Summit County, Ohio",
+    "Ohio"
+  ],
+  "b1g_centroid_ss": "41.12905,-81.53885",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "11b-39153",
+  "dc_creator_sm": [
+    "County of Summit GIS"
+  ]
+}

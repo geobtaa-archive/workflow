@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "f80a585e-db53-4885-99af-5a42bd5646d0",
+  "dc_identifier_s": "f80a585e-db53-4885-99af-5a42bd5646d0",
+  "b1g_date_range_drsim": [
+    "[2002 TO 2002]"
+  ],
+  "dct_temporal_sm": [
+    "2002"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "b1g_dateAccessioned_s": "2019-04-05",
+  "solr_year_i": "2002",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-76.912224,-76.869799,38.892962,38.698773)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "",
+  "b1g_image_ss": "",
+  "dct_issued_s": "",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "This layer shows the archived five corridor intersections along Branch Avenue and five along Indian Head Highway established through approval of the 2002 Prince George's County General Plan. The intersections are points. Intersections may be changed through a General Plan amendment (such as through the approval of a new master or sector plan). ThePlan Prince George\u2019s 2035 Approved General Plan (Plan 2035)replaces the 2002 Prince George\u2019s County Approved General Plan, per CR-26-2014and introduces new terminology for county geographies. Plan 2035 does not change existing laws, fees, ordinances, or guidelines associated with the 2002 General Plan Interchanges. 2002 Interchanges are archived for the sole purpose of facilitating continued implementation of certain county guidelines and ordinances that refer to 2002 General Plan interchanges.\u200bTransition maps have been developed to facilitate the implementation of the Landscape Manual, Regulated Environmental Protection Areas, and Adequate Public Pedestrian and Bikeway Facility Areas which should be consulted for geographies related to relevant ordinances and guidelines.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "General Development Plan, Selected Development Corridor Transit Nodes: Prince George's County, Maryland, 2002",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://gisdata.pgplanning.org/opendata/\",\"http://schema.org/downloadUrl\":\"http://gisdata.pgplanning.org/opendata/downloadzip.asp?FileName=/data/ShapeFile/GenPln_2002_Interchange_Py.zip\"}",
+  "dct_isPartOf_sm": [
+    "04f-03"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "dc_publisher_sm": [
+    "Prince George's County, Maryland"
+  ],
+  "dct_spatial_sm": [
+    "Prince George's County, Maryland",
+    "Maryland"
+  ],
+  "b1g_centroid_ss": "38.7958675,-76.89101149999999",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "04f-03",
+  "dc_creator_sm": [
+    "The Maryland-National Capital Park & Planning Commission - Prince George's County"
+  ]
+}

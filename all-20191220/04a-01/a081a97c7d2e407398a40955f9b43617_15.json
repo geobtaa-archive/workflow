@@ -1,0 +1,77 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "a081a97c7d2e407398a40955f9b43617_15",
+  "dc_identifier_s": "a081a97c7d2e407398a40955f9b43617_15",
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "dct_temporal_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Economy"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2018",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-79.4877,-75.0709,39.7227,37.9117)",
+  "b1g_keyword_sm": [
+    "MD",
+    "MD iMAP",
+    "Maryland",
+    "DHCD",
+    "Opportunity Zones",
+    "Commerce",
+    "Dynamic",
+    "Vector",
+    "WMS",
+    "WFS",
+    "KML",
+    "BusinessEconomy",
+    "Business",
+    "Economy",
+    "BSEC",
+    "Maryland Department of Housing and Community Development"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2018-08-29",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "This is a MD iMAP hosted service. Find more information at http://imap.maryland.gov.The Opportunity Zone program is a nationwide initiative administered by the U.S. Treasury created under the 2017 Tax Cuts and Jobs Act. The program provides federal tax incentives for investment in distressed communities over the next 10 years. Areas designated as Opportunity Zones will be able to reap the benefits of capital gains to help redevelop undeserved communities. The state was entitled to nominate 149 low-income census tracts to be Opportunity Zones. Once the U.S. Treasury has approved the state s Opportunity Zone nominations, the designation will be effective for 10 years. The Maryland Department of Housing and Community Development will administer the program with support from the Maryland Department of Commerce.Feature Service Link:https://geodata.md.gov/imap/rest/services/BusinessEconomy/MD_IncentiveZones/FeatureServer/15",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Incentive Zones - Opportunity Zones: Maryland",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/a081a97c7d2e407398a40955f9b43617_15\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/a081a97c7d2e407398a40955f9b43617_15.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://geodata.md.gov/imap/rest/services/BusinessEconomy/MD_IncentiveZones/FeatureServer/15\"}",
+  "dct_isPartOf_sm": [
+    "04a-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dct_spatial_sm": [
+    "Maryland"
+  ],
+  "b1g_centroid_ss": "38.8172,-77.2793",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "04a-01",
+  "dc_creator_sm": [
+    "ArcGIS Online for Maryland"
+  ]
+}

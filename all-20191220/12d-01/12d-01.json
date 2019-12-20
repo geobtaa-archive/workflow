@@ -1,0 +1,47 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:10:08Z",
+  "layer_slug_s": "12d-01",
+  "dc_identifier_s": "12d-01",
+  "b1g_date_range_drsim": [
+    "[1873 TO 1873]"
+  ],
+  "dct_temporal_sm": [
+    "1873-1956"
+  ],
+  "dc_subject_sm": [
+    "Academic institutions maps"
+  ],
+  "b1g_dateAccessioned_s": "",
+  "solr_geom": "ENVELOPE(-87.940101,-87.523984,42.023022,41.643919)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Table",
+  "dct_provenance_s": "Chicago",
+  "dct_accrualMethod_s": "",
+  "b1g_image_ss": "",
+  "dct_issued_s": "",
+  "dc_description_s": "All of these maps (even those that say \"Dept. of Sociology\") were produced under the aegis of the Social Science Research Committee or its immediate predecessor, the Local Community Research Committee. Funded by the Laura Spelman Rockefeller Memorial, this entity particularly focused on supporting Chicago research. It is not clear who actually made the maps, although Ernest W. Burgess was definitely among those who administered the analysis of the data that underlay them. The maps were republished by the University of Chicago Press in Census Data of the City of Chicago, 1920 (1931), Census Data of the City of Chicago, 1930 (1933), and Census Data for the City of Chicago, 1934 (1934), although the versions used in the construction of this Web site are earlier editions published as separate pieces and held at the University of Chicago Map Collection. All of these maps (even those that say \"Dept. of Sociology\") were produced under the aegis of the Social Science Research Committee or its immediate predecessor, the Local Community Research Committee. Funded by the Laura Spelman Rockefeller Memorial, this entity particularly focused on supporting Chicago research. It is not clear who actually made the maps, although Ernest W. Burgess was definitely among those who administered the analysis of the data that underlay them. The maps were republished by the University of Chicago Press in Census Data of the City of Chicago, 1920 (1931), Census Data of the City of Chicago, 1930 (1933), and Census Data for the City of Chicago, 1934 (1934), although the versions found here are earlier editions published as separate pieces and held at the University of Chicago Map Collection. The maps were scanned at 360 dpi using NextImage software and were saved as tiff files",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Social Scientists Map Chicago Collection",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.lib.uchicago.edu/e/collections/maps/\"}",
+  "dc_type_sm": [
+    "Collection"
+  ],
+  "dc_publisher_sm": [
+    "University of Chicago"
+  ],
+  "dct_spatial_sm": [
+    "Chicago, Illinois",
+    "Illinois"
+  ],
+  "b1g_centroid_ss": "41.8334705,-87.7320425",
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "b1g_code_s": "12d-01",
+  "dc_creator_sm": [
+    ""
+  ]
+}

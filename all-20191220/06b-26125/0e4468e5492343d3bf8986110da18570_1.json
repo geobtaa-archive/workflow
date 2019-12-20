@@ -1,0 +1,74 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "0e4468e5492343d3bf8986110da18570_1",
+  "dc_identifier_s": "0e4468e5492343d3bf8986110da18570_1",
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dc_subject_sm": [
+    "Elevation"
+  ],
+  "b1g_dateAccessioned_s": "2019-11-10",
+  "solr_year_i": "2016",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-83.6422,-83.0834,42.856,42.4335)",
+  "b1g_keyword_sm": [
+    "floodplains",
+    "dfirm",
+    "firm",
+    "flood hazard area",
+    "flooding",
+    "flood",
+    "environment",
+    "hydrology",
+    "hydrography",
+    "base flood elevation",
+    "flood elevation",
+    "fema"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Michigan State",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2016-10-16T17:35:21.000Z",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "BY USING THIS WEBSITE OR THE CONTENT THEREIN, YOU AGREE TO THE TERMS OF USE. This line feature class represents the base flood elevations present in the Digital Flood Insurance Rate Map (DFIRM) database. The maps are effective as of September 29, 2006 . The scale of the data collection is 1:12,000.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "OC DFIRM Base Flood Elevation"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "DFIRM Base Flood Elevation: Oakland County, Michigan",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://accessoakland.oakgov.com/datasets/0e4468e5492343d3bf8986110da18570_1\",\"http://schema.org/downloadUrl\":\"http://accessoakland.oakgov.com/datasets/0e4468e5492343d3bf8986110da18570_1.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gisservices.oakgov.com/arcgis/rest/services/Enterprise/EnterpriseFloodHazardDataMapService/MapServer/1\"}",
+  "dct_isPartOf_sm": [
+    "06b-26125"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Oakland County, Michigan"
+  ],
+  "dct_spatial_sm": [
+    "Oakland County, Michigan",
+    "Michigan"
+  ],
+  "b1g_centroid_ss": "42.64475,-83.3628",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "06b-26125",
+  "dc_creator_sm": [
+    "Oakland County, Michigan"
+  ]
+}

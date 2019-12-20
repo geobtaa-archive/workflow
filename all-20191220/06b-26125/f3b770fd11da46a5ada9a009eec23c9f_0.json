@@ -1,0 +1,70 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "f3b770fd11da46a5ada9a009eec23c9f_0",
+  "dc_identifier_s": "f3b770fd11da46a5ada9a009eec23c9f_0",
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps",
+    "Planning and Cadastral"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2016",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-83.694337,-83.074282,42.893598,42.426087)",
+  "b1g_keyword_sm": [
+    "land use",
+    "planning",
+    "historic",
+    "urban planning",
+    "residential",
+    "commercial",
+    "open space"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Michigan State",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2016-10-16",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "BY USING THIS WEBSITE OR THE CONTENT THEREIN, YOU AGREE TO THE TERMS OF USE. The primary purpose of this data is to be used by Oakland County Planning and Economic Development Services, other County departments, and and local communities for planning purposes. The two major uses are cartographic output and creating summaries at various spatial extents. The intent of this feature class was to provide a very general representation of a hard copy 1966 land use map. The spatial accuracy and number of vertices used to represent each feature was limited by the intended purpose of the data. The land use features were heads-up digitized from a 1966 land use map that was scanned and georefereneced using each section corner as a control point. The features were digitized at a scale not greater than 1:15,000, one square-mile section at a time. After the entire county was completely digitized, the features were dissolved based on the Landuse. Right-of-Way was burned in to the final feature class using the following process. First, the current RoadCenterline feature class was modifed to reflect roads in 1966 using the scanned 1966 land use map and 1963 orthophotography as a reference. Next, the road lines were buffered at specified distanced based on the RoadCode attribute from RoadCenterline to create polygons. Major Roads were split into two types (Perscriptive Easement and Dedicated) based on if the adjacent property was platted prior to 1966. According to the Oakland County Register of Deeds, in 1966 Oakland County was recording documents in liber 120. For the purpose of this feature class it was assumed that simultaneous conveyances recorded in liber 120 or earlier existed in 1966. Major roads that intersected or were adjacent with these simultaneous conveyances were classified as Dedicated and the remainder of Major Roads were classified as a Perscriptive Easement. The buffer distances, representing half the total Right-of-Way width, used for each road code are listed below: Minor Road - 30 feet Major Road (Perscriptive Easement) - 33 feet Major Road (Dedicated) - 46.5 feet State Highway - 46.5 feet U.S. Highway - 46.5 feet Interstate - 60 feet feet These Right-of-Way widths generally approximate those that actually existed in 1966 and are not intended to indicate the exact width of a specific Right-of-Way. All areas completely surrounded by Right-of-Way such as between directions of travel of a boulevard or interstate or the area inside of a freeway interchange were manually attributed as Right-of-Way. Water features were burned in the final feature class using a modified version the of the Oakland County Waterbody feature class. This data was modified to reflect waterbodies in 1966 using the 1966 land use map and 1963 orthophotography as a reference. Lastly, the features that intersected community boudaries were split using the Identity tool to increase cartographic and analytic performance.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Oc Land Use 1966: Oakland County, Michigan",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://accessoakland.oakgov.com/datasets/f3b770fd11da46a5ada9a009eec23c9f_0\",\"http://schema.org/downloadUrl\":\"http://accessoakland.oakgov.com/datasets/f3b770fd11da46a5ada9a009eec23c9f_0.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gisservices.oakgov.com/arcgis/rest/services/Enterprise/EnterpriseLandUseMapService/MapServer/0\"}",
+  "dct_isPartOf_sm": [
+    "06b-26125"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Oakland County, Michigan"
+  ],
+  "dct_spatial_sm": [
+    "Oakland County, Michigan",
+    "Michigan"
+  ],
+  "b1g_centroid_ss": "42.659842499999996,-83.3843095",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "06b-26125",
+  "dc_creator_sm": [
+    "Oakland County, Michigan"
+  ]
+}

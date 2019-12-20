@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "ce4a8d53bc084a82adb3ed7972b479b6_6",
+  "dc_identifier_s": "ce4a8d53bc084a82adb3ed7972b479b6_6",
+  "b1g_date_range_drsim": [
+    "[2008 TO 2008]"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "dc_subject_sm": [
+    "Structure"
+  ],
+  "b1g_dateAccessioned_s": "2019-05-29",
+  "solr_year_i": "2015",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-81.6419,-81.0912,40.975,40.6488)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Ohio State",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2015-01-12",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "This layer includes venues used for public gatherings or events within Stark County, Ohio. Venues include, but are not limited to stadiums, libraries, concert halls, and open spaces. It is part of the Stark County Community Features umbrella of layers, which includes?CommunityFeatures,?LiveWorkLocate, and?EmergencyResponseFacilities. These layers depict places of interest throughout the county, including?Airfields and Helipads,?Colleges and Universities,?Corporate Headquarters,?EMS Facilities, Event Venues,?Fire Stations,?Golf Courses,?Hospitals and Health Clinics,?Museums and Historic Landmarks,?Parks and Recreation Areas,?Places of Worship,?Police Stations,?Post Offices,?Public Libraries,?Retail Centers,?Schools and Daycares, and?Senior Citizen Centers. These community features were first inventoried and digitized by the Stark County Regional Planning Commission (RPC) in 2008. The initial inventory was a collaborative effort between RPC and each community within the county, who provided lists of their respective features. Since then, each layer is periodically updated by RPC and Stark County GIS.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Event Venues: Stark County, Ohio",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.starkcountyohio.gov/datasets/ce4a8d53bc084a82adb3ed7972b479b6_6\",\"http://schema.org/downloadUrl\":\"http://opendata.starkcountyohio.gov/datasets/ce4a8d53bc084a82adb3ed7972b479b6_6.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://scgisa.starkcountyohio.gov/arcgis/rest/services/RegionalPlanningCommission/CommunityFeatures/MapServer/6\"}",
+  "dct_isPartOf_sm": [
+    "11b-39151"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Stark County, Ohio"
+  ],
+  "dct_spatial_sm": [
+    "Stark County, Ohio",
+    "Ohio"
+  ],
+  "b1g_centroid_ss": "40.8119,-81.36655",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "11b-39151",
+  "dc_creator_sm": [
+    "Stark County Ohio"
+  ]
+}

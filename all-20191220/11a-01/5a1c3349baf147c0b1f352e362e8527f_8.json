@@ -1,0 +1,67 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "5a1c3349baf147c0b1f352e362e8527f_8",
+  "dc_identifier_s": "5a1c3349baf147c0b1f352e362e8527f_8",
+  "b1g_date_range_drsim": [
+    "[2017 TO 2017]"
+  ],
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2017",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-83.2111,-82.7706,40.158,39.8078)",
+  "b1g_keyword_sm": [
+    "Ohio",
+    "City",
+    "Columbus",
+    "Boundaries",
+    "Public Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Ohio State",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2017-08-08",
+  "suppressed_b": "",
+  "dc_description_s": "This feature layer is a general representation of annexations to the City of Columbus. It is not a legal record. This feature layer is updated throughout the annexations and detachment submission and approval process. Annexations and detachments to the City of Columbus are adopted by legislation approved by City Council and take effect upon recording within the appropriate County Recorder s Office. This feature layer is a digitized representation of the process for annexation and detachment and is mapped based upon underlying parcel geography from the three County Auditor s (Franklin, Fairfield, and Delaware) GIS parcel feature layers in which the City of Columbus currently resides.The City of Columbus makes no guarantee as to the accuracy of this mapping. It is provided as a general reference tool. User s are advised to consult legal annexation records available within the various County Recorder s Offices when attempting to determine the precise boundaries for the City of Columbus. Users are advised not to use this feature layer if they are unwilling to accept the conditions stated herein.Questions regarding this feature layer should be directed to the City of Columbus, Department of Public Service, Division of Infrastructure Management s Map Room at OneStopPlans@columbus.gov.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Corporate Boundary Annexations: Columbus, Ohio",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/5a1c3349baf147c0b1f352e362e8527f_8\",\"http://schema.org/downloadUrl\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/5a1c3349baf147c0b1f352e362e8527f_8.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.columbus.gov/arcgis/rest/services/Schemas/PublicService/MapServer/8\"}",
+  "dct_isPartOf_sm": [
+    "11a-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dct_spatial_sm": [
+    "Columbus, Ohio",
+    "Ohio"
+  ],
+  "b1g_centroid_ss": "39.9829,-82.99085",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "11a-01",
+  "dc_creator_sm": [
+    "City of Columbus Maps & Apps"
+  ]
+}

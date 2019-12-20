@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "36b2c994-6aa6-49e8-a54f-017f70614fd9",
+  "dc_identifier_s": "36b2c994-6aa6-49e8-a54f-017f70614fd9",
+  "b1g_date_range_drsim": [
+    "[1905 TO 1905]"
+  ],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "dc_subject_sm": [
+    "Thematic maps"
+  ],
+  "b1g_dateAccessioned_s": "2019-01-16",
+  "solr_year_i": "1905",
+  "dc_format_s": "JPEG",
+  "solr_geom": "ENVELOPE(-88.08,-84.78,41.75,37.76)",
+  "b1g_keyword_sm": [
+    "Railroads",
+    "Indiana Historic Maps"
+  ],
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Indiana",
+  "dct_accrualMethod_s": "",
+  "b1g_image_ss": "http://fedora.dlib.indiana.edu:8080/fedora/get/iudl:1074233/THUMBNAIL",
+  "dct_issued_s": "",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "Perspective map.; Author and publication information from LC copyright record.; Indiana Union Traction Co., General Offices, Anderson, Ind. Not drawn to scale.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "The I.U.T. System and connecting lines",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00143\",\"http://schema.org/downloadUrl\":\"http://fedora.dlib.indiana.edu:8080/fedora/get/iudl:1074233/LARGE\"}",
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image"
+  ],
+  "dc_publisher_sm": [
+    "Wm. L. Bloomer?"
+  ],
+  "dct_spatial_sm": [
+    "Indiana",
+    "State of Ohio, Ohio"
+  ],
+  "b1g_centroid_ss": "39.754999999999995,-86.43",
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "b1g_code_s": "01d-01",
+  "dc_creator_sm": [
+    "Bloomer,  William L.(William Lowe), cartographer."
+  ]
+}

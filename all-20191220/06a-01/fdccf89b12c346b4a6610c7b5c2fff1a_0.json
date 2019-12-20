@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "fdccf89b12c346b4a6610c7b5c2fff1a_0",
+  "dc_identifier_s": "fdccf89b12c346b4a6610c7b5c2fff1a_0",
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_dateAccessioned_s": "2019-05-29",
+  "solr_year_i": "2019",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-90.1906,-82.441,47.2848,41.7028)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Michigan State",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2019-05-14",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "This dataset contains the locations of culverts collected as part of the Michigan Department of Transportation (MDOT) Transportation Asset Management System (TAMS). This inventory establishes a monitoring protocol for smaller culverts between 1 foot and 10 feet (larger culverts are inventoried in the Michigan Structure Inventory as part of the National Bridge Inspection Standards).***DISCLAIMERThis statewide trunkline culvert data is part of an ongoing data collection effort.? Please be advised that this data is undergoing data review and field verification and does not yet represent a complete statewide dataset.******Collection Date:?Data from the 2016-2018 collectionUpdate Cycle: Annual Data Quality:?Mapping grade (refer to Spatial Quality Index field for culvert-specific data quality rating)Coverage: StatewideSymbology: PolylineContact:?Erik Carlson,?CarlsonE2@michigan.gov?Field Map:Route: Indicates route (I, M, and US routes) where the culvert is locatedBeneath:?The type of structure beneath which the culvert is locatedCulvert Material:?The material of which the culvert is constructedCulvert Shape:?Shape of the culvertCulvert Height:?Height of the culvert, in inchesCulvert Width:?Width of the culvert, in inchesDepth of Cover: Amount of fill above the top of the culvert barrel (Yes = 5?, No = 5?)Liner: Indicates whether the culvert contains a linerLiner Material:?The type of liner in the culvertSpatial Quality Index:?Location accuracy of the culvert data (A = Survey Grade (3D), B = Survey Grade (2D), C = Mapping Grade, D = Informational, E = Unknown)",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Culverts: Michigan",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://gis-michigan.opendata.arcgis.com/datasets/fdccf89b12c346b4a6610c7b5c2fff1a_0\",\"http://schema.org/downloadUrl\":\"http://gis-michigan.opendata.arcgis.com/datasets/fdccf89b12c346b4a6610c7b5c2fff1a_0.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://utility.arcgis.com/usrsvcs/servers/fdccf89b12c346b4a6610c7b5c2fff1a/rest/services/MDOT/MdotTamsCulvertOpenDataProd/MapServer/0\"}",
+  "dct_isPartOf_sm": [
+    "06a-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Michigan"
+  ],
+  "dct_spatial_sm": [
+    "Michigan"
+  ],
+  "b1g_centroid_ss": "44.4938,-86.3158",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "06a-01",
+  "dc_creator_sm": [
+    "State of Michigan"
+  ]
+}

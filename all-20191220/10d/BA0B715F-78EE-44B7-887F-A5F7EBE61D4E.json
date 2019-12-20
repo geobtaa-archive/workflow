@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "BA0B715F-78EE-44B7-887F-A5F7EBE61D4E",
+  "dc_identifier_s": "BA0B715F-78EE-44B7-887F-A5F7EBE61D4E",
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "b1g_dateAccessioned_s": "2019-09-04",
+  "solr_year_i": "2019",
+  "dc_format_s": "Geodatabase",
+  "solr_geom": "ENVELOPE(-91.55581,-90.770291,46.959189,46.15449)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Polygon",
+  "dct_provenance_s": "Wisconsin",
+  "dct_accrualMethod_s": "GeoBlacklight",
+  "b1g_image_ss": "",
+  "dct_issued_s": "",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "This data represents zoning for Bayfield County in 2019, includes the layers BAYFIELD_AIRPORT_2019, BAYFIELD_GENERAL_2019 and BAYFIELD_SHORELAND_2019.[This layer contains public land data based on 2019 assessment codes in Bayfield County.Link to metadata information: https://www.bayfieldcounty.org/437/GIS-Metadata]",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "Zoning Bayfield County\\, WI 2019"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Zoning: Bayfield County, Wisconsin, 2019",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Bayfield_Zoning_2019.zip\",\"http://schema.org/url\":\"https://www.bayfieldcounty.org/892/GIS-Data-Download\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Bayfield_Zoning_2019.xml\"}",
+  "dct_isPartOf_sm": [
+    "Coastal"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dct_spatial_sm": [
+    "Bayfield County, Wisconsin",
+    "Wisconsin"
+  ],
+  "b1g_centroid_ss": "46.5568395,-91.1630505",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "10d",
+  "dc_creator_sm": [
+    "Bayfield County, Wisconsin"
+  ]
+}

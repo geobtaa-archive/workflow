@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "017ebd2b92774fbc9da81e9a1ce9d3f0",
+  "dc_identifier_s": "017ebd2b92774fbc9da81e9a1ce9d3f0",
+  "b1g_date_range_drsim": [
+    "[1990 TO 1990]"
+  ],
+  "dct_temporal_sm": [
+    "1990"
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "b1g_dateAccessioned_s": "2019-05-29",
+  "solr_year_i": "2019",
+  "dc_format_s": "Imagery",
+  "solr_geom": "ENVELOPE(-91.8799,-91.3261,42.3175,41.8216)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Iowa",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2019-04-23",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "State of Iowa imagery collected circa 1990. Imagery has been clipped to Linn County, Iowa.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "1990 Imagery"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "1990 Imagery: Linn County, Iowa",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata-linncounty-gis.opendata.arcgis.com/datasets/017ebd2b92774fbc9da81e9a1ce9d3f0\",\"http://schema.org/downloadUrl\":\"http://opendata-linncounty-gis.opendata.arcgis.com/datasets/017ebd2b92774fbc9da81e9a1ce9d3f0\",\"urn:x-esri:serviceType:ArcGIS#ImageMapLayer\":\"https://lcgis.linncounty.org/ags/rest/services/PublicImagery/img1990/ImageServer\"}",
+  "dct_isPartOf_sm": [
+    "03b-19113"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Linn County, Iowa"
+  ],
+  "dct_spatial_sm": [
+    "Linn County, Iowa",
+    "Iowa"
+  ],
+  "b1g_centroid_ss": "42.06955,-91.60300000000001",
+  "b1g_genre_sm": [
+    "Aerial imagery"
+  ],
+  "b1g_code_s": "03b-19113",
+  "dc_creator_sm": [
+    "Linn County Iowa GIS"
+  ]
+}

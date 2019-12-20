@@ -1,0 +1,54 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:10:08Z",
+  "layer_slug_s": "11b-39085",
+  "dc_identifier_s": "11b-39085",
+  "b1g_date_range_drsim": [
+    "[2000 TO 2000]"
+  ],
+  "dct_temporal_sm": [
+    "2000-present"
+  ],
+  "dc_subject_sm": [
+    "Counties geospatial data"
+  ],
+  "b1g_dateAccessioned_s": "",
+  "solr_geom": "ENVELOPE(-81.48893,-81.00226,41.84882,41.56967)",
+  "b1g_keyword_sm": [
+    "Boundaries",
+    "Economy",
+    "Elevation",
+    "Inland Waters",
+    "Location",
+    "Planning and Cadastral",
+    "Society",
+    "Transportation"
+  ],
+  "layer_geom_type_s": "Table",
+  "dct_provenance_s": "Ohio State",
+  "dct_accrualMethod_s": "",
+  "b1g_image_ss": "",
+  "dct_issued_s": "",
+  "dc_description_s": "Website containing downloadable shapefiles for parcels, boundaries, addresses, hydrology, transportation, and more.  Also contains elevation contours from 2000 & 2016.",
+  "dc_rights_s": "Public",
+  "dc_title_s": "GIS Data Download for Lake County, Ohio",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.lakegis.org/GIS-Home/GIS-Data-Download\"}",
+  "dc_type_sm": [
+    "Collection"
+  ],
+  "dc_publisher_sm": [
+    "Lake County, Ohio"
+  ],
+  "dct_spatial_sm": [
+    "Lake County, Ohio",
+    "Ohio"
+  ],
+  "b1g_centroid_ss": "41.709245,-81.24559500000001",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "11b-39085",
+  "dc_creator_sm": [
+    "Lake County GIS Department"
+  ]
+}

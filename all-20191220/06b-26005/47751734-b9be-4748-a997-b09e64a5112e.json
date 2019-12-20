@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "47751734-b9be-4748-a997-b09e64a5112e",
+  "dc_identifier_s": "47751734-b9be-4748-a997-b09e64a5112e",
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "b1g_dateAccessioned_s": "2019-09-12",
+  "solr_year_i": "2019",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-86.274407,-85.54305,42.768925,42.418935)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Michigan",
+  "dct_accrualMethod_s": "Manual",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2019-01-01",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "Generalized zoning of Allegan County based on local jurisdiction zoning data.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "AC_Zoning"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Zoning: Allegan County, Michigan",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://cms.allegancounty.org/services/GIS/SitePages/County.aspx\",\"http://schema.org/downloadUrl\":\"http://cms.allegancounty.org/services/GIS/County/AC_Zoning.zip\"}",
+  "dct_isPartOf_sm": [
+    "06b-26005"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Allegan County, Michigan"
+  ],
+  "dct_spatial_sm": [
+    "Allegan County, Michigan",
+    "Michigan"
+  ],
+  "b1g_centroid_ss": "42.59393,-85.9087285",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "06b-26005",
+  "dc_creator_sm": [
+    ""
+  ]
+}

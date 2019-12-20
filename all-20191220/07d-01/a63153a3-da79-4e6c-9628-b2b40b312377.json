@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "a63153a3-da79-4e6c-9628-b2b40b312377",
+  "dc_identifier_s": "a63153a3-da79-4e6c-9628-b2b40b312377",
+  "b1g_date_range_drsim": [
+    "[1844 TO 1844]"
+  ],
+  "dct_temporal_sm": [
+    "1844"
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_dateAccessioned_s": "2019-01-16",
+  "solr_year_i": "1844",
+  "dc_format_s": "JPEG",
+  "solr_geom": "ENVELOPE(-84.13,-83.54,42.43,42.07)",
+  "b1g_keyword_sm": [
+    "Clark Library Map Collections"
+  ],
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Michigan",
+  "dct_accrualMethod_s": "",
+  "b1g_image_ss": "https://quod.lib.umich.edu/cgi/i/image/api/image/clark1ic:005041410:39015091184757/full/res:1/0/native.jpg?attachment=1",
+  "dct_issued_s": "",
+  "suppressed_b": "",
+  "dc_description_s": "Relief shown by hachures. Prime meridian: Washington and Greenwich. Shows locations of railroads, villages, post offices, saw mills, flour mills, roads and contains a description of some soils and surface features. \"W. J. Stone sc. Washn. City.\" Includes a profile of the Central Railroad. 1 map: hand col.; 42 x 55 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Map of Washtenaw County; S. W. Higgins, topographer to Geol. Surv.; C. C. Douglass and Bela Hubbard, assistant geologists.",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-005041410/39015091184757\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:005041410\"}",
+  "dct_isPartOf_sm": [
+    "07d-01"
+  ],
+  "layer_id_s": "5041410",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dct_spatial_sm": [
+    "Washtenaw County, Michigan",
+    "Michigan"
+  ],
+  "b1g_centroid_ss": "42.25,-83.83500000000001",
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "b1g_code_s": "07d-01",
+  "dc_creator_sm": [
+    "Higgins, Sylvester W.,Douglas, Columbus C., 1812-1874.,Hubbard, Bela, 1814-1896.,Houghton, Douglass, 1809-1845.,Stone, William James, 1798-1865."
+  ]
+}

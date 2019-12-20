@@ -1,0 +1,74 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "29e09e03cf204bcd9ab63c4878a7210e_26",
+  "dc_identifier_s": "29e09e03cf204bcd9ab63c4878a7210e_26",
+  "b1g_date_range_drsim": [
+    "[2015 TO 2015]"
+  ],
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dc_subject_sm": [
+    "Health",
+    "Structure"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2015",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-77.675405,-76.697697,39.191471,38.295422)",
+  "b1g_keyword_sm": [
+    "public service",
+    "Food Policy",
+    "Capital Area Food Bank",
+    "CAFB",
+    "Food Access",
+    "Hunger",
+    "Food Insecurity",
+    "dc",
+    "dcgis",
+    "washington dc",
+    "mar2018",
+    "foodeats"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2018-03-19",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "Points in this layer represent the locations of Capital Area Food Bank (CAFB) programs and public partners in the DMV (DC, Maryland, and Virginia). Data were compiled by the CAFB through internal tracking, and the layer was shared with the DC government as a courtesy. Sensitive locations were removed from the layer, prior to CAFB sharing it with the DC government, for privacy reasons. Fields include:Agency_Nam: Name of the feeding program or service provider.Agency_N_1: Supplemental name information (parent organization, location housing the program, etc.).Address: Street addressCityStateZipProgram: Type of program (Direct Distributions, Shopping, or combination).Several fields (Shopping_L, Brown_Bag_, Kids_Cafe_, etc.) listing the pounds of food distributed under the auspices of a specific program.Total_Poun: Total pounds of food distributed at the location.The layer was shared with the DC government in May 2016 and is based on 2015 data.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Capital Area Food Bank Emergency Food Provider: Washington, Dc, Maryland, Virginia, 2015",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/29e09e03cf204bcd9ab63c4878a7210e_26\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/29e09e03cf204bcd9ab63c4878a7210e_26.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Public_Safety_WebMercator/MapServer/26\"}",
+  "dct_isPartOf_sm": [
+    "04c-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "District of Columbia"
+  ],
+  "dct_spatial_sm": [
+    "Washington D.C"
+  ],
+  "b1g_centroid_ss": "38.743446500000005,-77.18655100000001",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "04c-01",
+  "dc_creator_sm": [
+    "City of Washington, DC"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "f08c297b-0da0-4b06-8489-b635b3d1592f",
+  "dc_identifier_s": "f08c297b-0da0-4b06-8489-b635b3d1592f",
+  "b1g_date_range_drsim": [
+    "[1994 TO 1994]"
+  ],
+  "dct_temporal_sm": [
+    "1994"
+  ],
+  "dc_subject_sm": [
+    "Geoscientific Information"
+  ],
+  "b1g_dateAccessioned_s": "2016-10",
+  "solr_year_i": "1994",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-90.81537,-88.064311,42.510709,37.107953)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Polygon",
+  "dct_provenance_s": "Illinois",
+  "dct_accrualMethod_s": "FGDC",
+  "b1g_image_ss": "",
+  "dct_issued_s": "1993-12-30",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "This is a polygon feature class containing driftless areas in Illinois. These areas are analogous to areas of the state where the bedrock surface is not buried. Data are originally from the Buried Bedrock Surface map (1:500,000) by Herzog et al (1994) and the related feature class GISDB_BEDGEO.IL_Bedrock_Topography_1994_Ln. There are no attribute data associated with the spatial data in this data set. The nominal scale is 1:500,000.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Driftless Areas: Illinois, 2004",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://clearinghouse.isgs.illinois.edu/data/geology/driftless-areas\",\"http://schema.org/downloadUrl\":\"https://clearinghouse.isgs.illinois.edu/sites/clearinghouse.isgs/files/Clearinghouse/data/ISGS/Geology/zips/IL_Driftless_Areas_Py.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://data.isgs.illinois.edu/arcgis/rest/services/Geology/Driftless_Areas/MapServer\"}",
+  "dct_isPartOf_sm": [
+    "02a-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "dc_publisher_sm": [
+    "University of Illinois Urbana-Champaign",
+    "Illinois State Geological Survey"
+  ],
+  "dct_spatial_sm": [
+    "Illinois"
+  ],
+  "b1g_centroid_ss": "39.809331,-89.4398405",
+  "b1g_genre_sm": [
+    "Geospatial data",
+    "Aerial imagery"
+  ],
+  "b1g_code_s": "02a-01",
+  "dc_creator_sm": [
+    "Illinois State Geological Survey"
+  ]
+}

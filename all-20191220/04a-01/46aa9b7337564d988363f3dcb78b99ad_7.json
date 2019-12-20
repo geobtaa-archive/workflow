@@ -1,0 +1,77 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "46aa9b7337564d988363f3dcb78b99ad_7",
+  "dc_identifier_s": "46aa9b7337564d988363f3dcb78b99ad_7",
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dc_subject_sm": [
+    "Location"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2016",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-76.8931,-76.3206,39.7211,39.1954)",
+  "b1g_keyword_sm": [
+    "MD iMAP",
+    "DHCD",
+    "Baltimore County",
+    "Department of Housing and Community Development",
+    "Maryland",
+    "MD",
+    "Opportunity",
+    "WMS",
+    "WFS",
+    "Vector",
+    "KML",
+    "Dynamic",
+    "BSEC",
+    "Business",
+    "Economy",
+    "BusinessEconomy"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2017-08-17",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "This is a MD iMAP hosted service layer. Find more information at http://imap.maryland.gov.The Conciliation Agreement among HUD, several complainants, and Baltimore County to designate 116 census tracts in Baltimore County as Opportunity Areas. These census tracts are outlined in Exhibit F of the Conciliation Agreement found at the following website: http://www.baltimorecountymd.gov/Agencies/planning/fairhousing/hudconciliation.htmlAs detailed in Section E.3 of the Qualified Allocation Plan, all family projects located in a Community of Opportunity will qualify for the State Basis Boost without prior CDA approval. http://dhcd.maryland.gov/HousingDevelopment/Documents/lihtc/Final%202016%20MD%20QAP%20Signed%20by%20Governor%208-9-16.pdf Feature Service Link:https://geodata.md.gov/imap/rest/services/BusinessEconomy/MD_HousingDesignatedAreas/FeatureServer/7",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Housing Designated Areas - Baltimore County Opportunity Areas: Maryland",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/46aa9b7337564d988363f3dcb78b99ad_7\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/46aa9b7337564d988363f3dcb78b99ad_7.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://geodata.md.gov/imap/rest/services/BusinessEconomy/MD_HousingDesignatedAreas/FeatureServer/7\"}",
+  "dct_isPartOf_sm": [
+    "04a-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dct_spatial_sm": [
+    "Maryland"
+  ],
+  "b1g_centroid_ss": "39.45825,-76.60685000000001",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "04a-01",
+  "dc_creator_sm": [
+    "ArcGIS Online for Maryland"
+  ]
+}

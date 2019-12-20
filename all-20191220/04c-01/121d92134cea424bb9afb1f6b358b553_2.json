@@ -1,0 +1,75 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "121d92134cea424bb9afb1f6b358b553_2",
+  "dc_identifier_s": "121d92134cea424bb9afb1f6b358b553_2",
+  "b1g_date_range_drsim": [
+    "[2008 TO 2008]"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2008",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-77.1234,-76.9034,39.0016,38.787)",
+  "b1g_keyword_sm": [
+    "buildings",
+    "DC",
+    "DC",
+    "District of Columbia",
+    "Geodetic Control",
+    "Geographic Information System",
+    "planimetrichistoric",
+    "Planimetrics",
+    "structure",
+    "Survey",
+    "United States of America USA",
+    "Washington",
+    "aug2018",
+    "pmetric08"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2018-07-19",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "geodetic control points, created as part of the DC Geographic Information System (DC GIS) for the D.C. Office of the Chief Technology Officer (OCTO). These features were originally captured in 1999 and updated in 2005 and 2008. The following planimetric layers were updated: - Building Polygons (BldgPly) - Bridge and Tunnel Polygons (BrgTunPly) - Horizontal and Vertical Control Points (GeoControlPt) - Obscured Area Polygons (ObsAreaPly) - Railroad Lines (RailRdLn) - Road, Parking, and Driveway Polygons (RoadPly) - Sidewalk Polygons (SidewalkPly) - Wooded Areas (WoodPly).",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Geodetic Control Points: Washington, D.C., 2008",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/121d92134cea424bb9afb1f6b358b553_2\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/121d92134cea424bb9afb1f6b358b553_2.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Planimetrics_2008/MapServer/2\"}",
+  "dct_isPartOf_sm": [
+    "04c-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "District of Columbia"
+  ],
+  "dct_spatial_sm": [
+    "Washington D.C"
+  ],
+  "b1g_centroid_ss": "38.8943,-77.0134",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "04c-01",
+  "dc_creator_sm": [
+    "City of Washington, DC"
+  ]
+}

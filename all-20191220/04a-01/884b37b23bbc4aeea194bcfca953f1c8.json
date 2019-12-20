@@ -1,0 +1,93 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "884b37b23bbc4aeea194bcfca953f1c8",
+  "dc_identifier_s": "884b37b23bbc4aeea194bcfca953f1c8",
+  "b1g_date_range_drsim": [
+    "[2100 TO 2100]"
+  ],
+  "dct_temporal_sm": [
+    "2100"
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "b1g_dateAccessioned_s": "2019-10-11",
+  "solr_year_i": "2019",
+  "dc_format_s": "Imagery",
+  "solr_geom": "ENVELOPE(-77.267,-75.0383,39.6502,37.8842)",
+  "b1g_keyword_sm": [
+    "Depth Grid",
+    "Flooding",
+    "Flood",
+    "High Water",
+    "Model",
+    "Flood Depth Grid",
+    "Statewide",
+    "Maryland",
+    "MD",
+    "Maryland Department of Transportation",
+    "MDOT",
+    "Maryland Department of Transportation State Highway Administration",
+    "MDOT SHA",
+    "MDOT SHA Office of Planning & Preliminary Engineering",
+    "OPPE",
+    "Climate",
+    "Climate Change",
+    "NOAA",
+    "USGS",
+    "Salisbury University",
+    "ESRGC",
+    "USACE",
+    "2100",
+    "Mean Sea Level",
+    "MSL",
+    "Annual Chance Event",
+    "Event Scenario",
+    "2%",
+    "2% Annual Chance",
+    "50-Year Storm",
+    "50YR Storm",
+    "50 Year Storm"
+  ],
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2019-10-09T14:35:25.000Z",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "ArcGIS Online (AGOL) Feature Layer which includes the MDOT SHA 2100 Mean Sea Level 2% Annual Chance (50YR Storm) - Depth Grid geospatial data product.MDOT SHA 2100 Mean Sea Level 2% Annual Chance (50YR Storm) - Depth Grid consists of a depth grid image service depicting conditions of sea level change based on the 2% annual chance event (50-Year Storm) scenario for coastal areas throughout the State of Maryland in year 2100. This data product supports Maryland Department of Transportation State Highway Administration (MDOT SHA) leadership and planners as they endeavor to mitigate or prevent the impacts of sea level change resulting from land surface subsidence and rising sea levels.MDOT SHA 2100 Mean Sea Level 2% Annual Chance (50YR Storm) - Depth Grid data was produced as a result of efforts by the Maryland Department of Transportation State Highway Administration (MDOT SHA), Eastern Shore Regional GIS Cooperative (ESRGC), Salisbury University (SU), United States Corps of Engineers (USACE), National Oceanic Atmospheric Administration (NOAA), and the United States Geological Survey (USGS). The US Army Corps of Engineers provide the sea level change estimate. Sea level change is localized using water elevations collected from a qualifying National Oceanic and Atmospheric Administration (NOAA) tidal reference station - NOAA observations are transformed from tidal datum to North American Vertical Datum of 1988. A final correction for glacial isostatic adjustment and land creates an sea level change value for the official project year, 2100.MDOT SHA 2100 Mean Sea Level 2% Annual Chance (50YR Storm) - Depth Grid data was task-based, and will only be updated on an As-Needed basis where necessary.Last Updated: 10/09/2019For additional information, contact the MDOT SHA Geospatial Technologies:Email: GIS@mdot.maryland.govFor information related to the data, visit the Eastern Shore Regional GIS Cooperative (ESRGC) websiteWebsite: https:www.esrgc.org/mapServices/For additional data, visit the MDOT GIS Open Data Portal:Website: https://data.imap.maryland.gov/pages/mdot/For additional information related to the Maryland Department of Transportation (MDOT):Website: https://www.mdot.maryland.gov/For additional information related to the Maryland Department of Transportation State Highway Administration (MDOT SHA):Website: https://www.roads.maryland.gov/Home.aspxMDOT SHA Geospatial Data Legal Disclaimer:The Maryland Department of Transportation State Highway Administration (MDOT SHA) makes no warranty, expressed or implied, as to the use or appropriateness of geospatial data, and there are no warranties of merchantability or fitness for a particular purpose or use. The information contained in geospatial data is from publicly available sources, but no representation is made as to the accuracy or completeness of geospatial data. MDOT SHA shall not be subject to liability for human error, error due to software conversion, defect, or failure of machines, or any material used in the connection with the machines, including tapes, disks, CD-ROMs or DVD-ROMs and energy. MDOT SHA shall not be liable for any lost profits, consequential damages, or claims against MDOT SHA by third parties.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "MDOT SHA 2100 Mean Sea Level 2% Annual Chance (50YR Storm) - Depth Grid"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Mean Sea Level 2% Annual Chance (50YR Storm) - Depth Grid: State of Maryland, 2100",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"urn:x-esri:serviceType:ArcGIS#ImageMapLayer\":\"https://geoservices.salisbury.edu/arcgis/rest/services/MD_MeanSeaLevel_2100/DepthGrid_02_PercentAnnualChance/ImageServer\",\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/884b37b23bbc4aeea194bcfca953f1c8\"}",
+  "dct_isPartOf_sm": [
+    "04a-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dct_spatial_sm": [
+    "Maryland"
+  ],
+  "b1g_centroid_ss": "38.7672,-76.15265",
+  "b1g_genre_sm": [
+    "Aerial imagery"
+  ],
+  "b1g_code_s": "04a-01",
+  "dc_creator_sm": [
+    "ArcGIS Online for Maryland"
+  ]
+}

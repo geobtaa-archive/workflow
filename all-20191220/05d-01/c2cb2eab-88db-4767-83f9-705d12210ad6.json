@@ -1,0 +1,61 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "c2cb2eab-88db-4767-83f9-705d12210ad6",
+  "dc_identifier_s": "c2cb2eab-88db-4767-83f9-705d12210ad6",
+  "b1g_date_range_drsim": [
+    "[1665 TO 1665]"
+  ],
+  "dct_temporal_sm": [
+    "1665?"
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_dateAccessioned_s": "2019-07-26",
+  "solr_year_i": "1665",
+  "dc_format_s": "JPEG",
+  "solr_geom": "ENVELOPE(27.24609375,170.3320313,77.9340552,-10.87646499)",
+  "b1g_keyword_sm": [
+    "Asia Maps Early Works to 1800"
+  ],
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Minnesota",
+  "dct_accrualMethod_s": "Blacklight",
+  "b1g_image_ss": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll246/id/287",
+  "dct_issued_s": "",
+  "suppressed_b": "",
+  "dc_description_s": "Scale approximately 1:30,000,000. Relief shown pictorially. From His Atlas maior, 1662-1665. Text on verso. Examples of different people's costumes in margins. Insets (all pictorial): Candy -- Calecuth -- Goa -- Damasco -- Ierusalem -- Ormus -- Bantam -- Aden -- Macao. 36 x 46 cm",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "Asia noviter delineata"
+  ],
+  "dc_language_sm": [
+    "Latin"
+  ],
+  "dc_title_s": "Asia noviter delineata",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/200796\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/287/manifest.json\"}",
+  "dct_isPartOf_sm": [
+    "05d-p16022coll246"
+  ],
+  "layer_id_s": "287",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image"
+  ],
+  "dc_publisher_sm": [
+    "I. Blaeu"
+  ],
+  "dct_spatial_sm": [
+    ""
+  ],
+  "b1g_centroid_ss": "33.528795105,98.789062525",
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "b1g_code_s": "05d-01",
+  "dc_creator_sm": [
+    "Blaeu, Joan, 1596-1673"
+  ]
+}

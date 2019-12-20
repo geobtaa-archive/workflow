@@ -1,0 +1,61 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "bdcbcd3e-f6db-4ee4-b7b7-d75fe35f1d92",
+  "dc_identifier_s": "bdcbcd3e-f6db-4ee4-b7b7-d75fe35f1d92",
+  "b1g_date_range_drsim": [
+    "[1736 TO 1736]"
+  ],
+  "dct_temporal_sm": [
+    "1736"
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_dateAccessioned_s": "2019-01-16",
+  "solr_year_i": "1736",
+  "dc_format_s": "JPEG",
+  "solr_geom": "ENVELOPE(-21.08,-168.03,78.2,-43.06)",
+  "b1g_keyword_sm": [
+    "Michigan State University Map Library"
+  ],
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Michigan State",
+  "dct_accrualMethod_s": "",
+  "b1g_image_ss": "https://btaagdp.org/maps/files/original/fe9d323e0677392ee0945cf65dfedd08.jpg",
+  "dct_issued_s": "",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "Depicts Europe, Africa, and Asia as a single landmass surrounded by a \"Great Abyss.\" Includes outlines of present-day Europe, Africa, and Asia. \"This part of the Old World & all on ye outside of ye shade now lie under water from the quantity of which we may infer, that there is vast tracts of land yet undiscover'd.\" \"Gent. Magazine Dec. 1736. p. 732B\".; The gentleman's magazine, and historical chronicle, for the year ...London : Printed by Edw. Cave, 1736-December 1736, page 732B.; Original version published [London]: [Printed by E. Cave], 1736.; Scale not given",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "A map of the Old World, as it appeared before God destroy'd it with the waters of the flood",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://lib.msu.edu/branches/map/scanned/World/050-B-2348BC-1736-400\",\"http://schema.org/downloadUrl\":\"https://archive.lib.msu.edu/maps/MSU-Scanned/Magazines/050-B-2348BC-1736-400.jpg\"}",
+  "dct_isPartOf_sm": [
+    "06d-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image"
+  ],
+  "dc_publisher_sm": [
+    "Edward Cave"
+  ],
+  "dct_spatial_sm": [
+    "Earth"
+  ],
+  "b1g_centroid_ss": "17.57,-94.555",
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "b1g_code_s": "06d-01",
+  "dc_creator_sm": [
+    "Bowen, Emanuel"
+  ]
+}

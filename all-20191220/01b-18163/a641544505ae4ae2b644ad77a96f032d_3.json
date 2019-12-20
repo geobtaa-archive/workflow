@@ -1,0 +1,64 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "a641544505ae4ae2b644ad77a96f032d_3",
+  "dc_identifier_s": "a641544505ae4ae2b644ad77a96f032d_3",
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "dct_temporal_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "solr_year_i": "2016",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-97.2778,-87.4295,38.1602,34.8473)",
+  "b1g_keyword_sm": [
+    "Crime",
+    "Police"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Indiana",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2016-12-31",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "Shots fired data compiled and maintained by The Evansville Police Department.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Shots Fired (Last 365 Days): Vanderburgh County, Indiana, United States",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://dev-evansvilleapc.opendata.arcgis.com/datasets/a641544505ae4ae2b644ad77a96f032d_3\",\"http://schema.org/downloadUrl\":\"http://dev-evansvilleapc.opendata.arcgis.com/datasets/a641544505ae4ae2b644ad77a96f032d_3.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps.evansvillegis.com/arcgis_server/rest/services/CRIMES/SHOTS/MapServer/3\"}",
+  "dct_isPartOf_sm": [
+    "01b-18163"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Vanderburgh County, Indiana"
+  ],
+  "dct_spatial_sm": [
+    "Vanderburgh County, Indiana",
+    "Indiana"
+  ],
+  "b1g_centroid_ss": "36.50375,-92.35365",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "01b-18163",
+  "dc_creator_sm": [
+    "Evansville Vanderburgh County Area Plan"
+  ]
+}

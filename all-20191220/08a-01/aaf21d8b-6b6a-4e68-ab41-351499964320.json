@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "aaf21d8b-6b6a-4e68-ab41-351499964320",
+  "dc_identifier_s": "aaf21d8b-6b6a-4e68-ab41-351499964320",
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "b1g_dateAccessioned_s": "2019-09-05",
+  "solr_year_i": "2018",
+  "dc_format_s": "Files",
+  "solr_geom": "ENVELOPE(-111.678816,-112.125088,43.78476,43.623514)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Raster",
+  "dct_provenance_s": "Penn State",
+  "dct_accrualMethod_s": "HTML",
+  "b1g_image_ss": "",
+  "dct_issued_s": "",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "Planimetric Coverage containing the delineation of topographic contours at ten foot intervals. Annotation of Contour Line elevations exists. LiDAR and LAS data was gathered for the City of Philadelphia in April 2018. DEMs were generated from the raw data. This dataset is lidar point cloud data covering the City of Philadelphia, PA, approximately 239 sq miles total. Each LAS file contains LiDAR point information, which has been calibrated, controlled, and classified. At the time of capture ground conditions were leaf-off, snow free, and water was at normal levels",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "Philadelphia LiDAR 2018 - 10ft Contours"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "LiDAR - 10 ft Contours: Philadelphia, Pennsylvania, 2018",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=7148\",\"http://schema.org/downloadUrl\":\"https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=7148\",\"http://www.w3.org/1999/xhtml\":\"https://btaagdp.org/metadata/08a-01/FullMetadataDisplay.aspx%3ffile=PhiladelphiaContours10ft2018.html\"}",
+  "dct_isPartOf_sm": [
+    "08a-01"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "dc_publisher_sm": [
+    "City of Philadelphia, Pennsylvania"
+  ],
+  "dct_spatial_sm": [
+    "City of Philadelphia, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "b1g_centroid_ss": "43.704137,-111.901952",
+  "b1g_genre_sm": [
+    ""
+  ],
+  "b1g_code_s": "08a-01",
+  "dc_creator_sm": [
+    ""
+  ]
+}

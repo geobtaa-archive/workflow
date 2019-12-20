@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "68d4dca3-a236-4f03-ab0e-b7b9d12ccaf3",
+  "dc_identifier_s": "68d4dca3-a236-4f03-ab0e-b7b9d12ccaf3",
+  "b1g_date_range_drsim": [
+    "[2014 TO 2014]"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "dc_subject_sm": [
+    "Environment"
+  ],
+  "b1g_dateAccessioned_s": "2019-04-05",
+  "solr_year_i": "2014",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-76.841159,-76.383345,39.237702,38.71187)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "",
+  "b1g_image_ss": "",
+  "dct_issued_s": "",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "Anne Arundel County, Maryland is interested in monitoring its changing land cover for planning, zoning and environmental protection purposes. The county is under increasing development pressure and needs to maintain an accurate land cover database so it may guide development in a sustainable way from both economic and environmental perspectives. The land cover layer was designed and built as a continuation of hand-digitized layers compiled in the 1990s. The current layer was completed using primarily automated methods and current high-resolution aerial imagery (6 inch resolution, leaf-off), as a comparison for cost and accuracy to the earlier automated and manually-produced datasets. This version was updated in 2011 using 4-band aerial imagery collected in the spring of 2011 by the State of Maryland. Areas that have undergone change in the period 2008-2011 were updated to reflect those changes, and any inconsistencies found in the 2008 dataset were corrected. An Urban Tree Canopy dataset produced in 2008 by the University of Vermont was used to provide estimates of tree canopy for each polygon, or map unit.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Land Cover: Anne Arundel County, Maryland, 2014",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.aacounty.org/county-maps/index.html\",\"http://schema.org/downloadUrl\":\"http://www.aacounty.org/AACoOIT/GIS/Landcover%202014.zip\"}",
+  "dct_isPartOf_sm": [
+    "04b-24003"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "dc_publisher_sm": [
+    "Anne Arundel County, Maryland"
+  ],
+  "dct_spatial_sm": [
+    "Anne Arundel County, Maryland",
+    "Maryland"
+  ],
+  "b1g_centroid_ss": "38.974785999999995,-76.61225200000001",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "04b-24003",
+  "dc_creator_sm": [
+    "Anne Arundel County, Office of Environmental and Cultural Resources"
+  ]
+}

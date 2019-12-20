@@ -1,0 +1,65 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "f4ef4866eab54453963a84453cca3fbc_1",
+  "dc_identifier_s": "f4ef4866eab54453963a84453cca3fbc_1",
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "dc_subject_sm": [
+    "Elevation"
+  ],
+  "b1g_dateAccessioned_s": "2019-11-10",
+  "solr_year_i": "2019",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-83.7287,-83.7091,42.2868,42.2722)",
+  "b1g_keyword_sm": [
+    "Contours",
+    "Matthaei-Nichols",
+    "Nichols Arboretum",
+    "Basedata"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Michigan",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2019-02-07T18:22:43.000Z",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "Two foot contour lines at Nichols Arboretum in Ann Arbor, Michigan.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "Two Foot Contour Lines at the Arb"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Two Foot Contour Lines at the Arb: University of Michigan",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://mbgna-umich.opendata.arcgis.com/datasets/f4ef4866eab54453963a84453cca3fbc_1\",\"http://schema.org/downloadUrl\":\"http://mbgna-umich.opendata.arcgis.com/datasets/f4ef4866eab54453963a84453cca3fbc_1.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/4ezfu5dIwH83BUNL/arcgis/rest/services/Arb_CARTO_2ft_Contour_ln/FeatureServer/1\"}",
+  "dct_isPartOf_sm": [
+    "07d-02"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "University of Michigan"
+  ],
+  "dct_spatial_sm": [
+    "Michigan"
+  ],
+  "b1g_centroid_ss": "42.2795,-83.7189",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "07d-02",
+  "dc_creator_sm": [
+    "University of Michigan"
+  ]
+}

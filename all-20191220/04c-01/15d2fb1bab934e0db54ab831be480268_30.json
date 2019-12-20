@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "15d2fb1bab934e0db54ab831be480268_30",
+  "dc_identifier_s": "15d2fb1bab934e0db54ab831be480268_30",
+  "b1g_date_range_drsim": [
+    "[2014 TO 2014]"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "b1g_dateAccessioned_s": "",
+  "solr_year_i": "2014",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-77.10947997,-76.91981648,38.99434666,38.82730205)",
+  "b1g_keyword_sm": [
+    "Cultural"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2015-02-27",
+  "suppressed_b": "TRUE",
+  "dc_description_s": "The Arts Education Program (AEP) is designed to support In-School and Out-of-School-Time arts and humanities projects for children and youth in pre-school through high school settings. The grant also supports professional development opportunities in the arts and humanities for classroom educators. The DC Commission on the Arts and Humanities recognizes the importance of remaining relevant in a city of competitive opportunities for residents who have at their disposal significant discretionary income for arts and cultural offerings. Further, according to the 2012 Arts and Economic Prosperity IV Study conducted by Americans for the Arts, $1.1 billion in economic activity is generated annually by the non-profit arts and culture industry in Washington, DC. Additionally, the culture industry returns $80 million in local tax revenue to the District s coffers. These trends create an opportunity for DCCAH to position itself at the forefront of the city s cultural planning. To achieve this goal, DCCAH will endeavor in a cultural planning process to understand the strategic opportunities that will be central to accomplishing this broad vision.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Arts Education Program: Washington, D.C., 2014",
+  "b1g_dateRetired_s": "2019-09-06",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/15d2fb1bab934e0db54ab831be480268_30\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/15d2fb1bab934e0db54ab831be480268_30.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Cultural_and_Society_WebMercator/MapServer/30\"}",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Retired",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "District of Columbia"
+  ],
+  "dct_spatial_sm": [
+    "Washington D.C"
+  ],
+  "b1g_centroid_ss": "38.910824355,-77.014648225",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "04c-01",
+  "dc_creator_sm": [
+    "City of Washington, DC"
+  ]
+}

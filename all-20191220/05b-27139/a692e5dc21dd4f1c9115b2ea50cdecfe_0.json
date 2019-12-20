@@ -1,0 +1,65 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "a692e5dc21dd4f1c9115b2ea50cdecfe_0",
+  "dc_identifier_s": "a692e5dc21dd4f1c9115b2ea50cdecfe_0",
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "b1g_dateAccessioned_s": "2019-07-23",
+  "solr_year_i": "2016",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-93.77155608,-93.33201825,44.80141334,44.54134763)",
+  "b1g_keyword_sm": [
+    "Scott County Minnesota",
+    "Food",
+    "People"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Minnesota",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2016-08-09",
+  "suppressed_b": "TRUE",
+  "dc_description_s": "Food Resources within Scott County. Locations include community gardens, farmers markets, food programs, food shelves, and grocery stores.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Food Resources: Scott County, Minnesota",
+  "b1g_dateRetired_s": "2019-09-06",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.gis.co.scott.mn.us/datasets/a692e5dc21dd4f1c9115b2ea50cdecfe_0\",\"http://schema.org/downloadUrl\":\"http://opendata.gis.co.scott.mn.us/datasets/a692e5dc21dd4f1c9115b2ea50cdecfe_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/DqIh9WAsIZcPlBEF/arcgis/rest/services/Food_Resources/FeatureServer/0\"}",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Retired",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Scott County, Minnesota"
+  ],
+  "dct_spatial_sm": [
+    "Scott County, Minnesota",
+    "Minnesota"
+  ],
+  "b1g_centroid_ss": "44.671380485,-93.55178716500001",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "05b-27139",
+  "dc_creator_sm": [
+    "Scott County Minnesota"
+  ]
+}

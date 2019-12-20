@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "fd3e93a0fc624f8d8e45920c9e30dc41_0",
+  "dc_identifier_s": "fd3e93a0fc624f8d8e45920c9e30dc41_0",
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "dct_temporal_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Utilities and Communications"
+  ],
+  "b1g_dateAccessioned_s": "2019-04-14",
+  "solr_year_i": "2019",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-81.5405,-81.2057,40.9735,40.6902)",
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Ohio State",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2019-04-03",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "This layer is intended to serve as a view-only and downloadable inventory of stormwater post-construction best management practices (BMPs) sites owned and maintained by various county departments. A stormwater BMP is a structural or non-structural method of treating, controlling, or storing surface water runoff. BMPs are required on all new development sites in which 1 or more acre of land is disturbed in accordance with the National Pollutant Discharge Elimination System (NPDES) Phase II requirements. This layer also includes stormwater storage structures that predate NPDES requirements.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    "Stormwater Post-Construction BMPs"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Stormwater Post-Construction BMPs: Stark County, Ohio",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.starkcountyohio.gov/datasets/fd3e93a0fc624f8d8e45920c9e30dc41_0\",\"http://schema.org/downloadUrl\":\"https://opendata.starkcountyohio.gov/datasets/fd3e93a0fc624f8d8e45920c9e30dc41_0.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://utility.arcgis.com/usrsvcs/servers/fd3e93a0fc624f8d8e45920c9e30dc41/rest/services/Engineer/StormwaterPostConstructionBMPs/MapServer/0\"}",
+  "dct_isPartOf_sm": [
+    "11b-39151"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Stark County, Ohio"
+  ],
+  "dct_spatial_sm": [
+    "Stark County, Ohio",
+    "Ohio"
+  ],
+  "b1g_centroid_ss": "40.83185,-81.3731",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "11b-39151",
+  "dc_creator_sm": [
+    "Stark County GIS (SCGIS)"
+  ]
+}

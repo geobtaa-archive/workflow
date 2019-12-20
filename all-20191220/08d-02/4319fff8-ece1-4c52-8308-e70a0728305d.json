@@ -1,0 +1,64 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "4319fff8-ece1-4c52-8308-e70a0728305d",
+  "dc_identifier_s": "4319fff8-ece1-4c52-8308-e70a0728305d",
+  "b1g_date_range_drsim": [
+    "[1886 TO 1886]"
+  ],
+  "dct_temporal_sm": [
+    "1886"
+  ],
+  "dc_subject_sm": [
+    "Fire insurance maps"
+  ],
+  "b1g_dateAccessioned_s": "2019-04-22",
+  "solr_year_i": "1886",
+  "dc_format_s": "JPEG",
+  "solr_geom": "ENVELOPE(-79.454011,-79.4409428,40.4890029,40.4808109)",
+  "b1g_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Penn State",
+  "dct_accrualMethod_s": "CONTENTdm",
+  "b1g_image_ss": "",
+  "dct_issued_s": "",
+  "suppressed_b": "FALSE",
+  "dc_description_s": "Saltsburg, Pa., Feb. 1886. 1 map : col. ; on sheet 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Saltsburg, Pennsylvania, 1886",
+  "b1g_dateRetired_s": "",
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/20173/manifest.json\",\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/20173\"}",
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Active",
+  "dc_type_sm": [
+    "Image"
+  ],
+  "dc_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_spatial_sm": [
+    "Saltsburg, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "b1g_centroid_ss": "40.4849069,-79.4474769",
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "b1g_code_s": "08d-02",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ]
+}

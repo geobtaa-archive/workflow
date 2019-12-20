@@ -1,0 +1,67 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2019-12-19T15:44:45Z",
+  "layer_slug_s": "87fbd5633e374d118f83891adc907913_2",
+  "dc_identifier_s": "87fbd5633e374d118f83891adc907913_2",
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "dct_temporal_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "b1g_dateAccessioned_s": "",
+  "solr_year_i": "2016",
+  "dc_format_s": "Shapefile",
+  "solr_geom": "ENVELOPE(-76.9362,-76.2956,39.7445,39.1823)",
+  "b1g_keyword_sm": [
+    "Baltimore County",
+    "grids",
+    "600 Scale",
+    "tax map",
+    "admin"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_image_ss": "",
+  "dct_issued_s": "2016-09-06T14:57:21.000Z",
+  "suppressed_b": "TRUE",
+  "dc_description_s": "The 600 Scale grid is a grid feature class created by the State of Maryland used to delineate the boundary of old paper taxmaps.",
+  "dc_rights_s": "Public",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_title_s": "Six Hundred Scale Grid: Baltimore County, Maryland",
+  "b1g_dateRetired_s": "2019-09-06",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data-bc-gis.opendata.arcgis.com/datasets/87fbd5633e374d118f83891adc907913_2\",\"http://schema.org/downloadUrl\":\"http://data-bc-gis.opendata.arcgis.com/datasets/87fbd5633e374d118f83891adc907913_2.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://bcgis.baltimorecountymd.gov/arcgis/rest/services/Admin/Grids/MapServer/2\"}",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "layer_id_s": "",
+  "b1g_status_s": "Retired",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "dc_publisher_sm": [
+    "Baltimore County, Maryland"
+  ],
+  "dct_spatial_sm": [
+    "Baltimore County, Maryland",
+    "Maryland"
+  ],
+  "b1g_centroid_ss": "39.4634,-76.6159",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "b1g_code_s": "04b-24005",
+  "dc_creator_sm": [
+    "Baltimore County Web Map Portal"
+  ]
+}
