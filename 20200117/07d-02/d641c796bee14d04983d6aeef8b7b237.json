@@ -1,0 +1,65 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "d641c796bee14d04983d6aeef8b7b237",
+  "dc_identifier_s": "d641c796bee14d04983d6aeef8b7b237",
+  "dc_title_s": "Matthaei Botanical Gardens - 1964 USGS, South Section (Image Service): University of Michigan",
+  "dct_alternativeTitle_sm": [
+    "Matthaei Botanical Gardens - 1964 USGS\\\\\\, South Section (Image Service)"
+  ],
+  "dc_description_s": "Imagery from Matthaei Botanical Gardens in Ann Arbor, Michigan from March 24th, 1964. This imagery is provided by USGS.",
+  "dc_creator_sm": [
+    "University of Michigan"
+  ],
+  "dc_publisher_sm": [
+    "University of Michigan"
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "b1g_keyword_sm": [
+    "matthaei-Nichols",
+    "historical Aerial Imagery",
+    "Imagery",
+    "Matthaei Botanical Gardens"
+  ],
+  "dc_type_sm": [
+    "Image",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Aerial imagery"
+  ],
+  "dc_format_s": "Imagery",
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Michigan",
+  "dct_issued_s": "2018-11-16T15:10:12.000Z",
+  "dct_temporal_sm": [
+    "1964"
+  ],
+  "b1g_date_range_drsim": [
+    "[1964 TO 1964]"
+  ],
+  "solr_year_i": "1964",
+  "dct_spatial_sm": [
+    "Michigan"
+  ],
+  "solr_geom": "ENVELOPE(-83.6901,-83.6279,42.3077,42.2637)",
+  "b1g_centroid_ss": "42.2857,-83.65899999999999",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "07d-02",
+  "dct_isPartOf_sm": [
+    "07d-02"
+  ],
+  "b1g_dateAccessioned_s": "2019-11-10",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://mbgna-umich.opendata.arcgis.com/datasets/d641c796bee14d04983d6aeef8b7b237\",\"urn:x-esri:serviceType:ArcGIS#ImageMapLayer\":\"https://arcgis.lsa.umich.edu/arcgis/rest/services/MBGNA/MBG_IMG_USGS_1963_South_ra/ImageServer\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

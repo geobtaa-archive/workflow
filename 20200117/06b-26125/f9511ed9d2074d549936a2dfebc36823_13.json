@@ -1,0 +1,66 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "f9511ed9d2074d549936a2dfebc36823_13",
+  "dc_identifier_s": "f9511ed9d2074d549936a2dfebc36823_13",
+  "dc_title_s": "Land Fill: Oakland County, Michigan",
+  "dct_alternativeTitle_sm": [
+    "OC Land Fill"
+  ],
+  "dc_description_s": "BY USING THIS WEBSITE OR THE CONTENT THEREIN, YOU AGREE TO THE TERMS OF USE. A spatial representation of Current and Historic Landfill and Facility Sites using points. This data was digitized from a hard copy map dated 1991. This data was also updated and verified in 2007 by Oakland County Planning and Economic Development Services. The scale used for the development of the data collection is unknown. The key attributes include the name and type of each facility.",
+  "dc_creator_sm": [
+    "Oakland County, Michigan"
+  ],
+  "dc_publisher_sm": [
+    "Oakland County, Michigan"
+  ],
+  "dc_subject_sm": [
+    "Location"
+  ],
+  "b1g_keyword_sm": [
+    "Land Fill",
+    "landfill",
+    "planning",
+    "environment"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Michigan State",
+  "dct_issued_s": "2019-09-17T17:11:35.000Z",
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "b1g_date_range_drsim": [
+    "[2007 TO 2007]"
+  ],
+  "solr_year_i": "2007",
+  "dct_spatial_sm": [
+    "Oakland County, Michigan",
+    "Michigan"
+  ],
+  "solr_geom": "ENVELOPE(-83.6441,-83.0818,42.8252,42.436)",
+  "b1g_centroid_ss": "42.6306,-83.36295",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "06b-26125",
+  "dct_isPartOf_sm": [
+    "06b-26125"
+  ],
+  "b1g_dateAccessioned_s": "2019-10-11",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gisservices.oakgov.com/arcgis/rest/services/Enterprise/EnterpriseFacilitiesDataMapService/MapServer/13\",\"http://schema.org/downloadUrl\":\"http://accessoakland.oakgov.com/datasets/f9511ed9d2074d549936a2dfebc36823_13.zip\",\"http://schema.org/url\":\"http://accessoakland.oakgov.com/datasets/f9511ed9d2074d549936a2dfebc36823_13\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

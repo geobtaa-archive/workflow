@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "5b3e9505-4ef5-41e0-985b-80e816a266e2",
+  "dc_identifier_s": "5b3e9505-4ef5-41e0-985b-80e816a266e2",
+  "dc_title_s": "A map of the Surrey side the Thames: from Westminster Bridge to the Borough:  with a plan for laying out the roads to Blackfryars Bridge.",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Includes \"Explanation.\" Appears in: The gentleman's magazine, 1766, supplement, vol. 36, p. 601. Detached from: The gentleman's magazine, and historical chronicle. Volume XXXVI: for the year M.DCC.LXVI. London: Printed for D. Henry, and R. Cave, [1766]. Map was originally published in: Supplement to the gentleman's magazine: for the year 1766. Scale not given.",
+  "dc_creator_sm": [
+    ""
+  ],
+  "dc_publisher_sm": [
+    "D. Henry and R. Cave"
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_keyword_sm": [
+    "City planning",
+    "Michigan State University Map Library"
+  ],
+  "dc_type_sm": [
+    "Image"
+  ],
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "dc_format_s": "JPEG",
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Michigan State",
+  "dct_issued_s": "1766",
+  "dct_temporal_sm": [
+    "1766"
+  ],
+  "b1g_date_range_drsim": [
+    "[1766 TO 1766]"
+  ],
+  "solr_year_i": "1766",
+  "dct_spatial_sm": [
+    "London, England, United Kingdom"
+  ],
+  "solr_geom": "ENVELOPE(-0.119407,-0.092076,51.508565,51.494701)",
+  "b1g_centroid_ss": "51.501633,-0.1057415",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "06d-01",
+  "dct_isPartOf_sm": [
+    "06d-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-01-16",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://lib.msu.edu/branches/map/scanned/Europe/621-d-A-1766-400\",\"http://schema.org/downloadUrl\":\"https://archive.lib.msu.edu/maps/MSU-Scanned/Magazines/621-d-A-1766-400.jpg\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": "https://btaagdp.org/maps/files/original/2ca6906c1954b39481b9c9d82ae07215.jpg"
+}

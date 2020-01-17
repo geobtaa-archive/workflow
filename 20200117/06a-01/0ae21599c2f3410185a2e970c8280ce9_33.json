@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "0ae21599c2f3410185a2e970c8280ce9_33",
+  "dc_identifier_s": "0ae21599c2f3410185a2e970c8280ce9_33",
+  "dc_title_s": "Aerial Survey 2011 Severity: State of Michigan",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Aerial Survey 2011 Severity",
+  "dc_creator_sm": [
+    "State of Michigan"
+  ],
+  "dc_publisher_sm": [
+    "State of Michigan"
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Michigan State",
+  "dct_issued_s": "1/7/2016",
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "b1g_date_range_drsim": [
+    "[2011 TO 2011]"
+  ],
+  "solr_year_i": "2011",
+  "dct_spatial_sm": [
+    "Michigan"
+  ],
+  "solr_geom": "ENVELOPE(-90.0717,-83.3599,46.9006,43.4747)",
+  "b1g_centroid_ss": "45.18765,-86.7158",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "06a-01",
+  "dct_isPartOf_sm": [
+    "06a-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://gis-michigan.opendata.arcgis.com/datasets/0ae21599c2f3410185a2e970c8280ce9_33\",\"http://schema.org/downloadUrl\":\"http://gis-michigan.opendata.arcgis.com/datasets/0ae21599c2f3410185a2e970c8280ce9_33.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services3.arcgis.com/Jdnp1TjADvSDxMAX/ArcGIS/rest/services/ForestHealthAerialSurveys/FeatureServer/33\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

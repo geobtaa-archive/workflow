@@ -1,0 +1,69 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "219eccbf42d546df946cc1837e5d25f9_2",
+  "dc_identifier_s": "219eccbf42d546df946cc1837e5d25f9_2",
+  "dc_title_s": "Landmarks: Champaign County, Ohio",
+  "dct_alternativeTitle_sm": [
+    "Champaign Landmarks LBRS"
+  ],
+  "dc_description_s": "The State of Ohio Location Based Response System landmarks depict the landmarks along public and private roads within participating Ohio Counties. Landmark data was developed from data collected by field observation of existing address locations at the time of collection.View Full Metadata",
+  "dc_creator_sm": [
+    "Champaign County, Ohio"
+  ],
+  "dc_publisher_sm": [
+    "Ohio Geographically Referenced Information Program"
+  ],
+  "dc_subject_sm": [
+    "Location"
+  ],
+  "b1g_keyword_sm": [
+    "Champaign",
+    "Landmarks",
+    "LBRS",
+    "Ohio",
+    "Trans",
+    "Transportation",
+    "Champaign County"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Ohio State",
+  "dct_issued_s": "2014-12-31",
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "b1g_date_range_drsim": [
+    "[2014 TO 2014]"
+  ],
+  "solr_year_i": "2014",
+  "dct_spatial_sm": [
+    "Champaign County, Ohio",
+    "Ohio"
+  ],
+  "solr_geom": "ENVELOPE(-84.0294,-83.5186,40.2667,40.0179)",
+  "b1g_centroid_ss": "40.1423,-83.774",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "11a-01",
+  "dct_isPartOf_sm": [
+    "11a-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-09-04",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://ogrip-geohio.opendata.arcgis.com/datasets/219eccbf42d546df946cc1837e5d25f9_2\",\"https://schema.org/downloadUrl\":\"https://ogrip-geohio.opendata.arcgis.com/datasets/219eccbf42d546df946cc1837e5d25f9_2.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://geo.oit.ohio.gov/arcgis/rest/services/LBRS/Champaign_LBRS/FeatureServer/2\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

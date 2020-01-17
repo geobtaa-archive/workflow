@@ -1,0 +1,65 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "0790d4675fdb4554ab13006a1c17c821_2",
+  "dc_identifier_s": "0790d4675fdb4554ab13006a1c17c821_2",
+  "dc_title_s": "Parcels: McClean County, Illinois",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "",
+  "dc_creator_sm": [
+    "McGIS - McLean County GIS"
+  ],
+  "dc_publisher_sm": [
+    "McClean County, Illinois"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "b1g_keyword_sm": [
+    "Housing",
+    "OpenData",
+    "landrecords"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Illinois",
+  "dct_issued_s": "2/17/2017",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "b1g_date_range_drsim": [
+    "[2017 TO 2017]"
+  ],
+  "solr_year_i": "2017",
+  "dct_spatial_sm": [
+    "McClean County, Illinois",
+    "Illinois"
+  ],
+  "solr_geom": "ENVELOPE(-89.2716,-88.4588,40.7578,40.2776)",
+  "b1g_centroid_ss": "40.517700000000005,-88.8652",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "02b-17113",
+  "dct_isPartOf_sm": [
+    "02b-17113"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://www.mcgis.org/datasets/0790d4675fdb4554ab13006a1c17c821_2\",\"http://schema.org/downloadUrl\":\"http://www.mcgis.org/datasets/0790d4675fdb4554ab13006a1c17c821_2.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://www.mcgisweb.org/mcgis/rest/services/ArcGISOpenData/ArcGISOpenData/MapServer/2\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

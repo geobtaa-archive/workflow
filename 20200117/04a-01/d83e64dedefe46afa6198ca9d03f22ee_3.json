@@ -1,0 +1,79 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "d83e64dedefe46afa6198ca9d03f22ee_3",
+  "dc_identifier_s": "d83e64dedefe46afa6198ca9d03f22ee_3",
+  "dc_title_s": "Local Transit - Bwi Airport Shuttle Routes: Maryland",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "This is a MD iMAP hosted service. Find more information on http://imap.maryland.gov.This layers displays BWI Shuttle Routes. Layer created from GTFS data by the Central Maryland Regional Transit. Layer is symbolized. Feature Service Layer Link: https://geodata.md.gov/imap/rest/services/Transportation/MD_LocalTransit/FeatureServer/3",
+  "dc_creator_sm": [
+    "ArcGIS Online for Maryland"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_keyword_sm": [
+    "Maryland",
+    "MD",
+    "local",
+    "transit",
+    "routes",
+    "stops",
+    "bus",
+    "MD iMAP",
+    "WFS",
+    "WMS",
+    "KML",
+    "transportation",
+    "TRAN",
+    "CMRT",
+    "Central Maryland Regional Transit",
+    "SHA",
+    "State Highway Administration",
+    "CME"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "2016-09-01",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "solr_year_i": "2016",
+  "dct_spatial_sm": [
+    "Maryland"
+  ],
+  "solr_geom": "ENVELOPE(-76.6943,-76.658,39.1931,39.1796)",
+  "b1g_centroid_ss": "39.186350000000004,-76.67615",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "04a-01",
+  "dct_isPartOf_sm": [
+    "04a-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/d83e64dedefe46afa6198ca9d03f22ee_3\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/d83e64dedefe46afa6198ca9d03f22ee_3.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://geodata.md.gov/imap/rest/services/Transportation/MD_LocalTransit/FeatureServer/3\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

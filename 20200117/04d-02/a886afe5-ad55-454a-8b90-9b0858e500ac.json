@@ -1,0 +1,61 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "a886afe5-ad55-454a-8b90-9b0858e500ac",
+  "dc_identifier_s": "a886afe5-ad55-454a-8b90-9b0858e500ac",
+  "dc_title_s": "Map of Denmark - Kj\u00f6ng (K\u00f8ng), 1906",
+  "dct_alternativeTitle_sm": [
+    "mdu-057068"
+  ],
+  "dc_description_s": "Map of Denmark - Kj\u00f6ng (K\u00f8ng), 1906. Scale=1:20,000. Topography, towns, roads for parts of Denmark",
+  "dc_creator_sm": [
+    ""
+  ],
+  "dc_publisher_sm": [
+    "Geodetic Institute"
+  ],
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Image"
+  ],
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "dc_format_s": "TIFF",
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "1906",
+  "dct_temporal_sm": [
+    "1906"
+  ],
+  "b1g_date_range_drsim": [
+    "[1906 TO 1906]"
+  ],
+  "solr_year_i": "1906",
+  "dct_spatial_sm": [
+    "Denmark"
+  ],
+  "solr_geom": "ENVELOPE(29.93325833,29.96088611,31.21359167,31.19111667)",
+  "b1g_centroid_ss": "31.20235417,29.94707222",
+  "dc_language_sm": [
+    ""
+  ],
+  "b1g_code_s": "04d-02",
+  "dct_isPartOf_sm": [
+    "04d-02"
+  ],
+  "b1g_dateAccessioned_s": "2019-11-04",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "Dublin Core",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/ff/f6/74/e8/fff674e8-6562-4ae1-a63b-39fa52f8f9be\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

@@ -1,0 +1,79 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "dc87c605fbac4ef2896b29df975d9aeb_1",
+  "dc_identifier_s": "dc87c605fbac4ef2896b29df975d9aeb_1",
+  "dc_title_s": "Water Quality - Tier Ii Baseline Stations 2016: Maryland",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "This is a MD iMAP hosted service. Find more information on http://imap.maryland.gov.This point dataset represents baseline Tier II MBSS stations used to designate each high quality Tier II stream segment within the State of Maryland. Each point represents either one benthic macroinvertebrate station location or one fish station location. This dataset currently contains 412 points, based on data collected between 1995 2015.Creator: Maryland Department of the Environment, Science Services Administration (MDE SSA)Assessment Data: Maryland Department of Natural Resources, Monitoring and Non-tidal Assessment Division, Maryland Biological Stream Survey Program (DNR MBSS), MDE SSA, Baltimore County Department of Environmental Protection and Sustainability, Frederick County Department of Sustainability and Environmental Resources, and various non-government certified entities.Other Geospatial Data: USGSThis dataset does not represent all of the sites ever sampled in a Tier II stream segment, only the sites that led to the official stream segment designation, as determined by MDE. Once designation occurs, any additional data collected meeting the data quality guidelines is used to determine assimilative capacity status of the corresponding Tier II stream segment. The Maryland Department of the Environmental shall not be held liable for improper or incorrect use of the data described and/or contained herein. These data and related graphics, as available for download from the MDE webpage, are not legal documents and are not to be used as such. MDE gives no warranty, expressed or implied, as to the accuracy, reliability, or completeness of these data. The information contained in these data is dynamic and may change over time. It is the responsibility of the data user to use the data appropriately and consistent within the limitations of geospatial data in general and these data in particular. Users should be aware that comparison with other data sets for the same area may be inaccurate due to inconsistencies resulting from changes in mapping conventions, data collection, and computer processes over time. It is strongly recommended that these data be directly acquired from an MDE source and not indirectly through other sources, which may have altered the data in some way. It is standard for citation and legal purposes for the Maryland Department of the Environment be cited as a data source when products are developed from this dataset.Feature Service Link: https://geodata.md.gov/imap/rest/services/Hydrology/MD_WaterQuality/FeatureServer/1",
+  "dc_creator_sm": [
+    "ArcGIS Online for Maryland"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dc_subject_sm": [
+    "Environment"
+  ],
+  "b1g_keyword_sm": [
+    "MD",
+    "Maryland",
+    "HYDR",
+    "Hydrology",
+    "Rivers",
+    "Streams",
+    "Lakes",
+    "Waterbodies",
+    "Water Quality",
+    "Tier II",
+    "Catchments",
+    "MDE",
+    "Maryland Department of the Environment",
+    "Vector",
+    "Dynamic",
+    "WFS",
+    "WMS",
+    "KML"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "2017-08-23",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "solr_year_i": "2016",
+  "dct_spatial_sm": [
+    "Maryland"
+  ],
+  "solr_geom": "ENVELOPE(-79.4239,-75.3567,39.7198,38.0423)",
+  "b1g_centroid_ss": "38.88105,-77.3903",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "04a-01",
+  "dct_isPartOf_sm": [
+    "04a-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/dc87c605fbac4ef2896b29df975d9aeb_1\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/dc87c605fbac4ef2896b29df975d9aeb_1.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://geodata.md.gov/imap/rest/services/Hydrology/MD_WaterQuality/FeatureServer/1\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

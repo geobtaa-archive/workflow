@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "746edac445f345c5abb1ca307c5ddd4f_5",
+  "dc_identifier_s": "746edac445f345c5abb1ca307c5ddd4f_5",
+  "dc_title_s": "Maryland Shellfish - Oyster Sanctuaries",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Polygon delineation of Maryland oyster sanctuaries. The document Oyster_Sanctuaries_of_the_Chespeake_Bay_and_Tidal_Tributaries_September 2010 is the source material for the features in this dataset. Section I of the document describes sanctuaries that were created prior to September 2010. Section II of the document describe sanctuaries that were created in September of 2010.This is a MD iMAP hosted service. Find more information?at?https://imap.maryland.gov.Feature Service Link:https://geodata.md.gov/imap/rest/services/Biota/MD_Shellfish/FeatureServer/5",
+  "dc_creator_sm": [
+    "ArcGIS Online for Maryland"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "2019-04-26",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "solr_year_i": "2019",
+  "dct_spatial_sm": [
+    "Maryland"
+  ],
+  "solr_geom": "ENVELOPE(-76.822,-75.6844,39.2738,37.963)",
+  "b1g_centroid_ss": "38.6184,-76.25319999999999",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "04a-01",
+  "dct_isPartOf_sm": [
+    "04a-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-05-29",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/746edac445f345c5abb1ca307c5ddd4f_5\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/746edac445f345c5abb1ca307c5ddd4f_5.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://geodata.md.gov/imap/rest/services/Biota/MD_Shellfish/FeatureServer/5\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

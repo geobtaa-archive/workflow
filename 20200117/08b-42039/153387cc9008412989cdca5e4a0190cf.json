@@ -1,0 +1,67 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "153387cc9008412989cdca5e4a0190cf",
+  "dc_identifier_s": "153387cc9008412989cdca5e4a0190cf",
+  "dc_title_s": "PAMAP Hillshade: Crawford County, Pennsylvania, 2005 ",
+  "dct_alternativeTitle_sm": [
+    "PAMAP 2005 Hillshade"
+  ],
+  "dc_description_s": "2005 PAMAP Hillshade model, derived from LiDAR DEM.",
+  "dc_creator_sm": [
+    "Crawford County Government"
+  ],
+  "dc_publisher_sm": [
+    "Crawford County, Pennsylvania"
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "b1g_keyword_sm": [
+    "Hillshade",
+    "DEM",
+    "PAMAP",
+    "imagery",
+    "Misc"
+  ],
+  "dc_type_sm": [
+    "Image",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Aerial imagery"
+  ],
+  "dc_format_s": "Imagery",
+  "layer_geom_type_s": "Raster",
+  "dct_provenance_s": "Penn State",
+  "dct_issued_s": "2019-01-15",
+  "dct_temporal_sm": [
+    "2005"
+  ],
+  "b1g_date_range_drsim": [
+    "[2005 TO 2005]"
+  ],
+  "solr_year_i": "2005",
+  "dct_spatial_sm": [
+    "Crawford County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "solr_geom": "ENVELOPE(-80.5538,-79.5807,41.8813,41.4499)",
+  "b1g_centroid_ss": "41.6656,-80.06725",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "08b-42039",
+  "dct_isPartOf_sm": [
+    "08b-42039"
+  ],
+  "b1g_dateAccessioned_s": "2019-09-04",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://share-open-data-crawfordcountypa.opendata.arcgis.com/datasets/153387cc9008412989cdca5e4a0190cf\",\"https://schema.org/downloadUrl\":\"https://share-open-data-crawfordcountypa.opendata.arcgis.com/datasets/153387cc9008412989cdca5e4a0190cf\",\"urn:x-esri:serviceType:ArcGIS#ImageMapLayer\":\"https://ccgis.crawfordcountypa.net/arcgis/rest/services/lidar/CCSDE_RASTER_STORAGE_PAMAP_2007_HILLSHADE/ImageServer\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

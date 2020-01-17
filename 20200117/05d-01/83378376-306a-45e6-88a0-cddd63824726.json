@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "83378376-306a-45e6-88a0-cddd63824726",
+  "dc_identifier_s": "83378376-306a-45e6-88a0-cddd63824726",
+  "dc_title_s": "Sketch map shewing the principal roads through the Punjab",
+  "dct_alternativeTitle_sm": [
+    "Sketch map shewing the principal roads through the Punjab."
+  ],
+  "dc_description_s": "Scale 1:1,013,760. 1 in. = 16 miles. Initial publication, 1854. Improvements and corrections, 1859.",
+  "dc_creator_sm": [
+    ""
+  ],
+  "dc_publisher_sm": [
+    "Surveyor General's Office"
+  ],
+  "dc_subject_sm": [
+    "Road maps"
+  ],
+  "b1g_keyword_sm": [
+    "Punjab (India) Roads Maps",
+    "Road Maps"
+  ],
+  "dc_type_sm": [
+    "Image"
+  ],
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "dc_format_s": "JPEG",
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Minnesota",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    "1859"
+  ],
+  "b1g_date_range_drsim": [
+    ""
+  ],
+  "solr_year_i": "1859",
+  "dct_spatial_sm": [
+    "India"
+  ],
+  "solr_geom": "ENVELOPE(73.86,76.91,32.48,29.53)",
+  "b1g_centroid_ss": "31.005,75.38499999999999",
+  "dc_language_sm": [
+    ""
+  ],
+  "b1g_code_s": "05d-01",
+  "dct_isPartOf_sm": [
+    "05d-p16022coll246,05d-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-07-26",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "Blacklight",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/229461\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/373/manifest.json\"}",
+  "layer_id_s": "373",
+  "b1g_image_ss": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll246/id/373"
+}

@@ -1,0 +1,61 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "3fc1b388-d361-4c9a-a072-8832e6d7abd9",
+  "dc_identifier_s": "3fc1b388-d361-4c9a-a072-8832e6d7abd9",
+  "dc_title_s": "Carte d'Afrique dress\u00e9e pour l'usage du roy; par Guillaume Delisle, premier g\u00e9ographe de sa majest\u00e9, de l'Academie Royale des Sciences; Ph. Buache p. g. d. r. d. l'A. R. d. S., gendre de l'auteur, avec priv. du 30 Av. 1745.",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Relief shown pictorially. 1745 reprint of L'Isle's 1722 map. Prime meridian: Ferro. 1 map: hand col.; 48 x 63 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_creator_sm": [
+    "L'Isle, Guillaume de, 1675-1726.,Buache, Philippe, 1700-1773."
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_keyword_sm": [
+    "Clark Library Map Collections"
+  ],
+  "dc_type_sm": [
+    "Image"
+  ],
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "dc_format_s": "JPEG",
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Michigan",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    "1745"
+  ],
+  "b1g_date_range_drsim": [
+    "[1745 TO 1745]"
+  ],
+  "solr_year_i": "1745",
+  "dct_spatial_sm": [
+    "Africa"
+  ],
+  "solr_geom": "ENVELOPE(-42.82,73.8,45.92,-39.75)",
+  "b1g_centroid_ss": "3.085000000000001,15.489999999999998",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "07d-01",
+  "dct_isPartOf_sm": [
+    "07d-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-01-16",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-004936393/39015091916737\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:004936393\"}",
+  "layer_id_s": "4936393",
+  "b1g_image_ss": "https://quod.lib.umich.edu/cgi/i/image/api/image/clark1ic:004936393:39015091916737/full/res:1/0/native.jpg?attachment=1"
+}

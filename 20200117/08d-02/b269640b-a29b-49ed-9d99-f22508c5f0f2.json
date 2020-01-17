@@ -1,0 +1,65 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "b269640b-a29b-49ed-9d99-f22508c5f0f2",
+  "dc_identifier_s": "b269640b-a29b-49ed-9d99-f22508c5f0f2",
+  "dc_title_s": "Newtown, Pennsylvania, 1915",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Newtown, Bucks County, Pennsylvania, June 1915. 1 map on 8 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_subject_sm": [
+    "Fire insurance maps"
+  ],
+  "b1g_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dc_type_sm": [
+    "Image"
+  ],
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "dc_format_s": "JPEG",
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Penn State",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    "1915"
+  ],
+  "b1g_date_range_drsim": [
+    "[1915 TO 1915]"
+  ],
+  "solr_year_i": "1915",
+  "dct_spatial_sm": [
+    "Newtown, Pennsylvania",
+    "Bucks County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "solr_geom": "ENVELOPE(-74.938919,-74.9248081,40.2380011,40.2208019)",
+  "b1g_centroid_ss": "40.229401499999994,-74.93186355",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "08d-02",
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "b1g_dateAccessioned_s": "2019-04-22",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "CONTENTdm",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/18954/manifest.json\",\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/18954\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

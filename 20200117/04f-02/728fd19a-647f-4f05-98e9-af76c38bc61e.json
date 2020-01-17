@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "728fd19a-647f-4f05-98e9-af76c38bc61e",
+  "dc_identifier_s": "728fd19a-647f-4f05-98e9-af76c38bc61e",
+  "dc_title_s": "Parks Trails: Montgomery County, Maryland",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "This is a feature class in the geodatabase Trails, Montgomery Parks: Montgomery County, Maryland",
+  "dc_creator_sm": [
+    ""
+  ],
+  "dc_publisher_sm": [
+    "The Maryland-National Capital Park and Planning Commission"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Geodatabase",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "solr_year_i": "2018",
+  "dct_spatial_sm": [
+    "Montgomery County, Maryland",
+    "Maryland"
+  ],
+  "solr_geom": "ENVELOPE(-77.518986,-76.919523,39.285127,38.936339)",
+  "b1g_centroid_ss": "39.110732999999996,-77.2192545",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "04f-02",
+  "dct_isPartOf_sm": [
+    "04f-02"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://montgomeryplanning.org/tools/gis-and-mapping/gis-data/data-downloads/\",\"http://schema.org/downloadUrl\":\"http://mcatlas.org/tiles/00_Shapefiles/ParkTrails_montgomery.gdb.zip\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

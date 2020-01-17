@@ -1,0 +1,61 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "943953a1-6314-43a0-83b7-22dcca5b1870",
+  "dc_identifier_s": "943953a1-6314-43a0-83b7-22dcca5b1870",
+  "dc_title_s": "Flood Risk Web Service of the Twenty-Five-Year Floodplain: Iowa",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "",
+  "dc_creator_sm": [
+    ""
+  ],
+  "dc_publisher_sm": [
+    "State of Iowa"
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Files",
+  "layer_geom_type_s": "Mixed",
+  "dct_provenance_s": "Iowa",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "solr_year_i": "2018",
+  "dct_spatial_sm": [
+    "Iowa"
+  ],
+  "solr_geom": "ENVELOPE(-96.6395,-90.1401,43.5099,40.3754)",
+  "b1g_centroid_ss": "41.94265,-93.38980000000001",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "03a-03",
+  "dct_isPartOf_sm": [
+    "03a-03"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.iowa.gov/dataset/flood-risk-areas\",\"http://schema.org/downloadUrl\":\"https://geodata.iowa.gov/dataset/flood-risk-areas\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://programs.iowadnr.gov/geospatial/rest/services/SurfaceWaters/FloodRisk025yr/MapServer\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

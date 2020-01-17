@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "ae96db0a66914f05ab09c83f9e9df15f_9",
+  "dc_identifier_s": "ae96db0a66914f05ab09c83f9e9df15f_9",
+  "dc_title_s": "Automated External Defibrillator: Washington, D.C.",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "This data set contains locations for Automated External Defibrillators (AED) that have been registered with the District's Fire and EMS agency. An AED is an electronic device that analyzes the heart s rhythm and tells the user to deliver a defibrillation shock when it is required. An AED is portable and easy to use. Anyone who has successfully completed a nationally-recognized CPR/AED course can use an AED. The AED program will train the public to recognize early warning signs of cardiac arrest, perform cardio-pulmonary resuscitation (CPR), and promote the placement of AEDs in places where people work, exercise, and congregate. DC Fire/EMS partners in this effort are the American Heart Association, the DC Chamber of Commerce, the National Capital Chapter of the American Red Cross and Medtronic Physio-Control. Together we are promoting healthy eating and proper exercise, public education programs encouraging people to learn CPR and how to operate an AED, and increasing the availability of AEDs in the District. For further information visit http://fems.dc.gov/page/automated-external-defibrillator-program or contact (202) 673-3320 or via email: dcpad.program@dc.gov.",
+  "dc_creator_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_publisher_sm": [
+    "District of Columbia"
+  ],
+  "dc_subject_sm": [
+    "Location"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "2015-11-24",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "b1g_date_range_drsim": [
+    "[2015 TO 2015]"
+  ],
+  "solr_year_i": "2015",
+  "dct_spatial_sm": [
+    "Washington D.C"
+  ],
+  "solr_geom": "ENVELOPE(-60.59011762,179.9999885,90,-69.99444444)",
+  "b1g_centroid_ss": "10.002777780000002,59.70493544",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "04c-01",
+  "dct_isPartOf_sm": [
+    "04c-01"
+  ],
+  "b1g_dateAccessioned_s": "2018-03-15",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/ae96db0a66914f05ab09c83f9e9df15f_9\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/ae96db0a66914f05ab09c83f9e9df15f_9.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Health_WebMercator/MapServer/9\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

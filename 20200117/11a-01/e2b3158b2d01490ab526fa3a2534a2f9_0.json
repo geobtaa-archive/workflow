@@ -1,0 +1,65 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "e2b3158b2d01490ab526fa3a2534a2f9_0",
+  "dc_identifier_s": "e2b3158b2d01490ab526fa3a2534a2f9_0",
+  "dc_title_s": "Antidegredation Tiers - Surface Water: Ohio",
+  "dct_alternativeTitle_sm": [
+    "Antidegredation Tiers - Surface Water"
+  ],
+  "dc_description_s": "Federal Water Quality Standard (WQS) program regulations require that States adopt and use an antidegradation policy. The policy has two distinct purposes. First, an antidegradation policy must provide a systematic and reasoned decision making process to evaluate the need to lower water quality. Regulated activities should not lower water quality unless the need to do so is demonstrated based on technical, social and economic criteria. The second purpose of an antidegradation policy is to ensure that the State s highest quality streams, rivers and lakes are preserved. Section 6111.12(A)(2) of the Ohio Revised Code specifically requires that the Ohio EPA establish provisions ensuring that waters of exceptional recreational and ecological value are maintained as high quality resources for future generations. The rule identifies stream segments that are classified as Superior High Quality Waters and Outstanding High Quality Waters.For more information: https://www.epa.ohio.gov/dsw/rules/antidegguide_2003",
+  "dc_creator_sm": [
+    "Ohio EPA, Division of Surface Water"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "b1g_keyword_sm": [
+    "DSW",
+    "beneficial use",
+    "surface water",
+    "monitoring"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Ohio State",
+  "dct_issued_s": "2019-08-30",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "solr_year_i": "2019",
+  "dct_spatial_sm": [
+    "Ohio"
+  ],
+  "solr_geom": "ENVELOPE(-84.82,-80.5191,41.972,38.626)",
+  "b1g_centroid_ss": "40.299,-82.66954999999999",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "11a-01",
+  "dct_isPartOf_sm": [
+    "11a-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-09-04",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://ogrip-geohio.opendata.arcgis.com/datasets/e2b3158b2d01490ab526fa3a2534a2f9_0\",\"https://schema.org/downloadUrl\":\"https://ogrip-geohio.opendata.arcgis.com/datasets/e2b3158b2d01490ab526fa3a2534a2f9_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services2.arcgis.com/dPMsmH8HlhhfDWQu/arcgis/rest/services/AntidegTiers_only/FeatureServer/0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

@@ -1,0 +1,74 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "5a357128cf2b490e9c716e03dcc03a3e_62",
+  "dc_identifier_s": "5a357128cf2b490e9c716e03dcc03a3e_62",
+  "dc_title_s": "Capital Area Food Bank Hunger Estimates By Census Tract: Washington, Dc, Maryland, Virginia, 2014 - 2015",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Polygons in this layer represent Census Tracts in the DMV (DC, Maryland, and Virginia). Data are included for each tract which estimate hunger and food insecurity. Data were compiled by the CAFB through internal tracking, and the layer was shared with the DC government as a courtesy. Fields include (all available for 2015 and 2014):15_FI_Rate: The estimated portion of the population in the census tract experiencing food insecurity (by CAFB standards). 15/14 indicates year measured.15_FI_Pop: The estimated number of people in the census tract experiencing food insecurity (by CAFB standards). 15/14 indicates year measured.15_LB_Need: The estimated pounds of food needed by the food insecure population in the census tract. 15/14 indicates year measured.15_Distrib: The number of pounds of food distributed by CAFB and partners in the census tract. 15/14 indicates year in which the distribution took place.15_LB_Unme: The difference between the estimated pounds of food needed and the real pounds of food distributed by CAFB and partners, representing the unmet need for food assistance in the census tract. 15/14 indicates year.The layer was shared with the DC government in May 2016 and is based on 2015 and 2014 data.",
+  "dc_creator_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_publisher_sm": [
+    "District of Columbia"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Health"
+  ],
+  "b1g_keyword_sm": [
+    "public service",
+    "Food Policy",
+    "Capital Area Food Bank",
+    "CAFB",
+    "Food Access",
+    "Hunger",
+    "Food Insecurity",
+    "dc",
+    "dcgis",
+    "washington dc",
+    "mar2018",
+    "foodeats"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "2018-03-19",
+  "dct_temporal_sm": [
+    "2014-2015"
+  ],
+  "b1g_date_range_drsim": [
+    "[2014 TO 2015]"
+  ],
+  "solr_year_i": "2014",
+  "dct_spatial_sm": [
+    "Washington D.C"
+  ],
+  "solr_geom": "ENVELOPE(-77.720719,-76.667423,39.353623,38.497899)",
+  "b1g_centroid_ss": "38.925760999999994,-77.19407100000001",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "04c-01",
+  "dct_isPartOf_sm": [
+    "04c-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/5a357128cf2b490e9c716e03dcc03a3e_62\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/5a357128cf2b490e9c716e03dcc03a3e_62.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Public_Service_WebMercator/MapServer/62\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

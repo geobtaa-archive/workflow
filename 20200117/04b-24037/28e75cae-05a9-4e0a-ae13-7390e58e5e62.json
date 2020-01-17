@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "28e75cae-05a9-4e0a-ae13-7390e58e5e62",
+  "dc_identifier_s": "28e75cae-05a9-4e0a-ae13-7390e58e5e62",
+  "dc_title_s": "Building Footprints: St. Mary's County, Maryland, 2007",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Planimetric building footprints.",
+  "dc_creator_sm": [
+    ""
+  ],
+  "dc_publisher_sm": [
+    "St. Mary's County, Maryland"
+  ],
+  "dc_subject_sm": [
+    "Structure"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "b1g_date_range_drsim": [
+    "[2007 TO 2007]"
+  ],
+  "solr_year_i": "2007",
+  "dct_spatial_sm": [
+    "St. Mary's County, Maryland",
+    "Maryland"
+  ],
+  "solr_geom": "ENVELOPE(-76.858149,-76.317416,38.513168,38.038276)",
+  "b1g_centroid_ss": "38.275722,-76.5877825",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "04b-24037",
+  "dct_isPartOf_sm": [
+    "04b-24037"
+  ],
+  "b1g_dateAccessioned_s": "2019-04-05",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.stmarysmd.com/gis/\",\"http://schema.org/downloadUrl\":\"http://stmgis.stmarysmd.com/Downloads/Buildings.zip\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "c075334103c2432885f05e32b637fb9a_0",
+  "dc_identifier_s": "c075334103c2432885f05e32b637fb9a_0",
+  "dc_title_s": "Montgomery County Parcels: Montgomery County, Pennsylvania",
+  "dct_alternativeTitle_sm": [
+    "Montgomery County Parcels"
+  ],
+  "dc_description_s": "ONE OR MORE OF THE ACCESS LINKS FOR THIS RECORD WERE REPORTED AS BROKEN. THE RECORD MAY HAVE BEEN RETIRED BY THE HOST. Montgomery County Parcels.  This data will be uploaded bi-weekly.",
+  "dc_creator_sm": [
+    "Montgomery County"
+  ],
+  "dc_publisher_sm": [
+    "Montgomery County, Pennsylvania"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Penn State",
+  "dct_issued_s": "2018-10-29T13:56:22.000Z",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "solr_year_i": "2018",
+  "dct_spatial_sm": [
+    "Montgomery County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "solr_geom": "ENVELOPE(-75.70531311,-75.00296557,40.43577685,39.98554018)",
+  "b1g_centroid_ss": "40.210658515000006,-75.35413934",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "08b-42091",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "b1g_dateAccessioned_s": "2019-04-14",
+  "b1g_dateRetired_s": "2019-04",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Retired",
+  "dc_rights_s": "Public",
+  "suppressed_b": "TRUE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data-montcopa.opendata.arcgis.com/datasets/c075334103c2432885f05e32b637fb9a_0\",\"http://schema.org/downloadUrl\":\"http://data-montcopa.opendata.arcgis.com/datasets/c075334103c2432885f05e32b637fb9a_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/kOChldNuKsox8qZD/arcgis/rest/services/Montgomery_County_Parcels/FeatureServer/0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

@@ -1,0 +1,74 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "11b-39123",
+  "dc_identifier_s": "11b-39123",
+  "dc_title_s": "Data Downloads FTP (Google Drive) for Ottawa County, Ohio",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "FTP Google Drive containing downloadable shapefiles, geodatabases for parcels, addresses, transportation, boundaries, schools hydrology, geology, and more. Also contains 2016 aerial photography and other base maps.",
+  "dc_creator_sm": [
+    "Ottawa County Engineer's and Auditor's Offices"
+  ],
+  "dc_publisher_sm": [
+    "Ottawa County, Ohio"
+  ],
+  "dc_subject_sm": [
+    "Counties geospatial data"
+  ],
+  "b1g_keyword_sm": [
+    "Boundaries",
+    "Economy",
+    "Elevation",
+    "Environment",
+    "Geoscientific Information",
+    "Imagery and Base Maps",
+    "Inland Waters",
+    "Location",
+    "Planning and Cadastral",
+    "Society",
+    "Structure",
+    "Transportation",
+    "Utilities and Communication"
+  ],
+  "dc_type_sm": [
+    "Collection"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "",
+  "layer_geom_type_s": "Table",
+  "dct_provenance_s": "Ohio State",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    "2006-present"
+  ],
+  "b1g_date_range_drsim": [
+    "[2006 TO 2006]"
+  ],
+  "solr_year_i": "",
+  "dct_spatial_sm": [
+    "Ottawa County, Ohio",
+    "Ohio"
+  ],
+  "solr_geom": "ENVELOPE(-83.41592,-82.69836,41.62771,41.45717)",
+  "b1g_centroid_ss": "41.54244,-83.05714",
+  "dc_language_sm": [
+    ""
+  ],
+  "b1g_code_s": "11b-39123",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "b1g_dateAccessioned_s": "",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "",
+  "b1g_status_s": "",
+  "dc_rights_s": "Public",
+  "suppressed_b": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://drive.google.com/drive/folders/0B4hTJB05icP8cjNJZnFIVEVJbmM\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

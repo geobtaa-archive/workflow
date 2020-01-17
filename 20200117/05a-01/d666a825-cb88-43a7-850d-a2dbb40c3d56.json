@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "d666a825-cb88-43a7-850d-a2dbb40c3d56",
+  "dc_identifier_s": "d666a825-cb88-43a7-850d-a2dbb40c3d56",
+  "dc_title_s": "Digital Orthoimagery, Carlton County, Spring 2015, 9-inch Resolution: Minnesota",
+  "dct_alternativeTitle_sm": [
+    "Digital Orthoimagery\\\\\\, Carlton County\\\\\\, Spring 2015\\\\\\, 9-inch Resolution"
+  ],
+  "dc_description_s": "Pictometry flew 9-inch, leaf-off, color orthoimagery across Carlton County, Minnesota during the spring of 2015.",
+  "dc_creator_sm": [
+    "Carlton County and Pictometry International Corporation"
+  ],
+  "dc_publisher_sm": [
+    "Carlton County, Minnesota"
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Image",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Aerial imagery"
+  ],
+  "dc_format_s": "Files",
+  "layer_geom_type_s": "Raster",
+  "dct_provenance_s": "Minnesota",
+  "dct_issued_s": "2016-03-05",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "b1g_date_range_drsim": [
+    "[2015 TO 2015]"
+  ],
+  "solr_year_i": "2015",
+  "dct_spatial_sm": [
+    "Carlton County, Minnesota",
+    "Minnesota"
+  ],
+  "solr_geom": "ENVELOPE(-93.08,-92.27,46.78,46.41)",
+  "b1g_centroid_ss": "46.595,-92.675",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "05a-01",
+  "dct_isPartOf_sm": [
+    "05a-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-07-23",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "Minnesota Geospatial Commons",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/d666a825-cb88-43a7-850d-a2dbb40c3d56\",\"http://www.w3.org/1999/xhtml\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_mngeo/base_carlton_2015_airphoto_9in/metadata/metadata.html\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

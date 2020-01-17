@@ -1,0 +1,66 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "88d9dd727f3c453793a8871000593bec_30",
+  "dc_identifier_s": "88d9dd727f3c453793a8871000593bec_30",
+  "dc_title_s": "Lead Safe Units: Columbus, Ohio",
+  "dct_alternativeTitle_sm": [
+    "Lead Safe Units"
+  ],
+  "dc_description_s": "This layer depicts properties that have passed a lead clearance evaluation in the Lead Safe Columbus Program. The units shown were deemed lead-safe based on a lead clearance evaluation in the month shown. Lead-safe means that there was no deteriorated lead-based paint, no lead-contaminated dust, and no exposed lead-contaminated soil identified at the time of the lead evaluation. This does not mean that the units listed are vacant or available at this time. Please contact the owner of the property for rental information. With local and grant funding through the U.S. Department of Housing and Urban Development, Office of Healthy Homes and Lead Hazard Control, the mission of the Lead Safe Columbus Program is to generate lead-safe and healthy affordable housing and to prevent lead poisoning of children and adults in Columbus neighborhoods. This program may provide funding to eligible property owners for lead-based paint hazard control and addressing healthy homes hazards in tenant or owner occupied units. More information can be obtained at https://www.columbus.gov/development/housing-division/Lead-Safe-Columbus_M/.",
+  "dc_creator_sm": [
+    "City of Columbus, Ohio"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Location"
+  ],
+  "b1g_keyword_sm": [
+    "Columbus",
+    "City",
+    "Development",
+    "Ohio"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Ohio State",
+  "dct_issued_s": "2019-08-10",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "solr_year_i": "2019",
+  "dct_spatial_sm": [
+    "Columbus, Ohio",
+    "Ohio"
+  ],
+  "solr_geom": "ENVELOPE(-83.0876,-82.8827,40.0827,39.9083)",
+  "b1g_centroid_ss": "39.9955,-82.98515",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "11a-01",
+  "dct_isPartOf_sm": [
+    "11a-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-09-04",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://ogrip-geohio.opendata.arcgis.com/datasets/88d9dd727f3c453793a8871000593bec_30\",\"https://schema.org/downloadUrl\":\"https://ogrip-geohio.opendata.arcgis.com/datasets/88d9dd727f3c453793a8871000593bec_30.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.columbus.gov/arcgis/rest/services/Schemas/Development/MapServer/30\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

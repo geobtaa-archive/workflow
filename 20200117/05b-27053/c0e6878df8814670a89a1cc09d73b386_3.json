@@ -1,0 +1,67 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "c0e6878df8814670a89a1cc09d73b386_3",
+  "dc_identifier_s": "c0e6878df8814670a89a1cc09d73b386_3",
+  "dc_title_s": "Census Blocks: Hennepin County, Minnesota, 2010",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "2010 US Census block boundaries attributed with a subset of the PL94-171 demographic data released March 2011. Please contact the Hennepin GIS Office if you require additional PL94-171 fields. Downloaded the 2010 US Census block boundary shapefile from the US Census Bureau at the following address: http://www.census.gov/cgi-bin/geo/shapefiles2010/mainDownloaded the PL94-171 demographic data from the following address: http://www.census.gov/rdo/data/2010_census_redistricting_data_pl_94-171_summary_files.html Post processed the demographic data per instructions. Stored in Access database. Set up SQL Query to create a subset of the data based on feedback from HSPHD and the GIS Office. Database documentation on file at the GIS Office. Imported the shapefile and demographic data into a File geodatabase. Joined and saved the data sets. Performed error checking by comparing against State and Maptitude versions. The TIGER/Line Files are shapefiles and related database files (.dbf) that are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line File is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. Census Blocks are statistical areas bounded on all sides by visible features, such as streets, roads, streams, and railroad tracks, and/or by nonvisible boundaries such as city, town, township, and county limits, and short line-of-sight extensions of streets and roads. Census blocks are relatively small in area; for example, a block in a city bounded by streets. However, census blocks in remote areas are often large and irregular and may even be many square miles in area. A common misunderstanding is that data users think census blocks are used geographically to build all other census geographic areas, rather all other census geographic areas are updated and then used as the primary constraints, along with roads and water features, to delineate the tabulation blocks. As a result, all 2010 Census blocks nest within every other 2010 Census geographic area, so that Census Bureau statistical data can be tabulated at the block level and aggregated up to the appropriate geographic areas. Census blocks cover all territory in the United States, Puerto Rico, and the Island Areas (American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, and the U.S. Virgin Islands). Blocks are the smallest geographic areas for which the Census Bureau publishes data from the decennial census. A block may consist of one or more faces.Link to Attribute Table Information: http://gis.hennepin.us/OpenData/Metadata/2010%20Census%20Blocks.pdfData updated: 04/08/2011Use Limitations: This data (i) is furnished AS IS with no representation as to completeness or accuracy; (ii) is furnished with no warranty of any kind; and (iii) is not suitable for legal, engineering or surveying purposes. Hennepin County shall not be liable for any damage, injury or loss resulting from this data.",
+  "dc_creator_sm": [
+    "Hennepin County"
+  ],
+  "dc_publisher_sm": [
+    "Hennepin County, Minnesota"
+  ],
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "b1g_keyword_sm": [
+    "open data",
+    "census",
+    "demographics",
+    "people and society",
+    "boundaries"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Minnesota",
+  "dct_issued_s": "2015-09-14",
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "b1g_date_range_drsim": [
+    "[2010 TO 2010]"
+  ],
+  "solr_year_i": "2010",
+  "dct_spatial_sm": [
+    "Hennepin County, Minnesota",
+    "Minnesota"
+  ],
+  "solr_geom": "ENVELOPE(-93.772,-93.1769,45.2477,44.7834)",
+  "b1g_centroid_ss": "45.015550000000005,-93.47445",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "05b-27053",
+  "dct_isPartOf_sm": [
+    "05b-27053"
+  ],
+  "b1g_dateAccessioned_s": "2019-07-23",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://gis-hennepin.opendata.arcgis.com/datasets/c0e6878df8814670a89a1cc09d73b386_3\",\"http://schema.org/downloadUrl\":\"http://gis-hennepin.opendata.arcgis.com/datasets/c0e6878df8814670a89a1cc09d73b386_3.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.hennepin.us/arcgis/rest/services/HennepinData/PEOPLE_SOCIETY/MapServer/3\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

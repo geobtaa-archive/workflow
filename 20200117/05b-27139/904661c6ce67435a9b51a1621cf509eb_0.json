@@ -1,0 +1,66 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "904661c6ce67435a9b51a1621cf509eb_0",
+  "dc_identifier_s": "904661c6ce67435a9b51a1621cf509eb_0",
+  "dc_title_s": "Recycling, Household Hazardous, and Solid Waste Accepting Facilities: Scott County, Minnesota",
+  "dct_alternativeTitle_sm": [
+    "Recycling\\, Household Hazardous\\, and Solid Waste Accepting Facilities"
+  ],
+  "dc_description_s": "This dataset contains known facilities that accept and properly dispose of recycling and waste in Scott County.",
+  "dc_creator_sm": [
+    "Scott County Minnesota"
+  ],
+  "dc_publisher_sm": [
+    "Scott County, Minnesota"
+  ],
+  "dc_subject_sm": [
+    "Location"
+  ],
+  "b1g_keyword_sm": [
+    "Recycling",
+    "HHW",
+    "Solid Waste",
+    "Facilities"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Minnesota",
+  "dct_issued_s": "2019-03-21T21:39:12.000Z",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "b1g_date_range_drsim": [
+    ""
+  ],
+  "solr_year_i": "2019",
+  "dct_spatial_sm": [
+    "Scott County, Minnesota",
+    "Minnesota"
+  ],
+  "solr_geom": "ENVELOPE(-94.0885,-93.0417,45.0503,44.1233)",
+  "b1g_centroid_ss": "44.5868,-93.5651",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "05b-27139",
+  "dct_isPartOf_sm": [
+    "05b-27139"
+  ],
+  "b1g_dateAccessioned_s": "2019-12-06",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.gis.co.scott.mn.us/datasets/904661c6ce67435a9b51a1621cf509eb_0\",\"http://schema.org/downloadUrl\":\"http://opendata.gis.co.scott.mn.us/datasets/904661c6ce67435a9b51a1621cf509eb_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/DqIh9WAsIZcPlBEF/arcgis/rest/services/Household_Hazardous_Waste/FeatureServer/0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

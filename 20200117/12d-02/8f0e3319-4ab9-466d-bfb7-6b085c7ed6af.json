@@ -1,0 +1,61 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "8f0e3319-4ab9-466d-bfb7-6b085c7ed6af",
+  "dc_identifier_s": "8f0e3319-4ab9-466d-bfb7-6b085c7ed6af",
+  "dc_title_s": "A new map of America from the latest observations",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "1 map: color; (In New (A) general atlas. (anon.) fol. London for D. Browne, 1721. facing p. 236); Decorated title inset with natives in costume. Date 1721 pencilled in; Relief shown pictorially; Shows entire western hemisphere, with California as an island; Watermarks: Fleur de lis, AB; Dedication: Most humbly inscrib(e)d to the Right Hono(ra)ble The Earl of Berkshire &c. Deputy Earl Marshal of England; Includes elaborate cartouche depicting native Americans in upper left corner; Does not include legend. Scale approximately 1:33,960,000 (W 174\u00b032\u02b900\u02ba--W 20\u00b012\u02b900\u02ba/N 71\u00b039\u02b900\u02ba--S 70\u00b035\u02b900\u02ba).",
+  "dc_creator_sm": [
+    "Senex, John, -1740"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Early maps"
+  ],
+  "b1g_keyword_sm": [
+    "Early Maps of the Americas"
+  ],
+  "dc_type_sm": [
+    "Image"
+  ],
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "dc_format_s": "JPEG",
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Chicago",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    "1721"
+  ],
+  "b1g_date_range_drsim": [
+    "[1721 TO 1721]"
+  ],
+  "solr_year_i": "1721",
+  "dct_spatial_sm": [
+    "America"
+  ],
+  "solr_geom": "ENVELOPE(-174.5333,-20.2,71.65,-70.5833)",
+  "b1g_centroid_ss": "0.5333500000000058,-97.36664999999999",
+  "dc_language_sm": [
+    ""
+  ],
+  "b1g_code_s": "12d-02",
+  "dct_isPartOf_sm": [
+    "12d-02"
+  ],
+  "b1g_dateAccessioned_s": "2019-07-26",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://pi.lib.uchicago.edu/1001/maps/earlymapsamericas/G3290-1721-S4\",\"http://schema.org/downloadUrl\":\"https://luna.lib.uchicago.edu/MediaManager/srvr?mediafile=/Size4/UCHICAGO~2~2/2353/G3290-1721-S4.jpg\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": "https://btaagdp.org/thumbnails/G3290-1721-S4.jpg"
+}

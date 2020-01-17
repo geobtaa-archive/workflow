@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "2711277bdc704c8d88c0f673c90ed106_0",
+  "dc_identifier_s": "2711277bdc704c8d88c0f673c90ed106_0",
+  "dc_title_s": "SARTA Bus Stops, 2016: Stark County, Ohio, United States",
+  "dct_alternativeTitle_sm": [
+    "SARTA Bus Stops (2016)"
+  ],
+  "dc_description_s": "ONE OR MORE OF THE ACCESS LINKS FOR THIS RECORD WERE REPORTED AS BROKEN. THE RECORD MAY HAVE BEEN RETIRED BY THE HOST. Bus stops for routes provided by the Stark County Regional Transit Authority (SARTA) throughout Stark County, Ohio. These points were provided to Stark County GIS (SCGIS) as a one-time export in April of 2016. This layer is not updated. For the most up-to-date information about SARTA bus routes, see https://www.sartaonline.com.",
+  "dc_creator_sm": [
+    ""
+  ],
+  "dc_publisher_sm": [
+    "Ohio Geographically Referenced Information Program"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Ohio State",
+  "dct_issued_s": "2017-05-19",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "solr_year_i": "2016",
+  "dct_spatial_sm": [
+    "Ohio"
+  ],
+  "solr_geom": "ENVELOPE(-81.69605406,-81.08672418,41.53930343,40.6670991)",
+  "b1g_centroid_ss": "41.103201264999996,-81.39138912",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "11a-01",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "b1g_dateAccessioned_s": "2019-06-12",
+  "b1g_dateRetired_s": "2019-07-23",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Retired",
+  "dc_rights_s": "Public",
+  "suppressed_b": "TRUE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/2711277bdc704c8d88c0f673c90ed106_0\",\"http://schema.org/downloadUrl\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/2711277bdc704c8d88c0f673c90ed106_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services2.arcgis.com/1JiK2PayqrHvvJhM/arcgis/rest/services/SARTA_Bus_Stops/FeatureServer/0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

@@ -1,0 +1,68 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "ef116ecb6b9f4680b9bef751b97e3ec4_5",
+  "dc_identifier_s": "ef116ecb6b9f4680b9bef751b97e3ec4_5",
+  "dc_title_s": "City Council Wards: Dublin, Ohio",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Geographic boundaries of the four city council wards for the city of Dublin, Ohio. Dublin city council is comprised of one elected member from each ward along with three 'at-large' members. Wards are reapportioned after each decennial census.",
+  "dc_creator_sm": [
+    "City of Dublin, Ohio"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "b1g_keyword_sm": [
+    "Dublin Ohio",
+    "Municipal",
+    "Dublin",
+    "Council",
+    "City Council",
+    "Council Wards"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Ohio State",
+  "dct_issued_s": "2012-06-01",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "b1g_date_range_drsim": [
+    "[2012 TO 2012]"
+  ],
+  "solr_year_i": "2012",
+  "dct_spatial_sm": [
+    "Dublin, Ohio",
+    "Ohio"
+  ],
+  "solr_geom": "ENVELOPE(-83.2025,-83.0888,40.1637,40.063)",
+  "b1g_centroid_ss": "40.11335,-83.14565",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "11a-01",
+  "dct_isPartOf_sm": [
+    "11a-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/ef116ecb6b9f4680b9bef751b97e3ec4_5\",\"http://schema.org/downloadUrl\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/ef116ecb6b9f4680b9bef751b97e3ec4_5.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://mapping.dublin.oh.us/ArcGIS/rest/services/Boundaries/MapServer/5\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

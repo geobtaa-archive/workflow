@@ -1,0 +1,73 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "03d9a287-c98e-40e2-ae77-7838e88c7c47",
+  "dc_identifier_s": "03d9a287-c98e-40e2-ae77-7838e88c7c47",
+  "dc_title_s": "Nieuwe kaart van India over de Ganges: of van Malakka, Siam, Cambodia, Chiampa, Kochinchina, Laos, Pegu, Ava, enz.",
+  "dct_alternativeTitle_sm": [
+    "Nieuwe kaart van India over de Ganges : of van Malakka\\, Siam\\, Cambodia\\, Chiampa\\, Kochinchina\\, Laos\\, Pegu\\, Ava\\, enz."
+  ],
+  "dc_description_s": "Scale 1\u00b0 to 15 German miles. 1\u00b0 to 60 English miles. 1\u00b0 to 20 French miles (E 86\u2070--E 120\u2070/N 28\u2070--N 1\u2070). Hand-coloured. Limited coverage. Probably from his Nieuwe en beknopte hand-atlas, 1744-1769. 29 x 36 cm",
+  "dc_creator_sm": [
+    "Tirion, Isaak"
+  ],
+  "dc_publisher_sm": [
+    "Tirion"
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_keyword_sm": [
+    "Southeast Asia Maps Early Works to 1800",
+    "Cambodia Maps Early Works to 1800",
+    "Laos Maps Early Works to 1800",
+    "Vietnam Maps Early Works to 1800",
+    "Thailand Maps Early Works to 1800",
+    "Burma Maps Early Works to 1800",
+    "Sumatra (Indonesia) Maps Early Works to 1800",
+    "Malaysia Maps Early Works to 1800"
+  ],
+  "dc_type_sm": [
+    "Image"
+  ],
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "dc_format_s": "JPEG",
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Minnesota",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    "1750?"
+  ],
+  "b1g_date_range_drsim": [
+    ""
+  ],
+  "solr_year_i": "1750",
+  "dct_spatial_sm": [
+    "Cambodia",
+    "Laos",
+    "Vietnam",
+    "Thailand",
+    "Burma, Myanmar [Burma]",
+    "Malaysia"
+  ],
+  "solr_geom": "ENVELOPE(86,120,28,1)",
+  "b1g_centroid_ss": "14.5,103.0",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "05d-01",
+  "dct_isPartOf_sm": [
+    "05d-p16022coll246,05d-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-07-26",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "Blacklight",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/200849\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/383/manifest.json\"}",
+  "layer_id_s": "383",
+  "b1g_image_ss": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll246/id/383"
+}

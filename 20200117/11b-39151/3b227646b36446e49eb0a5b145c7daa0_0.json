@@ -1,0 +1,70 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "3b227646b36446e49eb0a5b145c7daa0_0",
+  "dc_identifier_s": "3b227646b36446e49eb0a5b145c7daa0_0",
+  "dc_title_s": "Zoning Compilation: Stark County, Ohio",
+  "dct_alternativeTitle_sm": [
+    "Zoning Compilation"
+  ],
+  "dc_description_s": "Zoning is the process of dividing land to permit or prohibit specific uses. This layer is not a countywide zoning layer, rather, a compilation of zoning for individual cities, villages, and townships within Stark County, Ohio. The Stark County Regional Planning Commission (SCRPC) maintains the zoning information for each of the county's townships. SCRPC will also contract with several of the county's villages and cities to maintain their zoning layer. Zoning information maintained by the respective community is not provided to SCRPC or Stark County GIS (SCGIS) at any set interval for updates. Please see the respective website for those jurisdictions to find the most up-to-date zoning information for municipalities SCRPC does not update.",
+  "dc_creator_sm": [
+    "Stark County Ohio"
+  ],
+  "dc_publisher_sm": [
+    "Stark County, Ohio"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "b1g_keyword_sm": [
+    "Stark County",
+    "Ohio",
+    "SCGIS",
+    "Boundaries",
+    "Planning",
+    "Zoning",
+    "Property",
+    "Land Records"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Ohio State",
+  "dct_issued_s": "2014-09-19T19:48:38.000Z",
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "b1g_date_range_drsim": [
+    ""
+  ],
+  "solr_year_i": "2014",
+  "dct_spatial_sm": [
+    "Stark County, Ohio",
+    "Ohio"
+  ],
+  "solr_geom": "ENVELOPE(-81.6492,-81.0822,40.9887,40.6345)",
+  "b1g_centroid_ss": "40.8116,-81.3657",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "11b-39151",
+  "dct_isPartOf_sm": [
+    "11b-39151"
+  ],
+  "b1g_dateAccessioned_s": "2019-12-06",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.starkcountyohio.gov/datasets/3b227646b36446e49eb0a5b145c7daa0_0\",\"http://schema.org/downloadUrl\":\"http://opendata.starkcountyohio.gov/datasets/3b227646b36446e49eb0a5b145c7daa0_0.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://scgisa.starkcountyohio.gov/arcgis/rest/services/RegionalPlanningCommission/StarkCountyZoning/MapServer/0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

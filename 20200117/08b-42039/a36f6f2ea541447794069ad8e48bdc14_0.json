@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "a36f6f2ea541447794069ad8e48bdc14_0",
+  "dc_identifier_s": "a36f6f2ea541447794069ad8e48bdc14_0",
+  "dc_title_s": "Street Centerlines: Crawford County, Pennsylvania",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Crawford County, Pennsylvania street centerline. Street centerline location and information within Crawford County, Pennsylvania. Data is public use and unrestricted.",
+  "dc_creator_sm": [
+    "Crawford County PA Government"
+  ],
+  "dc_publisher_sm": [
+    "Crawford County, Pennsylvania"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Penn State",
+  "dct_issued_s": "2019-01-11",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "solr_year_i": "2019",
+  "dct_spatial_sm": [
+    "Crawford County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "solr_geom": "ENVELOPE(-80.534359,-79.601916,41.86773,41.471641)",
+  "b1g_centroid_ss": "41.6696855,-80.0681375",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "08b-42039",
+  "dct_isPartOf_sm": [
+    "08b-42039"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://share-open-data-crawfordcountypa.opendata.arcgis.com/datasets/a36f6f2ea541447794069ad8e48bdc14_0\",\"http://schema.org/downloadUrl\":\"http://share-open-data-crawfordcountypa.opendata.arcgis.com/datasets/a36f6f2ea541447794069ad8e48bdc14_0.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://ccgis.crawfordcountypa.net/arcgis/rest/services/public_od/StreetCenterline_OD/MapServer/0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

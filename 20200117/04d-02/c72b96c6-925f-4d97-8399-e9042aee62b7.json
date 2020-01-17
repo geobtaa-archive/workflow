@@ -1,0 +1,61 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "c72b96c6-925f-4d97-8399-e9042aee62b7",
+  "dc_identifier_s": "c72b96c6-925f-4d97-8399-e9042aee62b7",
+  "dc_title_s": "Map of Denmark - Nakskov, 1905",
+  "dct_alternativeTitle_sm": [
+    "mdu-057063"
+  ],
+  "dc_description_s": "Map of Denmark - Nakskov, 1905. Scale=1:20,000. Topography, towns, roads for parts of Denmark",
+  "dc_creator_sm": [
+    ""
+  ],
+  "dc_publisher_sm": [
+    "Geodetic Institute"
+  ],
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Image"
+  ],
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "dc_format_s": "TIFF",
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "1905",
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "b1g_date_range_drsim": [
+    "[1905 TO 1905]"
+  ],
+  "solr_year_i": "1905",
+  "dct_spatial_sm": [
+    "Nakskov Ladeg\u00e5rd, Denmark"
+  ],
+  "solr_geom": "ENVELOPE(12.15053056,12.29474722,55.19171667,55.11851667)",
+  "b1g_centroid_ss": "55.15511667,12.22263889",
+  "dc_language_sm": [
+    ""
+  ],
+  "b1g_code_s": "04d-02",
+  "dct_isPartOf_sm": [
+    "04d-02"
+  ],
+  "b1g_dateAccessioned_s": "2019-11-04",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "Dublin Core",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/28/46/7a/6c/28467a6c-ea3a-4cf9-81e4-c49fb80b3d9b\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

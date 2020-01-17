@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "12b-17097",
+  "dc_identifier_s": "12b-17097",
+  "dc_title_s": "Lake County Illinois Open Data Portal",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "ArcGIS open data portal and records hub for Lake County, IL containing data, records, maps, apps, and more",
+  "dc_creator_sm": [
+    ""
+  ],
+  "dc_publisher_sm": [
+    "Lake County, Illinois"
+  ],
+  "dc_subject_sm": [
+    "Counties geospatial data"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Collection"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "",
+  "layer_geom_type_s": "Table",
+  "dct_provenance_s": "Chicago",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "b1g_date_range_drsim": [
+    ""
+  ],
+  "solr_year_i": "",
+  "dct_spatial_sm": [
+    "Lake County, Illinois",
+    "Illinois"
+  ],
+  "solr_geom": "ENVELOPE(-88.19976,-87.76057,42.49564,42.15229)",
+  "b1g_centroid_ss": "42.323965,-87.980165",
+  "dc_language_sm": [
+    ""
+  ],
+  "b1g_code_s": "12b-17097",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "b1g_dateAccessioned_s": "",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS HUB",
+  "b1g_status_s": "",
+  "dc_rights_s": "Public",
+  "suppressed_b": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data-lakecountyil.opendata.arcgis.com/\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

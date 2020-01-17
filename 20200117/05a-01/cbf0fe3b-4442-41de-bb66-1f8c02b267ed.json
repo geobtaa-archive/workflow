@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "cbf0fe3b-4442-41de-bb66-1f8c02b267ed",
+  "dc_identifier_s": "cbf0fe3b-4442-41de-bb66-1f8c02b267ed",
+  "dc_title_s": "Historical Stream Flow Metrics for Lake Superior North Shore Tributaries: Minnesota",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "THE ACCESS LINKS FOR THIS RECORD WERE REPORTED AS BROKEN. THE RECORD MAY HAVE BEEN RETIRED BY THE HOST. A total of 18 stream flow metrics were calculated for the tributary streams draining to Lake Superior, along the Minnesota North Shore. Flow metrics were calculated for all stream segments, based on the NHDPlus V2 (National Hydrography Dataset). The flow metrics were calculated using regression equations fit to existing stream gaging data in the region, and include high flows, low flows, and indices of flashiness and base flow. The independent variables included catchment area, wetland and forest fraction within the catchment, and surficial geology types. Flow data were used from the period 1/1/82 to 12/31/14, so that the flow metrics represent typical values for this period. This data table includes the COMID number taken from the NHDPlus V2 hydrography, so that these data may be joined to NHDPlus stream segment or catchment shape files in a GIS framework for visual display. Each flow metric is assigned a quality rating. This rating was calculated based on 75% prediction intervals for each regression equation. Catchments with one or more predictor variables outside of the range of variables covered by the gaged catchments have a higher prediction interval range (more uncertainty), and are assigned a lower quality rating. For example, catchments that are much smaller than range of catchment size covered by the gaged catchments have more uncertainty in the value of each flow metric. Further information on the methods used to generate these data may be found at: http://www.dnr.state.mn.us/eloha/index.html",
+  "dc_creator_sm": [
+    "Wlliam Herb, Research Associate, University of Minnesota",
+    "Natural Resources Research Institute"
+  ],
+  "dc_publisher_sm": [
+    "University of Minnesota"
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Files",
+  "layer_geom_type_s": "Mixed",
+  "dct_provenance_s": "Minnesota",
+  "dct_issued_s": "2017-06-07T10:02:03.807170",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "b1g_date_range_drsim": [
+    "[2017 TO 2017]"
+  ],
+  "solr_year_i": "2017",
+  "dct_spatial_sm": [
+    "Minnesota"
+  ],
+  "solr_geom": "ENVELOPE(-92.3524,-89.4914,48.1098,46.6534)",
+  "b1g_centroid_ss": "47.3816,-90.9219",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "05a-01",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "b1g_dateAccessioned_s": "2019-04-02",
+  "b1g_dateRetired_s": "2019-02-15",
+  "dct_accrualMethod_s": "CKAN",
+  "b1g_status_s": "Retired",
+  "dc_rights_s": "Public",
+  "suppressed_b": "TRUE",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/cbf0fe3b-4442-41de-bb66-1f8c02b267ed\",\"http://schema.org/downloadUrl\":\"https://gisdata.mn.gov/dataset/cbf0fe3b-4442-41de-bb66-1f8c02b267ed\",\"http://www.w3.org/1999/xhtml\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/edu_umn_nrri/water_historic_stream_northshore/metadata/metadata.html\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "a0597cc724694bbe8e40d2a91b080503_0",
+  "dc_identifier_s": "a0597cc724694bbe8e40d2a91b080503_0",
+  "dc_title_s": "Topographic Contours, 10-foot: Summit County, Ohio, 2017",
+  "dct_alternativeTitle_sm": [
+    "Contours"
+  ],
+  "dc_description_s": "This layer depicts Summit County contours - 10ft intervals. This layer was extracted from LIDAR data that was obtained in 2017.",
+  "dc_creator_sm": [
+    "County of Summit GIS"
+  ],
+  "dc_publisher_sm": [
+    "Summit County, Ohio"
+  ],
+  "dc_subject_sm": [
+    "Elevation"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Ohio State",
+  "dct_issued_s": "2019-03-16",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "b1g_date_range_drsim": [
+    "[2017 TO 2017]"
+  ],
+  "solr_year_i": "2017",
+  "dct_spatial_sm": [
+    "Summit County, Ohio",
+    "Ohio"
+  ],
+  "solr_geom": "ENVELOPE(-81.6941,-81.3836,41.3553,40.9034)",
+  "b1g_centroid_ss": "41.12935,-81.53885",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "11b-39153",
+  "dct_isPartOf_sm": [
+    "11b-39153"
+  ],
+  "b1g_dateAccessioned_s": "2019-04-14",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data-summitgis.opendata.arcgis.com/datasets/a0597cc724694bbe8e40d2a91b080503_0\",\"http://schema.org/downloadUrl\":\"https://data-summitgis.opendata.arcgis.com/datasets/a0597cc724694bbe8e40d2a91b080503_0.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://scgis.summitoh.net/hosted/rest/services/Contours/MapServer/0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

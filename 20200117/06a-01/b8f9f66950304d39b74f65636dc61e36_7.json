@@ -1,0 +1,66 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "b8f9f66950304d39b74f65636dc61e36_7",
+  "dc_identifier_s": "b8f9f66950304d39b74f65636dc61e36_7",
+  "dc_title_s": "Water Wells - Southwest Michigan: Michigan",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "NOTE: THIS DATA DOWNLOAD DOES NOT CONTAIN THE ASSOCIATED LITHOLOGY FILES. TO DOWNLOAD THIS DATA BY COUNTY WITH LITHOLOGY FILE CLICK HERE.The data in these six files is derived from Wellogic, the Michigan Department of Environmental Quality statewide ground water database. The six files combined contain information on over 575,000 spatially verified water well records. The six files are intended to provide water well information for wells in counties clustered by geographic region: Upper Peninsula, Northern Lower Peninsula, East Central Lower Peninsula, West Central Lower Peninsula, Southwest Lower Peninsula and the South Central Southeastern Lower Peninsula. The files are constructed to be easily merged, containing the same number and type of attribute fields.Although the derived data in these files represents the best readily available data, the six files do not represent a complete database of all wells or well records in existence. Until January 1, 2000 not all water well records for new wells in Michigan were entered into Wellogic. For wells drilled before 2000 the rate of inclusion is highly variable from one county to another. Further, there is a quality control check on location that may exclude a limited number of wells from Wellogic from the six files made available on this site.More Metadata",
+  "dc_creator_sm": [
+    "State of Michigan"
+  ],
+  "dc_publisher_sm": [
+    "State of Michigan"
+  ],
+  "dc_subject_sm": [
+    "Utilities and Communications"
+  ],
+  "b1g_keyword_sm": [
+    "public health",
+    "deq",
+    "michigan",
+    "hydro",
+    "groundwater"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Michigan State",
+  "dct_issued_s": "2018-07-12",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "solr_year_i": "2018",
+  "dct_spatial_sm": [
+    "Michigan"
+  ],
+  "solr_geom": "ENVELOPE(-90.4077,-82.4156,48.1419,41.656)",
+  "b1g_centroid_ss": "44.89895,-86.41165000000001",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "06a-01",
+  "dct_isPartOf_sm": [
+    "06a-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://gis-michigan.opendata.arcgis.com/datasets/b8f9f66950304d39b74f65636dc61e36_7\",\"http://schema.org/downloadUrl\":\"http://gis-michigan.opendata.arcgis.com/datasets/b8f9f66950304d39b74f65636dc61e36_7.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gisago-qa.mcgi.state.mi.us/arcgis/rest/services/OpenData/public_health/MapServer/7\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

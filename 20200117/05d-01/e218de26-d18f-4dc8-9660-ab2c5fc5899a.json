@@ -1,0 +1,61 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "e218de26-d18f-4dc8-9660-ab2c5fc5899a",
+  "dc_identifier_s": "e218de26-d18f-4dc8-9660-ab2c5fc5899a",
+  "dc_title_s": "County map of Minnesota",
+  "dct_alternativeTitle_sm": [
+    "County map of Minnesota"
+  ],
+  "dc_description_s": "14 x 12 inches",
+  "dc_creator_sm": [
+    "Gamble, W. H. (William H.) (Draftsman and engraver)"
+  ],
+  "dc_publisher_sm": [
+    "[S. Augustus Mitchell?]"
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_keyword_sm": [
+    "Minnesota Maps"
+  ],
+  "dc_type_sm": [
+    "Image"
+  ],
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "dc_format_s": "JPEG",
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Minnesota",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    "1873"
+  ],
+  "b1g_date_range_drsim": [
+    ""
+  ],
+  "solr_year_i": "1873",
+  "dct_spatial_sm": [
+    "Minnesota"
+  ],
+  "solr_geom": "ENVELOPE(-97.25,-89.5,49.25,43.5)",
+  "b1g_centroid_ss": "46.375,-93.375",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "05d-01",
+  "dct_isPartOf_sm": [
+    "05d-p16022coll247,05d-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-07-26",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "Blacklight",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/89305\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll247/248/manifest.json\"}",
+  "layer_id_s": "248",
+  "b1g_image_ss": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll247/id/248"
+}

@@ -1,0 +1,64 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "11a-03",
+  "dc_identifier_s": "11a-03",
+  "dc_title_s": "Ohio Spatial Data Infrastructure Downloads",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "This download tool provides access to county-wide OSIP (Ohio Statewide Imagery Program) and LBRS (Location Based Response System) datasets as well as individual tiles of OSIP Elevation and high-resolution Imagery data. Users can select datasets by county.",
+  "dc_creator_sm": [
+    "OGRIP - Ohio Statewide Imagery Program"
+  ],
+  "dc_publisher_sm": [
+    "State of Ohio"
+  ],
+  "dc_subject_sm": [
+    "State agencies geospatial data"
+  ],
+  "b1g_keyword_sm": [
+    "Imagery and Base Maps",
+    "Location",
+    "Planning and Cadastral",
+    "Transportation"
+  ],
+  "dc_type_sm": [
+    "Collection"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data,Aerial imagery"
+  ],
+  "dc_format_s": "",
+  "layer_geom_type_s": "Table",
+  "dct_provenance_s": "Ohio State",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    "2011-present"
+  ],
+  "b1g_date_range_drsim": [
+    "[2011 TO 2011]"
+  ],
+  "solr_year_i": "",
+  "dct_spatial_sm": [
+    "Ohio"
+  ],
+  "solr_geom": "ENVELOPE(-84.8203,-80.519,42.3232,38.4031)",
+  "b1g_centroid_ss": "40.363150000000005,-82.66965",
+  "dc_language_sm": [
+    ""
+  ],
+  "b1g_code_s": "11a-03",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "b1g_dateAccessioned_s": "",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "",
+  "b1g_status_s": "",
+  "dc_rights_s": "Public",
+  "suppressed_b": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://ogrip.oit.ohio.gov/ServicesData/GEOhioSpatialInformationPortal/OhioSpatialDataInfrastructure-Downloads.aspx\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": "https://ogrip.oit.ohio.gov/Portals/0/OGRIPlogo.png?ver=2018-02-13-135351-093"
+}

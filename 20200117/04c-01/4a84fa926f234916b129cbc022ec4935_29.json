@@ -1,0 +1,64 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "4a84fa926f234916b129cbc022ec4935_29",
+  "dc_identifier_s": "4a84fa926f234916b129cbc022ec4935_29",
+  "dc_title_s": "Senior Village Boundaries: Washington, D.C.",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Senior Villages in the District of Columbia: A New Age-At-Home InitiativeVillages help elders stay at home in their neighborhoods. A Village is neighborhood- based nonprofit membership organization supported by volunteers. A Village makes it easier for older neighbors to keep living safely, comfortably and actively in their own homes and connected with their neighbors.Members continue to live in their homes. The can get together for parties, picnics, happy hours, and visits to local theaters, music and art venues. Volunteers offer free services that can range from rides to and from medical appointments, prescription pickups, yard clean-ups, and simple handyman repairs, assistance with grocery shopping, changing light bulbs in ceiling fixtures, and reading to the visually impaired. Villages also help their members find useful community resources and reliable professionals and licensed vendors. Villages do not provide medical services, but can connect seniors with these services. They typically offer some services not traditionally offered by the D.C. Lead Agencies.DC Office on Aging has a senior service directory of agencies providing a variety of services. Call (202) 724-5622.",
+  "dc_creator_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_publisher_sm": [
+    "District of Columbia"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "b1g_keyword_sm": [
+    "Senior",
+    "Aging",
+    "Public Service"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "2016-02-22",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "solr_year_i": "2016",
+  "dct_spatial_sm": [
+    "Washington D.C"
+  ],
+  "solr_geom": "ENVELOPE(-77.1167,-76.9672,38.9954,38.8212)",
+  "b1g_centroid_ss": "38.9083,-77.04195",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "04c-01",
+  "dct_isPartOf_sm": [
+    "04c-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/4a84fa926f234916b129cbc022ec4935_29\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/4a84fa926f234916b129cbc022ec4935_29.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Public_Service_WebMercator/MapServer/29\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

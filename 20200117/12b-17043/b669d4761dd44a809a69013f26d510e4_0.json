@@ -1,0 +1,66 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "b669d4761dd44a809a69013f26d510e4_0",
+  "dc_identifier_s": "b669d4761dd44a809a69013f26d510e4_0",
+  "dc_title_s": "Soils (Ssurgo Soils 2011): Dupage County, Illinois",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "DuPage County Soils (SSURGO_Soils_2011)Index to Map Units Symbol. 23A--Blount silt loam, 0 to 2 percent slopes 23B--Blount silt loam, 2 to 4 percent slopes 67A--Harpster silty clay loam, 0 to 2 percent slopes 69A--Milford silty clay loam, 0 to 2 percent slopes 91A--Swygert silty clay loam, 0 to 2 percent slopes 125A--Selma loam, 0 to 2 percent slopes 146A--Elliott silt loam, 0 to 2 percent slopes 146B--Elliott silt loam, 2 to 4 percent slopes 152A--Drummer silty clay loam, 0 to 2 percent slopes 189A--Martinton silt loam, 0 to 2 percent slopes 192A--Del Rey silt loam, 0 to 2 percent slopes 206A--Thorp silt loam, 0 to 2 percent slopes 223B--Varna silt loam, 2 to 4 percent slopes 223C2--Varna silt loam, 4 to 6 percent slopes, eroded 232A--Ashkum silty clay loam, 0 to 2 percent slopes 290C2--Warsaw silt loam, 4 to 6 percent slopes, eroded 298A--Beecher silt loam, 0 to 2 percent slopes 298B--Beecher silt loam, 2 to 4 percent slopes 318C2--Lorenzo loam, 4 to 6 percent slopes, eroded 318D2--Lorenzo loam, 6 to 12 percent slopes, eroded 323C2--Casco loam, 4 to 6 percent slopes, eroded 323D2--Casco loam, 6 to 12 percent slopes, eroded 327B--Fox silt loam, 2 to 4 percent slopes 327C2--Fox silt loam, 4 to 6 percent slopes, eroded 330A--Peotone silty clay loam, 0 to 2 percent slopes 369B--Waupecan silt loam, 2 to 4 percent slopes 442A--Mundelein silt loam, 0 to 2 percent slopes 443B--Barrington silt loam, 2 to 4 percent slopes 494B--Kankakee fine sandy loam, 2 to 4 percent slopes 503B--Rockton silt loam, 2 to 6 percent slopes 523A--Dunham silty clay loam, 0 to 2 percent slopes 526A--Grundelein silt loam, 0 to 2 percent slopes 530B--Ozaukee silt loam, 2 to 4 percent slopes 530C2--Ozaukee silt loam, 4 to 6 percent slopes, eroded 530D2--Ozaukee silt loam, 6 to 12 percent slopes, eroded 530D3--Ozaukee silty clay loam, 6 to 12 percent slopes, severely eroded 530E--Ozaukee silt loam, 12 to 20 percent slopes 530F--Ozaukee silt loam, 20 to 30 percent slopes 531B--Markham silt loam, 2 to 4 percent slopes 531C2--Markham silt loam, 4 to 6 percent slopes, eroded 535B--Orthents, stony, undulating 541B--Graymont silt loam, 2 to 5 percent slopes 557A--Millstream silt loam, 0 to 2 percent slopes 614A--Chenoa silty clay loam, 0 to 2 percent slopes 696B--Zurich silt loam, 2 to 4 percent slopes 696C2--Zurich silt loam, 4 to 6 percent slopes, eroded 697A--Wauconda silt loam, 0 to 2 percent slopes 698B--Grays silt loam, 2 to 4 percent slopes 791B--Rush silt loam, 2 to 4 percent slopes 792B--Bowes silt loam, 2 to 4 percent slopes 802B--Orthents, loamy, undulating 802D--Orthents, loamy, rolling 805B--Orthents, clayey, undulating 830--Landfills 848B--Drummer-Barrington-Mundelein complex, 1 to 6 percent slopes 849A--Milford-Martinton complex, 0 to 2 percent slopes 854B--Markham-Ashkum-Beecher complex, 1 to 6 percent slopes 864--Pits, quarry 865--Pits, gravel 903A--Muskego and Houghton mucks, 0 to 2 percent slopes 969F--Casco-Rodman complex, 20 to 30 percent slopes 1107A--Sawmill silty clay loam, undrained, 0 to 2 percent slopes,frequently flooded 1152A--Drummer silty clay loam, undrained, 0 to 2 percent slopes 1330A--Peotone silty clay loam, undrained, 0 to 2 percent slopes 1516A--Faxon silty clay loam, undrained, 0 to 2 percent slopes, frequently flooded 1523A--Dunham silty clay loam, undrained, 0 to 2 percent slopes 1903A--Muskego and Houghton mucks, undrained, 0 to 2 percent slopes 3107A--Sawmill silty clay loam, 0 to 2 percent slopes, frequently flooded 3316A--Romeo silt loam, 0 to 2 percent slopes, frequently flooded 4904A--Muskego and Peotone soils, ponded, 0 to 2 percent slopes",
+  "dc_creator_sm": [
+    "DuPage County Illinois"
+  ],
+  "dc_publisher_sm": [
+    "DuPage County, Illinois"
+  ],
+  "dc_subject_sm": [
+    "Geoscientific Information"
+  ],
+  "b1g_keyword_sm": [
+    "DuPage",
+    "Soils",
+    "SSURGO",
+    "Soil"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Chicago",
+  "dct_issued_s": "2014-05-28",
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "b1g_date_range_drsim": [
+    "[2014 TO 2014]"
+  ],
+  "solr_year_i": "2014",
+  "dct_spatial_sm": [
+    "DuPage County, Illinois",
+    "Illinois"
+  ],
+  "solr_geom": "ENVELOPE(-88.2633,-87.9125,41.9946,41.6849)",
+  "b1g_centroid_ss": "41.839749999999995,-88.08789999999999",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "12b-17043",
+  "dct_isPartOf_sm": [
+    "12b-17043"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://gisdata-dupage.opendata.arcgis.com/datasets/b669d4761dd44a809a69013f26d510e4_0\",\"http://schema.org/downloadUrl\":\"http://gisdata-dupage.opendata.arcgis.com/datasets/b669d4761dd44a809a69013f26d510e4_0.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.dupageco.org/arcgis/rest/services/Environmental/DuPage_SSURGO_Soils_2011/mapserver/0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

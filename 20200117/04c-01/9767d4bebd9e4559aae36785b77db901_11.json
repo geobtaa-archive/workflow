@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "9767d4bebd9e4559aae36785b77db901_11",
+  "dc_identifier_s": "9767d4bebd9e4559aae36785b77db901_11",
+  "dc_title_s": "Mosquito Trap Sites: Washington D.C.",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "These data represent mosquito trap site results in the District of Columbia from 2016 to 2018. Trap locations are considered approximate address and/or the ?nearest? street address or block to the stated coordinates in the data. Visit Fight the Bite: Protecting the District of Columbia from Mosquitoes- a collection of the 2016-2018 Arbovirus Surveillance Program conducted annually by DC Health, Health Regulation  Licensing Admin., Animal Services Div.Mosquitoes have the potential to spread harmful diseases. During the annual mosquito season in Washington DC, usually from April ? October, DC Healthdeploys surveillance and mitigation methods to control the mosquito population in the District. DC Health (also known as the D.C. Department of Health or formerly DOH) has been trapping and testing mosquitoes for West Nile virus (WNV) for well over a decade. Starting in 2016, and in response to the Zika outbreak in Latin America and the Caribbean, DC Health substantially increased mosquito monitoring activities across the city. There were a total of 28 sites and 36 traps across the 8 wards. Data was submitted to the Centers for Disease Control MoquitoNet Portal.Note: the 2017 analysis does not include data for October. This is because October of 2017 would have skewed the results far too much based on a few variables that occurred. For example, the number of traps which had failed by the end of the season.Mosquito species in Washington, D.C.:Culex Pipiens, Salinarius and Culex Restuan: spread West Nile VirusAedes aegypti : according to the Centers for Disease Control (CDC), health experts have determined this species to be the most competent vector, capable of transmitting Zika to the human population. To date, none of the Aedes aegypti trapped in Washington, D.C. have been found to carry the Zika virus.Aedes albopictus: capable of spreading Zika to people. However, health experts are still learning whether it is likely to do so as it appears at this time, it is not as competent a vector for transmitting Zika as is the Aedes aegypti. Just because a mosquito can carry the virus does not mean that it will cause disease. So far, none of the Aedes albopictus trapped in Washington, D.C. have been found to carry the Zika virus.Aedes japonicus: normally found in South Florida, is present in D.C. in small numbers. Presently there is no indication that they are competent vectors for spreading Zika to the human population.",
+  "dc_creator_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_publisher_sm": [
+    "District of Columbia"
+  ],
+  "dc_subject_sm": [
+    "Location"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "2019-04-08",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "solr_year_i": "2019",
+  "dct_spatial_sm": [
+    "Washington D.C"
+  ],
+  "solr_geom": "ENVELOPE(-77.22575918,-76.81253535,39.00086196,38.78665889)",
+  "b1g_centroid_ss": "38.893760424999996,-77.019147265",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "04c-01",
+  "dct_isPartOf_sm": [
+    "04c-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-05-29",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/9767d4bebd9e4559aae36785b77db901_11\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/9767d4bebd9e4559aae36785b77db901_11.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Health_WebMercator/MapServer/11\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

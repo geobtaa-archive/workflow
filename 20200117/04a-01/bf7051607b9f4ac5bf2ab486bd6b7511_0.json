@@ -1,0 +1,69 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "bf7051607b9f4ac5bf2ab486bd6b7511_0",
+  "dc_identifier_s": "bf7051607b9f4ac5bf2ab486bd6b7511_0",
+  "dc_title_s": "Bridge Restrictions; Height, Weight, and Under Clearance, State Highway Administration: Maryland",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Bridges on MDOT State Maintained Highways with Vertical Clearances less than 14 Feet 6 Inches. Harbor Tunnel Clearance - 14' Maximum Allowable Height of Vehicle and Load 13'. The vertical clearance limitations shown on are not guaranteed. Due to resurfacing of highways etc. these are subject to change and may be greater at certain positions under a structure. If dimensions are to be used to determine routes for exact movement, field measurements will be necessary. Structures with weight limits are stated for those structures on the State of Maryland Highway System that cannot carry legal weight vehicles. If you need to move an overweight load into or through Maryland please call 1-888-375-1084 for assistance.Bridge under clearances over navigable waterways are estimated vertical distances above normal water surface levels. For all movable bridges; the under clearance shown is for a bridge in a closed condition. These levels can vary considerably from season to season and for tidal waters will vary daily. Underclearance for tidal waters is above mean high tide. Therefore, because of these variations the elevations are provided as a service to the public as a guide and the information should be verified by field measurements by the boater if the exact under clearance is critical to the boater. SHA does not accept liability for inaccurate information.Click here for schedule of opening and closings",
+  "dc_creator_sm": [
+    "ArcGIS Online for Maryland"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dc_subject_sm": [
+    "Transportation",
+    "Structure"
+  ],
+  "b1g_keyword_sm": [
+    "Bridge",
+    "Restrictions",
+    "Weight",
+    "Under Clearance",
+    "MDOT",
+    "SHA",
+    "Maryland"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "2018-02-05",
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "solr_year_i": "2018",
+  "dct_spatial_sm": [
+    "Maryland"
+  ],
+  "solr_geom": "ENVELOPE(-79.675,-74.863,39.88,37.74)",
+  "b1g_centroid_ss": "38.81,-77.269",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "04a-01",
+  "dct_isPartOf_sm": [
+    "04a-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/bf7051607b9f4ac5bf2ab486bd6b7511_0\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/bf7051607b9f4ac5bf2ab486bd6b7511_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/njFNhDsUCentVYJW/arcgis/rest/services/MDOT_SHA_Height_Weight__Under_Clearance_Bridge_Restrictions/FeatureServer/0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

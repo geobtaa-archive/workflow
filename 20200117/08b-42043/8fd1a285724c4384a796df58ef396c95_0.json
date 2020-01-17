@@ -1,0 +1,66 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "8fd1a285724c4384a796df58ef396c95_0",
+  "dc_identifier_s": "8fd1a285724c4384a796df58ef396c95_0",
+  "dc_title_s": "Railroads: Dauphin County, Pennsylvania",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Reference dataset showing railroads in Dauphin County. Most likely derived from a PennDOT dataset in the early 1990s and updated as needed.",
+  "dc_creator_sm": [
+    "Dauphin County, PA"
+  ],
+  "dc_publisher_sm": [
+    "Dauphin County, Pennsylvania"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_keyword_sm": [
+    "Railroad",
+    "Dauphin County",
+    "Transportation",
+    "Infrastructure"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Penn State",
+  "dct_issued_s": "2016-04-04",
+  "dct_temporal_sm": [
+    "1990"
+  ],
+  "b1g_date_range_drsim": [
+    "[1990 TO 1990]"
+  ],
+  "solr_year_i": "1990",
+  "dct_spatial_sm": [
+    "Dauphin County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "solr_geom": "ENVELOPE(-77.02179618,-76.59191182,40.61450269,40.13007228)",
+  "b1g_centroid_ss": "40.372287485,-76.806854",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "08b-42043",
+  "dct_isPartOf_sm": [
+    "08b-42043"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data-dauphinco.opendata.arcgis.com/datasets/8fd1a285724c4384a796df58ef396c95_0\",\"http://schema.org/downloadUrl\":\"http://data-dauphinco.opendata.arcgis.com/datasets/8fd1a285724c4384a796df58ef396c95_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services2.arcgis.com/EEtiX55QzkHKYQKY/arcgis/rest/services/DC_Railroads/FeatureServer/0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

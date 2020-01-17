@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "db65ff0038ed4270acb1435d931201cf_24",
+  "dc_identifier_s": "db65ff0038ed4270acb1435d931201cf_24",
+  "dc_title_s": "Waterbodies: Washington, D.C.",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Water. The dataset contains polygons representing planimetric waterbodies, created as part of the DC Geographic Information System (DC GIS) for the D.C. Office of the Chief Technology Officer (OCTO). These features were originally captured in 2015 and updated in 2017. The following planimetric layers were updated: - Barrier Lines- Building Polygons- Bridge and Tunnel Polygons- Curb Lines- Grate Points- Horizontal and Vertical Control Points- Hydrography Lines- Obscured Area Polygons- Railroad Lines- Recreational Areas- Road, Parking, and Driveway Polygons- Sidewalk and Stair Polygons- Swimming Pools- Water Polygons",
+  "dc_creator_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_publisher_sm": [
+    "District of Columbia"
+  ],
+  "dc_subject_sm": [
+    "Environment"
+  ],
+  "b1g_keyword_sm": [
+    "Building"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "2015-02-27",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "b1g_date_range_drsim": [
+    "[2015 TO 2015]"
+  ],
+  "solr_year_i": "2015",
+  "dct_spatial_sm": [
+    "Washington D.C"
+  ],
+  "solr_geom": "ENVELOPE(-77.11989207,-76.91153687,38.99338188,38.79158185)",
+  "b1g_centroid_ss": "38.892481865,-77.01571447",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "04c-01",
+  "dct_isPartOf_sm": [
+    "04c-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/db65ff0038ed4270acb1435d931201cf_24\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/db65ff0038ed4270acb1435d931201cf_24.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Environment_WebMercator/MapServer/24\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

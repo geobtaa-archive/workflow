@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "b9ee9aba-8bc2-49d0-a270-6d2aa7cc3e7b",
+  "dc_identifier_s": "b9ee9aba-8bc2-49d0-a270-6d2aa7cc3e7b",
+  "dc_title_s": "Map of Cambria Co., Pennsylvania : from actual surveys and official records",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Scale approximately 1:79,200. 1 1/4 in. to the mile; 1 map: hand colored; 175 x 117 cm Real property--Pennsylvania--Cambria County--Maps",
+  "dc_creator_sm": [
+    "Beers, D. G. (Daniel G.), cartographer."
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_keyword_sm": [
+    "Penn State Rare Maps"
+  ],
+  "dc_type_sm": [
+    "Image"
+  ],
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "dc_format_s": "JPEG",
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Penn State",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "b1g_date_range_drsim": [
+    ""
+  ],
+  "solr_year_i": "9999",
+  "dct_spatial_sm": [
+    "Cambria County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "solr_geom": "ENVELOPE(-79.05583333,-78.34833333,40.72583333,40.24277778)",
+  "b1g_centroid_ss": "40.484305555,-78.70208333",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "08d-01",
+  "dct_isPartOf_sm": [
+    "08d-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-01-16",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30096/manifest.json\",\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30096\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

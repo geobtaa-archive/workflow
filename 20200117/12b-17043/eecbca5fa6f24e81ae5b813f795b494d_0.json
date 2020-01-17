@@ -1,0 +1,66 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "eecbca5fa6f24e81ae5b813f795b494d_0",
+  "dc_identifier_s": "eecbca5fa6f24e81ae5b813f795b494d_0",
+  "dc_title_s": "Mosquito Abatement Districts: DuPage County, Illinois",
+  "dct_alternativeTitle_sm": [
+    "Mosquito Abatement Districts"
+  ],
+  "dc_description_s": "Mosquito Abatement Districts",
+  "dc_creator_sm": [
+    "DuPage County Illinois"
+  ],
+  "dc_publisher_sm": [
+    "DuPage County, Illinois"
+  ],
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "b1g_keyword_sm": [
+    "Mosquito",
+    "mosquito abatement",
+    "DuPage Co",
+    "tax district"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Chicago",
+  "dct_issued_s": "2019-12-27T17:28:38.000Z",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "solr_year_i": "2019",
+  "dct_spatial_sm": [
+    "DuPage County, Illinois",
+    "Illinois"
+  ],
+  "solr_geom": "ENVELOPE(-88.2629,-87.9452,41.9781,41.7817)",
+  "b1g_centroid_ss": "41.8799,-88.10405",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "12b-17043",
+  "dct_isPartOf_sm": [
+    "12b-17043"
+  ],
+  "b1g_dateAccessioned_s": "2020-01-07",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://gisdata-dupage.opendata.arcgis.com/datasets/eecbca5fa6f24e81ae5b813f795b494d_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/neJvtQ4PXvnQ86MJ/arcgis/rest/services/Mosquito_Abatement_Districts_New/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://gisdata-dupage.opendata.arcgis.com/datasets/eecbca5fa6f24e81ae5b813f795b494d_0.zip\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

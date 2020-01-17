@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "3b4e8b1f-b5fd-4b3a-bb10-49f55cc59cf7",
+  "dc_identifier_s": "3b4e8b1f-b5fd-4b3a-bb10-49f55cc59cf7",
+  "dc_title_s": "Sectional map Itasca County, Minn: compiled from latest government surveys and other authentic sources",
+  "dct_alternativeTitle_sm": [
+    "Sectional map Itasca County\\, Minn : compiled from latest government surveys and other authentic sources"
+  ],
+  "dc_description_s": "Scale [1:158,400]. 1 in. = 2.5 mi. (W 94\u207026\u02b9--W 93\u207002\u02b9/N 47\u207056\u02b9--N 47\u207001\u02b9). 66 x 70 cm",
+  "dc_creator_sm": [
+    "Jewett & Son"
+  ],
+  "dc_publisher_sm": [
+    "Jewett & Son (Saint Paul, Minnesota), 1907"
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_keyword_sm": [
+    "Itasca County (Minn.) Maps"
+  ],
+  "dc_type_sm": [
+    "Image"
+  ],
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "dc_format_s": "JPEG",
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Minnesota",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "b1g_date_range_drsim": [
+    ""
+  ],
+  "solr_year_i": "1907",
+  "dct_spatial_sm": [
+    "Itasca County, Minnesota",
+    "Minnesota"
+  ],
+  "solr_geom": "ENVELOPE(-94.43,-93.03,47.93,47.01)",
+  "b1g_centroid_ss": "47.47,-93.73",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "05d-01",
+  "dct_isPartOf_sm": [
+    "05d-p16022coll231,05d-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-07-26",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "Blacklight",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/188941\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll231/51/manifest.json\"}",
+  "layer_id_s": "51",
+  "b1g_image_ss": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll231/id/51"
+}

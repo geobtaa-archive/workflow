@@ -1,0 +1,78 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "01d-02",
+  "dc_identifier_s": "01d-02",
+  "dc_title_s": "Indiana Spatial Data Portal",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "The Indiana Spatial Data Portal (ISDP) provides access to more than 30 terabytes of Indiana geospatial data. Most datasets are available to the public for download and have no use restrictions. Available statewide datasets include aerial photos, topographic maps, LiDAR and elevation data, and Sanborn historic maps. In addition, the ISDP hosts several local datasets for Allen, Bartholomew, Boone, Dearborn, Gibson, Hamilton, Hancock, Hendricks, Johnson, Marion, Monroe, Morgan, Posey, Shelby and Wayne Counties.",
+  "dc_creator_sm": [
+    ""
+  ],
+  "dc_publisher_sm": [
+    "Indiana University"
+  ],
+  "dc_subject_sm": [
+    "Academic institutions geospatial data"
+  ],
+  "b1g_keyword_sm": [
+    "Biota",
+    "Boundaries",
+    "Climatology",
+    " Meteorology and Atmosphere",
+    "Economy",
+    "Elevation",
+    "Environment",
+    "Farming",
+    "Geoscientific Information",
+    "Health",
+    "Imagery and Base Maps",
+    "Inland Waters",
+    "Location",
+    "Planning and Cadastral",
+    "Society",
+    "Structure",
+    "Transportation",
+    "Utilities and Communications"
+  ],
+  "dc_type_sm": [
+    "Collection"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "",
+  "layer_geom_type_s": "Table",
+  "dct_provenance_s": "Indiana",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    "1887-2019"
+  ],
+  "b1g_date_range_drsim": [
+    "[1887 TO 2019]"
+  ],
+  "solr_year_i": "",
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "solr_geom": "ENVELOPE(-88.09789,-84.78459,41.7607,37.77173)",
+  "b1g_centroid_ss": "39.766215,-86.44124",
+  "dc_language_sm": [
+    ""
+  ],
+  "b1g_code_s": "01d-02",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "b1g_dateAccessioned_s": "",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "",
+  "b1g_status_s": "",
+  "dc_rights_s": "Public",
+  "suppressed_b": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://gis.iu.edu/\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": "http://gis.iu.edu/files/images/campusBanners/iu_crimson.gif"
+}

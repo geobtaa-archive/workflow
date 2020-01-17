@@ -1,0 +1,71 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "1919c57a3a024bc8b9fc9ac42c6a7357",
+  "dc_identifier_s": "1919c57a3a024bc8b9fc9ac42c6a7357",
+  "dc_title_s": "Wetlands: Maryland, 1972",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "This is a MD iMAP hosted service. Find more information on http://imap.maryland.gov.This is a map service of the 1972 Wetland Maps. These are guidance maps for regulatory purposes and not (and never were) a wetland delineation. Image Service Layer Link: https://geodata.md.gov/imap/rest/services/Hydrology/MD_WetlandMaps1972/ImageServer",
+  "dc_creator_sm": [
+    "ArcGIS Online for Maryland"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "b1g_keyword_sm": [
+    "MD iMAP",
+    "MD",
+    "Maryland",
+    "HYDR",
+    "Hydrology",
+    "wetlands",
+    "1972 wetlands maps",
+    "DNR",
+    "Department of Natural Resources",
+    "raster"
+  ],
+  "dc_type_sm": [
+    "Image",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Aerial imagery"
+  ],
+  "dc_format_s": "Imagery",
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "2018-09-06",
+  "dct_temporal_sm": [
+    "1972"
+  ],
+  "b1g_date_range_drsim": [
+    "[1972 TO 1972]"
+  ],
+  "solr_year_i": "1972",
+  "dct_spatial_sm": [
+    "Maryland"
+  ],
+  "solr_geom": "ENVELOPE(-77.2844,-75.036,39.6607,37.9078)",
+  "b1g_centroid_ss": "38.78425,-76.1602",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "04a-01",
+  "dct_isPartOf_sm": [
+    "04a-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/1919c57a3a024bc8b9fc9ac42c6a7357\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/1919c57a3a024bc8b9fc9ac42c6a7357\",\"urn:x-esri:serviceType:ArcGIS#ImageMapLayer\":\"https://geodata.md.gov/imap/rest/services/Hydrology/MD_WetlandMaps1972/ImageServer\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

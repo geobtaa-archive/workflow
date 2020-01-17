@@ -1,0 +1,86 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "8c736807b7af4ee593b4566a7e4b4153_0",
+  "dc_identifier_s": "8c736807b7af4ee593b4566a7e4b4153_0",
+  "dc_title_s": "Broadband Providers Per Census Block: Maryland",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "This is a MD iMAP hosted service. Find more information at http://imap.maryland.gov.The service depicts the number of broadband service providers per census block and the layer represents the National Telecommunications Information Administration (NTIA) State Broadband Data Development Program (SBDD) area of broadband availability. The number of broadband providers per census block is illustrated. Area of broadband availability refers to those individual US Census Blocks, less than 2 square miles, where each facilities-based provider of broadband service can provide broadband services of minimal characteristics within 7 - 10 business days. For this purpose, 'broadband service' is the provision, on either a commercial or non-commercial basis, of data transmission technology that provides two-way data transmission to and from the Internet with advertised speeds of at least 768 kilobits per second (kbps) downstream and greater than 200 kbps upstream to end users, or providing sufficient capacity in a middle mile project to support the provision of broadband service to end-users within the project area. For this purpose, an 'end user' of broadband service is a residential or business party, institution or State or local government entity that may use broadband service for its own purposes and that does not resell such service to other entities or incorporate such service into retail Internet-access services. Internet Service Providers (ISPs) are not 'end users' for this purpose. An entity is a 'facilities based' provider of broadband service connections to end user locations if any of the following conditions are met: (1) It owns the portion of the physical facility that terminates at the end user location; (2) it obtains unbundled network elements (UNEs), special access lines, or other leased facilities that terminate at the end user location and provisions/equips them as broadband; or (3) it provisions/equips a broadband wireless channel to the end user location over licensed or unlicensed spectrum. For this purpose, 'broadband service' is 'available' at an address if the provider does, or could, within a typical service interval (7 to 10 business days) without an extraordinary commitment of resources, provision two-way data transmission to and from the Internet with advertised speeds of at least 768 kilobits per second (kbps) downstream and greater than 200 kbps upstream to end-users at that address. For additional information visit NOFA (Notice of Funding Availability) website: http://www.ntia.doc.gov/broadbandgrants/nofa.htmlMap Service Link:https://geodata.md.gov/imap/rest/services/UtilityTelecom/MD_BroadbandProviderPerCensusBlock/MapServer**Please note, due to the size of this dataset, you may receive an error message when trying to download the dataset. You can download this dataset directly from MD iMAP Services at: https://geodata.md.gov/imap/rest/services/UtilityTelecom/MD_BroadbandProviderPerCensusBlock/MapServer/exts/MDiMAPDataDownload/customLayers/0**",
+  "dc_creator_sm": [
+    "ArcGIS Online for Maryland"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dc_subject_sm": [
+    "Utilities and Communications"
+  ],
+  "b1g_keyword_sm": [
+    "Utility",
+    "Communications",
+    "Broadband",
+    "Providers",
+    "Maryland",
+    "MD",
+    "WMS",
+    "WFS",
+    "Vector",
+    "Dynamic",
+    "SU",
+    "TU",
+    "Salisbury University",
+    "Towson University",
+    "ESRGC",
+    "CGIS",
+    "Towson University Center for GIS",
+    "Eastern Shore Regional GIS Cooperative",
+    "UTIL",
+    "Utilities Communication",
+    "Maryland Broadband Cooperative",
+    "Maryland Broadband Mapping Initiative",
+    "Census",
+    "Census Blocks",
+    "MD iMAP"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "2014-06-25",
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "b1g_date_range_drsim": [
+    "[2014 TO 2014]"
+  ],
+  "solr_year_i": "2014",
+  "dct_spatial_sm": [
+    "Maryland"
+  ],
+  "solr_geom": "ENVELOPE(-79.4877,-74.9863,39.723,37.8866)",
+  "b1g_centroid_ss": "38.8048,-77.237",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "04a-01",
+  "dct_isPartOf_sm": [
+    "04a-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/8c736807b7af4ee593b4566a7e4b4153_0\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/8c736807b7af4ee593b4566a7e4b4153_0.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://geodata.md.gov/imap/rest/services/UtilityTelecom/MD_BroadbandProviderPerCensusBlock/MapServer/0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

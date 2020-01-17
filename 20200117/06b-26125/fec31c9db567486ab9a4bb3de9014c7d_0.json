@@ -1,0 +1,69 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "fec31c9db567486ab9a4bb3de9014c7d_0",
+  "dc_identifier_s": "fec31c9db567486ab9a4bb3de9014c7d_0",
+  "dc_title_s": "Park and Recreation Areas: Oakland County, Michigan",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "BY USING THIS WEBSITE OR THE CONTENT THEREIN, YOU AGREE TO THE TERMS OF USE. This map is used to publish information about parks and recreation areas in a community. The location of the parks are derived from a subset of Facility Sites and related to a table that contains information about parks and recreation activities.",
+  "dc_creator_sm": [
+    "Oakland County, Michigan"
+  ],
+  "dc_publisher_sm": [
+    "Oakland County, Michigan"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Boundaries"
+  ],
+  "b1g_keyword_sm": [
+    "Parks",
+    "Recreation",
+    "Open Space Planning",
+    "boundary",
+    "MOTM1016",
+    "MOTM1016"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Michigan State",
+  "dct_issued_s": "2016-09-08",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "solr_year_i": "2016",
+  "dct_spatial_sm": [
+    "Oakland County, Michigan",
+    "Michigan"
+  ],
+  "solr_geom": "ENVELOPE(-83.68790186,-83.07659805,42.88808277,42.4314569)",
+  "b1g_centroid_ss": "42.659769835,-83.38224995499999",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "06b-26125",
+  "dct_isPartOf_sm": [
+    "06b-26125"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://accessoakland.oakgov.com/datasets/fec31c9db567486ab9a4bb3de9014c7d_0\",\"http://schema.org/downloadUrl\":\"http://accessoakland.oakgov.com/datasets/fec31c9db567486ab9a4bb3de9014c7d_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/GE4Idg9FL97XBa3P/arcgis/rest/services/OaklandCountyParks/FeatureServer/0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

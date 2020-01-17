@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "2f9c3195-15d5-44b0-b7ff-c7dc912f74b3",
+  "dc_identifier_s": "2f9c3195-15d5-44b0-b7ff-c7dc912f74b3",
+  "dc_title_s": "CREP Program, Agricultural Preservation: Frederick County, Maryland",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Since 1997, Maryland\u2019s Conservation Reserve Enhancement Program (CREP) has helped thousands of Maryland landowners plant streamside buffers, establish wetlands, protect highly erodible land, and create wildlife habitat while providing them with a steady, dependable land rental income. CREP is a state-federal partnership that makes it easy for farmers to do their part to protect local waterways without hurting their bottom line. In 2009, the State of Maryland introduced a new CREP easement option that permanently protects land under CREP contract.",
+  "dc_creator_sm": [
+    ""
+  ],
+  "dc_publisher_sm": [
+    "Frederick County, Maryland"
+  ],
+  "dc_subject_sm": [
+    "Environment"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "solr_year_i": "2018",
+  "dct_spatial_sm": [
+    "Frederick County, Maryland",
+    "Maryland"
+  ],
+  "solr_geom": "ENVELOPE(-77.576783,-77.120193,39.664024,39.309894)",
+  "b1g_centroid_ss": "39.486959,-77.348488",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "04b-24021",
+  "dct_isPartOf_sm": [
+    "04b-24021"
+  ],
+  "b1g_dateAccessioned_s": "2019-04-05",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.frederickcountymd.gov/5969/Download-GIS-Data\",\"http://schema.org/downloadUrl\":\"https://www.frederickcountymd.gov/GISDownloadTracker---Agricultural-Preservation\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "99b3c27bd92a440b8cdb85dba088e403_39",
+  "dc_identifier_s": "99b3c27bd92a440b8cdb85dba088e403_39",
+  "dc_title_s": "Alt5 streams dt: Iowa",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "This is the map file with all alignments and resources.",
+  "dc_creator_sm": [
+    "Iowa Department of Transportation"
+  ],
+  "dc_publisher_sm": [
+    "State of Iowa"
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Iowa",
+  "dct_issued_s": "2018-12-05",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "solr_year_i": "2018",
+  "dct_spatial_sm": [
+    "Iowa"
+  ],
+  "solr_geom": "ENVELOPE(-96.64,-90.14,43.34,40.38)",
+  "b1g_centroid_ss": "41.86,-93.39",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "03a-02",
+  "dct_isPartOf_sm": [
+    "03a-02"
+  ],
+  "b1g_dateAccessioned_s": "2019-07-23",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://public-iowadot.opendata.arcgis.com/datasets/99b3c27bd92a440b8cdb85dba088e403_39\",\"http://schema.org/downloadUrl\":\"http://public-iowadot.opendata.arcgis.com/datasets/99b3c27bd92a440b8cdb85dba088e403_39.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/8lRhdTsQyJpO52F1/arcgis/rest/services/Missouri_Valley_AGOL_All_Alts_Resources/FeatureServer/39\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

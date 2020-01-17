@@ -1,0 +1,71 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "0f20e9e47ef74fd587f608630599a2d9_0",
+  "dc_identifier_s": "0f20e9e47ef74fd587f608630599a2d9_0",
+  "dc_title_s": "Demographic and Employment Forecast Zonal Data - 2010 to 2040: Delaware Valley Regional Planning Commission",
+  "dct_alternativeTitle_sm": [
+    "DVRPC Demographic and Employment Forecast Zonal Data - 2010 to 2040"
+  ],
+  "dc_description_s": "The Office of Modeling and Analysis is responsible for developing the socio-economic data for the various modeling processes utilized by DVRPC. This data is derived from the U.S. Census Bureau s American Community Survey (ACS) and Census Transportation Planning package (CTPP), and the National Establishment Time Series (NETS) for 2010. The data sets are developed for DVRPC Traffic Analysis Zones (TAZ) used by the modeling process. Demographic attributes deal with population within a zone, how many vehicles per household, number of households within a zone, etc. Employment attributes are disaggregated into employment sector categories such as retail, manufacturing, mining, and agricultural. This data is also used to evaluate demographic and employment trends and patterns within the DVRPC region from county to county, urban to rural, and interactions with the DVRPC and the neighboring administrative entities. Population and employment totals conform to DVRPC Board-adopted municipal forecasts.",
+  "dc_creator_sm": [
+    "DVRPC-GIS"
+  ],
+  "dc_publisher_sm": [
+    "Delaware Valley Regional Planning Commission"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "b1g_keyword_sm": [
+    "Demographics",
+    "Population",
+    "Employment",
+    "Transportation Analysis Zone",
+    "Forecast"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "2015-07-15T18:50:26.000Z",
+  "dct_temporal_sm": [
+    "2010-2040"
+  ],
+  "b1g_date_range_drsim": [
+    "[2010 TO 2040]"
+  ],
+  "solr_year_i": "2010",
+  "dct_spatial_sm": [
+    "Delaware River, Delaware",
+    "Delaware",
+    "Philadelphia, Pennsylvania",
+    "Pennsylvania",
+    "Maryland",
+    "New Jersey"
+  ],
+  "solr_geom": "ENVELOPE(-76.1513,-74.3815,40.6087,39.5094)",
+  "b1g_centroid_ss": "40.05905,-75.2664",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "04f-01",
+  "dct_isPartOf_sm": [
+    "04f-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-10-11",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/0f20e9e47ef74fd587f608630599a2d9_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://arcgis.dvrpc.org/arcgis/rest/services/Demographics/PopEmpForecastTAZ/FeatureServer/0\",\"http://schema.org/url\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/0f20e9e47ef74fd587f608630599a2d9_0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

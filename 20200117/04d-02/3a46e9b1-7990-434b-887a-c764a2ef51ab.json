@@ -1,0 +1,61 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "3a46e9b1-7990-434b-887a-c764a2ef51ab",
+  "dc_identifier_s": "3a46e9b1-7990-434b-887a-c764a2ef51ab",
+  "dc_title_s": "Map of Italy - Monte Pancali (Mount Pancali), 1943",
+  "dct_alternativeTitle_sm": [
+    "mdu-057186"
+  ],
+  "dc_description_s": "Map of Italy - Monte Pancali (Mount Pancali) , 1943. Scale=1:25,000. Topography, towns, roads, political boundaries for parts of Italy (Sicily)",
+  "dc_creator_sm": [
+    ""
+  ],
+  "dc_publisher_sm": [
+    "Army Map Service"
+  ],
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Image"
+  ],
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "dc_format_s": "TIFF",
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "1943",
+  "dct_temporal_sm": [
+    "1943"
+  ],
+  "b1g_date_range_drsim": [
+    "[1943 TO 1943]"
+  ],
+  "solr_year_i": "1943",
+  "dct_spatial_sm": [
+    "Monte Pancali, Italy"
+  ],
+  "solr_geom": "ENVELOPE(10.52666667,10.67642222,55.88124444,55.80999444)",
+  "b1g_centroid_ss": "55.84561944,10.601544445",
+  "dc_language_sm": [
+    ""
+  ],
+  "b1g_code_s": "04d-02",
+  "dct_isPartOf_sm": [
+    "04d-02"
+  ],
+  "b1g_dateAccessioned_s": "2019-11-04",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "Dublin Core",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/49/64/c7/61/4964c761-bce5-43f4-9db6-1dbd9f30b4ef\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

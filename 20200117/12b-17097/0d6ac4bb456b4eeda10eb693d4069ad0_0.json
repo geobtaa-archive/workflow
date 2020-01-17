@@ -1,0 +1,64 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "0d6ac4bb456b4eeda10eb693d4069ad0_0",
+  "dc_identifier_s": "0d6ac4bb456b4eeda10eb693d4069ad0_0",
+  "dc_title_s": "Address Points: Lake County, Illinois",
+  "dct_alternativeTitle_sm": [
+    "Address Points"
+  ],
+  "dc_description_s": "Download In State Plane Projection Here. These address points were developed for a myriad of uses including general public geocoding in Lake County web sites and NG-911 emergency dispatch. All addresses are reviewed on a monthly basis against the United States Post Office delivery database to ensure that they are still active. New addresses are added at this time or earlier if they are made known to Lake County GIS by local data partners. Attributes DiscrpAgID through Elev reflect the NENA NG-911 / State of Illinois GIS Data model. Additional local data fields have also been included. The fields LSt_PreDir, LSt_Name, LSt_Type and LSt_PosDir are formatted according to United States Postal Service standards. Update Frequency: This dataset is updated on a weekly basis.",
+  "dc_creator_sm": [
+    "Lake County, Illinois"
+  ],
+  "dc_publisher_sm": [
+    "Lake County, Illinois"
+  ],
+  "dc_subject_sm": [
+    "Location"
+  ],
+  "b1g_keyword_sm": [
+    "Lake County  Illinois",
+    "Address Points"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Chicago",
+  "dct_issued_s": "2019-09-09T16:46:45.000Z",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "solr_year_i": "2019",
+  "dct_spatial_sm": [
+    "Lake County, Illinois",
+    "Illinois"
+  ],
+  "solr_geom": "ENVELOPE(-88.1993,-87.7603,42.4957,42.1524)",
+  "b1g_centroid_ss": "42.32405,-87.9798",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "12b-17097",
+  "dct_isPartOf_sm": [
+    "12b-17097"
+  ],
+  "b1g_dateAccessioned_s": "2019-10-11",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data-lakecountyil.opendata.arcgis.com/datasets/0d6ac4bb456b4eeda10eb693d4069ad0_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services3.arcgis.com/HESxeTbDliKKvec2/arcgis/rest/services/LakeCounty_AddressPoints/FeatureServer/0\",\"http://schema.org/url\":\"http://data-lakecountyil.opendata.arcgis.com/datasets/0d6ac4bb456b4eeda10eb693d4069ad0_0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

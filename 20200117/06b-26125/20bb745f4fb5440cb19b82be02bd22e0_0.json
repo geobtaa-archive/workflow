@@ -1,0 +1,73 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "20bb745f4fb5440cb19b82be02bd22e0_0",
+  "dc_identifier_s": "20bb745f4fb5440cb19b82be02bd22e0_0",
+  "dc_title_s": "Oc Sledding: Oakland County, Michigan",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "BY USING THIS WEBSITE OR THE CONTENT THEREIN, YOU AGREE TO THE TERMS OF USE. Created for the January 2016 Map of the Month. Data researched by Oakland County GIS team and hosted in ArcGIS Online.Wikipedia: Sledding",
+  "dc_creator_sm": [
+    "Oakland County, Michigan"
+  ],
+  "dc_publisher_sm": [
+    "Oakland County, Michigan"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Location"
+  ],
+  "b1g_keyword_sm": [
+    "Snow",
+    "Sports",
+    "Toboggan",
+    "Winter",
+    "Activities",
+    "Sledding",
+    "MOTM116",
+    "Hill",
+    "Sled",
+    "recreation"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Michigan State",
+  "dct_issued_s": "2015-12-21",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "b1g_date_range_drsim": [
+    "[2015 TO 2015]"
+  ],
+  "solr_year_i": "2015",
+  "dct_spatial_sm": [
+    "Oakland County, Michigan",
+    "Michigan"
+  ],
+  "solr_geom": "ENVELOPE(-83.694337,-83.074282,42.893598,42.426087)",
+  "b1g_centroid_ss": "42.659842499999996,-83.3843095",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "06b-26125",
+  "dct_isPartOf_sm": [
+    "06b-26125"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://accessoakland.oakgov.com/datasets/20bb745f4fb5440cb19b82be02bd22e0_0\",\"http://schema.org/downloadUrl\":\"http://accessoakland.oakgov.com/datasets/20bb745f4fb5440cb19b82be02bd22e0_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/GE4Idg9FL97XBa3P/arcgis/rest/services/Sledding/FeatureServer/0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

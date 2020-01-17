@@ -1,0 +1,73 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "71432cce5f3d40e799245d781ab8c00d_42",
+  "dc_identifier_s": "71432cce5f3d40e799245d781ab8c00d_42",
+  "dc_title_s": "Boundary Stones Location: Washington D.C.",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "DC Boundary stone locations. The dataset contains locations and attributes of DC Boundary stones, created as part of the DC Geographic Information System (DC GIS) for the D.C. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies. A database provided by A. Morton Thomas amp; Associates, Inc. identified DC Boundary stone locations. DC Boundary stones field surveyed by GPS and conventional survey methods. Surveyed accuracy is +/- 5cm horizontal and +/- 9cm vertical. METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE.",
+  "dc_creator_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_publisher_sm": [
+    "District of Columbia"
+  ],
+  "dc_subject_sm": [
+    "Location"
+  ],
+  "b1g_keyword_sm": [
+    "Cadastral",
+    "DC",
+    "DC",
+    "DC Boundary stones",
+    "DC GIS",
+    "DCGIS",
+    "District of Columbia",
+    "Land",
+    "Open Data",
+    "Property",
+    "Washington",
+    "Washington DC"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "2015-02-27",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "b1g_date_range_drsim": [
+    "[2015 TO 2015]"
+  ],
+  "solr_year_i": "2015",
+  "dct_spatial_sm": [
+    "Washington D.C"
+  ],
+  "solr_geom": "ENVELOPE(-77.17254927,-76.90903411,38.99596331,38.79021932)",
+  "b1g_centroid_ss": "38.893091315,-77.04079168999999",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "04c-01",
+  "dct_isPartOf_sm": [
+    "04c-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-05-29",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/71432cce5f3d40e799245d781ab8c00d_42\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/71432cce5f3d40e799245d781ab8c00d_42.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Property_and_Land_WebMercator/MapServer/42\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

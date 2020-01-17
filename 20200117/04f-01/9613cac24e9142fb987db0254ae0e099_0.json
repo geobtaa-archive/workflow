@@ -1,0 +1,74 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "9613cac24e9142fb987db0254ae0e099_0",
+  "dc_identifier_s": "9613cac24e9142fb987db0254ae0e099_0",
+  "dc_title_s": "Connections 2045 Conservation Focus Areas: Delaware Valley Regional Planning Commission",
+  "dct_alternativeTitle_sm": [
+    "DVRPC Connections 2045 Conservation Focus Areas"
+  ],
+  "dc_description_s": "Connections 2045 Plan for Greater Philadelphia - Administrative Version DVRPC Publication No. 17039 12/2017For planning purposes, the region s natural and rural areas have been divided up and branded as Conservation Focus Areas. Examples include the Hopewell Big Woods and the King Ranch Region, which both cross Chester County; the Unami Hills in Bucks County; and the New Jersey Pinelands, touching Burlington, Camden, and Gloucester counties. The Conservation Focus Areas can be either agricultural or natural in character and comprise both Rural Resource Lands and portions of the Greenspace Network. Preserving unprotected open space and making sure that any new development is context sensitive are key policy recommendations for the Conservation Focus Areas.**PLEASE NOTE: GEOGRAPHY IS FOR ILLUSTRATIVE PURPOSES ONLY AND IS DESIGNED TO BE USED AT THE DVRPC REGIONAL SCALE ONLY**",
+  "dc_creator_sm": [
+    "DVRPC-GIS"
+  ],
+  "dc_publisher_sm": [
+    "Delaware Valley Regional Planning Commission"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_keyword_sm": [
+    "DVRPC",
+    "Connections 2045",
+    "Long-Range Plan",
+    "Conservation Focus Areas",
+    "2045",
+    "Planning",
+    "Environmental",
+    "Conservation"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "2018-07-16T18:33:09.000Z",
+  "dct_temporal_sm": [
+    "2045"
+  ],
+  "b1g_date_range_drsim": [
+    "[2045 TO 2045]"
+  ],
+  "solr_year_i": "2017",
+  "dct_spatial_sm": [
+    "Delaware River, Delaware",
+    "Delaware",
+    "Philadelphia, Pennsylvania",
+    "Pennsylvania",
+    "Maryland",
+    "New Jersey"
+  ],
+  "solr_geom": "ENVELOPE(-76.1335,-74.3815,40.6071,39.5351)",
+  "b1g_centroid_ss": "40.0711,-75.2575",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "04f-01",
+  "dct_isPartOf_sm": [
+    "04f-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-10-11",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/9613cac24e9142fb987db0254ae0e099_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/LWtWv6q6BJyKidj8/arcgis/rest/services/DVRPC_Connections_2045_Conservation_Focus_Areas/FeatureServer/0\",\"http://schema.org/url\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/9613cac24e9142fb987db0254ae0e099_0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

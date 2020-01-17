@@ -1,0 +1,79 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "bc100f0fa2e5430a80ee3eec322b18c9_2",
+  "dc_identifier_s": "bc100f0fa2e5430a80ee3eec322b18c9_2",
+  "dc_title_s": "Watersheds - 12 Digit Watersheds: Maryland",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "This is a MD iMAP hosted service layer. Find more information at http://imap.maryland.gov.This file (SWSHED12) is a statewide digital watershed file. It was created primarily for state and federal agency use. The watersheds define Strahler (Strahler 1952 p. 1120) third order stream drainage by contours on U.S. Geological Survey (USGS) 7.5 minute quadrangle map sheets. Some watersheds drainage areas were defined for streams less than third order and some large area watershed were split to maintain a maximum size of 15,000 acres. The watershed boundaries in this file were developed in a joint state and federal effort to create a consistent watershed file for use by all government agencies with an interest in Maryland's watersheds. The U.S. Natural Resources Conservation Service (NRCS) redefined the third order watersheds creating the HUA14 file. This file contains all of the HUA14 watersheds and some added watersheds to maintain water quality sampling sites. It was also used to create the Maryland Sub-Watershed file.The Department of Natural Resources makes no warranty, expressed or implied, as to the use or appropriateness of Spatial Data, and there are no warranties of merchantability or fitness for a particular purpose or use. The information contained in Spatial Data is from publicly available sources, but no representation is made as to the accuracy or completeness of Spatial Data. The Department of Natural Resources shall not be subject to liability for human error, error due to software conversion, defect, or failure of machines, or any material used in the connection with the machines, including tapes, disks, CD-ROMs or DVD-ROMs and energy. The Department of Natural Resources shall not be liable for any lost profits, consequential damages, or claims against the Department of Natural Resources by third parties. The liability of the Department of Natural Resources for damage regardless of the form of the action shall not exceed any distribution fees that may have been paid in obtaining Spatial Data.Feature Service Layer Link:https://geodata.md.gov/imap/rest/services/Hydrology/MD_Watersheds/FeatureServer/2",
+  "dc_creator_sm": [
+    "ArcGIS Online for Maryland"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "b1g_keyword_sm": [
+    "Hydrology",
+    "Watersheds",
+    "8 Digit Watersheds",
+    "12 Digit Watersheds",
+    "HUC 11 Federal Watersheds",
+    "Chesapeake Bay",
+    "Coastal Zone",
+    "Vector",
+    "Dynamic",
+    "WFS",
+    "WMS",
+    "HYDR",
+    "DNR",
+    "Department of Natural Resources",
+    "Maryland",
+    "MD",
+    "MD iMAP",
+    "KML"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "2016-02-10",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "solr_year_i": "2016",
+  "dct_spatial_sm": [
+    "Maryland"
+  ],
+  "solr_geom": "ENVELOPE(-79.4875,-74.9943,39.7229,37.8909)",
+  "b1g_centroid_ss": "38.8069,-77.2409",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "04a-01",
+  "dct_isPartOf_sm": [
+    "04a-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/bc100f0fa2e5430a80ee3eec322b18c9_2\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/bc100f0fa2e5430a80ee3eec322b18c9_2.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://geodata.md.gov/imap/rest/services/Hydrology/MD_Watersheds/FeatureServer/2\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

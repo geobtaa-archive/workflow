@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "522d7f69-8951-46f6-8cb4-30cad69878ca",
+  "dc_identifier_s": "522d7f69-8951-46f6-8cb4-30cad69878ca",
+  "dc_title_s": "Municipal Boundary: Boomington, Indiana",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Bloomington municipal boundary exported from the CIty's GIS. See summary description (txt) file for information about intended use, projection, currency, attributes, etc.This map data layer represents the municipal boundary for the City of Bloomington, Indiana. The mapped geographic area includes over 23 square miles in central Monroe County Indiana.",
+  "dc_creator_sm": [
+    ""
+  ],
+  "dc_publisher_sm": [
+    "City of Bloomington, Indiana"
+  ],
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Polygon",
+  "dct_provenance_s": "Indiana",
+  "dct_issued_s": "2017-08-09T18:33:21.159074",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "b1g_date_range_drsim": [
+    "[2017 TO 2017]"
+  ],
+  "solr_year_i": "2017",
+  "dct_spatial_sm": [
+    "Bloomington, Indiana",
+    "Indiana"
+  ],
+  "solr_geom": "ENVELOPE(-86.64072,-86.443129,39.251551,39.068536)",
+  "b1g_centroid_ss": "39.1600435,-86.5419245",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "01c-01",
+  "dct_isPartOf_sm": [
+    "01c-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.bloomington.in.gov/dataset/522d7f69-8951-46f6-8cb4-30cad69878ca\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://bloomington.in.gov/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://bloomington.in.gov/geoserver/wfs\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

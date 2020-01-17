@@ -1,0 +1,66 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "VAC3073-M-00394",
+  "dc_identifier_s": "VAC3073-M-00394",
+  "dc_title_s": "Geological map of the lower Carboniferous area of Southern Indiana (Corydon sheet): to accompany the report on the geology of the region",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "From the 27th Annual report of the Department of Geology and Natural Resources of Indiana, 1902. Includes three East-West cross-sections: through New Amsterdam, through Corydon, and along line of Southern railway. Scale 1:126,720. 2 miles = 1 in. By George H. Ashley; geology By George H. Ashley and Edward M. Kindle; W.S. Blatchley, state geologist.",
+  "dc_creator_sm": [
+    "Ashley, Geo. H. (George Hall),1866-1951",
+    "Kindle, E. M. (Edward Martin),1869-1940.",
+    "Blatchley, W. S. (Willis Stanley),1859-1940"
+  ],
+  "dc_publisher_sm": [
+    "Indiana Department of Geology and Natural Resources",
+    "William B. Burford"
+  ],
+  "dc_subject_sm": [
+    "Geological maps"
+  ],
+  "b1g_keyword_sm": [
+    "Geological cross-sections",
+    "Indiana Historic Maps"
+  ],
+  "dc_type_sm": [
+    "Image"
+  ],
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "dc_format_s": "JPEG",
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Indiana",
+  "dct_issued_s": "1903",
+  "dct_temporal_sm": [
+    "1902"
+  ],
+  "b1g_date_range_drsim": [
+    "[1902 TO 1902]"
+  ],
+  "solr_year_i": "1902",
+  "dct_spatial_sm": [
+    "Indiana",
+    "Indiana"
+  ],
+  "solr_geom": "ENVELOPE(-86.8,-85.7501,38.41,37.83)",
+  "b1g_centroid_ss": "38.12,-86.27505",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "01d-01",
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-01-16",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00394\",\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00394\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": "https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00394"
+}

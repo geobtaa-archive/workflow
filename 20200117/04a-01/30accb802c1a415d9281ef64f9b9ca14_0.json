@@ -1,0 +1,72 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "30accb802c1a415d9281ef64f9b9ca14_0",
+  "dc_identifier_s": "30accb802c1a415d9281ef64f9b9ca14_0",
+  "dc_title_s": "Right-Of-Way: Maryland",
+  "dct_alternativeTitle_sm": [
+    "MDOT SHA Right-Of-Way"
+  ],
+  "dc_description_s": "MDOT SHA WebsiteContact UsSurveyed Right-Of-Way (#206600)Highest Accuracy ROW directly established based on actual ground surveyDirectly associated with an original CADD design fileUseful for project design, planning, and implementationComputed Right-Of-Way (#41CC00)Moderate AccuracyROW calculated from existing plats prepared on a known horizontal datum or existing established roadway geometryDirectly associated with its own digital CADD design fileUseful for project design and planningMarginal Right-Of-Way (#A3FF73)Lowest AccuracyROW derived from tracing scanned historical ROW plats that have been geo-referenced to a +/- 10-foot accuracyNo digital CADD design file existsIn most cases, more accurate than the Maryland Property View Cadastral Tax Map or the 2011 SHA Estimated ROW layer when used for project design and planning",
+  "dc_creator_sm": [
+    "ArcGIS Online for Maryland"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_keyword_sm": [
+    "survey",
+    "plats and surveys division",
+    "psd",
+    "right of way",
+    "row",
+    "mdot sha",
+    "ROW",
+    "MDOT",
+    "SHA",
+    "Maryland",
+    "right-of-way"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "2019-04-30",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "solr_year_i": "2019",
+  "dct_spatial_sm": [
+    "Maryland"
+  ],
+  "solr_geom": "ENVELOPE(-81.5004,-75.0168,39.7287,37.5992)",
+  "b1g_centroid_ss": "38.66395,-78.2586",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "04a-01",
+  "dct_isPartOf_sm": [
+    "04a-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-09-04",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.imap.maryland.gov/datasets/30accb802c1a415d9281ef64f9b9ca14_0\",\"https://schema.org/downloadUrl\":\"https://data.imap.maryland.gov/datasets/30accb802c1a415d9281ef64f9b9ca14_0.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps.roads.maryland.gov/arcgis/rest/services/OHD_PSD/PSD_Right_of_Way_Maryland_MDOTSHA/MapServer/0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

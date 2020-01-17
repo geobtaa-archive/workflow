@@ -1,0 +1,71 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "def7081206b042cd848abe95a4a61a82_0",
+  "dc_identifier_s": "def7081206b042cd848abe95a4a61a82_0",
+  "dc_title_s": "Connections 2045 Planning Areas: Delaware Valley Regional Planning Commission",
+  "dct_alternativeTitle_sm": [
+    "DVRPC Connections 2045 Planning Areas"
+  ],
+  "dc_description_s": "Connections 2045 Plan for Greater Philadelphia - Administrative Version DVRPC Publication No. 17039 12/2017Greater Philadelphia is a complex mosaic of 352 diverse cities, boroughs, and townships. The Connections 2045 Long-Range Plan characterizes each of the region s municipalities as either a Core City, Developed Community, Growing Suburb, or Rural Area, as a means of categorizing the types of communities and defining the corresponding long-range planning policies most appropriate for each type. This categorization is shown on the Planning Areas and Centers dataset. Many municipalities have areas within their boundaries that fit the characteristics of more than one of these Planning Area types. Gloucester Township (in Camden County, New Jersey), for example, has neighborhoods that are fully developed, but it also has a significant number of undeveloped acres and forecasted population and employment growth more characteristic of a Growing Suburb. The intent of the Plan is to assign to each municipality the planning area type associated with the long-range planning policies that will be most beneficial to the entire community. While the Planning Areas and Centers map is a guide for policy direction at the regional scale, actual approaches should always be guided by local conditions.The region s four Core Cities are Philadelphia, Trenton, Camden, and Chester. Targeted infrastructure investment, maintenance and rehabilitation, comprehensive neighborhood revitalization, and efforts focused on reinforcing a network of social and educational programs will help to rebuild and revitalize the region s cities.Developed Communities are places that have already experienced most of their population and employment growth, and include inner ring communities adjacent to the Core Cities; railroad boroughs and trolley car communities; and mature suburban townships. Many of these communities are stable and thriving, offering affordable housing opportunities; access to transit; safe pedestrian and bicycling environments; and a strong community identity. Others, however, are experiencing population and employment losses; have deteriorating infrastructure systems; have aging resident populations living on limited incomes; and have stagnant or declining tax bases that cannot keep pace with rising service demands. Rehabilitation and maintenance of infrastructure systems and the housing stock, and local economic and community development can help to reinforce location advantages, while stabilizing neighborhoods and stemming decline.Growing Suburbs are communities that have a significant number of developable acres remaining and are experiencing or are forecast to experience significant population and/or employment growth. Key planning policies in these communities focus on the need to improve the form of development, reduce congestion, and mitigate the negative consequences of unmanaged growth, and include growth management and enhanced community design. Smart growth techniques that support a more concentrated development pattern (such as clustering, mixed uses, transit-oriented development, and transfer of development rights) can provide the critical mass necessary to support new transit services and other alternatives to the automobile. The quality of design and architectural character of the built environment, open space preservation, and the creation of an integrated system of open space and recreation are all priorities in these communities.Rural Areas include the region s agricultural communities and communities with large remaining natural areas. Key policy approaches for these communities focus on preservation and limiting development, and include limited expansion of infrastructure systems, preservation of a rural lifestyle and village character, support for continued farming, and enhanced natural resource protection. Livable communities in these areas include rural centers that have an identi fi able main street, a mix of uses, higher densities than their surrounding uses, and a true sense of place. ",
+  "dc_creator_sm": [
+    "DVRPC-GIS"
+  ],
+  "dc_publisher_sm": [
+    "Delaware Valley Regional Planning Commission"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_keyword_sm": [
+    "DVRPC",
+    "Planning",
+    "Connections 2045",
+    "Long Range Plan",
+    "2045"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "2018-07-13T15:38:26.000Z",
+  "dct_temporal_sm": [
+    "2045"
+  ],
+  "b1g_date_range_drsim": [
+    "[2045 TO 2045]"
+  ],
+  "solr_year_i": "2017",
+  "dct_spatial_sm": [
+    "Delaware River, Delaware",
+    "Delaware",
+    "Philadelphia, Pennsylvania",
+    "Pennsylvania",
+    "Maryland",
+    "New Jersey"
+  ],
+  "solr_geom": "ENVELOPE(-76.1331,-74.3815,40.6071,39.5094)",
+  "b1g_centroid_ss": "40.05825,-75.2573",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "04f-01",
+  "dct_isPartOf_sm": [
+    "04f-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-10-11",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/def7081206b042cd848abe95a4a61a82_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/LWtWv6q6BJyKidj8/arcgis/rest/services/DVRPC_Connections_2045_Planning_Areas/FeatureServer/0\",\"http://schema.org/url\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/def7081206b042cd848abe95a4a61a82_0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

@@ -1,0 +1,67 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "11b-39049-02",
+  "dc_identifier_s": "11b-39049-02",
+  "dc_title_s": "GIS Shapefiles for Franklin County Auditor, Ohio",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "FTP directory of downloadable shapefiles for addresses, buildings, transportation, parcels, districts, boundaries, hydrology, and more.",
+  "dc_creator_sm": [
+    ""
+  ],
+  "dc_publisher_sm": [
+    "Franklin County, Ohio"
+  ],
+  "dc_subject_sm": [
+    "Counties geospatial data"
+  ],
+  "b1g_keyword_sm": [
+    "Imagery and Base Maps",
+    "Location",
+    "Planning and Cadastral",
+    "Transportation",
+    "Boundaries",
+    "Elevation"
+  ],
+  "dc_type_sm": [
+    "Collection"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data,Aerial imagery"
+  ],
+  "dc_format_s": "",
+  "layer_geom_type_s": "Table",
+  "dct_provenance_s": "Ohio State",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    "2002-pressent"
+  ],
+  "b1g_date_range_drsim": [
+    "[2002 TO 2002]"
+  ],
+  "solr_year_i": "",
+  "dct_spatial_sm": [
+    "Franklin County, Ohio",
+    "Ohio"
+  ],
+  "solr_geom": "ENVELOPE(-83.26088,-82.76183,40.14309,39.795)",
+  "b1g_centroid_ss": "39.969045,-83.01135500000001",
+  "dc_language_sm": [
+    ""
+  ],
+  "b1g_code_s": "11b-39049-02",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "b1g_dateAccessioned_s": "",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "",
+  "b1g_status_s": "",
+  "dc_rights_s": "Public",
+  "suppressed_b": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"ftp://apps.franklincountyauditor.com/\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

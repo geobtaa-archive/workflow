@@ -1,0 +1,68 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "564cce17-7d90-495a-87d8-b7d315ec18c6",
+  "dc_identifier_s": "564cce17-7d90-495a-87d8-b7d315ec18c6",
+  "dc_title_s": "Railroad commissioners' map of Minnesota, 1917",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Scale approximately 1:633,600. Also shows congressional districts. \"Ira B. Mills, Chas. E. Elmquist, O.P.B. Jacobson, Railroad and Warehouse Commissioners; A.C. Clausen, Secretary; Thos. Yapp, Ass't. Sec'y.\" Insets: Mesabi Range. Scale [1:380,160] -- St. Paul-Minneapolis and vicinity. Scale [1:272,448] --Duluth-Superior and vicinity. Scale [1:316,800] -- Cook County, northeastern Minnesota. Scale [1:633,600]. Index on verso. 117 x 73 cm",
+  "dc_creator_sm": [
+    "Grindhem, Martin Johansen",
+    "Mills, Ira B.",
+    "Elmquist, Charles Emil",
+    "Jacobson, Ole P.B.",
+    "Clausen, A. C.",
+    "Yapp, Thomas",
+    "Railroad and Warehouse Commission of the State of Minnesota",
+    "McGill-Warner Co."
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Image"
+  ],
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "dc_format_s": "JPEG",
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Minnesota",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    "1917"
+  ],
+  "b1g_date_range_drsim": [
+    ""
+  ],
+  "solr_year_i": "1917",
+  "dct_spatial_sm": [
+    ""
+  ],
+  "solr_geom": "ENVELOPE(-97.2391958,-89.4833851,49.384358,43.499361)",
+  "b1g_centroid_ss": "46.4418595,-93.36129045000001",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "05d-01",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "b1g_dateAccessioned_s": "2019-07-26",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "",
+  "b1g_status_s": "Retired",
+  "dc_rights_s": "Public",
+  "suppressed_b": "TRUE",
+  "dct_references_s": "{}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

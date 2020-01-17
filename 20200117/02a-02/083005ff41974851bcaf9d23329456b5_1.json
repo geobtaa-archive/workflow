@@ -1,0 +1,64 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "083005ff41974851bcaf9d23329456b5_1",
+  "dc_identifier_s": "083005ff41974851bcaf9d23329456b5_1",
+  "dc_title_s": "Non-Attainment Area Full Service Vehicle Testing Stations: Chicago, Illinois",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "This data layer contains the locations of Chicago Non-Attainment Area Full Service Vehicle Testing Station locations. To be used for ArcGIS Desktop 10.1 and ArcGIS Server 10.1 web applications using the ArcGIS Viewer for Silverlight. Also to be viewed in the Operations Dashboard and updated using the iPhone Collector App. Web Maps and Web Applications created in ArcGIS Online for Organizations.",
+  "dc_creator_sm": [
+    "Illinois EPA"
+  ],
+  "dc_publisher_sm": [
+    "State of Illinois"
+  ],
+  "dc_subject_sm": [
+    "Environment"
+  ],
+  "b1g_keyword_sm": [
+    "Chicago",
+    "Full Service",
+    "Testing Stations"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Illinois",
+  "dct_issued_s": "2018-06-14",
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "solr_year_i": "2018",
+  "dct_spatial_sm": [
+    "Illinois"
+  ],
+  "solr_geom": "ENVELOPE(-88.3259,-87.6011,42.3969,41.5727)",
+  "b1g_centroid_ss": "41.9848,-87.96350000000001",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "02a-02",
+  "dct_isPartOf_sm": [
+    "02a-02"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://illinoisepaopendata-illinois-epa.opendata.arcgis.com/datasets/083005ff41974851bcaf9d23329456b5_1\",\"http://schema.org/downloadUrl\":\"http://illinoisepaopendata-illinois-epa.opendata.arcgis.com/datasets/083005ff41974851bcaf9d23329456b5_1.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://geoservices.epa.illinois.gov/arcgis/rest/services/OCR/neandmetro_naavts_112513_symbols/MapServer/1\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

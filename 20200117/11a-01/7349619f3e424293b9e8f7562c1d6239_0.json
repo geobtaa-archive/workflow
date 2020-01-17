@@ -1,0 +1,64 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "7349619f3e424293b9e8f7562c1d6239_0",
+  "dc_identifier_s": "7349619f3e424293b9e8f7562c1d6239_0",
+  "dc_title_s": "Hot Spots2 Insured Sorted Infrastructure: Ohio",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "The following report outlines the workflow used to optimize your Find Hot Spots result:Initial Data Assessment.There were 3777 valid input features.There were 9 outlier locations; these were not used to compute the polygon cell size.Incident AggregationThe polygon cell size was 7096.0000 Meters.The aggregation process resulted in 536 weighted areas.Incident Count Properties:Min1.0000Max118.0000Mean7.0466Std. Dev.12.5919Scale of AnalysisThe optimal fixed distance band selected was based on peak clustering found at 55950.4284 Meters.Hot Spot AnalysisThere are 30 output features statistically significant based on a FDR correction for multiple testing and spatial dependence.OutputRed output features represent hot spots where high incident counts cluster.Blue output features represent cold spots where low incident counts cluster.",
+  "dc_creator_sm": [
+    "Ohio Emergency Management Agency"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Location"
+  ],
+  "b1g_keyword_sm": [
+    "Analysis Result",
+    "Hot Spots",
+    "Insured Sorted Infrastructure"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Ohio State",
+  "dct_issued_s": "2018-09-14",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "solr_year_i": "2018",
+  "dct_spatial_sm": [
+    "Ohio"
+  ],
+  "solr_geom": "ENVELOPE(-84.82923858,-80.49461581,41.97314357,38.40581234)",
+  "b1g_centroid_ss": "40.189477955,-82.661927195",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "11a-01",
+  "dct_isPartOf_sm": [
+    "11a-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/7349619f3e424293b9e8f7562c1d6239_0\",\"http://schema.org/downloadUrl\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/7349619f3e424293b9e8f7562c1d6239_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services6.arcgis.com/zxOMWqh0yAD6mMsJ/arcgis/rest/services/Hot_Spots2_Insured_Sorted_Infrastructure/FeatureServer/0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

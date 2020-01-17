@@ -1,0 +1,65 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "cb406e9ae262482db549cb9bccd7131f_0",
+  "dc_identifier_s": "cb406e9ae262482db549cb9bccd7131f_0",
+  "dc_title_s": "Insured Sorted Infrastructure Prediction: Ohio",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Feature layer generated from running the Interpolate Points solution.",
+  "dc_creator_sm": [
+    "Ohio Emergency Management Agency"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Structure"
+  ],
+  "b1g_keyword_sm": [
+    "Analysis Result",
+    "Interpolate Points",
+    "Insured Sorted Infrastructure",
+    "TIV_100_"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Ohio State",
+  "dct_issued_s": "2018-09-04",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "solr_year_i": "2018",
+  "dct_spatial_sm": [
+    "Ohio"
+  ],
+  "solr_geom": "ENVELOPE(-84.80410339,-80.519751,41.96119341,38.506689)",
+  "b1g_centroid_ss": "40.233941205,-82.661927195",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "11a-01",
+  "dct_isPartOf_sm": [
+    "11a-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/cb406e9ae262482db549cb9bccd7131f_0\",\"http://schema.org/downloadUrl\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/cb406e9ae262482db549cb9bccd7131f_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services6.arcgis.com/zxOMWqh0yAD6mMsJ/arcgis/rest/services/Insured_Sorted_Infrastructure_Prediction/FeatureServer/0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

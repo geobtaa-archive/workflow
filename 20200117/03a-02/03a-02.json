@@ -1,0 +1,72 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "03a-02",
+  "dc_identifier_s": "03a-02",
+  "dc_title_s": "IowaDOT Open Data",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "This portal is Iowa Department of Transportation's public platform for exploring and downloading open geospatial data. Topics of available datasets relate to the state\u2019s transportation infrastructure, including boundaries and web apps that provide access to aerial photography from the 1930's to today.",
+  "dc_creator_sm": [
+    "Iowa Department of Transportation"
+  ],
+  "dc_publisher_sm": [
+    "State of Iowa"
+  ],
+  "dc_subject_sm": [
+    "State agencies geospatial data"
+  ],
+  "b1g_keyword_sm": [
+    "Boundaries",
+    "Climatology",
+    " Meteorology and Atmosphere",
+    "Economy",
+    "Elevation",
+    "Environment",
+    "Imagery and Base Maps",
+    "Location",
+    "Planning and Cadastral",
+    "Society",
+    "Structure",
+    "Transportation"
+  ],
+  "dc_type_sm": [
+    "Collection"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "",
+  "layer_geom_type_s": "Table",
+  "dct_provenance_s": "Iowa",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    "1930-2019"
+  ],
+  "b1g_date_range_drsim": [
+    "[1930 TO 1930]"
+  ],
+  "solr_year_i": "",
+  "dct_spatial_sm": [
+    "Iowa"
+  ],
+  "solr_geom": "ENVELOPE(-96.63948,-90.14006,43.5012,40.37544)",
+  "b1g_centroid_ss": "41.93832,-93.38977",
+  "dc_language_sm": [
+    ""
+  ],
+  "b1g_code_s": "03a-02",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "b1g_dateAccessioned_s": "",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS HUB",
+  "b1g_status_s": "",
+  "dc_rights_s": "Public",
+  "suppressed_b": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://public-iowadot.opendata.arcgis.com\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

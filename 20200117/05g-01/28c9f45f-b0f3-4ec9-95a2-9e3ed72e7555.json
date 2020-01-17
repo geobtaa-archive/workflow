@@ -1,0 +1,67 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "28c9f45f-b0f3-4ec9-95a2-9e3ed72e7555",
+  "dc_identifier_s": "28c9f45f-b0f3-4ec9-95a2-9e3ed72e7555",
+  "dc_title_s": "Landcover: Mississippi River",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Land cover classification of the Mississippi River (River Mile 866 - 615), Minnesota River (River Mile 0-25), and the St. Croix River (River Mile 0-26). This data layer comprises only two classes (land and water) and extents generally from bluff to bluff.",
+  "dc_creator_sm": [
+    "US Army Corps of Engineers, St. Paul District Office"
+  ],
+  "dc_publisher_sm": [
+    "US Army Corps of Engineers"
+  ],
+  "dc_subject_sm": [
+    "Boundaries",
+    "Inland Waters"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Minnesota",
+  "dct_issued_s": "2008",
+  "dct_temporal_sm": [
+    "2003-2005"
+  ],
+  "b1g_date_range_drsim": [
+    "[2003 TO 2003]"
+  ],
+  "solr_year_i": "2003",
+  "dct_spatial_sm": [
+    "Minnesota River",
+    "Mississippi River",
+    "St. Croix River",
+    "Minnesota",
+    "Iowa",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-93.567136,-91.047505,45.150021,42.781884)",
+  "b1g_centroid_ss": "43.9659525,-92.3073205",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "05g-01",
+  "dct_isPartOf_sm": [
+    "05g-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://mvp-extstp.mvp.usace.army.mil/gis/\",\"http://schema.org/downloadUrl\":\"http://mvp-extstp.mvp.usace.army.mil/gis/data/Land_Water.zip\",\"http://www.w3.org/1999/xhtml\":\"https://btaagdp.org/metadata/05g-01/Land_Water.htm\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

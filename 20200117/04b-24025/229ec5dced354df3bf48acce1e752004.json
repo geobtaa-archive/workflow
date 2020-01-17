@@ -1,0 +1,71 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "229ec5dced354df3bf48acce1e752004",
+  "dc_identifier_s": "229ec5dced354df3bf48acce1e752004",
+  "dc_title_s": "Orthophotography (Update Area): Harford County, Maryland, 1994",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "1994 orthophotography of Harford County, Maryland.",
+  "dc_creator_sm": [
+    "Harford County Government"
+  ],
+  "dc_publisher_sm": [
+    "Harford County, Maryland"
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "b1g_keyword_sm": [
+    "Imagery",
+    "Aerial",
+    "Photography",
+    "Ortho",
+    "Orthophoto",
+    "Photo",
+    "Orthophotography",
+    "Harford",
+    "Maryland"
+  ],
+  "dc_type_sm": [
+    "Image",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Aerial imagery"
+  ],
+  "dc_format_s": "Imagery",
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "2015-11-18",
+  "dct_temporal_sm": [
+    "1994"
+  ],
+  "b1g_date_range_drsim": [
+    "[1994 TO 1994]"
+  ],
+  "solr_year_i": "1994",
+  "dct_spatial_sm": [
+    "Harford County, Maryland",
+    "Maryland"
+  ],
+  "solr_geom": "ENVELOPE(-76.3639,-76.2357,39.5101,39.4325)",
+  "b1g_centroid_ss": "39.4713,-76.2998",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "04b-24025",
+  "dct_isPartOf_sm": [
+    "04b-24025"
+  ],
+  "b1g_dateAccessioned_s": "2019-04-05",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://planning-harfordgis.opendata.arcgis.com/datasets/229ec5dced354df3bf48acce1e752004\",\"http://schema.org/downloadUrl\":\"http://planning-harfordgis.opendata.arcgis.com/datasets/229ec5dced354df3bf48acce1e752004\",\"urn:x-esri:serviceType:ArcGIS#ImageMapLayer\":\"https://hcggis.harfordcountymd.gov/public/rest/services/Orthophotos/1994_Ortho/ImageServer\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

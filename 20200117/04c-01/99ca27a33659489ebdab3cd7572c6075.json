@@ -1,0 +1,71 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "99ca27a33659489ebdab3cd7572c6075",
+  "dc_identifier_s": "99ca27a33659489ebdab3cd7572c6075",
+  "dc_title_s": "LiDAR - Normalized Digital Surface Model (nDSM) - Imagery Service: Washington, District of Columbia, 2018",
+  "dct_alternativeTitle_sm": [
+    "2018 LiDAR - Normalized Digital Surface Model (nDSM) - Imagery Service"
+  ],
+  "dc_description_s": "Normalized Digital Surface Model 2018The nDSM used all point returns, except for the noise class, to create a model of all features collected by the data. The nDSM did not undergo hydro-flattening but to improve the appearance and remove artifacts in the water, the hydro shapefile was used to set all water bodies to -5 m, an arbitrary, consistent value to ensure the water is blow the surrounding land to keep low lying features such as docks from appearing underwater. The bridges were masked out of the water polygons before applying the -5 m elevation to ensure they remain in the data set. The nDSM then went through a visual QC to make sure all noise points have been correctly classified out of the data and that the water elevation was properly applied and free of artifacts.",
+  "dc_creator_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_publisher_sm": [
+    "Washington, District of Columbia"
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "b1g_keyword_sm": [
+    "DC",
+    "Image Service",
+    "Raster",
+    "LiDAR",
+    "2018",
+    "nDSM",
+    "normalized digital surface model"
+  ],
+  "dc_type_sm": [
+    "Image",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Aerial imagery"
+  ],
+  "dc_format_s": "Imagery",
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "2019-11-06T14:42:43.000Z",
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "solr_year_i": "2018",
+  "dct_spatial_sm": [
+    "Washington, District of Columbia",
+    "District of Columbia",
+    "Maryland",
+    "Virginia"
+  ],
+  "solr_geom": "ENVELOPE(-77.122,-76.9007,39.0017,38.7855)",
+  "b1g_centroid_ss": "38.8936,-77.01135",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "04c-01",
+  "dct_isPartOf_sm": [
+    "04c-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-11-10",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/99ca27a33659489ebdab3cd7572c6075\",\"urn:x-esri:serviceType:ArcGIS#ImageMapLayer\":\"https://imagery.dcgis.dc.gov/dcgis/rest/services/Lidar/nDSM_2018/ImageServer\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

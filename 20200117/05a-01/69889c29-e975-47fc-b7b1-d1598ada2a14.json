@@ -1,0 +1,61 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "69889c29-e975-47fc-b7b1-d1598ada2a14",
+  "dc_identifier_s": "69889c29-e975-47fc-b7b1-d1598ada2a14",
+  "dc_title_s": "LiDAR Elevation: Southeast, Minnesota, 2008",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "THE ACCESS LINKS FOR THIS RECORD WERE REPORTED AS BROKEN. THE RECORD MAY HAVE BEEN RETIRED BY THE HOST. This high accuracy, bare-earth processed LiDAR data includes one-meter resolution DEMs, two-foot contours, edge-of-water breaklines and LAS points for nine counties in Southeast Minnesota: Dodge, Fillmore, Freeborn, Houston, Mower, Olmsted, Steele, Wabasha, and Winona. The project was coordinated by the Minnesota Department of Natural Resources and several partners including the U.S. Geological Survey, the Minnesota Department of Transportation, and staff from the affected counties.  The data was collected by AeroMetric, Inc. (now Quantum Spatial) in November 2008 and was delivered in tiles that covered an area 1/16th of a 1:24,000-scale USGS quadrangle (approximately 3.25 square miles). DNR conducted the QA/QC starting April 2009.  As part of the processing, one- and three-meter county mosaic DEMs were created and used for visual quality assessment.  Note: This metadata record was created at the Minnesota Geospatial Information Office by combining information supplied by AeroMetric and the DNR.",
+  "dc_creator_sm": [
+    "AeroMetric, Inc."
+  ],
+  "dc_publisher_sm": [
+    "State of Minnnesota"
+  ],
+  "dc_subject_sm": [
+    "Elevation"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Files",
+  "layer_geom_type_s": "Mixed",
+  "dct_provenance_s": "Minnesota",
+  "dct_issued_s": "2014-08-27T13:06:42.842901",
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "b1g_date_range_drsim": [
+    "[2008 TO 2008]"
+  ],
+  "solr_year_i": "2008",
+  "dct_spatial_sm": [
+    "Minnesota"
+  ],
+  "solr_geom": "ENVELOPE(-93.6564513,-91.15730677,44.48777166,43.46710646)",
+  "b1g_centroid_ss": "43.977439059999995,-92.406879035",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "05a-01",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "b1g_dateAccessioned_s": "2019-04-02",
+  "b1g_dateRetired_s": "2019-02-15",
+  "dct_accrualMethod_s": "CKAN",
+  "b1g_status_s": "Retired",
+  "dc_rights_s": "Public",
+  "suppressed_b": "TRUE",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/69889c29-e975-47fc-b7b1-d1598ada2a14\",\"http://schema.org/downloadUrl\":\"https://gisdata.mn.gov/dataset/69889c29-e975-47fc-b7b1-d1598ada2a14\",\"http://www.w3.org/1999/xhtml\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_mngeo/elev_lidar_semn2008/metadata/metadata.html\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

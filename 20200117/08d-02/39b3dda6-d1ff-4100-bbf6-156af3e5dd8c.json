@@ -1,0 +1,65 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "39b3dda6-d1ff-4100-bbf6-156af3e5dd8c",
+  "dc_identifier_s": "39b3dda6-d1ff-4100-bbf6-156af3e5dd8c",
+  "dc_title_s": "Conneaut Lake Boro, Pennsylvania, 1922",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Conneaut Lake Boro, Crawford County, Pennsylvania, June 1922. 1 map on 4 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_subject_sm": [
+    "Fire insurance maps"
+  ],
+  "b1g_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dc_type_sm": [
+    "Image"
+  ],
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "dc_format_s": "JPEG",
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Penn State",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    "1922"
+  ],
+  "b1g_date_range_drsim": [
+    "[1922 TO 1922]"
+  ],
+  "solr_year_i": "1922",
+  "dct_spatial_sm": [
+    "Conneaut Lake Boro, Pennsylvania",
+    "Crawford County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "solr_geom": "ENVELOPE(-80.319923,-80.301048,41.608898,41.596539)",
+  "b1g_centroid_ss": "41.6027185,-80.3104855",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "08d-02",
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "b1g_dateAccessioned_s": "2019-04-22",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "CONTENTdm",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/5919/manifest.json\",\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/5919\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

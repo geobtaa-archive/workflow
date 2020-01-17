@@ -1,0 +1,65 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "155bcbb1c8be4920aff5d3aa6842c47d_0",
+  "dc_identifier_s": "155bcbb1c8be4920aff5d3aa6842c47d_0",
+  "dc_title_s": "ArcGIS GDBO Historic Districts: City of Grand Rapids, Michigan",
+  "dct_alternativeTitle_sm": [
+    "ArcGIS GDBO Historic Districts"
+  ],
+  "dc_description_s": "A historic district is defined as a significant concentration, linkage or continuity of resources united historically or aesthetically by plan or design. The district s identity is a result of the interrelationship between individual resources that work together to create a visual sense of its history. ",
+  "dc_creator_sm": [
+    "City of Grand Rapids"
+  ],
+  "dc_publisher_sm": [
+    "City of Grand Rapids, Michigan"
+  ],
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "b1g_keyword_sm": [
+    "Historic districts",
+    "historic neighborhoods",
+    "historic boundaries"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Michigan",
+  "dct_issued_s": "2019-11-20T17:08:10.000Z",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "b1g_date_range_drsim": [
+    ""
+  ],
+  "solr_year_i": "2019",
+  "dct_spatial_sm": [
+    "Grand Rapids, Michigan",
+    "Michigan"
+  ],
+  "solr_geom": "ENVELOPE(-85.6711,-85.6392,42.9701,42.9502)",
+  "b1g_centroid_ss": "42.96015,-85.65514999999999",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "07c-03",
+  "dct_isPartOf_sm": [
+    "07c-03"
+  ],
+  "b1g_dateAccessioned_s": "2019-12-06",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://grdata-grandrapids.opendata.arcgis.com/datasets/155bcbb1c8be4920aff5d3aa6842c47d_0\",\"http://schema.org/downloadUrl\":\"http://grdata-grandrapids.opendata.arcgis.com/datasets/155bcbb1c8be4920aff5d3aa6842c47d_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services2.arcgis.com/L81TiOwAPO1ZvU9b/arcgis/rest/services/ArcGIS_GDBO_Historic_Districts/FeatureServer/0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "0de78889ad9c40609c29d0e9238fe323_4",
+  "dc_identifier_s": "0de78889ad9c40609c29d0e9238fe323_4",
+  "dc_title_s": "Adult Foster Care: Michigan",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "This data set includes state licensing information maintained by the Michigan Department of Licensing and Regulatory Affairs (LARA).? This data set is for licensed adult foster care homes.? Data set includes the following attributes: license number, facility type code, facility name, street address, city, state, ZIP code, county, total capacity, special populations served, and special certifications.? Special populations served include physically handicapped, developmentally disabled, mentally ill, aged, traumatically brain injured, and Alzheimer's.? Special certifications include developmentally disabled and mentally ill.",
+  "dc_creator_sm": [
+    "State of Michigan"
+  ],
+  "dc_publisher_sm": [
+    "State of Michigan"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Michigan State",
+  "dct_issued_s": "2019-03-14",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "solr_year_i": "2019",
+  "dct_spatial_sm": [
+    "Michigan"
+  ],
+  "solr_geom": "ENVELOPE(-90.83472266,-82.14453711,48.03857819,41.53835782)",
+  "b1g_centroid_ss": "44.788468005,-86.489629885",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "06a-01",
+  "dct_isPartOf_sm": [
+    "06a-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-05-29",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://gis-michigan.opendata.arcgis.com/datasets/0de78889ad9c40609c29d0e9238fe323_4\",\"http://schema.org/downloadUrl\":\"http://gis-michigan.opendata.arcgis.com/datasets/0de78889ad9c40609c29d0e9238fe323_4.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://utility.arcgis.com/usrsvcs/servers/0de78889ad9c40609c29d0e9238fe323/rest/services/CSS/CSS_LARA/MapServer/4\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

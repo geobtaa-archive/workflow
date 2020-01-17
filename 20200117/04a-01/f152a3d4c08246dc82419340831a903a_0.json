@@ -1,0 +1,81 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "f152a3d4c08246dc82419340831a903a_0",
+  "dc_identifier_s": "f152a3d4c08246dc82419340831a903a_0",
+  "dc_title_s": "Scenic Byways: Maryland",
+  "dct_alternativeTitle_sm": [
+    "MDOT SHA Scenic Byways"
+  ],
+  "dc_description_s": "THE ACCESS LINKS FOR THIS RECORD WERE REPORTED AS NONFUNCTIONAL. THE RECORD MAY HAVE BEEN RETIRED FROM THE HOST. AGOL Hosted Feature Layer which provides access to the Feature Service containing the MDOT SHA Scenic Byways data.MDOT SHA Scenic Byways data consists of linear geometric features which represent the geographic locations of roadways that are officially designated as Scenic Byways throughout the State of Maryland. Maryland s 18 designated byways encompass 2,487 miles of beautiful roads and offer a taste of Maryland s scenic beauty, history and culture. Take the roads less traveled - including byways featuring nationally significant themes: The Star-Spangled Banner, Harriet Tubman Underground Railroad, Religious Freedom, Chesapeake Country, Charles Street, Historic National Road, and the Catoctin Mountain National Scenic Byways. Maryland belongs to a longstanding network of national and state byways that include the most distinct and diverse roads of our nation. These corridors embody archaeological, cultural, historic, natural, recreational and scenic qualities that are worthy of preservation and promotion. Maryland s Scenic Byway program enhances community pride, as well as visitor appeal, by encouraging the responsible management and preservation of the State s most scenic, cultural and historic roads.MDOT SHA Scenic Byways data is owned and maintained by the Maryland Department of Transportation State Highway Administration (MDOT SHA) Office of Planning Preliminary Engineering (OPPE) Regional Intermodal Planning Division (RIPD). This data is updated on an As-Needed basis. This data was last updated in April 2019.Last Updated: 04/19/2019For additional information, contact the MDOT SHA Geospatial Technologies Team:Email: GIS@mdot.maryland.govFor additional information related to the Maryland Department of Transportation (MDOT):Website: https://www.mdot.maryland.gov/ For additional information related to the Maryland Department of Transportation State Highway Administration (MDOT SHA):Website: https://www.roads.maryland.gov/Home.aspx For additional information related to the MDOT SHA Office of Planning Preliminary Engineering (OPPE):Website: https://www.roads.maryland.gov/index.aspx PageId=125. For additional information related to the MDOT SHA Scenic Byways ProgramWebsite: https://www.roads.maryland.gov/index.aspx PageId=97MDOT SHA Geospatial Data Legal Disclaimer:The Maryland Department of Transportation State Highway Administration (MDOT SHA) makes no warranty, expressed or implied, as to the use or appropriateness of geospatial data, and there are no warranties of merchantability or fitness for a particular purpose or use. The information contained in geospatial data is from publicly available sources, but no representation is made as to the accuracy or completeness of geospatial data. MDOT SHA shall not be subject to liability for human error, error due to software conversion, defect, or failure of machines, or any material used in the connection with the machines, including tapes, disks, CD-ROMs or DVD-ROMs and energy. MDOT SHA shall not be liable for any lost profits, consequential damages, or claims against MDOT SHA by third parties.",
+  "dc_creator_sm": [
+    "ArcGIS Online for Maryland"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_keyword_sm": [
+    "Scenic",
+    "Byway",
+    "Byways",
+    "Scenic Byway",
+    "Scenic Route",
+    "Scenic Routes",
+    "Statewide",
+    "Maryland",
+    "MD",
+    "Maryland Department of Transportation",
+    "MDOT",
+    "Maryland Department of Transportation State Highway Administration",
+    "MDOT SHA",
+    "MDOT SHA Office of Planning and Preliminary Engineering",
+    "OPPE",
+    "MDOT SHA Regional Intermodal Planning Division",
+    "RIPD",
+    "MDOT SHA Scenic Byways Program",
+    "MDOT SHA Geospatial Technologies",
+    "GIS@mdot.maryland.gov"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "2019-04-23",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "solr_year_i": "2019",
+  "dct_spatial_sm": [
+    "Maryland"
+  ],
+  "solr_geom": "ENVELOPE(-79.4874,-75.0168,39.744,37.1183)",
+  "b1g_centroid_ss": "38.43115,-77.2521",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "04a-01",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "b1g_dateAccessioned_s": "2019-09-04",
+  "b1g_dateRetired_s": "2019-10",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Retired",
+  "dc_rights_s": "Public",
+  "suppressed_b": "TRUE",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.imap.maryland.gov/datasets/f152a3d4c08246dc82419340831a903a_0\",\"https://schema.org/downloadUrl\":\"https://data.imap.maryland.gov/datasets/f152a3d4c08246dc82419340831a903a_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/njFNhDsUCentVYJW/arcgis/rest/services/MDOT_SHA_Scenic_Byways_(Public)/FeatureServer/0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

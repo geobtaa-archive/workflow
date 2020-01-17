@@ -1,0 +1,61 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "bdcaba99-4b87-455c-a989-34e32ebb4e32",
+  "dc_identifier_s": "bdcaba99-4b87-455c-a989-34e32ebb4e32",
+  "dc_title_s": "Map of Portugal - S\u00e3o Bartolomeu De Messines area, 1922",
+  "dct_alternativeTitle_sm": [
+    "mdu-057202"
+  ],
+  "dc_description_s": "Map of Portugal - S\u00e3o Bartolomeu De Messines area, 1922. Scale=1:50,000. Topography, towns, roads, political boundaries for parts of Portugal",
+  "dc_creator_sm": [
+    ""
+  ],
+  "dc_publisher_sm": [
+    "Geographic and Cadastral Institute"
+  ],
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Image"
+  ],
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "dc_format_s": "TIFF",
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "1922",
+  "dct_temporal_sm": [
+    "1922"
+  ],
+  "b1g_date_range_drsim": [
+    "[1922 TO 1922]"
+  ],
+  "solr_year_i": "1922",
+  "dct_spatial_sm": [
+    "S\u00e3o Bartolomeu de Messines, Portugal"
+  ],
+  "solr_geom": "ENVELOPE(5.538933333,5.647933333,49.92038889,49.82667778)",
+  "b1g_centroid_ss": "49.873533335,5.593433333",
+  "dc_language_sm": [
+    ""
+  ],
+  "b1g_code_s": "04d-02",
+  "dct_isPartOf_sm": [
+    "04d-02"
+  ],
+  "b1g_dateAccessioned_s": "2019-11-04",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "Dublin Core",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/0d/88/31/a2/0d8831a2-c1a6-4234-9433-d734b24a7e87\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "7f4a02e4-55d6-496a-b610-6becd3c1b637",
+  "dc_identifier_s": "7f4a02e4-55d6-496a-b610-6becd3c1b637",
+  "dc_title_s": "Map of the Hindu Kush and the regions adjoining, to illustrate the journey of Benedict Go\u00ebs compiled by H. Y.",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Shows \"route of Go\u00ebs.\" Relief shown by hachures. Lithographer Edward Weller. \"Names used by Go\u00ebs.\" Gives \"obsolete names.\" Map \"To face title of part II\" of [\"Cathay and the way thither ... by Henry Yule, c.b.\"]. 1 map: col.; 32 x 50 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_creator_sm": [
+    "Yule, Henry, Sir, 1820-1889.,Goes, Benedict."
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_keyword_sm": [
+    "Clark Library Map Collections"
+  ],
+  "dc_type_sm": [
+    "Image"
+  ],
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "dc_format_s": "JPEG",
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Michigan",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    "1866?"
+  ],
+  "b1g_date_range_drsim": [
+    "[1866 TO 1866]"
+  ],
+  "solr_year_i": "1866",
+  "dct_spatial_sm": [
+    "Hindu Kush, Afghanistan",
+    "Afghanistan"
+  ],
+  "solr_geom": "ENVELOPE(67,80,40,34)",
+  "b1g_centroid_ss": "37.0,73.5",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "07d-01",
+  "dct_isPartOf_sm": [
+    "07d-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-01-16",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000081176/39015091916547\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000081176\"}",
+  "layer_id_s": "81176",
+  "b1g_image_ss": "https://quod.lib.umich.edu/cgi/i/image/api/image/clark1ic:000081176:39015091916547/full/res:1/0/native.jpg?attachment=1"
+}

@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "292171f6e5af4c37ad476ae959db299d_0",
+  "dc_identifier_s": "292171f6e5af4c37ad476ae959db299d_0",
+  "dc_title_s": "Property Sales: Minneapolis, Minnesota, 2014",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "The Minneapolis Assessor's Office tracks and records every real property transaction in the city. This is public information. Attributes included in the dataset: CRV - Certificate of Real Estate Value number. A unique identifier given to every certificate of real estate value. PIN_TEXT - The 13-digit tax ID that uniquely identifies a taxable parcel. Stored as a text data type. Sale_Date - The date of the sale. InRTOStudy - Yes or no depending on whether the sale was used for the Minnesota Department of Revenue Sales Ratio Study. Only sales that are considered fair market value sales are included. Neighborhood - The name of the neighborhood the property is in. Ward - The number of the ward that the property is in. Address - The street address of the property. HouseNumber - The house or street number part of the property.HouseNumber2 - Any additional alphanumeric parts of the house number.PrefixDirection - Any direction indicator that comes before the street name.StreetName - The name of the street that the property is on.StreetType - The type of street (e.g. St, Ave)SuffixDirection - Any direction indicator that comes after the street name. Grantee - The buyer name. Grantor - The seller name. Adjusted_Sale_Price - The sale price after accounting for seller-paid adjustments. Gross_Sale_Price - The unadjusted sale price. Downpayment - The dollar value of the initial downpayment X - The X coordinate of the parcel centroid of the sold property Y - The Y coordinate of the parcel centroid of the sold property The coordinates are expressed in the NAD 83 Hennepin County HARN coordinate system (WKID: 103734)",
+  "dc_creator_sm": [
+    "MapIT Minneapolis"
+  ],
+  "dc_publisher_sm": [
+    "City of Minneapolis, Minnesota"
+  ],
+  "dc_subject_sm": [
+    "Economy"
+  ],
+  "b1g_keyword_sm": [
+    "assessor"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Minnesota",
+  "dct_issued_s": "2016-08-12",
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "b1g_date_range_drsim": [
+    "[2014 TO 2014]"
+  ],
+  "solr_year_i": "2014",
+  "dct_spatial_sm": [
+    "Minneapolis, Minnesota",
+    "Minnesota"
+  ],
+  "solr_geom": "ENVELOPE(-93.32876426,-93.20121916,45.0509677,44.89105198)",
+  "b1g_centroid_ss": "44.97100984,-93.26499171",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "05c-01",
+  "dct_isPartOf_sm": [
+    "05c-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/292171f6e5af4c37ad476ae959db299d_0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/292171f6e5af4c37ad476ae959db299d_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Sales2014_2/FeatureServer/0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

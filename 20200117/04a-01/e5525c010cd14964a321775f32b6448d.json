@@ -1,0 +1,71 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "e5525c010cd14964a321775f32b6448d",
+  "dc_identifier_s": "e5525c010cd14964a321775f32b6448d",
+  "dc_title_s": "Lidar-Derived Dem In Feet, Maryland Imap: Howard County, Maryland, 2011",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "This is a MD iMAP hosted service. Find more information at http://imap.maryland.gov.Howard County, MD contracted to collect detailed ground elevation data from Aerial LiDAR Sensors for approximately 256 Square Miles as part of the CATSII, 2011 Maryland Statewide Orthophoto Project. The LiDAR data was collected in accordance with FEMA Procedure Memorandum No. 61 - Standards for LiDAR and Other High Quality Digital Topography, for which LiDAR data is collected in accordance with the USGS LiDAR Guidelines and Base Specifications, v13, dated February 22, 2010, for the National Geospatial Program, except as noted in FEMA's Procedure Memorandum No. 61.Image Service Link: https://lidar.geodata.md.gov/imap/rest/services/Howard/MD_howard_dem_ft/ImageServer",
+  "dc_creator_sm": [
+    "ArcGIS Online for Maryland"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps",
+    "Elevation"
+  ],
+  "b1g_keyword_sm": [
+    "MD",
+    "MD iMAP",
+    "Maryland",
+    "LiDAR",
+    "Howard",
+    "Maryland Department of Information Technology",
+    "DoIT",
+    "DEM",
+    "Elevation"
+  ],
+  "dc_type_sm": [
+    "Image",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Aerial imagery"
+  ],
+  "dc_format_s": "Imagery",
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "2018-01-24",
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "b1g_date_range_drsim": [
+    "[2011 TO 2011]"
+  ],
+  "solr_year_i": "2011",
+  "dct_spatial_sm": [
+    "Maryland"
+  ],
+  "solr_geom": "ENVELOPE(-77.1889,-76.6946,39.3713,39.1022)",
+  "b1g_centroid_ss": "39.23675,-76.94175",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "04a-01",
+  "dct_isPartOf_sm": [
+    "04a-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/e5525c010cd14964a321775f32b6448d\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/e5525c010cd14964a321775f32b6448d\",\"urn:x-esri:serviceType:ArcGIS#ImageMapLayer\":\"https://lidar.geodata.md.gov/imap/rest/services/Howard/MD_howard_dem_ft/ImageServer\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

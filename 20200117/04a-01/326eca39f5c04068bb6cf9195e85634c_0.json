@@ -1,0 +1,98 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "326eca39f5c04068bb6cf9195e85634c_0",
+  "dc_identifier_s": "326eca39f5c04068bb6cf9195e85634c_0",
+  "dc_title_s": "Maryland Mdot Sha District Boundaries - Mdot Sha District Boundaries: Maryland",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "This is a MD iMAP hosted service layer. Find more information at http://imap.maryland.gov.MDOT SHA District Boundaries data consists of polygon features which represent the boundaries of each Maryland Department of Transportation State Highway Administration (MDOT SHA) District. Each MDOT SHA District includes multiple Maryland Counties. There are a total of seven MDOT SHA Districts (District 1 - District 7) throughout the State of Maryland. MDOT SHA District Boundaries data was generated using geometry from Maryland's political county boundaries.MDOT SHA District Boundaries data is maintained by the Maryland Department of Transportation State Highway Administration (MDOT SHA), under the Office of Planning and Preliminary Engineering (OPPE) Data Governance Division (DGD). MDOT SHA District Boundaries data is used by various modules throughout MDOT, as well as many other Federal, State and local government agencies. MDOT SHA District Boundaries data is key to understanding and identifying the geographic extent for each MDOT SHA District.MDOT SHA District Boundaries data is updated and published on an As-Needed basis, as this data does not frequently change. For the latest information available from each MDOT SHA District, visit each MDOT SHA District Website:MDOT SHA District 1MDOT SHA District 2MDOT SHA District 3MDOT SHA District 4MDOT SHA District 5MDOT SHA District 6MDOT SHA District 7For additional information, contact the MDOT SHA Geospatial Technologies TeamEmail: GIS@sha.state.md.usFor additional information related to the Maryland Department of Transportation (MDOT):http://www.mdot.maryland.gov/For additional information related to the Maryland Department of Transportation State Highway Administration (MDOT SHA):http://roads.maryland.gov/Home.aspxMDOT SHA Geospatial Data Legal Disclaimer:The Maryland Department of Transportation State Highway Administration (MDOT SHA) makes no warranty, expressed or implied, as to the use or appropriateness of geospatial data, and there are no warranties of merchantability or fitness for a particular purpose or use. The information contained in geospatial data is from publicly available sources, but no representation is made as to the accuracy or completeness of geospatial data. MDOT SHA shall not be subject to liability for human error, error due to software conversion, defect, or failure of machines, or any material used in the connection with the machines, including tapes, disks, CD-ROMs or DVD-ROMs and energy. MDOT SHA shall not be liable for any lost profits, consequential damages, or claims against MDOT SHA by third parties.Map Service Link:https://geodata.md.gov/imap/rest/services/Transportation/MD_MDOTSHADistrictBoundaries/FeatureServer/0",
+  "dc_creator_sm": [
+    "ArcGIS Online for Maryland"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dc_subject_sm": [
+    "Transportation",
+    "Boundaries"
+  ],
+  "b1g_keyword_sm": [
+    "District",
+    "Districts",
+    "District Boundary",
+    "District Boundaries",
+    "Boundary",
+    "Boundaries",
+    "Transportation",
+    "SHA District",
+    "SHA Districts",
+    "MDOT SHA District",
+    "MDOT SHA Districts",
+    "District 1",
+    "District 2",
+    "District 3",
+    "District 4",
+    "District 5",
+    "District 6",
+    "District 7",
+    "District Area",
+    "District Zone",
+    "Maryland",
+    "MD",
+    "Statewide",
+    "Maryland Department of Transportation",
+    "MDOT",
+    "Maryland Department of Transportation State Highway Administration",
+    "MDOT SHA",
+    "SHA",
+    "MD iMAP",
+    "Vector",
+    "Dynamic",
+    "WFS",
+    "WMS",
+    "KML",
+    "TRAN",
+    "MDOT SHA District Boundaries"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "2017-12-22",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "b1g_date_range_drsim": [
+    "[2017 TO 2017]"
+  ],
+  "solr_year_i": "2017",
+  "dct_spatial_sm": [
+    "Maryland"
+  ],
+  "solr_geom": "ENVELOPE(-79.4872,-75.0492,39.723,37.8864)",
+  "b1g_centroid_ss": "38.8047,-77.26820000000001",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "04a-01",
+  "dct_isPartOf_sm": [
+    "04a-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/326eca39f5c04068bb6cf9195e85634c_0\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/326eca39f5c04068bb6cf9195e85634c_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://geodata.md.gov/imap/rest/services/Transportation/MD_MDOTSHADistrictBoundaries/FeatureServer/0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

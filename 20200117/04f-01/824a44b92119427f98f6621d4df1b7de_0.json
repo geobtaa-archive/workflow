@@ -1,0 +1,73 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "824a44b92119427f98f6621d4df1b7de_0",
+  "dc_identifier_s": "824a44b92119427f98f6621d4df1b7de_0",
+  "dc_title_s": "Airports: Delaware Valley Regional Planning Commission",
+  "dct_alternativeTitle_sm": [
+    "DVRPC Airports"
+  ],
+  "dc_description_s": "The points in this layer represent the location of public airports and select heliports in DVRPC's 28-County Data Service Area.Attribute fields titled RASP and RASP_Type were included to indicate whether an airport is part of DVRPC's Regional Airport System Plan (RASP). The RASP currently contains 24 airports: 3 commercial, 10 reliever, and 11 general aviation or recreational facilities. In addition, the current RASP identifies three operating public use heliports and one military airbase. The DVRPC_REG field indicates whether a facility is within the DVRPC 9-county region.Additional attribute data pertaining to these facilities may be sourced from the Federal Aviation Administration (FAA). The FAA provides airport data for the entire United States via various downloadable tables: http://www.faa.gov/airports/airport_safety/airportdata_5010/",
+  "dc_creator_sm": [
+    "DVRPC-GIS"
+  ],
+  "dc_publisher_sm": [
+    "Delaware Valley Regional Planning Commission"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_keyword_sm": [
+    "Airport",
+    "Heliport",
+    "Transportation",
+    "FAA Facilities",
+    "Regional Airport System Plan",
+    "RASP",
+    "DVRPC"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "2017-10-10T17:59:34.000Z",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "b1g_date_range_drsim": [
+    "[2017 TO 2017]"
+  ],
+  "solr_year_i": "2017",
+  "dct_spatial_sm": [
+    "Delaware River, Delaware",
+    "Delaware",
+    "Philadelphia, Pennsylvania",
+    "Pennsylvania",
+    "Maryland",
+    "New Jersey"
+  ],
+  "solr_geom": "ENVELOPE(-76.9746,-74.1134,40.9676,38.9904)",
+  "b1g_centroid_ss": "39.979,-75.544",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "04f-01",
+  "dct_isPartOf_sm": [
+    "04f-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-10-11",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/824a44b92119427f98f6621d4df1b7de_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://arcgis.dvrpc.org/arcgis/rest/services/Transportation/Airports/FeatureServer/0\",\"http://schema.org/url\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/824a44b92119427f98f6621d4df1b7de_0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

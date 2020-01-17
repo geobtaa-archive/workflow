@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "1BDB152A-3E2D-4908-9F21-42F18D5521F1",
+  "dc_identifier_s": "1BDB152A-3E2D-4908-9F21-42F18D5521F1",
+  "dc_title_s": "Roads: Lincoln County, Wisconsin, 2018",
+  "dct_alternativeTitle_sm": [
+    "Roads Lincoln County\\\\\\, WI 2018"
+  ],
+  "dc_description_s": "This line data layer represents roads for Lincoln County, Wisconsin in 2018. It is a feature class within the geodatabase, Lincoln_Roads_2018.gdb.[This data set consists of digital map files containing road centerline information obtained predominantly by conducting field work using GPS technology. Features contained in the data set include all road centerlines countywide and associated attributes and annotation. The Lincoln County Land Information Office plans to maintain this digital data in geodatabase format in an ESRI ArcSDE environment using ArcMap tools.]",
+  "dc_creator_sm": [
+    "Lincoln County, Wisconsin"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Geodatabase",
+  "layer_geom_type_s": "Line",
+  "dct_provenance_s": "Wisconsin",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "solr_year_i": "2018",
+  "dct_spatial_sm": [
+    "Lincoln County, Wisconsin",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-90.048086,-89.423327,45.556088,45.1192)",
+  "b1g_centroid_ss": "45.337644,-89.73570649999999",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "10d",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "b1g_dateAccessioned_s": "2019-09-04",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "GeoBlacklight",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Lincoln_Roads_2018.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Lincoln_Roads_2018.xml\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

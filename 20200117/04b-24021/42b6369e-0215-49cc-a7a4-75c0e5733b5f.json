@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "42b6369e-0215-49cc-a7a4-75c0e5733b5f",
+  "dc_identifier_s": "42b6369e-0215-49cc-a7a4-75c0e5733b5f",
+  "dc_title_s": "Community Facilities, Comprehensive Land Use Plan: Frederick County, Maryland",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "The Comprehensive Land Use Plan is a subset of various layers, which are intended to represent how Frederick County may develop within the next 20 - 30 years and is sanctioned by the Frederick County Board of County Commissioners. These data sets, which include the Comprehensive Land Use Plan Designations, Community Facilities, Highway Plan, and Community Growth Boundaries, should be used together in order to fully represent and understand how Frederick County may grow within the next 20-30 years. Using the individual layers alone may misrepresent the Comprehensive Land Use Plan. The most recent Countywide Comprehensive Plan was adopted on April 8, 2010. The Facilities were amended September 13, 2012. This data is not a reflection of current ground conditions nor should it be used for engineering or surveying purposes. The Community Facilities are part of the overall Comprehensive Land Use. The data represents existing and proposed locations of community facilities. These facilities include locations of existing and proposed parks, schools, libraries, police, fire, and transit stations, interchanges, and landfills. The proposed facilities are approximate locations where future faculties may be needed. They are not fixed on specific properties. This data is for display purposes only. This data should be used in conjunction with the other Comprehensive Land Use Plan layers in order to fully understand and properly represent the Comprehensive Land Use Plan.",
+  "dc_creator_sm": [
+    ""
+  ],
+  "dc_publisher_sm": [
+    "Frederick County, Maryland"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "solr_year_i": "2018",
+  "dct_spatial_sm": [
+    "Frederick County, Maryland",
+    "Maryland"
+  ],
+  "solr_geom": "ENVELOPE(-77.675583,-77.166199,39.71293,39.273599)",
+  "b1g_centroid_ss": "39.493264499999995,-77.42089100000001",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "04b-24021",
+  "dct_isPartOf_sm": [
+    "04b-24021"
+  ],
+  "b1g_dateAccessioned_s": "2019-04-05",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.frederickcountymd.gov/5969/Download-GIS-Data\",\"http://schema.org/downloadUrl\":\"https://www.frederickcountymd.gov/GISDownloadTracker---Comprehensive-Plan\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

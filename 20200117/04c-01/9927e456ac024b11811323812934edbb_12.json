@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "9927e456ac024b11811323812934edbb_12",
+  "dc_identifier_s": "9927e456ac024b11811323812934edbb_12",
+  "dc_title_s": "Green Sites and Amenities: District of Columbia",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Green location, amenities, attraction, and sites. The dataset contains locations and attributes of green features in the District, created as part of the DC Geographic Information System (DC GIS) for the D.C. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies. A database provided by the District Department of the Environment identified green locations. This dataset comprises the greenmap of DC and used to map and promote green amenities in the District. These include: - Aquatic Habitat - Bird and Wildlife Viewing - Community Garden - Ecological Action Zone - EcoInformation Site - Ecological Restoration Site - Energy Star - Environmental Art - Farmers Market - Geothermal Site - Good Walking Paths - Green Building - Green Cultural Site - Green Roof - Kayak and Canoe Site - Marina and Boat Ramp - Recycling - River Smart Home - Scenic View - School Yard Site - Solar Site - Special Garden - Special Tree - Tree Planting Site - Wetland - Wildlife and Nature Center - Wind Energy - Zip Car Share Site",
+  "dc_creator_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_publisher_sm": [
+    "District of Columbia"
+  ],
+  "dc_subject_sm": [
+    "Environment"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "2/27/2015",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "b1g_date_range_drsim": [
+    "[2015 TO 2015]"
+  ],
+  "solr_year_i": "2015",
+  "dct_spatial_sm": [
+    "Washington D.C"
+  ],
+  "solr_geom": "ENVELOPE(-77.11750731,-76.92261106,38.9856205,38.81405686)",
+  "b1g_centroid_ss": "38.89983868,-77.020059185",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "04c-01",
+  "dct_isPartOf_sm": [
+    "04c-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/9927e456ac024b11811323812934edbb_12\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/9927e456ac024b11811323812934edbb_12.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Environment_WebMercator/MapServer/12\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

@@ -22,9 +22,9 @@ single_dict = { #dictionary to translate single-value Dublin Core/GBL fields int
     "Access":["b1g_access_s"],
     "Layer ID":["layer_id_s"],
     "dct_references_s":["dct_references_s"],
-    "solr_geom":["solr_geom"],
-    "Centroid":["b1g_centroid_ss"],
-    "Rights":["dc_rights_s"]
+    "Rights":["dc_rights_s"],
+    "Centroid": ["b1g_centroid_ss"],
+    "solr_geom": ["solr_geom"]
     }
 multiple_dict = { #dictionary to translate multivalue Dublin Core/GBL fields into GBLJson
     "Is Part Of":["dct_isPartOf_sm"],
@@ -45,7 +45,7 @@ multiple_dict = { #dictionary to translate multivalue Dublin Core/GBL fields int
 if not os.path.exists("json"): #create a folder to store the jsons if one does not already exist
     os.mkdir("json")
 
-csvfile = open('records.csv', 'r') #opens the csv with the GBL data. Change this as needed
+csvfile = open('Deleted.csv', 'r') #opens the csv with the GBL data. Change this as needed
 
 reader = csv.DictReader(csvfile)
 date_modified = datetime.today().strftime('%Y-%m-%d')+"T"+datetime.today().strftime('%X')+"Z" #sets date modified to the current date
@@ -65,7 +65,7 @@ for row in reader: #each row is a dictionary
         if key in multiple_dict:
             for fieldname in multiple_dict[key]:
                 small_dict[fieldname] = val.split('|') #creates a list with the multiple values
-       #  if key == "Bounding Box":
+#         if key == "Bounding Box":
 #             val = val.split(',')
 #             if len(val) == 4: #takes care of bounding box values and calculates centroid
 #                 west = val[0]

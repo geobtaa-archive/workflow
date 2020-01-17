@@ -1,0 +1,64 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "f5b2f41063cd433097f43ecd8ef7f695_1",
+  "dc_identifier_s": "f5b2f41063cd433097f43ecd8ef7f695_1",
+  "dc_title_s": "CBCA Outer Boundary: Baltimore County, Maryland",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "This data is valid and authoritative for the time period beginning on the date it is approved by the Critical Area Commission, and ending on the date of an approved revision.",
+  "dc_creator_sm": [
+    "Baltimore County Web Map Portal"
+  ],
+  "dc_publisher_sm": [
+    "Baltimore County, Maryland"
+  ],
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "b1g_keyword_sm": [
+    "chesapeake bay critical area",
+    "outer boundary"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "8/30/2017",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "b1g_date_range_drsim": [
+    "[2017 TO 2017]"
+  ],
+  "solr_year_i": "2017",
+  "dct_spatial_sm": [
+    "Baltimore County, Maryland",
+    "Maryland"
+  ],
+  "solr_geom": "ENVELOPE(-76.6691,-76.3413,39.4251,39.2045)",
+  "b1g_centroid_ss": "39.314800000000005,-76.5052",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "04b-24005",
+  "dct_isPartOf_sm": [
+    "04b-24005"
+  ],
+  "b1g_dateAccessioned_s": "2019-04-05",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data-bc-gis.opendata.arcgis.com/datasets/f5b2f41063cd433097f43ecd8ef7f695_1\",\"http://schema.org/downloadUrl\":\"http://data-bc-gis.opendata.arcgis.com/datasets/f5b2f41063cd433097f43ecd8ef7f695_1.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://bcgis.baltimorecountymd.gov/arcgis/rest/services/Environmental/Environmental/MapServer/1\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

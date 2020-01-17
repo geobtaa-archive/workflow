@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "8956db60-74b5-40a0-b774-82076a2b8963",
+  "dc_identifier_s": "8956db60-74b5-40a0-b774-82076a2b8963",
+  "dc_title_s": "Urbium Londini et West-Monasterii : nec non Suburbii Southwark accurata Ichnographia, in qua vrie publicae omnes et singula, plat[ea] majores, via angiporti, porticulae etc. una cum accessionibs adificiorum, quibus urbs usque ad A. 1736 novissime locupletata eft repraessentantur.",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "London (England)--Maps",
+  "dc_creator_sm": [
+    "Homann Erben (Firm)"
+  ],
+  "dc_publisher_sm": [
+    "Homan Erben"
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_keyword_sm": [
+    "Penn State Rare Maps"
+  ],
+  "dc_type_sm": [
+    "Image"
+  ],
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "dc_format_s": "JPEG",
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Penn State",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    "1736"
+  ],
+  "b1g_date_range_drsim": [
+    "[1736 TO 1736]"
+  ],
+  "solr_year_i": "1736",
+  "dct_spatial_sm": [
+    "London, England",
+    "England"
+  ],
+  "solr_geom": "ENVELOPE(0.351388889,0.148055556,51.67222222,51.38472222)",
+  "b1g_centroid_ss": "51.52847222,0.24972222249999998",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "08d-01",
+  "dct_isPartOf_sm": [
+    "08d-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-01-16",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30401/manifest.json\",\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30401\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

@@ -1,0 +1,68 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "f6fd56433d3041c6bf441e9d3a6d06f7_1",
+  "dc_identifier_s": "f6fd56433d3041c6bf441e9d3a6d06f7_1",
+  "dc_title_s": "Pennsylvania Transportation Improvement Program Lines, Delaware Valley Regional Planning Commission: Pennsylvania, 2019-2022",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "THE ACCESS LINKS FOR THIS RECORD WERE REPORTED AS BROKEN. THE RECORD MAY HAVE BEEN RETIRED BY THE HOST. The Transportation Improvement Program (TIP) is the regionally agreed-upon list of priority transportation projects, as required by federal law (ISTEA, TEA-21, SAFETEA LU, MAP-21, and the FAST Act). The TIP document must list all projects that intend to use federal funds, along with all non-federally funded projects that are regionally significant. We also include all other State funded capital projects. The projects are multi-modal; that is, they include bicycle, pedestrian, ITS, and freight related projects, as well as the more traditional highway and public transit projects. The DVRPC FY2019 TIP for PA (FY2019-2022) was adopted by the DVRPC Board on June 28, 2018, and is in effect from October 1, 2018 to September 30, 2020. This important document catalogs the latest program of transportation projects for the Pennsylvania counties in the bi-state region.Please note that not all TIP projects are able to be mapped.",
+  "dc_creator_sm": [
+    "DVRPC-GIS"
+  ],
+  "dc_publisher_sm": [
+    "Delaware Valley"
+  ],
+  "dc_subject_sm": [
+    "Transportation",
+    "Planning and Cadastral"
+  ],
+  "b1g_keyword_sm": [
+    "Transportation Improvement Program",
+    "TIP",
+    "DVRPC",
+    "Pennsylvania",
+    "Transportation"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "2018-07-24",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "solr_year_i": "2019",
+  "dct_spatial_sm": [
+    "Delaware Valley",
+    "Maryland"
+  ],
+  "solr_geom": "ENVELOPE(-76.03079892,-74.77582106,40.51965694,39.72173777)",
+  "b1g_centroid_ss": "40.120697355,-75.40330999",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "Retired",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "b1g_dateAccessioned_s": "2019-04-02",
+  "b1g_dateRetired_s": "2019-02-15",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Retired",
+  "dc_rights_s": "Public",
+  "suppressed_b": "TRUE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/f6fd56433d3041c6bf441e9d3a6d06f7_1\",\"http://schema.org/downloadUrl\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/f6fd56433d3041c6bf441e9d3a6d06f7_1.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/LWtWv6q6BJyKidj8/arcgis/rest/services/DVRPC_Pennsylvania_Transportation_Improvement_Program_(TIP)_2019-2022/FeatureServer/1\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

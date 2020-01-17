@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "71bafd06-800a-41e2-b1f2-c0dc2cdfcf32",
+  "dc_identifier_s": "71bafd06-800a-41e2-b1f2-c0dc2cdfcf32",
+  "dc_title_s": "Tile Index for Aerial Photography: Philadelphia, Pennsylvania, 2019",
+  "dct_alternativeTitle_sm": [
+    "Philadelphia Aerial Photography 2018 - tile index"
+  ],
+  "dc_description_s": "Tile Index - Color Citywide digital orthophotography with a ground resolution of at various resolutions, georeferenced to the Pennsylvania State Plane Coordinate System, and delivered as individual and mosaicked raster images. The dataset consists of tiled orthogonal imagery produced from nadir images captured by various contractors during the months of April and May.",
+  "dc_creator_sm": [
+    ""
+  ],
+  "dc_publisher_sm": [
+    "City of Philadelphia, Pennsylvania"
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "b1g_genre_sm": [
+    ""
+  ],
+  "dc_format_s": "Files",
+  "layer_geom_type_s": "Raster",
+  "dct_provenance_s": "Penn State",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "solr_year_i": "2018",
+  "dct_spatial_sm": [
+    "City of Philadelphia, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "solr_geom": "ENVELOPE(-111.678816,-112.125088,43.78476,43.623514)",
+  "b1g_centroid_ss": "43.704137,-111.901952",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "08a-01",
+  "dct_isPartOf_sm": [
+    "08a-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-09-05",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "HTML",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=2020\",\"http://schema.org/downloadUrl\":\"https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=2020\",\"http://www.w3.org/1999/xhtml\":\"https://btaagdp.org/metadata/08a-01/FullMetadataDisplay.aspx%3ffile=PhiladelphiaImagery2018.html\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

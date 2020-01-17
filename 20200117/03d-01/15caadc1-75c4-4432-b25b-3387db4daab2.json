@@ -1,0 +1,61 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "15caadc1-75c4-4432-b25b-3387db4daab2",
+  "dc_identifier_s": "15caadc1-75c4-4432-b25b-3387db4daab2",
+  "dc_title_s": "Topographical map of Buena Vista County Iowa",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "",
+  "dc_creator_sm": [
+    "Huebinger, Melchoir"
+  ],
+  "dc_publisher_sm": [
+    "Iowa Publishing Co."
+  ],
+  "dc_subject_sm": [
+    "Atlases"
+  ],
+  "b1g_keyword_sm": [
+    "Iowa Counties Historic Atlases"
+  ],
+  "dc_type_sm": [
+    "Image"
+  ],
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "dc_format_s": "JPEG",
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Iowa",
+  "dct_issued_s": "1904",
+  "dct_temporal_sm": [
+    "1904"
+  ],
+  "b1g_date_range_drsim": [
+    "[1904 TO 1904]"
+  ],
+  "solr_year_i": "1904",
+  "dct_spatial_sm": [
+    "Iowa"
+  ],
+  "solr_geom": "ENVELOPE(-96.639485,-90.140061,43.501196,40.375437)",
+  "b1g_centroid_ss": "41.9383165,-93.38977299999999",
+  "dc_language_sm": [
+    ""
+  ],
+  "b1g_code_s": "03d-01",
+  "dct_isPartOf_sm": [
+    "5f08f194-e1e3-4c20-8294-d92b0bb7320a"
+  ],
+  "b1g_dateAccessioned_s": "2019-05-21",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://digital.lib.uiowa.edu:80/cdm/ref/collection/atlases/id/30\",\"http://schema.org/downloadUrl\":\"https://digital.lib.uiowa.edu/utils/getdownloaditem/collection/atlases/id/30/type/singleitem/filename/image.jp2/width/8320/height/5698/mapsto/image/filesize/82281747/title/30263/size/fullSize\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": "https://digital.lib.uiowa.edu/utils/getdownloaditem/collection/atlases/id/30/type/singleitem/filename/image.jp2/width/8320/height/5698/mapsto/image/filesize/82281747/title/30263/size/fullSize"
+}

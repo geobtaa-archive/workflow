@@ -1,0 +1,65 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "6f46622c852145448f8bd3667b9f0158_4",
+  "dc_identifier_s": "6f46622c852145448f8bd3667b9f0158_4",
+  "dc_title_s": "Dnr Project Boundaries: Michigan",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Project boundaries are geographic lines that help define the state s public lands acquisition and disposal strategy (Michigan's Managed Public Land Strategy). As part of the strategy, we will improve project boundary alignments of public lands to more closely reflect actual land ownership. There currently are about 1.9 million acres of privately owned lands scattered within the project boundaries. These boundaries were approved by the Natural Resources Commission in May, 2004.",
+  "dc_creator_sm": [
+    "State of Michigan"
+  ],
+  "dc_publisher_sm": [
+    "State of Michigan"
+  ],
+  "dc_subject_sm": [
+    "Environment",
+    "Boundaries"
+  ],
+  "b1g_keyword_sm": [
+    "Ownership",
+    "Michigan",
+    "DNR"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Michigan State",
+  "dct_issued_s": "2017-12-20",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "b1g_date_range_drsim": [
+    "[2017 TO 2017]"
+  ],
+  "solr_year_i": "2017",
+  "dct_spatial_sm": [
+    "Michigan"
+  ],
+  "solr_geom": "ENVELOPE(-90.0586,-82.1301,47.4311,41.6322)",
+  "b1g_centroid_ss": "44.53165,-86.09434999999999",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "06a-01",
+  "dct_isPartOf_sm": [
+    "06a-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://gis-michigan.opendata.arcgis.com/datasets/6f46622c852145448f8bd3667b9f0158_4\",\"http://schema.org/downloadUrl\":\"http://gis-michigan.opendata.arcgis.com/datasets/6f46622c852145448f8bd3667b9f0158_4.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services3.arcgis.com/Jdnp1TjADvSDxMAX/arcgis/rest/services/dnrRealEstate/FeatureServer/4\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

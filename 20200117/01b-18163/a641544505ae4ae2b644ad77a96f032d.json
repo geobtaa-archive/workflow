@@ -1,0 +1,65 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "a641544505ae4ae2b644ad77a96f032d",
+  "dc_identifier_s": "a641544505ae4ae2b644ad77a96f032d",
+  "dc_title_s": "Shots Fired: City of Evansville & Vanderburgh County, Indiana",
+  "dct_alternativeTitle_sm": [
+    "Shots Fired"
+  ],
+  "dc_description_s": "Shots fired data compiled and maintained by The Evansville Police Department.",
+  "dc_creator_sm": [
+    "AreaPlan"
+  ],
+  "dc_publisher_sm": [
+    "City of Evansville & Vanderburgh County, Indiana"
+  ],
+  "dc_subject_sm": [
+    "Location"
+  ],
+  "b1g_keyword_sm": [
+    "Crime",
+    "Police"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Indiana",
+  "dct_issued_s": "2016-12-31T19:10:23.000Z",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "solr_year_i": "2016",
+  "dct_spatial_sm": [
+    "Evansville, Vanderburgh County, Indiana",
+    "Vanderburgh County, Indiana",
+    "Indiana"
+  ],
+  "solr_geom": "ENVELOPE(-96.9076,-87.4428,38.1602,34.8472)",
+  "b1g_centroid_ss": "36.5037,-92.1752",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "01b-18163",
+  "dct_isPartOf_sm": [
+    "01b-18163"
+  ],
+  "b1g_dateAccessioned_s": "2020-01-07",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://dev-evansvilleapc.opendata.arcgis.com/datasets/a641544505ae4ae2b644ad77a96f032d\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps.evansvillegis.com/arcgis_server/rest/services/CRIMES/SHOTS/MapServer\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

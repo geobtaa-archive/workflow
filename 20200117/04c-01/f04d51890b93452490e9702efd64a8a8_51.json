@@ -1,0 +1,65 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "f04d51890b93452490e9702efd64a8a8_51",
+  "dc_identifier_s": "f04d51890b93452490e9702efd64a8a8_51",
+  "dc_title_s": "Owner Lines (Dimensions): Washington, D.C.",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "The dataset contains locations and attributes of owner lines with dimensions, created as part of the DC Geographic Information System (DC GIS) for the D.C. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies. The tax information (attribution) comes from OTR's Public Extract file. The creation of this layer is automated, occurs weekly, and uses the most currently available tax information. The date of the extract can be found in the EXTRACTDATE field in this layer.",
+  "dc_creator_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_publisher_sm": [
+    "District of Columbia"
+  ],
+  "dc_subject_sm": [
+    "Location"
+  ],
+  "b1g_keyword_sm": [
+    "Property",
+    "Lot",
+    "Land",
+    "Square"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "2015-06-04",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "b1g_date_range_drsim": [
+    "[2015 TO 2015]"
+  ],
+  "solr_year_i": "2015",
+  "dct_spatial_sm": [
+    "Washington D.C"
+  ],
+  "solr_geom": "ENVELOPE(-77.1194,-76.9093,38.996,38.8016)",
+  "b1g_centroid_ss": "38.8988,-77.01435000000001",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "04c-01",
+  "dct_isPartOf_sm": [
+    "04c-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/f04d51890b93452490e9702efd64a8a8_51\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/f04d51890b93452490e9702efd64a8a8_51.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Property_and_Land_WebMercator/MapServer/51\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

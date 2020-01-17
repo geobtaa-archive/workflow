@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "db6670e0-477a-4a6a-9243-f7c95f6b127c",
+  "dc_identifier_s": "db6670e0-477a-4a6a-9243-f7c95f6b127c",
+  "dc_title_s": "East 63rd Street : Cottage Grove Ave. to Stony Island Ave.",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Shows how every building on 63rd St. was used. Includes list of owners and names of stores. Blue line print.; Scale [1:600]. 1 in. = 50 ft; photocopy; Master and use copy. Digital master created according to Benchmark for Faithful Reproductions of Monographs and Serials, Version 1. Digital Library Federation, December 2002.",
+  "dc_creator_sm": [
+    "University of Chicago Department of Sociology"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_keyword_sm": [
+    "University of Chicago Social Science Maps"
+  ],
+  "dc_type_sm": [
+    "Image"
+  ],
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "dc_format_s": "JPEG",
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Chicago",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    "193-?"
+  ],
+  "b1g_date_range_drsim": [
+    "[1930 TO 1930]"
+  ],
+  "solr_year_i": "1930",
+  "dct_spatial_sm": [
+    "Chicago, Illinois",
+    "Woodlawn, Chicago, Illinois",
+    "Illinois"
+  ],
+  "solr_geom": "ENVELOPE(-87.6058,-87.5861,41.7808,41.7797)",
+  "b1g_centroid_ss": "41.780249999999995,-87.59595",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "12d-01",
+  "dct_isPartOf_sm": [
+    "12d-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-01-16",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://pi.lib.uchicago.edu/1001/maps/chisoc/G4104-C6-2W9Q4-1930z-U5\",\"http://schema.org/downloadUrl\":\"https://luna.lib.uchicago.edu/MediaManager/srvr?mediafile=/Size4/UCHICAGO~2~2/1718/G4104-C6-2W9Q4-1930z-U5.jpg\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": "https://btaagdp.org/maps/files/original/5a12db1687fabf78e5c6e2d4f14a24ef.jpg"
+}

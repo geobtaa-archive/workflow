@@ -1,0 +1,73 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "8d422fb40c6341dca30c16ec69b4293a_4",
+  "dc_identifier_s": "8d422fb40c6341dca30c16ec69b4293a_4",
+  "dc_title_s": "Trout and Salmon Inland Lake Regulations - Types A-F: Michigan",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Lakes from the 1:24,000 National Hydrography Dataset (NHD) were used to depict the 2018-2019 Type A-F inland lake fishing regulations for trout and salmon. Lake features from the NHD were altered to fit the extent of the regulations described in FO 200. Except for lakes in the Michigan-Wisconsin Boundary Waters and Sylvania Wilderness Area, any other inland lake not classified by type is subject to regulations as described on page 38 of the Michigan Fishing Guide. See pp. 24-25 and 26 for Michigan-Wisconsin Boundary Waters and Sylvania Wilderness Area regulations, respectively. Note that this GIS layer only shows lakes that are classified by type; this layer does not include any lakes that are not classified by type. Every lake in this layer has a regulation type and a designation status. Regulation type is indicated in the Reg_Type field and the designation status is indicated in the Designated field (with 0 as non-designated and 1 as designated). Each regulation type is associated with specific rules for the length of the fishing and possession seasons, minimum size limits, daily possession limits, and tackle type. See FO 200 and the Michigan Fishing Guide (www.michigan.gov/fishingguide.com) for more details about the individual regulation types. Regulation types are as follows: A Type A Trout Lake; B - Type B Trout Lake; C - Type C Trout Lake; D - Type D Trout Lake; E Type E Trout Lake; F Type F Trout Lake. Designation status is either designated or non-designated. Designated trout lakes are inland lakes containing a significant population of trout or salmon, as identified by the State of Michigan. Designated trout lakes are protected from certain activities, see the Michigan Fishing Guide or FO 200 for more details. All Type A and Type D lakes are designated trout lakes. All other trout lakes types (Type B, C, E, and F) are non-designated lakes. GIS layer last updated 03/29/2018.",
+  "dc_creator_sm": [
+    "State of Michigan"
+  ],
+  "dc_publisher_sm": [
+    "State of Michigan"
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "b1g_keyword_sm": [
+    "IFR",
+    "environment",
+    "FO200",
+    "inlandWaters",
+    "boundaries",
+    "Regulations",
+    "MDNR",
+    "Designated Trout Lakes",
+    "Michigan",
+    "Institute for Fisheries Research",
+    "Michigan Department of Natural Resources",
+    "Trout and Salmon Inland Lakes"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Michigan State",
+  "dct_issued_s": "2018-04-19",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "solr_year_i": "2018",
+  "dct_spatial_sm": [
+    "Michigan"
+  ],
+  "solr_geom": "ENVELOPE(-90.057394,-83.424528,47.43083,41.763772)",
+  "b1g_centroid_ss": "44.597301,-86.740961",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "06a-01",
+  "dct_isPartOf_sm": [
+    "06a-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://gis-michigan.opendata.arcgis.com/datasets/8d422fb40c6341dca30c16ec69b4293a_4\",\"http://schema.org/downloadUrl\":\"http://gis-michigan.opendata.arcgis.com/datasets/8d422fb40c6341dca30c16ec69b4293a_4.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services3.arcgis.com/Jdnp1TjADvSDxMAX/arcgis/rest/services/dnrFisheriesTroutRegs/FeatureServer/4\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

@@ -1,0 +1,71 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "d703ee1572ea484ca085556eb7993184_0",
+  "dc_identifier_s": "d703ee1572ea484ca085556eb7993184_0",
+  "dc_title_s": "The County Board District 6 (2-Year Term) Election 2016 Results: Dupage County, Illinois",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "The County Board District 6 (2-Year Term) Election 2016 Results data contains election results totals by precinct for the Nov 8, 2016 County Board District 6 (2-Year Term) election. This data only contains Republican, Democratic, Libertarian and Green Party totals. Other parties, independent and write-in candidates are not displayed. To view other DuPage County party information totals, please use the dynamic election results summary web site. http://electionresults.dupageco.org/dynamicresults/Summary.aspx ElectionID=24",
+  "dc_creator_sm": [
+    "DuPage County Illinois"
+  ],
+  "dc_publisher_sm": [
+    "DuPage County, Illinois"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "b1g_keyword_sm": [
+    "County Board",
+    "2YT",
+    "Dist6",
+    "Election 2016",
+    "Results",
+    "DuPage County",
+    "DuPage",
+    "Elections",
+    "Election"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Chicago",
+  "dct_issued_s": "2017-02-10",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "b1g_date_range_drsim": [
+    "[2017 TO 2017]"
+  ],
+  "solr_year_i": "2017",
+  "dct_spatial_sm": [
+    "DuPage County, Illinois",
+    "Illinois"
+  ],
+  "solr_geom": "ENVELOPE(-88.26313158,-88.07962071,41.98977549,41.80337581)",
+  "b1g_centroid_ss": "41.89657565,-88.17137614500001",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "12b-17043",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "2019-09-06",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Retired",
+  "dc_rights_s": "Public",
+  "suppressed_b": "TRUE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://gisdata-dupage.opendata.arcgis.com/datasets/d703ee1572ea484ca085556eb7993184_0\",\"http://schema.org/downloadUrl\":\"http://gisdata-dupage.opendata.arcgis.com/datasets/d703ee1572ea484ca085556eb7993184_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/neJvtQ4PXvnQ86MJ/arcgis/rest/services/CountyBoard2YTDist6Election2016Results/FeatureServer/0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

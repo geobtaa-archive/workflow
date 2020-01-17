@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "cfbf4a57-78b9-42ae-8be2-537dcf6fdbdf",
+  "dc_identifier_s": "cfbf4a57-78b9-42ae-8be2-537dcf6fdbdf",
+  "dc_title_s": "Natural Areas Inventory: York County, Pennsylvania, 2018",
+  "dct_alternativeTitle_sm": [
+    "York County PA - Natural Areas Inventory"
+  ],
+  "dc_description_s": "This shapefile contains the Core Habitat of Biological Diversity Areas identified through the County Natural Heritage Inventory program of the Pennsylvania Natural Heritage Program. County Natural Heritage Inventories focus on areas that are the best examples of ecological resources in a county. Although agricultural lands and open space may be included as part of inventory areas, the emphasis for the designation and delineation of the areas are the ecological values present. Important selection criteria for Natural Heritage Areas are the existence of habitat for plants and animals of special concern, the existence of uncommon or especially important natural communities, and the size and landscape context of a site containing good quality natural features. Large areas and areas that are minimally disturbed by development provide the backbone that links habitats and allows plants and animals to shift and move across sizable portions of the landscape. Core Habitat areas are intended to identify the essential habitat of the species of concern or natural community that can absorb very little activity or disturbance without substantial impact to the natural features. Polygons are based on aerial photo interpretation, field surveys, and existing PNDI data and were delineated by the ecologists on-screen using ArcView (ESRI, Inc., Version 3.3, 8x, and 9x) with the 1:24,000 scale USGS Digital Raster Graphics and/or Digital Aerial Photography images as a background. For each core habitat polygon, the attribute table contains fields indicating the Site Name and Significance. See individual CNHI reports for further information on methodology, site descriptions, and species or communities found at each site.",
+  "dc_creator_sm": [
+    ""
+  ],
+  "dc_publisher_sm": [
+    "York County, Pennsylvania"
+  ],
+  "dc_subject_sm": [
+    "Environment"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "b1g_genre_sm": [
+    ""
+  ],
+  "dc_format_s": "Files",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Penn State",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "solr_year_i": "2018",
+  "dct_spatial_sm": [
+    "York County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "solr_geom": "ENVELOPE(-80.5211,-74.6895,42.5147,39.7198)",
+  "b1g_centroid_ss": "41.11725,-77.6053",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "08a-01",
+  "dct_isPartOf_sm": [
+    "08a-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-09-05",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "HTML",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=1774\",\"http://schema.org/downloadUrl\":\"https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=1774\",\"http://www.w3.org/1999/xhtml\":\"https://btaagdp.org/metadata/08a-01/FullMetadataDisplay.aspx%3ffile=YorkCounty_ENVIR_Natural_Areas_Inventory201812.html\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

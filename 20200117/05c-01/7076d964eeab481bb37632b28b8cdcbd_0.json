@@ -1,0 +1,68 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "7076d964eeab481bb37632b28b8cdcbd_0",
+  "dc_identifier_s": "7076d964eeab481bb37632b28b8cdcbd_0",
+  "dc_title_s": "Public Works Bike Trails: Minneapolis, Minnesota",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "For questions about this data please contact PublicWorksOpenData@minneapolismn.gov Attribute Overview : Bike Trail centerline, Text. Fields: Field Name Field Type Field Description OBJECTID Object ID Unique ID TRAIL_NAME Text Trail name SYMBOL_NAME Text Graphic symbol name SEGMENT_LENGTH Double Graphic length BIKE_TRAIL_CLINE_CREATED Date Graphic creation date BIKE_TRAIL_CLINE_REVD Date Graphic revision date TRAIL_F_NAME Text Trail from name TRAIL_T_NAME Text Trail to name Shape Geometry Geometry Shape.STLength() Double Graphic length Symbol Name Definitions: Symbol Name Definition TRAIL_BIKE Bike Trail Centerline",
+  "dc_creator_sm": [
+    "MapIT Minneapolis"
+  ],
+  "dc_publisher_sm": [
+    "City of Minneapolis, Minnesota"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "b1g_keyword_sm": [
+    "Open Data",
+    "Minneapolis",
+    "Public Works",
+    "Centerline",
+    "Trails",
+    "Bikes"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Minnesota",
+  "dct_issued_s": "2018-02-21",
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "solr_year_i": "2018",
+  "dct_spatial_sm": [
+    "Minneapolis, Minnesota",
+    "Minnesota"
+  ],
+  "solr_geom": "ENVELOPE(-93.32907433,-93.19781134,45.05127217,44.90153658)",
+  "b1g_centroid_ss": "44.976404375,-93.263442835",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "05c-01",
+  "dct_isPartOf_sm": [
+    "05c-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/7076d964eeab481bb37632b28b8cdcbd_0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/7076d964eeab481bb37632b28b8cdcbd_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/PW_Bike_Trails/FeatureServer/0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

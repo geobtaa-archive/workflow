@@ -1,0 +1,79 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "5376d5e9ace647a1bd7ec52a1d4d434c_0",
+  "dc_identifier_s": "5376d5e9ace647a1bd7ec52a1d4d434c_0",
+  "dc_title_s": "Living Resources - Fish Blockage Locations: Maryland",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "This is a MD iMAP hosted service. Find more information at http://imap.maryland.gov.In 1987, the Chesapeake Bay Agreement was signed by states within the Chesapeake Bay region including Maryland, Pennsylvania, Virginia and the District of Columbia. This agreement included commitments for providing fish passage within each state: to provide for fish passage at dams, and remove stream blockages wherever necessary to restore passage for migratory fish. With this humble beginning, the Chesapeake Bay states set a goal to reopen a total of 1,357 miles of historical spawning grounds by the year 2003. Maryland's portion of this goal is to reopen 388.65 miles of stream. The Maryland Department of Natural Resources Fish Passage Program has taken this commitment very seriously; to date the Program has completed 61 projects, reopening a total 348.9 miles of upstream spawning habitat. Several projects scheduled to be completed by 2003 will allow the Program to not only meet but also exceed the goal set forth by the Chesapeake Bay Agreement. Meeting this goal has been a cooperative effort between the Maryland Department of Natural Resources, State Highway Administration, National Marine Fisheries Service - National Oceanic Atmospheric Administration, Department of Interior - US Fish Wildlife, Environmental Protection Agency, Chesapeake Bay Program, Chesapeake Bay Foundation, University Maryland and a multitude of others including private citizens, local watershed groups and local governments.Feature Service Link:https://geodata.md.gov/imap/rest/services/Biota/MD_LivingResources/FeatureServer/0",
+  "dc_creator_sm": [
+    "ArcGIS Online for Maryland"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dc_subject_sm": [
+    "Biota"
+  ],
+  "b1g_keyword_sm": [
+    "MD",
+    "Maryland",
+    "BIOT",
+    "Biota",
+    "DNR",
+    "Department of Natural Resources",
+    "Vector",
+    "Dynamic",
+    "MD iMAP",
+    "Living Resources",
+    "Fish Blockage Locations",
+    "Chesapeake Bay Terrapin Habitat",
+    "terrapins",
+    "Coastal Bays Terrapins",
+    "Chesapeake Bay Horseshoe Crab Habitat",
+    "WMS",
+    "WFS",
+    "KML"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "2016-02-08",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "solr_year_i": "2016",
+  "dct_spatial_sm": [
+    "Maryland"
+  ],
+  "solr_geom": "ENVELOPE(-77.5418,-75.1944,39.7676,38.0157)",
+  "b1g_centroid_ss": "38.89165,-76.3681",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "04a-01",
+  "dct_isPartOf_sm": [
+    "04a-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/5376d5e9ace647a1bd7ec52a1d4d434c_0\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/5376d5e9ace647a1bd7ec52a1d4d434c_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://geodata.md.gov/imap/rest/services/Biota/MD_LivingResources/FeatureServer/0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

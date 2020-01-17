@@ -1,0 +1,65 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "03b-19049",
+  "dc_identifier_s": "03b-19049",
+  "dc_title_s": "Dallas County Data Download",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Geospatial datasets are publicly available on the Dallas County, Iowa website GIS Division page linked here. The page provides links for zipped shapefile or geodatabase format downloads of several geospatial vector datasets; including parcels, roads, boundaries, and other topics.",
+  "dc_creator_sm": [
+    "Dallas County GIS"
+  ],
+  "dc_publisher_sm": [
+    "Dallas County, Iowa"
+  ],
+  "dc_subject_sm": [
+    "Counties geospatial data"
+  ],
+  "b1g_keyword_sm": [
+    "Boundaries",
+    "Planning and Cadastral",
+    "Transportation",
+    "Society"
+  ],
+  "dc_type_sm": [
+    "Collection"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "",
+  "layer_geom_type_s": "Table",
+  "dct_provenance_s": "Iowa",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "solr_year_i": "",
+  "dct_spatial_sm": [
+    "Dallas County, Iowa",
+    "Iowa"
+  ],
+  "solr_geom": "ENVELOPE(-94.28079,-93.79046,41.86373,41.50309)",
+  "b1g_centroid_ss": "41.683409999999995,-94.035625",
+  "dc_language_sm": [
+    ""
+  ],
+  "b1g_code_s": "03b-19049",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "b1g_dateAccessioned_s": "",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "",
+  "b1g_status_s": "",
+  "dc_rights_s": "Public",
+  "suppressed_b": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.dallascountyiowa.gov/government/business-and-planning/gis/data-download\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

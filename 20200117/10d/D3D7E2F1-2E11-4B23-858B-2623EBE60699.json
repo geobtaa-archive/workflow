@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "D3D7E2F1-2E11-4B23-858B-2623EBE60699",
+  "dc_identifier_s": "D3D7E2F1-2E11-4B23-858B-2623EBE60699",
+  "dc_title_s": "Trails: Waupaca County, Wisconsin, 2016",
+  "dct_alternativeTitle_sm": [
+    "Trails Waupaca County\\\\\\, WI 2016"
+  ],
+  "dc_description_s": "This line data layer represents trails for Waupaca County, Wisconsin in 2016. It is a feature class within the geodatabase, Waupaca_Trails_2016.gdb. The features included in the database are 'Snowmobile_Trails' and 'Trails'.",
+  "dc_creator_sm": [
+    "Waupaca County, Wisconsin"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Geodatabase",
+  "layer_geom_type_s": "Line",
+  "dct_provenance_s": "Wisconsin",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "solr_year_i": "2016",
+  "dct_spatial_sm": [
+    "Waupaca County, Wisconsin",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-89.531229,-88.627712,44.679773,44.240457)",
+  "b1g_centroid_ss": "44.460115,-89.0794705",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "10d",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "b1g_dateAccessioned_s": "2019-09-04",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "GeoBlacklight",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Waupaca_Trails_2016.zip\",\"http://schema.org/downloadUrl\":\"http://data.waupacacounty.opendata.arcgis.com/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Waupaca_Trails_2016.xml\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

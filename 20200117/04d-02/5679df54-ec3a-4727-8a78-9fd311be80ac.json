@@ -1,0 +1,61 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "5679df54-ec3a-4727-8a78-9fd311be80ac",
+  "dc_identifier_s": "5679df54-ec3a-4727-8a78-9fd311be80ac",
+  "dc_title_s": "Map of Denmark - Stavns, 1922",
+  "dct_alternativeTitle_sm": [
+    "mdu-057103"
+  ],
+  "dc_description_s": "Map of Denmark - Stavns, 1922. Scale=1:20,000. Topography, towns, roads for parts of Denmark. Reverse side is map of region near Nyborg, Denmark",
+  "dc_creator_sm": [
+    ""
+  ],
+  "dc_publisher_sm": [
+    "Geodetic Institute"
+  ],
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Image"
+  ],
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "dc_format_s": "TIFF",
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "1922",
+  "dct_temporal_sm": [
+    "1922"
+  ],
+  "b1g_date_range_drsim": [
+    "[1922 TO 1922]"
+  ],
+  "solr_year_i": "1922",
+  "dct_spatial_sm": [
+    "Stavns Fjord, Denmark"
+  ],
+  "solr_geom": "ENVELOPE(15.81827778,16.00941944,54.29782778,54.19891667)",
+  "b1g_centroid_ss": "54.248372225,15.91384861",
+  "dc_language_sm": [
+    ""
+  ],
+  "b1g_code_s": "04d-02",
+  "dct_isPartOf_sm": [
+    "04d-02"
+  ],
+  "b1g_dateAccessioned_s": "2019-11-04",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "Dublin Core",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/ef/1e/dc/87/ef1edc87-1a50-472b-9f83-7daa6bce1cac\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

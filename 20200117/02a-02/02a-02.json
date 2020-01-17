@@ -1,0 +1,64 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "02a-02",
+  "dc_identifier_s": "02a-02",
+  "dc_title_s": "Illinois EPA Open Data",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "The Illinois Environmental Protection Agency's collection of geospatial resources on their Open Data Geoportal include vehicle emissions testing locations and waste disposal sites.",
+  "dc_creator_sm": [
+    "Illinois Environmental Protection Agency"
+  ],
+  "dc_publisher_sm": [
+    "State of Illinois"
+  ],
+  "dc_subject_sm": [
+    "State agencies geospatial data"
+  ],
+  "b1g_keyword_sm": [
+    "Environment",
+    "Health",
+    "Transportation",
+    "Location"
+  ],
+  "dc_type_sm": [
+    "Collection"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "",
+  "layer_geom_type_s": "Table",
+  "dct_provenance_s": "Illinois",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    "2015-2018"
+  ],
+  "b1g_date_range_drsim": [
+    "[2015 TO 2018]"
+  ],
+  "solr_year_i": "",
+  "dct_spatial_sm": [
+    "Illinois"
+  ],
+  "solr_geom": "ENVELOPE(-91.51308,-87.4952,42.50848,36.9703)",
+  "b1g_centroid_ss": "39.73939,-89.50414",
+  "dc_language_sm": [
+    ""
+  ],
+  "b1g_code_s": "02a-02",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "b1g_dateAccessioned_s": "",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS HUB",
+  "b1g_status_s": "",
+  "dc_rights_s": "Public",
+  "suppressed_b": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://illinoisepaopendata-illinois-epa.opendata.arcgis.com\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": "https://www2.illinois.gov/epa/Style%20Library/SOISierra/Images/SiteLogo.png"
+}

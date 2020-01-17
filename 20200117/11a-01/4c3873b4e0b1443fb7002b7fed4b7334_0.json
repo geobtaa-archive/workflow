@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "4c3873b4e0b1443fb7002b7fed4b7334_0",
+  "dc_identifier_s": "4c3873b4e0b1443fb7002b7fed4b7334_0",
+  "dc_title_s": "State-Owned Buildings, Replacement Costs: Ohio, 2018",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "LISTING OF STATE OF OHIO PROPERTIES WITH LOCATIONS IF KNOWN AND REPLACEMENT COSTS, IF KNOWN.Data has been modified for purposes of mapping, to include geocoded/address matched and further checked against other sources.Gary PennThe list as of October 2017 is on our website: http://www.das.ohio.gov/Divisions/General-Services/Risk-Management/Statewide-Property-Insurance-Program It is the excel file under the Documents section titled Property SOV. Since coverage is not required in non-state buildings, our SOV will only included leased locations that the agencies requested be added to the insurance. DAS Office of Real Estate can probably give a full list of leased locations. The agencies are currently certifying their data for the July 1st renewal. They are supposed to have all of their changes made by April 6th. I can send you an update at that time, if that will help. You will notice that some locations have records for multiple agencies, since we are now required by our carrier to specify contents and equipment values for each entity within the state building. Those records will show a $0 value for the building except for the building owner. We also have added underground tanks and pipes when the agency requests coverage for them. If you want me to develop a report with only the data you require, please let me know. Thanks, Traci Brodie, ARM, AU, AINS Risk Manager, Underwriting Analytics General Services Division Office of Risk Management 614-466-6961 traci.brodie@das.ohio.gov",
+  "dc_creator_sm": [
+    "Ohio Emergency Management Agency"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Structure",
+    "Economy"
+  ],
+  "b1g_keyword_sm": [
+    "Buildings"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Ohio State",
+  "dct_issued_s": "2018-03-29",
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "solr_year_i": "2018",
+  "dct_spatial_sm": [
+    "Ohio"
+  ],
+  "solr_geom": "ENVELOPE(-117.9193992,-74.26089776,41.96120164,33.69893979)",
+  "b1g_centroid_ss": "37.830070715,-96.09014848000001",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "11a-01",
+  "dct_isPartOf_sm": [
+    "11a-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/4c3873b4e0b1443fb7002b7fed4b7334_0\",\"http://schema.org/downloadUrl\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/4c3873b4e0b1443fb7002b7fed4b7334_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services6.arcgis.com/zxOMWqh0yAD6mMsJ/arcgis/rest/services/Ohio_2018_Critical_Property/FeatureServer/0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

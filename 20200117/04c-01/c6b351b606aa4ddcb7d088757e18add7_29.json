@@ -1,0 +1,69 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "c6b351b606aa4ddcb7d088757e18add7_29",
+  "dc_identifier_s": "c6b351b606aa4ddcb7d088757e18add7_29",
+  "dc_title_s": "Hidden Roads: Washington, D.C., 1999",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Hidden roads captured in 1999. This is a new dataset that was not collected as part of the planimetric mapping project. It was created to enhance existing information.",
+  "dc_creator_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_publisher_sm": [
+    "District of Columbia"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_keyword_sm": [
+    "DC",
+    "District of Columbia",
+    "Geographic Information System",
+    "planimetrichistoric",
+    "Planimetrics",
+    "Washington",
+    "aug2018",
+    "pmetric99"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "2018-07-10",
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "b1g_date_range_drsim": [
+    "[1999 TO 1999]"
+  ],
+  "solr_year_i": "1999",
+  "dct_spatial_sm": [
+    "Washington D.C"
+  ],
+  "solr_geom": "ENVELOPE(-77.1125,-76.9316,38.9781,38.8224)",
+  "b1g_centroid_ss": "38.90025,-77.02205000000001",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "04c-01",
+  "dct_isPartOf_sm": [
+    "04c-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/c6b351b606aa4ddcb7d088757e18add7_29\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/c6b351b606aa4ddcb7d088757e18add7_29.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Planimetrics_1999/MapServer/29\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

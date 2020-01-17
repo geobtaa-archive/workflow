@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "e1f8a3c8-7571-4555-a91c-dab19e5340ac",
+  "dc_identifier_s": "e1f8a3c8-7571-4555-a91c-dab19e5340ac",
+  "dc_title_s": "A Map of Coromandel, shewing the Seat of War on that Coast",
+  "dct_alternativeTitle_sm": [
+    "A Map of Coromandel\\, shewing the Seat of War on that Coast"
+  ],
+  "dc_description_s": "1:1,077,120",
+  "dc_creator_sm": [
+    "Jefferys, Thomas"
+  ],
+  "dc_publisher_sm": [
+    "Thomas Jefferys"
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_keyword_sm": [
+    "Coromandel Coast (India) Maps",
+    "Early Maps"
+  ],
+  "dc_type_sm": [
+    "Image"
+  ],
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "dc_format_s": "JPEG",
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Minnesota",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    "1780?"
+  ],
+  "b1g_date_range_drsim": [
+    ""
+  ],
+  "solr_year_i": "1780",
+  "dct_spatial_sm": [
+    "India"
+  ],
+  "solr_geom": "ENVELOPE(79.61,80.53,15.85,10.08)",
+  "b1g_centroid_ss": "12.965,80.07",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "05d-01",
+  "dct_isPartOf_sm": [
+    "05d-p16022coll246,05d-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-07-26",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "Blacklight",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/229451\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll246/411/manifest.json\"}",
+  "layer_id_s": "411",
+  "b1g_image_ss": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll246/id/411"
+}

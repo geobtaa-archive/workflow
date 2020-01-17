@@ -1,0 +1,66 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "228c0561f9ee44d0951c6e06fa105f30_0",
+  "dc_identifier_s": "228c0561f9ee44d0951c6e06fa105f30_0",
+  "dc_title_s": "Industrial Zoning: Franklin County, Ohio",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Industrial zoning classifications include general industrial (GI), limited industrial (LI), planned industrial park (PIP), restricted industrial (RI). They are comprised of 166 parcels totaling 5,096 acres or approximately 7% of unincorporated land regulated by Franklin County Economic Development Planning.",
+  "dc_creator_sm": [
+    "Franklin County, Ohio"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral",
+    "Economy"
+  ],
+  "b1g_keyword_sm": [
+    "industrial zoning",
+    "economic development",
+    "zoning"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Ohio State",
+  "dct_issued_s": "2014-12-02",
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "b1g_date_range_drsim": [
+    "[2014 TO 2014]"
+  ],
+  "solr_year_i": "2014",
+  "dct_spatial_sm": [
+    "Franklin County, Ohio",
+    "Ohio"
+  ],
+  "solr_geom": "ENVELOPE(-83.23985967,-82.85348242,40.12662713,39.79837891)",
+  "b1g_centroid_ss": "39.96250302,-83.04667104500001",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "11a-01",
+  "dct_isPartOf_sm": [
+    "11a-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/228c0561f9ee44d0951c6e06fa105f30_0\",\"http://schema.org/downloadUrl\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/228c0561f9ee44d0951c6e06fa105f30_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/7r2Wl09a1Apy459r/arcgis/rest/services/Industrial_Zoning/FeatureServer/0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

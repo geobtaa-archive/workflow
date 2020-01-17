@@ -1,0 +1,80 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "bc0768eba95d41dc96a6186482b91da1_0",
+  "dc_identifier_s": "bc0768eba95d41dc96a6186482b91da1_0",
+  "dc_title_s": "Roadway Access Control: State of Maryland",
+  "dct_alternativeTitle_sm": [
+    "MDOT SHA Roadway Access Control"
+  ],
+  "dc_description_s": "MDOT SHA Roadway Access Control data consists of linear geometric features which showcase the types of control over vehicle access to roadways throughout the State of Maryland. Roadway Access Control data is commonly classified by three (3) control types, which are Full Access Control, Partial Access Control, and No Access Control. Roadway Access Control data is primarily used for general planning purposes, investment requirements modeling to calculate capacity and estimate type of design, in truck size and weight studies, and for Federal Highway Administration (FHWA) Highway Performance Monitoring System (HPMS) annual submission coordination. The Maryland Department of Transportation State Highway Administration (MDOT SHA) currently reports this data only on the inventory direction (generally North or East) side of the roadway. Roadway Access Control data is not a complete representation of all roadway geometry. MDOT SHA Roadway Access Control data is developed as part of the Highway Performance Monitoring System (HPMS) which maintains and reports transportation related information to the Federal Highway Administration (FHWA) on an annual basis. HPMS is maintained by the Maryland Department of Transportation State Highway Administration (MDOT SHA), under the Office of Planning and Preliminary Engineering (OPPE) Data Services Division (DSD). Roadway Access Control data is used by various business units throughout MDOT, as well as many other Federal, State and local government agencies. Roadway Access Control data is key to understanding the types of control over vehicle access to roadways throughout the State of Maryland. MDOT SHA Roadway Access Control data is updated and published on an annual basis for the prior year. This data is for the year 2017. Last Updated: 09/2018For additional information, contact the MDOT SHA Geospatial Technologies Email: GIS@mdot.maryland.gov For additional information related to the Maryland Department of Transportation (MDOT) Website: https://www.mdot.maryland.gov/ For additional information related to the Maryland Department of Transportation State Highway Administration (MDOT SHA): Website: https://roads.maryland.gov/Home.aspx MDOT SHA Geospatial Data Legal Disclaimer: The Maryland Department of Transportation State Highway Administration (MDOT SHA) makes no warranty, expressed or implied, as to the use or appropriateness of geospatial data, and there are no warranties of merchantability or fitness for a particular purpose or use. The information contained in geospatial data is from publicly available sources, but no representation is made as to the accuracy or completeness of geospatial data. MDOT SHA shall not be subject to liability for human error, error due to software conversion, defect, or failure of machines, or any material used in the connection with the machines, including tapes, disks, CD-ROMs or DVD-ROMs and energy. MDOT SHA shall not be liable for any lost profits, consequential damages, or claims against MDOT SHA by third parties.",
+  "dc_creator_sm": [
+    "ArcGIS Online for Maryland"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_keyword_sm": [
+    "Roadway Access Control",
+    "Access Control",
+    "Access",
+    "Access Type",
+    "Highway Performance Monitoring System",
+    "HPMS",
+    "Statewide",
+    "Maryland",
+    "MD",
+    "Maryland Department of Transportation",
+    "MDOT",
+    "Maryland Department of Transportation State Highway Administration",
+    "MDOT SHA",
+    "MDOT SHA Office of Planning & Preliminary Engineering",
+    "OPPE",
+    "MDOT SHA Data Services Division",
+    "DSD",
+    "MDOT SHA Geospatial Technologies",
+    "GIS@mdot.maryland.gov"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "2019-10-02T19:43:15.000Z",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "b1g_date_range_drsim": [
+    "[2017 TO 2017]"
+  ],
+  "solr_year_i": "2017",
+  "dct_spatial_sm": [
+    "Maryland"
+  ],
+  "solr_geom": "ENVELOPE(-79.4871,-75.0502,39.7238,37.9562)",
+  "b1g_centroid_ss": "38.84,-77.26865000000001",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "04a-01",
+  "dct_isPartOf_sm": [
+    "04a-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-10-11",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://geodata.md.gov/imap/rest/services/Transportation/MD_HighwayPerformanceMonitoringSystem/MapServer/0\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/bc0768eba95d41dc96a6186482b91da1_0.zip\",\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/bc0768eba95d41dc96a6186482b91da1_0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

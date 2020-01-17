@@ -1,0 +1,73 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "38f2ef74c80f4cc4a9e588c62b8d20ea_38",
+  "dc_identifier_s": "38f2ef74c80f4cc4a9e588c62b8d20ea_38",
+  "dc_title_s": "Opportunity Zone Program: Washington, D.C.",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "The Opportunity Zone Program was created in the Tax Cuts and Jobs Act of 2017. It is a new federal program that provides tax incentives for investments in new businesses and commercial projects in low-income communities. On April 20, Mayor Bowser nominated 25 census tracts to be Opportunity Zones. The U.S. Department of Treasury certified these tracts on May 18, 2018. Opportunity Zones will stay in place for 10 years. For more information, please visit https://dmped.dc.gov.",
+  "dc_creator_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_publisher_sm": [
+    "District of Columbia"
+  ],
+  "dc_subject_sm": [
+    "Economy"
+  ],
+  "b1g_keyword_sm": [
+    "aug2018",
+    "Census Tracts",
+    "DC",
+    "District of Columbia",
+    "DMPED",
+    "Opportunity Zone Program",
+    "Opportunity Zones",
+    "Tax Bill",
+    "Tax Incentives",
+    "Taxes",
+    "US Treasury",
+    "Washington DC"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "2018-08-13",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "solr_year_i": "2018",
+  "dct_spatial_sm": [
+    "Washington D.C"
+  ],
+  "solr_geom": "ENVELOPE(-77.0393,-76.9093,38.9845,38.7916)",
+  "b1g_centroid_ss": "38.88805,-76.9743",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "04c-01",
+  "dct_isPartOf_sm": [
+    "04c-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/38f2ef74c80f4cc4a9e588c62b8d20ea_38\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/38f2ef74c80f4cc4a9e588c62b8d20ea_38.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Business_and_Economic_Development_WebMercator/MapServer/38\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

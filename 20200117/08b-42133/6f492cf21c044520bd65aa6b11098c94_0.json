@@ -1,0 +1,64 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "6f492cf21c044520bd65aa6b11098c94_0",
+  "dc_identifier_s": "6f492cf21c044520bd65aa6b11098c94_0",
+  "dc_title_s": "Landcover: York County, Pennsylvania",
+  "dct_alternativeTitle_sm": [
+    "Landcover"
+  ],
+  "dc_description_s": "The following is a version of the Anderson Land Use/Land Cover classification adopted by Penn State University (Land Analysis Lab) for the Chesapeake Bay Basin Land Cover/Land Use Monitoring and Assessment Study. This data was last updated in 2003.CODE      DESCRIPTION100      Urban or Built-Up Land110      Residential111      Single-Family Dwellings112      Multi_Family Dwellings113      Group Quarters114      Mobile Home Parks119      Other Residential120      Commercial121      Retail Sales/Wholesale/Professional Services122      Vehicle Related Activities123      Junk/Salvage Yards125      Warehouses and Temporary Storage129      Other Commercial130      Industrial131      Primary Processing at Extraction Site and Extraction Equipment132      Light Industry133      Heavy Industry                 134      Electrical Generation135      Tank Farms and Materials Storage136       Facilities137      Inactive/Dismantled Industrial Site139      Other Industrial140      Transportation/Communication141      Highways/Roads/Access Roads/Freeways/Interstates142      Parking Lots143      Railroads143X      Dismantled Railroads143Y       Repair Facilities144      Airports145      Communications - antennas146      Marinas/Port Facilities/Docks149      Other Transportation/Communication150      Utilities151      Water Treatment152      Sewage Treatment Plants153      Power Substations170      Cemetery186      Religious187      Municipal Services188      Road repair and Maintenance Yard189      Other Institutional/Governmental190      Recreational191      Large Single Structure192      Multiple Structure193      Open Urban194      Open Rural195      Public Beaches199      Other Recreational200      Agriculture210      Cropland and Pasture211      Cropland212      Pasture213      Idle Fields214       Unvegetated Fields215      Truck Crops216      Gardens220      Orchards/Nurseries/Horticulture221      Fruit and Nut Trees222      Fruit Bushes223      Vineyards224      Greenhouses225      Nurseries/Floriculture230      Confined Feeding Operations/Feedlots/Holding Areas231      Cattle232      Poultry233      Hogs234      Horses235      Sheep/Goats239      Other240      Farmsteads and Farm Related Buildings290      Other Agricultural 291      Fish Hatcheries300      Rangeland310      Herbaceous Rangeland320      Shrub-Brush Rangeland330      Mixed Rangeland400      Forestland410      Deciduous Forest411      Deciduous Forest412      Logged - Partial/Select Cut413      Recently Replanted - Deciduous420      Evergreen Forest421      Evergreen Forest422      Logged - Partial/Select Cut423      Recently Replanted - Evergreen430      Mixed Forest431      Mixed Forest432      Logged - Partial/Select Cut433      Recently Replanted - Mixed440      Clear-Cut441      Barren Clear-cut442      Non-barren Clear-cut500      Water510       and Canals511      Rivers/Streams/Creeks/Bayous512      Canals520      Natural Lakes and Ponds521      Freshwater Lakes and Ponds522      Salt Lakes523      Salt Ponds530      Man-Made Reservoirs and Impoundments531      Reservoirs532      Mined Areas Reservoirs533      Lagoons/Basins534      Drainage Catchment Basin535      Trailing Ponds536      Farm Ponds540      Bays and Coves590      Other591      Open Ocean600      Wetlands610      Forested Wetlands611      Deciduous612      Evergreen613      Mixed620      Non-Forested Wetlands700      Barren Lands710      Salt Flats720      Beaches and River Banks721      Beaches722      Riverbanks/Flood Plains723      Mud Flats730      Inland Natural Sandy Areas731      Dunes732      Dry Water Courses740      Bare Exposed Rock750      Extraction751      Strip Mines751A      Abandoned Strip Mines752      Stone Quarries752A      Abandoned Quarries753      Sand and Gravel753A      Abandoned Sand/Gravel754      Non-Strip Mined Minerals (Open Pit Mining)754A      Abandoned Non-strip Mined Minerals755      Slag/Spoil Piles759      Other760      Transitional 761      Future Residential762      Future Commercial/Institutional763      Future Industrial764      Future Transportation/Communication765      Future Water Project766      Future Utilities768      Unidentifiable769      Other Transitional999      Unknown",
+  "dc_creator_sm": [
+    "York County, Pennsylvania"
+  ],
+  "dc_publisher_sm": [
+    "York County, Pennsylvania"
+  ],
+  "dc_subject_sm": [
+    "Environment"
+  ],
+  "b1g_keyword_sm": [
+    "Planning",
+    "Open Data"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Penn State",
+  "dct_issued_s": "2018-10-17T17:50:36.000Z",
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "b1g_date_range_drsim": [
+    ""
+  ],
+  "solr_year_i": "2018",
+  "dct_spatial_sm": [
+    "York County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "solr_geom": "ENVELOPE(-77.1404,-76.2293,40.2211,39.7194)",
+  "b1g_centroid_ss": "39.97025,-76.68485",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "08b-42133",
+  "dct_isPartOf_sm": [
+    "08b-42133"
+  ],
+  "b1g_dateAccessioned_s": "2019-12-06",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data-yorkcountypa.opendata.arcgis.com/datasets/6f492cf21c044520bd65aa6b11098c94_0\",\"http://schema.org/downloadUrl\":\"http://data-yorkcountypa.opendata.arcgis.com/datasets/6f492cf21c044520bd65aa6b11098c94_0.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://arcweb.ycpc.org/arcgis/rest/services/OPEN_DATA/LANDUSE_Landcover/MapServer/0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

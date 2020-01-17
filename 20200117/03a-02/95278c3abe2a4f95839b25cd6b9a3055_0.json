@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "95278c3abe2a4f95839b25cd6b9a3055_0",
+  "dc_identifier_s": "95278c3abe2a4f95839b25cd6b9a3055_0",
+  "dc_title_s": "Flooding-Related Imagery & Photos by Location: Iowa, 2019",
+  "dct_alternativeTitle_sm": [
+    "Flood Images"
+  ],
+  "dc_description_s": "This layer identifies the inventory of 2019 Spring flood-related imagery in the state of Iowa, referenced by point location. Includes images collected in the field by Iowa DOT Staff, helicopter flights, initial damage assessments, and more.",
+  "dc_creator_sm": [
+    "Iowa Department of Transportation"
+  ],
+  "dc_publisher_sm": [
+    "State of Iowa"
+  ],
+  "dc_subject_sm": [
+    "Transportation",
+    "Imagery and Base Maps"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Iowa",
+  "dct_issued_s": "2019-03-14",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "solr_year_i": "2019",
+  "dct_spatial_sm": [
+    "Iowa"
+  ],
+  "solr_geom": "ENVELOPE(-101.063,-84.188,44.037,39.789)",
+  "b1g_centroid_ss": "41.913,-92.6255",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "03a-02",
+  "dct_isPartOf_sm": [
+    "03a-02"
+  ],
+  "b1g_dateAccessioned_s": "2019-04-14",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://public-iowadot.opendata.arcgis.com/datasets/95278c3abe2a4f95839b25cd6b9a3055_0\",\"http://schema.org/downloadUrl\":\"https://public-iowadot.opendata.arcgis.com/datasets/95278c3abe2a4f95839b25cd6b9a3055_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/8lRhdTsQyJpO52F1/arcgis/rest/services/Flood_Images_View/FeatureServer/0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

@@ -1,0 +1,64 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "7873fffa-a1ad-4287-9c34-d38a9a4df6bd",
+  "dc_identifier_s": "7873fffa-a1ad-4287-9c34-d38a9a4df6bd",
+  "dc_title_s": "Jefferson County [Indiana] preliminary land use map",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Color reproduction by Bureau of Agricultural Economics, U.S.D.A.; Includes chart showing type of land use, acreage, and recommended use. Scale not given.",
+  "dc_creator_sm": [
+    ""
+  ],
+  "dc_publisher_sm": [
+    "U.S. Bureau of Agricultural Economics"
+  ],
+  "dc_subject_sm": [
+    "Thematic maps"
+  ],
+  "b1g_keyword_sm": [
+    "Land use",
+    "Roads",
+    "Indiana Historic Maps"
+  ],
+  "dc_type_sm": [
+    "Image"
+  ],
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "dc_format_s": "JPEG",
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Indiana",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    "1940?"
+  ],
+  "b1g_date_range_drsim": [
+    "[1940 TO 1940]"
+  ],
+  "solr_year_i": "1940",
+  "dct_spatial_sm": [
+    "Jefferson County, Indiana",
+    "Indiana"
+  ],
+  "solr_geom": "ENVELOPE(-85.68,-85.2,38.9001,38.58)",
+  "b1g_centroid_ss": "38.74005,-85.44",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "01d-01",
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-01-16",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00300\",\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00300\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": "https://purl.dlib.indiana.edu/iudl/images/VAC3073/thumbnail/VAC3073-M-00300"
+}

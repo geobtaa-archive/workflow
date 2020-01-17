@@ -1,0 +1,64 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "05a-02",
+  "dc_identifier_s": "05a-02",
+  "dc_title_s": "Minnesota Legislative Coordinating Commission - Geospatial Information (LCC-GIS)",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "This State of Minnesota Legislature website hosts a GIS Data Center. Geospatial datasets and web services are available for topics related to the Legislature and Elections including census, political boundary, and legislative project related datasets.",
+  "dc_creator_sm": [
+    "LCC-GIS"
+  ],
+  "dc_publisher_sm": [
+    "State of Minnesota"
+  ],
+  "dc_subject_sm": [
+    "State agencies geospatial data"
+  ],
+  "b1g_keyword_sm": [
+    "Boundaries",
+    "Environment",
+    "Planning and Cadastral",
+    "Society"
+  ],
+  "dc_type_sm": [
+    "Collection"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "",
+  "layer_geom_type_s": "Table",
+  "dct_provenance_s": "Minnesota",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    "1994-2019"
+  ],
+  "b1g_date_range_drsim": [
+    "[1994 TO 1994]"
+  ],
+  "solr_year_i": "",
+  "dct_spatial_sm": [
+    "Minnesota"
+  ],
+  "solr_geom": "ENVELOPE(-97.23909,-89.58195,49.38436,43.49936)",
+  "b1g_centroid_ss": "46.441860000000005,-93.41052",
+  "dc_language_sm": [
+    ""
+  ],
+  "b1g_code_s": "05a-02",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "b1g_dateAccessioned_s": "",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "",
+  "b1g_status_s": "",
+  "dc_rights_s": "Public",
+  "suppressed_b": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.gis.leg.mn/html/download.html\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

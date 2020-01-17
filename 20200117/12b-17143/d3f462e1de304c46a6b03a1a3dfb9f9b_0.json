@@ -1,0 +1,65 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "d3f462e1de304c46a6b03a1a3dfb9f9b_0",
+  "dc_identifier_s": "d3f462e1de304c46a6b03a1a3dfb9f9b_0",
+  "dc_title_s": "March 2016 Tornado Damage Paths: Peoria County, Illinois",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Feature Service generated from running the Enrich layer solution. Damage Paths were enriched",
+  "dc_creator_sm": [
+    "Peoria County GIS"
+  ],
+  "dc_publisher_sm": [
+    "Peoria County, Illinois"
+  ],
+  "dc_subject_sm": [
+    "Climatology, Meteorology and Atmosphere"
+  ],
+  "b1g_keyword_sm": [
+    "Analysis Result",
+    "Enrich Layer",
+    "Damage Paths"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Chicago",
+  "dct_issued_s": "2016-10-04",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "solr_year_i": "2016",
+  "dct_spatial_sm": [
+    "Peoria County, Illinois",
+    "Illinois"
+  ],
+  "solr_geom": "ENVELOPE(-89.91958808,-89.58606175,40.76381376,40.70953703)",
+  "b1g_centroid_ss": "40.736675395,-89.75282491499999",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "12b-17143",
+  "dct_isPartOf_sm": [
+    "12b-17143"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data-peoriacountygis.opendata.arcgis.com/datasets/d3f462e1de304c46a6b03a1a3dfb9f9b_0\",\"http://schema.org/downloadUrl\":\"http://data-peoriacountygis.opendata.arcgis.com/datasets/d3f462e1de304c46a6b03a1a3dfb9f9b_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/iPiPjILCMYxPZWTc/arcgis/rest/services/Enriched Damage Paths/FeatureServer/0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

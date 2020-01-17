@@ -1,0 +1,68 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "be367700638645bea11d09262931acb0_0",
+  "dc_identifier_s": "be367700638645bea11d09262931acb0_0",
+  "dc_title_s": "Park and Ride Location: Iowa, United States",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "THE ACCESS LINKS FOR THIS RECORD WERE REPORTED AS BROKEN. THE RECORD MAY HAVE BEEN RETIRED BY THE HOST. The Iowa Department of Transportation s park and ride system consists of state-owned park or permitted and ride lots. Many of these lots were developed during the 1980s, primarily in response to a growing demand that resulted from an increase in fuel prices. In most cases, lot development was truly the result of grassroots efforts, with Iowa DOT s district offices often responding to specific public requests for park and ride facilities. In 2014, The Iowa Park and Ride System Plan was developed. This plan includes an update of the existing inventory, an identification of additional locations suitable for park and ride facilities, and strategies for implementation .The plan will be used by the Iowa DOT to plan, evaluate, and develop a formal state-owned-and-operated system of park and ride facilities. The primary objective of the plan is to provide a location-specific, priority-based park and ride system that allows for coordinated planning and implementation of park and ride facilities.As a part of the plan this database was created to geographically reference both existing state-owned park and ride facilities and ideal candidates for future expansion of the system. This database will also be used in coordination with the statewide rideshare program, so it will also include other existing park and ride facilities not owned by the state or identified in the plan. Ultimately this inventory has two main purposes that can be described generally as internal and external. Internally, the database will be used to keep track of state-owned inventory and identify opportunities for the expansion of the state-owned and operated park and ride system. Externally, the database will be expanded to include a wide array of park and ride facilities across the state of Iowa that can be disseminated to the public via the Iowa DOT website and coordinated with the rideshare program.",
+  "dc_creator_sm": [
+    "Iowa Department of Transportation"
+  ],
+  "dc_publisher_sm": [
+    "State of Iowa"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_keyword_sm": [
+    "Park and Ride",
+    "Ridesharing",
+    "Statewide",
+    "Iowa DOT",
+    "Assets",
+    "Inventory",
+    "Asset Inventory"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Iowa",
+  "dct_issued_s": "2018-09-28",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "solr_year_i": "2018",
+  "dct_spatial_sm": [
+    "Iowa"
+  ],
+  "solr_geom": "ENVELOPE(-96.947,-89.981,43.751,40.259)",
+  "b1g_centroid_ss": "42.004999999999995,-93.464",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "Retired",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "b1g_dateAccessioned_s": "2019-04-02",
+  "b1g_dateRetired_s": "2019-02-15",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Retired",
+  "dc_rights_s": "Public",
+  "suppressed_b": "TRUE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://public-iowadot.opendata.arcgis.com/datasets/be367700638645bea11d09262931acb0_0\",\"http://schema.org/downloadUrl\":\"http://public-iowadot.opendata.arcgis.com/datasets/be367700638645bea11d09262931acb0_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/8lRhdTsQyJpO52F1/arcgis/rest/services/Park_and_Ride_View/FeatureServer/0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

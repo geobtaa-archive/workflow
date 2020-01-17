@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "0298f5eb5a144ca0aca338ef5d831642_0",
+  "dc_identifier_s": "0298f5eb5a144ca0aca338ef5d831642_0",
+  "dc_title_s": "TII Lines: Chester County, Pennsylvania",
+  "dct_alternativeTitle_sm": [
+    "TII Lines"
+  ],
+  "dc_description_s": "The Transportation Improvements Inventory (TII) is a comprehensive record of documented transportation needs within Chester County. It includes proposed roadway, bridge, bicycle and pedestrian, freight and transit projects that have been recommended to the Chester County Planning Commission by municipalities and other stakeholders over time. Although the TII listing does not represent programming or funding commitments, it recognizes transportation priorities and emphasizes the need for additional technical and financial resource to implement critical transportation improvements.",
+  "dc_creator_sm": [
+    "Chester County, PA"
+  ],
+  "dc_publisher_sm": [
+    "Chester County, Pennsylvania"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_keyword_sm": [
+    "ccpc"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Penn State",
+  "dct_issued_s": "2016-05-16T13:52:42.000Z",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "b1g_date_range_drsim": [
+    ""
+  ],
+  "solr_year_i": "2016",
+  "dct_spatial_sm": [
+    "Chester County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "solr_geom": "ENVELOPE(-76.06476262946202,-75.380066954804,40.255540593781056,39.71046996489392)",
+  "b1g_centroid_ss": "39.98300527933749,-75.72241479213301",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "08b-42029",
+  "dct_isPartOf_sm": [
+    "08b-42029"
+  ],
+  "b1g_dateAccessioned_s": "2019-12-06",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data1-chesco.opendata.arcgis.com/datasets/0298f5eb5a144ca0aca338ef5d831642_0\",\"http://schema.org/downloadUrl\":\"http://data1-chesco.opendata.arcgis.com/datasets/0298f5eb5a144ca0aca338ef5d831642_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/G4S1dGvn7PIgYd6Y/arcgis/rest/services/TII_Lines/FeatureServer/0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

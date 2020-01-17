@@ -1,0 +1,61 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "832ca7be-92bf-4869-998d-93ef46041ea0",
+  "dc_identifier_s": "832ca7be-92bf-4869-998d-93ef46041ea0",
+  "dc_title_s": "Map of Korea - City Map - P'ohang, South Korea, 1976",
+  "dct_alternativeTitle_sm": [
+    "mdu-057197"
+  ],
+  "dc_description_s": "Map of Korea - City Map - P'ohang, South Korea, 1976. Scale=1:12,500. Topography, streets, major buildings",
+  "dc_creator_sm": [
+    ""
+  ],
+  "dc_publisher_sm": [
+    "Rep. of Korea Army Map Service"
+  ],
+  "dc_subject_sm": [
+    "Topographic maps"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Image"
+  ],
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "dc_format_s": "TIFF",
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "1976",
+  "dct_temporal_sm": [
+    "1976"
+  ],
+  "b1g_date_range_drsim": [
+    "[1976 TO 1976]"
+  ],
+  "solr_year_i": "1976",
+  "dct_spatial_sm": [
+    "P\u2019ohang, South Korea"
+  ],
+  "solr_geom": "ENVELOPE(4.089469444,4.201575,50.10596111,50.01358333)",
+  "b1g_centroid_ss": "50.05977222,4.145522222",
+  "dc_language_sm": [
+    ""
+  ],
+  "b1g_code_s": "04d-02",
+  "dct_isPartOf_sm": [
+    "04d-02"
+  ],
+  "b1g_dateAccessioned_s": "2019-11-04",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "Dublin Core",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://fcrepo.lib.umd.edu/fcrepo/rest/pcdm/5a/d5/66/b2/5ad566b2-e9a5-4ebd-9d7a-663e1f63904f\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

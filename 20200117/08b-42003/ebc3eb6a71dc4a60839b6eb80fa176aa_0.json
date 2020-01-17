@@ -1,0 +1,65 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "ebc3eb6a71dc4a60839b6eb80fa176aa_0",
+  "dc_identifier_s": "ebc3eb6a71dc4a60839b6eb80fa176aa_0",
+  "dc_title_s": "Parcel Boundaries: Allegheny County, Pennsylvania",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "This dataset contains parcel boundaries attributed with county block and lot number. Use the Property Information Extractor for more control downloading a filtered parcel dataset. If viewing this description on the Western Pennsylvania Regional Data Center s open data portal (http://www.wprdc.org), this dataset is harvested on a weekly basis from Allegheny County s GIS data portal (http://openac.alcogis.opendata.arcgis.com/). The full metadata record for this dataset can also be found on Allegheny County s GIS portal. You can access the metadata record and other resources on the GIS portal by clicking on the Explore button (and choosing the Go to resource option) to the right of the ArcGIS Open Dataset text below. Category: Civic Vitality and Governance Organization: Allegheny County Department: Department of Real Estate Temporal Coverage: updated daily on Allegheny County's GIS Open Data page Data Notes:  Coordinate System: Pennsylvania State Plane South Zone 3702; U.S. Survey Foot Development Notes: none Other: none Related Document(s): Data Dictionary (none) Frequency - Data Change: Multiple times per hour Frequency - Publishing: Daily Data Steward Name: Eli Thomas Data Steward Email: gishelp@alleghenycounty.us",
+  "dc_creator_sm": [
+    "County of Allegheny, PA"
+  ],
+  "dc_publisher_sm": [
+    "Allegheny County, Pennsylvania"
+  ],
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "b1g_keyword_sm": [
+    "planning",
+    "property",
+    "boundaries"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Penn State",
+  "dct_issued_s": "9/25/2015",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "b1g_date_range_drsim": [
+    "[2015 TO 2015]"
+  ],
+  "solr_year_i": "2015",
+  "dct_spatial_sm": [
+    "Allegheny County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "solr_geom": "ENVELOPE(-80.3739,-79.6778,40.6838,40.1857)",
+  "b1g_centroid_ss": "40.434749999999994,-80.02585",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "08b-42003",
+  "dct_isPartOf_sm": [
+    "08b-42003"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://openac-alcogis.opendata.arcgis.com/datasets/ebc3eb6a71dc4a60839b6eb80fa176aa_0\",\"http://schema.org/downloadUrl\":\"http://openac-alcogis.opendata.arcgis.com/datasets/ebc3eb6a71dc4a60839b6eb80fa176aa_0.zip\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

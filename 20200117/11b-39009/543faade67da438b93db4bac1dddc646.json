@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "543faade67da438b93db4bac1dddc646",
+  "dc_identifier_s": "543faade67da438b93db4bac1dddc646",
+  "dc_title_s": "Digital Orthophotography, 1-foot: Athens, Ohio, 2007",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "The 2007 OSIP digital orthophotography was collected during the months of March and April (leaf-off conditions). The MrSID Images covering each county at 1-foot pixel resolution will be created at a 30:1 compression ratio. At a 30:1 compression ratio, the resulting MrSID file size will average around 2GBs in size (dependent upon county size). MrSID Images will also be created for each buy-up county. These MrSIDs, will be compressed at a 20:1 ratio. In some cases, buy-up counties have requested a higher compression ratio.",
+  "dc_creator_sm": [
+    "Athens County GIS"
+  ],
+  "dc_publisher_sm": [
+    "Athens County, Ohio"
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Image",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Aerial imagery"
+  ],
+  "dc_format_s": "Imagery",
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Ohio State",
+  "dct_issued_s": "2019-01-14",
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "b1g_date_range_drsim": [
+    "[2007 TO 2007]"
+  ],
+  "solr_year_i": "2007",
+  "dct_spatial_sm": [
+    "Athens County, Ohio",
+    "Ohio"
+  ],
+  "solr_geom": "ENVELOPE(-82.3007,-81.7143,39.5648,39.178)",
+  "b1g_centroid_ss": "39.371399999999994,-82.0075",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "11b-39009",
+  "dct_isPartOf_sm": [
+    "11b-39009"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://gis.data.athensoh.org/datasets/543faade67da438b93db4bac1dddc646\",\"urn:x-esri:serviceType:ArcGIS#ImageMapLayer\":\"http://gis.athensoh.org/athgis/rest/services/Imagery/Athens_1ft_2007/ImageServer\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

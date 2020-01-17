@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "027aa8e1-76e8-45b3-a469-1b141df8c2aa",
+  "dc_identifier_s": "027aa8e1-76e8-45b3-a469-1b141df8c2aa",
+  "dc_title_s": "Utility Lines, Edge Features: Montgomery County, Maryland, 2015",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "This is a feature class in the geodatabase Planimetric Mapping Features, Utilities: Montgomery County, Maryland, 2018. The data set contains utility transmission lines and transformer stations as created from the planimetric mapping effort for Montgomery County. The data is attributed according to a feature coding scheme developed by the GeoMaP consortium.11/10/2015: Entire countywide data updated by KUCERA INTERNATIONAL. Source date: 4/10/2014 imagery",
+  "dc_creator_sm": [
+    "Montgomery County Planning Department of the Maryland National Capital Park and Planning Commission"
+  ],
+  "dc_publisher_sm": [
+    "The Maryland-National Capital Park and Planning Commission"
+  ],
+  "dc_subject_sm": [
+    "Utilities and Communications"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Geodatabase",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "b1g_date_range_drsim": [
+    "[2015 TO 2015]"
+  ],
+  "solr_year_i": "2015",
+  "dct_spatial_sm": [
+    "Montgomery County, Maryland",
+    "Maryland"
+  ],
+  "solr_geom": "ENVELOPE(-77.50928,-76.881791,39.351066,38.955467)",
+  "b1g_centroid_ss": "39.1532665,-77.1955355",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "04f-02",
+  "dct_isPartOf_sm": [
+    "04f-02"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://montgomeryplanning.org/tools/gis-and-mapping/gis-data/data-downloads/\",\"http://schema.org/downloadUrl\":\"http://mcatlas.org/tiles/00_Shapefiles/Util_sept18.gdb.zip\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

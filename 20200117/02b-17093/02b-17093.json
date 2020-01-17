@@ -1,0 +1,66 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "02b-17093",
+  "dc_identifier_s": "02b-17093",
+  "dc_title_s": "Kendall County GIS",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Geospatial open datasets publicly accessible from Kendall County, Illinois include zipped vector datasets covering many topics including addresses, roads, boundaries, and water resources, as well as other subjects.",
+  "dc_creator_sm": [
+    "Kendall County GIS"
+  ],
+  "dc_publisher_sm": [
+    "Kendall County, Illinois"
+  ],
+  "dc_subject_sm": [
+    "Counties geospatial data"
+  ],
+  "b1g_keyword_sm": [
+    "Boundaries",
+    "Inland Waters",
+    "Location",
+    "Society",
+    "Transportation"
+  ],
+  "dc_type_sm": [
+    "Collection"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "",
+  "layer_geom_type_s": "Table",
+  "dct_provenance_s": "Illinois",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    "2000-2019"
+  ],
+  "b1g_date_range_drsim": [
+    "[2000 TO 2000]"
+  ],
+  "solr_year_i": "",
+  "dct_spatial_sm": [
+    "Kendall County, Illinois",
+    "Illinois"
+  ],
+  "solr_geom": "ENVELOPE(-88.60362,-88.2521,41.72465,41.45703)",
+  "b1g_centroid_ss": "41.59084,-88.42786000000001",
+  "dc_language_sm": [
+    ""
+  ],
+  "b1g_code_s": "02b-17093",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "b1g_dateAccessioned_s": "",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "",
+  "b1g_status_s": "",
+  "dc_rights_s": "Public",
+  "suppressed_b": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gis.co.kendall.il.us/publicly_available_features.aspx\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

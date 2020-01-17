@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "d1316ee8-8968-4156-9185-87a9433fe9ba",
+  "dc_identifier_s": "d1316ee8-8968-4156-9185-87a9433fe9ba",
+  "dc_title_s": "C-04 Geologic atlas of Hennepin County, Minnesota",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "9 pls. Scale 1:100,000 and smaller. Pl. 1, data-base; pl. 2, bedrock geology, pl. 3, surficial geology; pl. 4, bedrock topography and depth to bedrock; pl. 5, quaternary hydrogeology; pl 6, bedrock hydrogeology; pl. 7, sensitivity of ground-water systems to pollution; pl. 8, geology well construction; and pl 9, geologic resources. Supplementary files include some ESRI coverages digitized at a later date from the paper maps.",
+  "dc_creator_sm": [
+    "Balaban, N.H",
+    "Minnesota Geological Survey"
+  ],
+  "dc_publisher_sm": [
+    "University of Minnesota"
+  ],
+  "dc_subject_sm": [
+    "Geoscientific Information"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data,Maps"
+  ],
+  "dc_format_s": "Files",
+  "layer_geom_type_s": "Mixed",
+  "dct_provenance_s": "Minnesota",
+  "dct_issued_s": "2010-02-25",
+  "dct_temporal_sm": [
+    "1989"
+  ],
+  "b1g_date_range_drsim": [
+    "[1989 TO 1989]"
+  ],
+  "solr_year_i": "1989",
+  "dct_spatial_sm": [
+    "Hennepin County, Minnesota",
+    "Minnesota"
+  ],
+  "solr_geom": "ENVELOPE(-93.770203,-93.17688,45.246552,44.78738)",
+  "b1g_centroid_ss": "45.016966,-93.4735415",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "05d-04",
+  "dct_isPartOf_sm": [
+    "05d-04"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://hdl.handle.net/11299/58491\",\"http://schema.org/downloadUrl\":\"https://hdl.handle.net/11299/58491\",\"http://schema.org/image\":\"https://conservancy.umn.edu/bitstream/handle/11299/58491/plate9_resources.pdf.jpg\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": "https://conservancy.umn.edu/bitstream/handle/11299/58491/plate9_resources.pdf.jpg"
+}

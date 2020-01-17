@@ -1,0 +1,73 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "02b-17091",
+  "dc_identifier_s": "02b-17091",
+  "dc_title_s": "Kankakee County GIS",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "The County of Kankakee's Department of Geographic Information Systems provides the general public with geographic data and web applications for geospatial study. The webpage linked here provides zipped download access links to most commonly referenced geospatial vector datasets, including parcels, roads, boundaries, and water resources, as well as datasets covering other subjects. There is aerial imagery available from 2015. Also available are topographic datasets from 2006 and 2014.",
+  "dc_creator_sm": [
+    "Kankakee County GIS"
+  ],
+  "dc_publisher_sm": [
+    "Kankakee County, Illinois"
+  ],
+  "dc_subject_sm": [
+    "Counties geospatial data"
+  ],
+  "b1g_keyword_sm": [
+    "Boundaries",
+    "Economy",
+    "Elevation",
+    "Geoscientific Information",
+    "Imagery and Base Maps",
+    "Inland Waters",
+    "Location",
+    "Planning and Cadastral",
+    "Society",
+    "Structure",
+    "Transportation",
+    "Utilities and Communications"
+  ],
+  "dc_type_sm": [
+    "Collection"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "",
+  "layer_geom_type_s": "Table",
+  "dct_provenance_s": "Illinois",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    "2006-2019"
+  ],
+  "b1g_date_range_drsim": [
+    "[2006 TO 2006]"
+  ],
+  "solr_year_i": "",
+  "dct_spatial_sm": [
+    "Kankakee County, Illinois",
+    "Illinois"
+  ],
+  "solr_geom": "ENVELOPE(-88.25199,-87.5262,41.29805,40.99456)",
+  "b1g_centroid_ss": "41.146305,-87.889095",
+  "dc_language_sm": [
+    ""
+  ],
+  "b1g_code_s": "02b-17091",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "b1g_dateAccessioned_s": "",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "",
+  "b1g_status_s": "",
+  "dc_rights_s": "Public",
+  "suppressed_b": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://www.k3gis.com\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": "http://www.k3gis.com/web/images/GIS_Logo_36.png"
+}

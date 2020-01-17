@@ -1,0 +1,71 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "02b-17113",
+  "dc_identifier_s": "02b-17113",
+  "dc_title_s": "McLean County GIS Consortium",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Geospatial open datasets publicly accessible from McLean County, the City of Bloomingtion, and Town of Normal in Illinois include zipped vector datasets covering many topics including addresses, parcels, boundaries, roads, water resources, as well as other subjects. Mapping applications links display aerial imagery and other interactive content.",
+  "dc_creator_sm": [
+    "McLean County GIS Consortium"
+  ],
+  "dc_publisher_sm": [
+    "McLean County, Illinois"
+  ],
+  "dc_subject_sm": [
+    "Counties geospatial data"
+  ],
+  "b1g_keyword_sm": [
+    "Boundaries",
+    "Environment",
+    "Inland Waters",
+    "Location",
+    "Planning and Cadastral",
+    "Society",
+    "Structure",
+    "Transportation"
+  ],
+  "dc_type_sm": [
+    "Collection"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "",
+  "layer_geom_type_s": "Table",
+  "dct_provenance_s": "Illinois",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    "2014-2019"
+  ],
+  "b1g_date_range_drsim": [
+    "[2014 TO 2019]"
+  ],
+  "solr_year_i": "",
+  "dct_spatial_sm": [
+    "Bloomington, McLean County, Illinois",
+    "Normal, McLean County, Illinois",
+    "McLean County, Illinois",
+    "Illinois"
+  ],
+  "solr_geom": "ENVELOPE(-89.2694,-88.45921,40.75761,40.28092)",
+  "b1g_centroid_ss": "40.519265000000004,-88.864305",
+  "dc_language_sm": [
+    ""
+  ],
+  "b1g_code_s": "02b-17113",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "b1g_dateAccessioned_s": "",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS HUB",
+  "b1g_status_s": "",
+  "dc_rights_s": "Public",
+  "suppressed_b": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://www.mcgis.org\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

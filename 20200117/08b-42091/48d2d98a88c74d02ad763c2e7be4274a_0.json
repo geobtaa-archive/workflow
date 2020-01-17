@@ -1,0 +1,66 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "48d2d98a88c74d02ad763c2e7be4274a_0",
+  "dc_identifier_s": "48d2d98a88c74d02ad763c2e7be4274a_0",
+  "dc_title_s": "Government Facilities: Montgomery County, Pennsylvania",
+  "dct_alternativeTitle_sm": [
+    "Montgomery County Government Facilities"
+  ],
+  "dc_description_s": "ONE OR MORE OF THE ACCESS LINKS FOR THIS RECORD WERE REPORTED AS BROKEN. THE RECORD MAY HAVE BEEN RETIRED BY THE HOST. Montgomery County Goverment Facilities",
+  "dc_creator_sm": [
+    "Montgomery County"
+  ],
+  "dc_publisher_sm": [
+    "Montgomery County, Pennsylvania"
+  ],
+  "dc_subject_sm": [
+    "Location"
+  ],
+  "b1g_keyword_sm": [
+    "Planning",
+    "Community",
+    "Montgomery",
+    "County"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Penn State",
+  "dct_issued_s": "2019-01-24T16:03:03.000Z",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "solr_year_i": "2019",
+  "dct_spatial_sm": [
+    "Montgomery County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "solr_geom": "ENVELOPE(-75.64940862,-75.11155283,40.2349435,40.10421883)",
+  "b1g_centroid_ss": "40.169581165,-75.380480725",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "08b-42091",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "b1g_dateAccessioned_s": "2019-04-14",
+  "b1g_dateRetired_s": "2019-04",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Retired",
+  "dc_rights_s": "Public",
+  "suppressed_b": "TRUE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data-montcopa.opendata.arcgis.com/datasets/48d2d98a88c74d02ad763c2e7be4274a_0\",\"http://schema.org/downloadUrl\":\"http://data-montcopa.opendata.arcgis.com/datasets/48d2d98a88c74d02ad763c2e7be4274a_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/kOChldNuKsox8qZD/arcgis/rest/services/Montgomery_County_Government_Facilities/FeatureServer/0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

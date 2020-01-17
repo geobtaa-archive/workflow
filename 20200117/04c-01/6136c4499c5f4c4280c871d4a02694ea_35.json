@@ -1,0 +1,74 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "6136c4499c5f4c4280c871d4a02694ea_35",
+  "dc_identifier_s": "6136c4499c5f4c4280c871d4a02694ea_35",
+  "dc_title_s": "DOEE Services in Last 30 Days: Washington, D.C.",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "The Chief Technology Office shares service requests data feeds that come through http://311.dc.gov and the Mayor's 311 call center. These are locations for service requests in the last 30 days assigned to the DC Department of Energy and Environment.",
+  "dc_creator_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_publisher_sm": [
+    "District of Columbia"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "b1g_keyword_sm": [
+    "doee",
+    "energy",
+    "environment",
+    "311",
+    "dc",
+    "dc gis",
+    "washington",
+    "service",
+    "request",
+    "dec2015",
+    "erosion runoff",
+    "engine idle",
+    "bag"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "2015-12-10",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "b1g_date_range_drsim": [
+    "[2015 TO 2015]"
+  ],
+  "solr_year_i": "2015",
+  "dct_spatial_sm": [
+    "Washington D.C"
+  ],
+  "solr_geom": "ENVELOPE(-60.59011762,179.9999885,90,-69.99444444)",
+  "b1g_centroid_ss": "10.002777780000002,59.70493544",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "04c-01",
+  "dct_isPartOf_sm": [
+    "04c-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-07-23",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/6136c4499c5f4c4280c871d4a02694ea_35\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/6136c4499c5f4c4280c871d4a02694ea_35.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_APPS/SR_30days_Open/MapServer/35\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

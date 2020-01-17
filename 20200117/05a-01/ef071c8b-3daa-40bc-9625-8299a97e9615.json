@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "ef071c8b-3daa-40bc-9625-8299a97e9615",
+  "dc_identifier_s": "ef071c8b-3daa-40bc-9625-8299a97e9615",
+  "dc_title_s": "Building Polygons, Dakota County: Minnesota",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Buildings identified from low and medium level aerial photography for various mapping and application uses.",
+  "dc_creator_sm": [
+    "Dakota County GIS, Staff"
+  ],
+  "dc_publisher_sm": [
+    "Dakota County, Minnesota"
+  ],
+  "dc_subject_sm": [
+    "Structure"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Minnesota",
+  "dct_issued_s": "2015-08-14",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "b1g_date_range_drsim": [
+    "[2015 TO 2015]"
+  ],
+  "solr_year_i": "2015",
+  "dct_spatial_sm": [
+    "Dakota County, Minnesota",
+    "Minnesota"
+  ],
+  "solr_geom": "ENVELOPE(-93.329586,-92.729531,44.923401,44.469092)",
+  "b1g_centroid_ss": "44.6962465,-93.02955850000001",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "05a-01",
+  "dct_isPartOf_sm": [
+    "05a-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-07-23",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "Minnesota Geospatial Commons",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/ef071c8b-3daa-40bc-9625-8299a97e9615\",\"http://www.w3.org/1999/xhtml\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_co_dakota/struc_propertyinfo_buildingp/metadata/metadata.html\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_co_dakota/struc_propertyinfo_buildingp/shp_struc_propertyinfo_buildingp.zip\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

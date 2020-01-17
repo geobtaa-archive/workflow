@@ -1,0 +1,77 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "18b2f35420d14b5ea822a7d5531c0c73_2",
+  "dc_identifier_s": "18b2f35420d14b5ea822a7d5531c0c73_2",
+  "dc_title_s": "Nutrient Management Setbacks From Waterways - Rivers, Streams and Ditches (35 Foot Buffer): Maryland",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "This is a MD iMAP hosted service layer. Find more information at http://imap.maryland.gov.This is a 35 foot buffer area along rivers, streams and ditches where fertilizer applications are restricted on croplands.Map Service Layer Link:https://geodata.md.gov/imap/rest/services/Agriculture/MD_NutrientManagementSetbacksFromWaterways/MapServer/2",
+  "dc_creator_sm": [
+    "ArcGIS Online for Maryland"
+  ],
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "b1g_keyword_sm": [
+    "MD",
+    "MD iMAP",
+    "Maryland",
+    "Rivers",
+    "Streams",
+    "Ditches",
+    "Buffer",
+    "Agriculture",
+    "WMS",
+    "WFS",
+    "KML",
+    "Dynamic",
+    "Vector",
+    "MDA",
+    "Maryland Department of Agriculture",
+    "Nutrient Management Setback"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "2018-09-28",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "solr_year_i": "2018",
+  "dct_spatial_sm": [
+    "Maryland"
+  ],
+  "solr_geom": "ENVELOPE(-79.4872,-75.0551,39.723,37.9272)",
+  "b1g_centroid_ss": "38.8251,-77.27115",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "04a-01",
+  "dct_isPartOf_sm": [
+    "04a-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/18b2f35420d14b5ea822a7d5531c0c73_2\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/18b2f35420d14b5ea822a7d5531c0c73_2.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://geodata.md.gov/imap/rest/services/Agriculture/MD_NutrientManagementSetbacksFromWaterways/MapServer/2\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

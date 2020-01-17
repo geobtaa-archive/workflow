@@ -1,0 +1,61 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "53c50328-d60f-40b5-82c8-aa8c6a52667a",
+  "dc_identifier_s": "53c50328-d60f-40b5-82c8-aa8c6a52667a",
+  "dc_title_s": "Working Lands Initiative - Target Areas: Minnesota",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "This layer was developed as part of the Working Lands Initiative (WLI) to show current target areas within the state. The WLI is a joint effort between DNR, USFWS and other agencies and NGOs to target state, federal and private conservation efforts to the most valuable wetland complexes in the state.  This dataset was created to show current WLI Target Areas within the state of Minnesota. The data was compiled from several sources and should not be used for locational measurement.",
+  "dc_creator_sm": [
+    "Minnesota Department of Natural Resources (DNR)"
+  ],
+  "dc_publisher_sm": [
+    "State of Minnesota"
+  ],
+  "dc_subject_sm": [
+    "Environment"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Minnesota",
+  "dct_issued_s": "2015-07-14",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "b1g_date_range_drsim": [
+    "[2015 TO 2015]"
+  ],
+  "solr_year_i": "2015",
+  "dct_spatial_sm": [
+    "Minnesota"
+  ],
+  "solr_geom": "ENVELOPE(-96.778604,-92.714449,48.232383,43.45727)",
+  "b1g_centroid_ss": "45.844826499999996,-94.7465265",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "05a-01",
+  "dct_isPartOf_sm": [
+    "05a-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "Minnesota Geospatial Commons",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/53c50328-d60f-40b5-82c8-aa8c6a52667a\",\"http://www.w3.org/1999/xhtml\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/env_working_lands_initiative_trg/metadata/metadata.html\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/env_working_lands_initiative_trg/shp_env_working_lands_initiative_trg.zip\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": "https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_dnr/env_working_lands_initiative_trg/metadata/preview.jpg"
+}

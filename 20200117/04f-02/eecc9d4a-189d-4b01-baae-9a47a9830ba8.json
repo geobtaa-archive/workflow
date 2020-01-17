@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "eecc9d4a-189d-4b01-baae-9a47a9830ba8",
+  "dc_identifier_s": "eecc9d4a-189d-4b01-baae-9a47a9830ba8",
+  "dc_title_s": "Special State Concern Wetlands: Montgomery County, Maryland",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "This is a feature class in the geodatabase Wetlands: Montgomery County, Maryland. In Maryland certain wetlands with rare, threatened, endangered species or unique habitat receive special attention. The Code of Maryland Regulations (COMAR) Title 26, Subtitle 23, Chapter 06, Sections 01 & 02 identifies these Wetlands of Special State Concern (WSSC) and affords them certain protections including a 100 foot buffer from development. The Maryland Department of the Environment is responsible for identifying and regulating these wetlands. In general, the US Fish and Wildlife Service's National Wetlands Inventory wetlands provide the basis for identifying these special wetlands. Additional information, determined from field inspections, is used to identify and classify these areas.",
+  "dc_creator_sm": [
+    "Maryland Department of the Environment & Maryland Department of Natural Resources, Wildlife and Heritage Division"
+  ],
+  "dc_publisher_sm": [
+    "The Maryland-National Capital Park and Planning Commission"
+  ],
+  "dc_subject_sm": [
+    "Biota"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Geodatabase",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "1998-01-01",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "b1g_date_range_drsim": [
+    "[1998 TO 1998]"
+  ],
+  "solr_year_i": "1998",
+  "dct_spatial_sm": [
+    "Montgomery County, Maryland",
+    "Maryland"
+  ],
+  "solr_geom": "ENVELOPE(-79.501817,-75.045,39.77425,37.8713)",
+  "b1g_centroid_ss": "38.822775,-77.2734085",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "04f-02",
+  "dct_isPartOf_sm": [
+    "04f-02"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://montgomeryplanning.org/tools/gis-and-mapping/gis-data/data-downloads/\",\"http://schema.org/downloadUrl\":\"http://mcatlas.org/tiles/00_Shapefiles/Wetlands.gdb.zip\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

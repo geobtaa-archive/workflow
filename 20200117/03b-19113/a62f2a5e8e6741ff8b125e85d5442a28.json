@@ -1,0 +1,68 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "a62f2a5e8e6741ff8b125e85d5442a28",
+  "dc_identifier_s": "a62f2a5e8e6741ff8b125e85d5442a28",
+  "dc_title_s": "Imagery: Linn County, Iowa, 2000",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Linn County, Iowa 2000 image service.Imagery Layer DetailsUpdate Frequency: NeverPixel Resolution (urban): 6-inchPixel Resolution (rural): 12-inchMosaic Dataset Coordinate System: WGS 1984 Web Mercator Auxiliary SphereSource Tiles Coordinate System: NAD 1983 State Plane Iowa NorthMax Visibility Scale: NoneMin Visibility Scale: NoneAdditional ResourcesVisit Linn County, Iowa on the web.Visit Linn County, Iowa GIS on the web.Visit the Linn County, Iowa GIS portal. This site is updated as needed to reflect maps and apps of interest from various departments.Contact InformationQuestions about this map  Contact the GIS Division by phone at 319.892.5250 or by email.",
+  "dc_creator_sm": [
+    "Linn County Iowa GIS"
+  ],
+  "dc_publisher_sm": [
+    "Linn County, Iowa"
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "b1g_keyword_sm": [
+    "Linn County",
+    "Iowa",
+    "Imagery",
+    "Aerial",
+    "Orthophoto",
+    "2000"
+  ],
+  "dc_type_sm": [
+    "Image",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Aerial imagery"
+  ],
+  "dc_format_s": "Imagery",
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Iowa",
+  "dct_issued_s": "11/23/2016",
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "b1g_date_range_drsim": [
+    "[2000 TO 2000]"
+  ],
+  "solr_year_i": "2000",
+  "dct_spatial_sm": [
+    "Linn County, Iowa",
+    "Iowa"
+  ],
+  "solr_geom": "ENVELOPE(-91.8437,-91.3465,42.306,41.8453)",
+  "b1g_centroid_ss": "42.075649999999996,-91.5951",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "03b-19113",
+  "dct_isPartOf_sm": [
+    "03b-19113"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata-linncounty-gis.opendata.arcgis.com/datasets/a62f2a5e8e6741ff8b125e85d5442a28\",\"urn:x-esri:serviceType:ArcGIS#ImageMapLayer\":\"https://gis.linncounty.org/arcgis/rest/services/PublicImagery/img2000/ImageServer\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

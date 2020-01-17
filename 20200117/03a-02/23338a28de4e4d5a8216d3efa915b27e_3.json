@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "23338a28de4e4d5a8216d3efa915b27e_3",
+  "dc_identifier_s": "23338a28de4e4d5a8216d3efa915b27e_3",
+  "dc_title_s": "U.S. 30: Iowa",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "This layer identifies the study areas for the Interstate 80 Planning and Environmental Linkage (PEL) study being conducted by the Office of Location and Environment.",
+  "dc_creator_sm": [
+    "Iowa Department of Transportation"
+  ],
+  "dc_publisher_sm": [
+    "State of Iowa"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Iowa",
+  "dct_issued_s": "2016-01-21",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "solr_year_i": "2016",
+  "dct_spatial_sm": [
+    "Iowa"
+  ],
+  "solr_geom": "ENVELOPE(-96.64,-90.14,43.228,40.38)",
+  "b1g_centroid_ss": "41.804,-93.39",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "03a-02",
+  "dct_isPartOf_sm": [
+    "03a-02"
+  ],
+  "b1g_dateAccessioned_s": "2019-07-23",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://public-iowadot.opendata.arcgis.com/datasets/23338a28de4e4d5a8216d3efa915b27e_3\",\"http://schema.org/downloadUrl\":\"http://public-iowadot.opendata.arcgis.com/datasets/23338a28de4e4d5a8216d3efa915b27e_3.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/8lRhdTsQyJpO52F1/arcgis/rest/services/DiversionRoutes_US30_US34_SystemsPlanning/FeatureServer/3\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

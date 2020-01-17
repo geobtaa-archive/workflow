@@ -1,0 +1,68 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "5bd595eaf56e4dd8b8e44ee25df65637_32",
+  "dc_identifier_s": "5bd595eaf56e4dd8b8e44ee25df65637_32",
+  "dc_title_s": "Opportunity Zone Census Tracts: Ohio",
+  "dct_alternativeTitle_sm": [
+    "Opportunity Zone Census Tracts"
+  ],
+  "dc_description_s": "Qualified Opportunity Zones are a new community development program established by Congress in the Tax Cuts and Jobs Act of 2017. This program encourages new, long-term investment in property or businesses in specific areas around the City through federal tax incentives for investors. To take advantage of the program, investors must reinvest new capital gains into Qualified Opportunity Funds which are spent in Qualified Opportunity Zones.https://www.columbus.gov/development/economic-development/Opportunity-Zone-Programhttps://opportunityzones.ohio.gov/wps/portal/gov/ooz/home",
+  "dc_creator_sm": [
+    "City of Columbus Maps & Apps"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "b1g_keyword_sm": [
+    "Development",
+    "Ohio",
+    "City",
+    "Columbus",
+    "Opportunity",
+    "Tax",
+    "Incentive"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Ohio State",
+  "dct_issued_s": "2019-12-07T15:30:16.000Z",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "solr_year_i": "2019",
+  "dct_spatial_sm": [
+    "Ohio"
+  ],
+  "solr_geom": "ENVELOPE(-83.1395,-82.8176,40.1283,39.7979)",
+  "b1g_centroid_ss": "39.9631,-82.97855",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "11a-01",
+  "dct_isPartOf_sm": [
+    "11a-01"
+  ],
+  "b1g_dateAccessioned_s": "2020-01-07",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/5bd595eaf56e4dd8b8e44ee25df65637_32\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.columbus.gov/arcgis/rest/services/Schemas/Development/MapServer/32\",\"http://schema.org/downloadUrl\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/5bd595eaf56e4dd8b8e44ee25df65637_32.zip\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

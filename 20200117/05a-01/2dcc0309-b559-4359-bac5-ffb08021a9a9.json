@@ -1,0 +1,61 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "2dcc0309-b559-4359-bac5-ffb08021a9a9",
+  "dc_identifier_s": "2dcc0309-b559-4359-bac5-ffb08021a9a9",
+  "dc_title_s": "MPCA Closed Landfill Facilities: Minnesota",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "The Closed Landfill Program geodatabase includes the following datasets  <a href=\"clp_land_management_area.html\">Closed Landfill - Land Management Areas</a> <a href=\"clp_waste_footprint.html\">Closed Landfill -Waste Footprints</a> <a href=\"clp_groundwater_aoc.html\">Closed Landfill - Groundwater Areas of Concern</a> <a href=\"clp_methane_aoc.html\">Closed Landfill -Methand Areas of Concern</a>",
+  "dc_creator_sm": [
+    "Minnesota Pollution Control Agency"
+  ],
+  "dc_publisher_sm": [
+    "State of Minnesota"
+  ],
+  "dc_subject_sm": [
+    "Environment"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Minnesota",
+  "dct_issued_s": "2017-03-30",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "b1g_date_range_drsim": [
+    "[2017 TO 2017]"
+  ],
+  "solr_year_i": "2017",
+  "dct_spatial_sm": [
+    "Minnesota"
+  ],
+  "solr_geom": "ENVELOPE(-97.23,-89.53,49.37,43.5)",
+  "b1g_centroid_ss": "46.435,-93.38",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "05a-01",
+  "dct_isPartOf_sm": [
+    "05a-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "Minnesota Geospatial Commons",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://gisdata.mn.gov/dataset/2dcc0309-b559-4359-bac5-ffb08021a9a9\",\"http://www.w3.org/1999/xhtml\":\"https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_pca/env_closed_landfill/metadata/metadata.html\",\"http://schema.org/downloadUrl\":\"ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_pca/env_closed_landfill/shp_env_closed_landfill.zip\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": "https://btaagdp.org/metadata/05a-01/pub/gdrs/data/pub/us_mn_state_pca/env_closed_landfill/preview/preview.jpg"
+}

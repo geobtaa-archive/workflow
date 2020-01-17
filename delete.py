@@ -100,7 +100,7 @@ class CSWToGeoBlacklight(object):
         }
 
         self.identifier = {
-            "rec": '"ce90a034-f716-4c99-8d9a-d04759880155"'
+            "rec": '"05b-2713"'
 
 
         }
@@ -259,7 +259,7 @@ class CSWToGeoBlacklight(object):
 
     def delete_one_record(self, uuid):
 
-    	self.solr.delete_query("uuid:" + self.identifier[uuid])
+    	self.solr.delete_query("dc_identifier_s:" + self.identifier[uuid])
 
     def delete_records_collection(self, collection):
         """

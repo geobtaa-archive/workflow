@@ -1,0 +1,67 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "79800df5a57c4ddaa74e2ff079c4d03e_0",
+  "dc_identifier_s": "79800df5a57c4ddaa74e2ff079c4d03e_0",
+  "dc_title_s": "Water Wells: Ohio",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Known locations of water wells within Ohio. This information was supplied to the Ohio Department of Natural Resources (ODNR) by water well contractors per the Ohio Revised Code 1521.05. Water well data was first submitted to the state back in the late 1940's. This dataset is a small subset of all the water well records maintained ODNR-Division of Water Resources. This application is intended to illustrate water wells within the State of Ohio, by status and type. These data are derived from multiple sources and the positional quality may be varied. Locations may require additional research and/or professional surveying to achieve desired accuracy. Less than 55% of the well records in the ODNR well record database have latitude and longitude values and thus only those records with known coordinates will show up on this map.",
+  "dc_creator_sm": [
+    "Ohio Department of Natural Resources-Division of Geological Survey"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Geoscientific Information"
+  ],
+  "b1g_keyword_sm": [
+    "Ohio",
+    "ODNR",
+    "Water Wells",
+    "Hydrographic",
+    "Ohio Department of Natural Resources",
+    "Geoscientific"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Ohio State",
+  "dct_issued_s": "2016-11-03",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "solr_year_i": "2016",
+  "dct_spatial_sm": [
+    "Ohio"
+  ],
+  "solr_geom": "ENVELOPE(-84.8198,-80.5192,42.1644,38.4062)",
+  "b1g_centroid_ss": "40.2853,-82.6695",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "11a-01",
+  "dct_isPartOf_sm": [
+    "11a-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/79800df5a57c4ddaa74e2ff079c4d03e_0\",\"http://schema.org/downloadUrl\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/79800df5a57c4ddaa74e2ff079c4d03e_0.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.ohiodnr.gov/arcgis/rest/services/DSW_Services/waterwells/MapServer/0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

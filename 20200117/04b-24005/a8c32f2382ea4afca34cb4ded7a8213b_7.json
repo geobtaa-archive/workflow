@@ -1,0 +1,64 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "a8c32f2382ea4afca34cb4ded7a8213b_7",
+  "dc_identifier_s": "a8c32f2382ea4afca34cb4ded7a8213b_7",
+  "dc_title_s": "Water - Historic Petitions: Baltimore County, Maryland",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "This feature class represents the petitioned water master plan areas that have been introduced in previous years through cycle amendments within Baltimore County. All information was gathered from petition and approval documentation, with the property boundaries given on source maps used to compile geographic features from existing digital cadastral data. These features contain spatial data representing the boundaries of petitioned and effective master plans areas, as well as information about the effective date, cycle amendment numbers, associated properties, zoning designations, councilmanic and election districts, feature lineage, location within the BCMD and Urban Rural Demarcation Line (URDL), and links to digital source documentation.The water master plan geodatabase includes a feature data set (WaterMasterPlan) containing three feature classes: WCurMasterPlan, WaterCombined and WHisMasterPlan. The feature classes participate in a topology (tWaterMasterPlan). The WCurMasterPlan feature class represents the petitions for the current cycle. The WaterCombined represents the current master plan designation within the county. The WHisMasterPlan contains all of the petitions areas from all cycles. The geodatabase includes relationship classes that associate related table containing information on assessments, councilmanic districts, election districts, lineage (feature level metadata), plan map, recommendations and zoning designations.",
+  "dc_creator_sm": [
+    "Baltimore County Web Map Portal"
+  ],
+  "dc_publisher_sm": [
+    "Baltimore County, Maryland"
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "b1g_keyword_sm": [
+    "baltimore county",
+    "water historic petitions"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "6/8/2017",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "b1g_date_range_drsim": [
+    "[2017 TO 2017]"
+  ],
+  "solr_year_i": "2017",
+  "dct_spatial_sm": [
+    "Baltimore County, Maryland",
+    "Maryland"
+  ],
+  "solr_geom": "ENVELOPE(-76.8968,-76.3174,39.7219,39.1947)",
+  "b1g_centroid_ss": "39.458299999999994,-76.6071",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "04b-24005",
+  "dct_isPartOf_sm": [
+    "04b-24005"
+  ],
+  "b1g_dateAccessioned_s": "2019-04-05",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data-bc-gis.opendata.arcgis.com/datasets/a8c32f2382ea4afca34cb4ded7a8213b_7\",\"http://schema.org/downloadUrl\":\"http://data-bc-gis.opendata.arcgis.com/datasets/a8c32f2382ea4afca34cb4ded7a8213b_7.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://bcgis.baltimorecountymd.gov/arcgis/rest/services/DevelopmentManagement/UtilityMasterPlans/MapServer/7\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "95875813-41d6-48c7-bf9c-23dbcf691fe4",
+  "dc_identifier_s": "95875813-41d6-48c7-bf9c-23dbcf691fe4",
+  "dc_title_s": "Grocery Stores, Food System Mapping: Prince George's County, Maryland",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Grocery stores throughout Prince George's County, Maryland, based on information from Johns Hopkins Bloomberg School of Public Health, Center for a Livable Future, Food System Mapping available at www.mdfoodsystemmap.org.",
+  "dc_creator_sm": [
+    "Johns Hopkins Bloomberg School of Public Health, The Maryland-National Capital Park & Planning Commission"
+  ],
+  "dc_publisher_sm": [
+    "Prince George's County, Maryland"
+  ],
+  "dc_subject_sm": [
+    "Location"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "2009-06-12",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "b1g_date_range_drsim": [
+    "[2009 TO 2009]"
+  ],
+  "solr_year_i": "2009",
+  "dct_spatial_sm": [
+    "Prince George's County, Maryland",
+    "Maryland"
+  ],
+  "solr_geom": "ENVELOPE(-77.016926,-76.676458,39.106804,38.580648)",
+  "b1g_centroid_ss": "38.843726,-76.84669199999999",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "04f-03",
+  "dct_isPartOf_sm": [
+    "04f-03"
+  ],
+  "b1g_dateAccessioned_s": "2019-04-05",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://gisdata.pgplanning.org/opendata/\",\"http://schema.org/downloadUrl\":\"http://gisdata.pgplanning.org/opendata/downloadzip.asp?FileName=/data/ShapeFile/Grocery_Store_Pt.zip\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

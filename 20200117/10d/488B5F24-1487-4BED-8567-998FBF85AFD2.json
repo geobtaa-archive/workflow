@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "488B5F24-1487-4BED-8567-998FBF85AFD2",
+  "dc_identifier_s": "488B5F24-1487-4BED-8567-998FBF85AFD2",
+  "dc_title_s": "Cranberry Beds Wood County, Wisconsin, YE2016",
+  "dct_alternativeTitle_sm": [
+    "Cranberry Beds Wood County\\\\\\, WI YE2016"
+  ],
+  "dc_description_s": "This polygon data layer represents cranberry beds for Wood County, Wisconsin at year-end 2016. It is a feature class within the geodatabase, Wood_Cranberry_Beds_YE2016.gdb. [This dataset shows cranberry bed locations for Wood County.]",
+  "dc_creator_sm": [
+    "Wood County, Wisconsin"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Farming",
+    "Biota"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Geodatabase",
+  "layer_geom_type_s": "Polygon",
+  "dct_provenance_s": "Wisconsin",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "b1g_date_range_drsim": [
+    "[2017 TO 2017]"
+  ],
+  "solr_year_i": "2017",
+  "dct_spatial_sm": [
+    "Wood County, Wisconsin",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-90.440619,-89.600668,44.777004,44.161511)",
+  "b1g_centroid_ss": "44.4692575,-90.0206435",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "10d",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "b1g_dateAccessioned_s": "2019-09-04",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "GeoBlacklight",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Wood_Cranberry_Beds_YE2016.zip\",\"http://schema.org/url\":\"http://opendata.woodcogis.com/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Wood_Cranberry_Beds_YE2016.xml\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

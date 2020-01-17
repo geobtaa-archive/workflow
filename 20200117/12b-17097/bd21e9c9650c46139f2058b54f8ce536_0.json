@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "bd21e9c9650c46139f2058b54f8ce536_0",
+  "dc_identifier_s": "bd21e9c9650c46139f2058b54f8ce536_0",
+  "dc_title_s": "Birth Rate Statistics: Lake County, Illinois",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Births rates across Lake County, Illinois by ZIP Code.",
+  "dc_creator_sm": [
+    "Lake County, Illinois"
+  ],
+  "dc_publisher_sm": [
+    "Lake County, Illinois"
+  ],
+  "dc_subject_sm": [
+    "Health"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Chicago",
+  "dct_issued_s": "2016-11-03",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "solr_year_i": "2016",
+  "dct_spatial_sm": [
+    "Lake County, Illinois",
+    "Illinois"
+  ],
+  "solr_geom": "ENVELOPE(-88.2003,-87.7561,42.4958,42.1523)",
+  "b1g_centroid_ss": "42.32405,-87.9782",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "12b-17097",
+  "dct_isPartOf_sm": [
+    "12b-17097"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data-lakecountyil.opendata.arcgis.com/datasets/bd21e9c9650c46139f2058b54f8ce536_0\",\"http://schema.org/downloadUrl\":\"http://data-lakecountyil.opendata.arcgis.com/datasets/bd21e9c9650c46139f2058b54f8ce536_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services3.arcgis.com/HESxeTbDliKKvec2/arcgis/rest/services/LakeCounty_Health/FeatureServer/0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "03b-19029",
+  "dc_identifier_s": "03b-19029",
+  "dc_title_s": "Cass County GIS Downloadable Files",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Geospatial datasets are publicly available on the Cass County, Iowa website GIS Department page linked here. The page provides links for zipped downloads of several geospatial vector datasets; including parcels, development, land survey, and municipal boundaries.",
+  "dc_creator_sm": [
+    "Cass County GIS"
+  ],
+  "dc_publisher_sm": [
+    "Cass County, Iowa"
+  ],
+  "dc_subject_sm": [
+    "Counties geospatial data"
+  ],
+  "b1g_keyword_sm": [
+    "Boundaries",
+    "Planning and Cadastral"
+  ],
+  "dc_type_sm": [
+    "Collection"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "",
+  "layer_geom_type_s": "Table",
+  "dct_provenance_s": "Iowa",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "solr_year_i": "",
+  "dct_spatial_sm": [
+    "Cass County, Iowa",
+    "Iowa"
+  ],
+  "solr_geom": "ENVELOPE(-95.15585,-94.70007,41.50524,41.1579)",
+  "b1g_centroid_ss": "41.33157,-94.92796",
+  "dc_language_sm": [
+    ""
+  ],
+  "b1g_code_s": "03b-19029",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "b1g_dateAccessioned_s": "",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "",
+  "b1g_status_s": "",
+  "dc_rights_s": "Public",
+  "suppressed_b": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://www.atlanticiowa.com/county/county-departments/gis-coordinator\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

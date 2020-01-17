@@ -1,0 +1,74 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "11b-39007",
+  "dc_identifier_s": "11b-39007",
+  "dc_title_s": "ArcGIS REST Services Directory for Ashtabula County, Ohio",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "ArcGIS REST site referencing layers for all common data types and more. Also contains aerial photography from 1938, 2006-2017 (4yrs). Contains references to elevation layer contours - date unknown.",
+  "dc_creator_sm": [
+    ""
+  ],
+  "dc_publisher_sm": [
+    "Ashtabula County, Ohio"
+  ],
+  "dc_subject_sm": [
+    "Counties geospatial data"
+  ],
+  "b1g_keyword_sm": [
+    "Boundaries",
+    "Economy",
+    "Elevation",
+    "Environment",
+    "Geoscientific Information",
+    "Imagery and Base Maps",
+    "Inland Waters",
+    "Location",
+    "Planning and Cadastral",
+    "Society",
+    "Transportation",
+    "Utilities and Communication",
+    "Health"
+  ],
+  "dc_type_sm": [
+    "Collection"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data,Aerial imagery"
+  ],
+  "dc_format_s": "",
+  "layer_geom_type_s": "Table",
+  "dct_provenance_s": "Ohio State",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    "1938-present"
+  ],
+  "b1g_date_range_drsim": [
+    "[1938 TO 1938]"
+  ],
+  "solr_year_i": "",
+  "dct_spatial_sm": [
+    "Ashtabula County, Ohio",
+    "Ohio"
+  ],
+  "solr_geom": "ENVELOPE(-81.00476,-80.51916,41.98466,41.49933)",
+  "b1g_centroid_ss": "41.741995,-80.76196",
+  "dc_language_sm": [
+    ""
+  ],
+  "b1g_code_s": "11b-39007",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "b1g_dateAccessioned_s": "",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "",
+  "b1g_status_s": "",
+  "dc_rights_s": "Public",
+  "suppressed_b": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://gis2.ashtabulacounty.us/arcgis/rest/services\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

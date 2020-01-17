@@ -1,0 +1,71 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "497a97d2e8cb4664ac8eff730e2843de_0",
+  "dc_identifier_s": "497a97d2e8cb4664ac8eff730e2843de_0",
+  "dc_title_s": "Fire Hydrants: Stark County, Ohio",
+  "dct_alternativeTitle_sm": [
+    "Fire Hydrants"
+  ],
+  "dc_description_s": "This layer was originally created to provide a single inventory of fire hydrants within the county for various fire departments to use. It allows fire departments to view hydrants in neighboring communities. Updates to this layer occur in several different methods and at several different rates. Some fire departments use Collector for ArcGIS to directly add or alter hydrants. These contributions have no mandated time-frame or coverage. Stark County GIS (SCGIS) coordinates with the water departments from Alliance, Canton, Louisville, and North Canton to update this layer based on updates made in those cities respective hydrant layers. SCGIS coordinates with 3rd parties that provide municipal GIS services to acquire updated data for Canal Fulton and Massillon. ",
+  "dc_creator_sm": [
+    "Stark County Ohio"
+  ],
+  "dc_publisher_sm": [
+    "Stark County, Ohio"
+  ],
+  "dc_subject_sm": [
+    "Location"
+  ],
+  "b1g_keyword_sm": [
+    "Stark County",
+    "Water",
+    "Ohio",
+    "Public Safety",
+    "SCGIS",
+    "Infrastructure",
+    "Emergency Response",
+    "Structures",
+    "Emergency Management"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Ohio State",
+  "dct_issued_s": "2015-01-22T21:13:07.000Z",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "b1g_date_range_drsim": [
+    ""
+  ],
+  "solr_year_i": "2015",
+  "dct_spatial_sm": [
+    "Stark County, Ohio",
+    "Ohio"
+  ],
+  "solr_geom": "ENVELOPE(-81.7109,-80.9811,40.9886,40.6429)",
+  "b1g_centroid_ss": "40.815749999999994,-81.346",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "11b-39151",
+  "dct_isPartOf_sm": [
+    "11b-39151"
+  ],
+  "b1g_dateAccessioned_s": "2019-12-06",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.starkcountyohio.gov/datasets/497a97d2e8cb4664ac8eff730e2843de_0\",\"http://schema.org/downloadUrl\":\"http://opendata.starkcountyohio.gov/datasets/497a97d2e8cb4664ac8eff730e2843de_0.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://scgisa.starkcountyohio.gov/arcgis/rest/services/EmergencyResponse/SCFireHydrant/MapServer/0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

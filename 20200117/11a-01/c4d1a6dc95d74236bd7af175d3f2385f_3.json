@@ -1,0 +1,68 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "c4d1a6dc95d74236bd7af175d3f2385f_3",
+  "dc_identifier_s": "c4d1a6dc95d74236bd7af175d3f2385f_3",
+  "dc_title_s": "Underground Sources Of Drinking Water, Devonian Outcrop: Ohio",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "The Ohio Department of Natural Resources, Division of Geological Survey, with partial funding from the USEPA through the Ohio EPA, has mapped the lowest Underground Sources of Drinking Water (USDWs) across most of the state. The goal of this project is to provide Ohio's oil and gas industry and the Ohio Department of Natural Resources-Division of Oil and Gas Resources Management (DOGRM) with necessary, up-to-date information and maps to properly determine adequate depth of surface casing to protect USDWs. The last mapping effort of the lowest USDW was performed in 1982. In excess of 37,000 oil and gas wells have been drilled since that date without significant updates to the mapping. Further, the 1982 mapping was hand-drawn on paper maps, which are not easily reproducible or updated. Existing water-quality data have been collected and correlated to bedrock geology. The resultant data are being used to produce structure contour maps on the base of the lowest mappable, consolidated (i.e., bedrock) unit designated as a USDW. Surface casing is always required through unconsolidated surficial deposits, whose depths are known from other mapping projects. All information has been compiled and mapped digitally for ease of distribution and future updating. Industry will be able to use these maps and data to correctly estimate the length and cost of casing required for each well prior to submitting a permit application. The DOGRM will be able to directly import the data and maps to their computer applications and use it to establish required casing depths on permit applications.",
+  "dc_creator_sm": [
+    "Ohio Department of Natural Resources"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Geoscientific Information",
+    "Health"
+  ],
+  "b1g_keyword_sm": [
+    "Ohio",
+    "ODNR",
+    "Ohio Department of Natural Resources",
+    "Geology",
+    "Geoscientific",
+    "USDW"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Ohio State",
+  "dct_issued_s": "2017-11-08",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "b1g_date_range_drsim": [
+    "[2017 TO 2017]"
+  ],
+  "solr_year_i": "2017",
+  "dct_spatial_sm": [
+    "Ohio"
+  ],
+  "solr_geom": "ENVELOPE(-84.9184,-80.4802,41.9936,38.3724)",
+  "b1g_centroid_ss": "40.183,-82.6993",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "11a-01",
+  "dct_isPartOf_sm": [
+    "11a-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/c4d1a6dc95d74236bd7af175d3f2385f_3\",\"http://schema.org/downloadUrl\":\"http://ogrip-geohio.opendata.arcgis.com/datasets/c4d1a6dc95d74236bd7af175d3f2385f_3.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gis.ohiodnr.gov/arcgis/rest/services/DGS_Services/USDW_Features/MapServer/3\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "a66ef356090f448fac407040cb1989cf_0",
+  "dc_identifier_s": "a66ef356090f448fac407040cb1989cf_0",
+  "dc_title_s": "Polling Places: Peoria County, Illinois",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Point feature class containing polling places within Peoria County, Illinois. Attributes include: polling place, polling place address, polling place hours, handicap accessible (Yes/No), next election date, voter registration deadline, contact name, contact phone, contact email, polling place wait time (minutes), township, precinct names, precinct building photos.",
+  "dc_creator_sm": [
+    "Peoria County GIS"
+  ],
+  "dc_publisher_sm": [
+    "Peoria County, Illinois"
+  ],
+  "dc_subject_sm": [
+    "Location"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Chicago",
+  "dct_issued_s": "2019-05-02",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "solr_year_i": "2019",
+  "dct_spatial_sm": [
+    "Peoria County, Illinois",
+    "Illinois"
+  ],
+  "solr_geom": "ENVELOPE(-89.97985947,-89.48771718,40.9399253,40.56787172)",
+  "b1g_centroid_ss": "40.75389851,-89.733788325",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "12b-17143",
+  "dct_isPartOf_sm": [
+    "12b-17143"
+  ],
+  "b1g_dateAccessioned_s": "2019-05-29",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data-peoriacountygis.opendata.arcgis.com/datasets/a66ef356090f448fac407040cb1989cf_0\",\"http://schema.org/downloadUrl\":\"http://data-peoriacountygis.opendata.arcgis.com/datasets/a66ef356090f448fac407040cb1989cf_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/iPiPjILCMYxPZWTc/arcgis/rest/services/PollingPlaces/FeatureServer/0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

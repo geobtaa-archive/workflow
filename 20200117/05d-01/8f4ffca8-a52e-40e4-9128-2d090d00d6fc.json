@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "8f4ffca8-a52e-40e4-9128-2d090d00d6fc",
+  "dc_identifier_s": "8f4ffca8-a52e-40e4-9128-2d090d00d6fc",
+  "dc_title_s": "Proposed road restriction map, 1960",
+  "dct_alternativeTitle_sm": [
+    "Proposed road restriction map\\, 1960"
+  ],
+  "dc_description_s": "Scale approximately 1:1,380,000. Insets: [Cook Co., Mn] and [Minneapolis, St. Paul and vicinity]. \"Note: These Restrictions are tentative and my be changed. The sign erected on the Highway governs the loan restriction in effect.\" 51 x 40 cm",
+  "dc_creator_sm": [
+    "Minnesota. Department of Highways."
+  ],
+  "dc_publisher_sm": [
+    "The Department (St. Paul, Minnesota)"
+  ],
+  "dc_subject_sm": [
+    "Road maps"
+  ],
+  "b1g_keyword_sm": [
+    "Roads Minnesota Maps",
+    "Trucks Weight Maps",
+    "Minnesota Maps"
+  ],
+  "dc_type_sm": [
+    "Image"
+  ],
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "dc_format_s": "JPEG",
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Minnesota",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    "1960"
+  ],
+  "b1g_date_range_drsim": [
+    ""
+  ],
+  "solr_year_i": "1960",
+  "dct_spatial_sm": [
+    "Minnesota"
+  ],
+  "solr_geom": "ENVELOPE(-97.24822998,-91.02584839,49.37432592,43.4887976)",
+  "b1g_centroid_ss": "46.431561759999994,-94.13703918499999",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "05d-01",
+  "dct_isPartOf_sm": [
+    "05d-p16022coll206,05d-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-07-26",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "Blacklight",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/231121\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll206/137/manifest.json\"}",
+  "layer_id_s": "137",
+  "b1g_image_ss": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll206/id/137"
+}

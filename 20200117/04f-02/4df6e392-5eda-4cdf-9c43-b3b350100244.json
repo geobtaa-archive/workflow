@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "4df6e392-5eda-4cdf-9c43-b3b350100244",
+  "dc_identifier_s": "4df6e392-5eda-4cdf-9c43-b3b350100244",
+  "dc_title_s": "Transportation Feature Areas, Paved Roads: Montgomery County, Maryland",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "This data set consists of roadway pavement edges developed as part of the planimetric mapping effort as photogrammetically captured from aerial photography. Attributes contain street name and type as well as the GeoMaP assigned feature code.",
+  "dc_creator_sm": [
+    "Montgomery County Planning Department of the Maryland National Capital Park and Planning Commission"
+  ],
+  "dc_publisher_sm": [
+    "The Maryland-National Capital Park and Planning Commission"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Geodatabase",
+  "layer_geom_type_s": "Polygon",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "2014-09-18",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "b1g_date_range_drsim": [
+    "[2014 TO 2014]"
+  ],
+  "solr_year_i": "2014",
+  "dct_spatial_sm": [
+    "Montgomery County, Maryland",
+    "Maryland"
+  ],
+  "solr_geom": "ENVELOPE(-77.539563,-76.881771,39.362047,38.932515)",
+  "b1g_centroid_ss": "39.147281,-77.210667",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "04f-02",
+  "dct_isPartOf_sm": [
+    "04f-02"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://montgomeryplanning.org/tools/gis-and-mapping/gis-data/data-downloads/\",\"http://schema.org/downloadUrl\":\"http://mcatlas.org/tiles/00_Shapefiles/Road_poly.zip\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

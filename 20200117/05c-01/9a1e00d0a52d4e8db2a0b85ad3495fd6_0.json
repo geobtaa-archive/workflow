@@ -1,0 +1,66 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "9a1e00d0a52d4e8db2a0b85ad3495fd6_0",
+  "dc_identifier_s": "9a1e00d0a52d4e8db2a0b85ad3495fd6_0",
+  "dc_title_s": "Snow Emergency Routes: City of Minneapolis, Minnesota",
+  "dct_alternativeTitle_sm": [
+    "Snow Emergency Routes"
+  ],
+  "dc_description_s": "Effective 9 pm to 8 am (overnight)Do not park on either side of the street with the red sign: Snow Emergency Route. Snow plows will clear those streets first.A Snow Emergency will be declared no later than 6 p.m. on any given day. At 9 p.m. on that day, Snow Emergency parking rules begin.Park on either side of non-Snow Emergency routes (these streets DO NOT have the red sign: Snow Emergency Route).For more information regarding Snow Emergencies in the City of Minneapolis please refer to the City's Snow Season Parking webpage.Day 2 Parking Rules MapDay 3 Parking Rules MapAfter a street is fully plowed, feel free to park there, even if Snow Emergency parking rules are still in effect. Fully plowed means the street is completely cleared and plowed as wide as possible. Plows may come through more than once, so make sure that it is fully plowed as wide as possible before parking.New and Improved Snow Emergency App! The app tells you where you can and cannot park during Day 1, Day 2, and Day 3 of a Snow Emergency. Download the app from the Android or iPhone app stores now!",
+  "dc_creator_sm": [
+    "MapIT Minneapolis"
+  ],
+  "dc_publisher_sm": [
+    "City of Minneapolis, Minnesota"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_keyword_sm": [
+    "Minneapolis",
+    " Snow Emergency",
+    " Open Data",
+    " Public Works"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Minnesota",
+  "dct_issued_s": "2019-10-03T17:25:56.000Z",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "solr_year_i": "2019",
+  "dct_spatial_sm": [
+    "District of Columbia",
+    "Maryland"
+  ],
+  "solr_geom": "ENVELOPE(-93.3292,-93.1979,45.0514,44.8895)",
+  "b1g_centroid_ss": "44.97045,-93.26355000000001",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "05c-01",
+  "dct_isPartOf_sm": [
+    "05c-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-10-11",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/9a1e00d0a52d4e8db2a0b85ad3495fd6_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Snow_Emergency_Routes/FeatureServer/0\",\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/9a1e00d0a52d4e8db2a0b85ad3495fd6_0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

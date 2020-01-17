@@ -1,0 +1,64 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "02b-17125",
+  "dc_identifier_s": "02b-17125",
+  "dc_title_s": "Mason County, Department of Assessment",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "The Mason County, Illinois website's Department of Assessment page has a download link to obtain zipped vector shapefiles depicting parcels, road centerlines, and municipal boundaries.",
+  "dc_creator_sm": [
+    "Mason County Assessor"
+  ],
+  "dc_publisher_sm": [
+    "Mason County, Illinois"
+  ],
+  "dc_subject_sm": [
+    "Counties geospatial data"
+  ],
+  "b1g_keyword_sm": [
+    "Boundaries",
+    "Planning and Cadastral",
+    "Transportation"
+  ],
+  "dc_type_sm": [
+    "Collection"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "",
+  "layer_geom_type_s": "Table",
+  "dct_provenance_s": "Illinois",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "solr_year_i": "",
+  "dct_spatial_sm": [
+    "Mason County, Illinois",
+    "Illinois"
+  ],
+  "solr_geom": "ENVELOPE(-90.35534,-89.60119,40.436,40.05089)",
+  "b1g_centroid_ss": "40.243445,-89.978265",
+  "dc_language_sm": [
+    ""
+  ],
+  "b1g_code_s": "02b-17125",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "b1g_dateAccessioned_s": "",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "",
+  "b1g_status_s": "",
+  "dc_rights_s": "Public",
+  "suppressed_b": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.masoncountyil.org/assessment.htm\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

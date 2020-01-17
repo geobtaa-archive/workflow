@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "50758a9b1b9c4cde9f0bb2c8156101a7_40",
+  "dc_identifier_s": "50758a9b1b9c4cde9f0bb2c8156101a7_40",
+  "dc_title_s": "Aerial Survey 2013 Pattern: State of Michigan",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Aerial Survey 2013 Pattern",
+  "dc_creator_sm": [
+    "State of Michigan"
+  ],
+  "dc_publisher_sm": [
+    "State of Michigan"
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Michigan State",
+  "dct_issued_s": "1/7/2016",
+  "dct_temporal_sm": [
+    "2013"
+  ],
+  "b1g_date_range_drsim": [
+    "[2013 TO 2013]"
+  ],
+  "solr_year_i": "2013",
+  "dct_spatial_sm": [
+    "Michigan"
+  ],
+  "solr_geom": "ENVELOPE(-90.259,-82.9865,48.1649,41.8739)",
+  "b1g_centroid_ss": "45.019400000000005,-86.62275",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "06a-01",
+  "dct_isPartOf_sm": [
+    "06a-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://gis-michigan.opendata.arcgis.com/datasets/50758a9b1b9c4cde9f0bb2c8156101a7_40\",\"http://schema.org/downloadUrl\":\"http://gis-michigan.opendata.arcgis.com/datasets/50758a9b1b9c4cde9f0bb2c8156101a7_40.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services3.arcgis.com/Jdnp1TjADvSDxMAX/ArcGIS/rest/services/ForestHealthAerialSurveys/FeatureServer/40\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

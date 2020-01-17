@@ -1,0 +1,65 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "b2f0c4b6-9a68-4cd9-85b8-8b340e6ca78c",
+  "dc_identifier_s": "b2f0c4b6-9a68-4cd9-85b8-8b340e6ca78c",
+  "dc_title_s": "Wetlands Inventory & Functional Assessments: Montgomery County, Maryland, 2005-2007",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Commission staff performed wetland inventories and functional wetland assessments during the years of 2005-2007. Most of the work was in the Germantown Planning Area encompassing segments of three watersheds: Middle Great Seneca, Little Seneca, and Lower Great Seneca. The functional assessment used the indicators for the presence of wetlands  suggested by the Corps in their 1987 Manual for Delineation of Wetlands, (US ACOE 1987. Wetlands must demonstrate three parameters: hydrophytic vegetation (plant life growing in water, soil, or on a substrate that is periodically deficient in oxygen due to excess water); presence of water and hydric soils (soils saturated, flooded, or ponded, long enough during the growing season to develop anaerobic conditions in the upper profile. Additional portions of this digital data files are records of wetlands location and classification as defined by the U.S. Fish & Wildlife Service's National Wetlands Inventory (NWI) program.",
+  "dc_creator_sm": [
+    "Maryland Department of Natural Resources, U.S. Fish and Wildlife Service"
+  ],
+  "dc_publisher_sm": [
+    "The Maryland-National Capital Park and Planning Commission"
+  ],
+  "dc_subject_sm": [
+    "Biota"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Polygon",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "1993-01-01",
+  "dct_temporal_sm": [
+    "1988-1995"
+  ],
+  "b1g_date_range_drsim": [
+    "[1988 TO 1988]"
+  ],
+  "solr_year_i": "2005",
+  "dct_spatial_sm": [
+    "Montgomery County, Maryland",
+    "Frederick County, Maryland",
+    "Howard County, Maryland",
+    "Prince George's County, Maryland",
+    "Maryland"
+  ],
+  "solr_geom": "ENVELOPE(-77.529404,-76.874552,39.37537,38.93302)",
+  "b1g_centroid_ss": "39.154195,-77.201978",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "04f-02",
+  "dct_isPartOf_sm": [
+    "04f-02"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://montgomeryplanning.org/tools/gis-and-mapping/gis-data/data-downloads/\",\"http://schema.org/downloadUrl\":\"http://mcatlas.org/tiles/00_Shapefiles/Wetlands.zip\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

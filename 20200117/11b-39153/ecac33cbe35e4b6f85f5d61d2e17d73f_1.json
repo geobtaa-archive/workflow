@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "ecac33cbe35e4b6f85f5d61d2e17d73f_1",
+  "dc_identifier_s": "ecac33cbe35e4b6f85f5d61d2e17d73f_1",
+  "dc_title_s": "Lakes and Ponds: Summit County, Ohio",
+  "dct_alternativeTitle_sm": [
+    "Lakes and Ponds"
+  ],
+  "dc_description_s": "This is a statewide digital version of the Hydrography layer of the published USGS 1:24000-scale topographic map series. It was created from DLG files of each scanned 7.5-minute quad map, using custom ARC/INFO software routines which did the following steps: convert from DLG format to coverage format project from UTM to StatePlane map projection rubbersheet map sheet corners to exact computed quad-corner coordinates run semi-automated Edgematching procedure which joins hydrography lines along the quad edges, using distance-offset (maximum of 100 feet) and attribute-match criteria to determine which lines to join. merge the individual quad coverages and dissolve the quad-edge lines Processing was done using Double Precision coordinates and math, with processing tolerance (Fuzzy) of 1 foot. In the Database/Dataset Section the items CMAJOR and CMINOR represent coded pairs and are documented together. Up to five pairs in the pat and four pairs in the aat may be present. These will be appear in the tables as CMAJOR1 CMINOR1 CMAJOR2 CMINOR2, etc. The layer has been provided in both shapefile and coverage format. In the case of the shape file separate shapefiles are provided for point, line, and polygon data. In the coverage format the line and polygon data is combined in one coverage. The shapefiles will be the choice of most users due to speed of drawing issues. Those users desiring to manipulate the original data may want to use the coverage format. All shapefiles have been combined for simplicities sake into one self extracting zip file which expands to about 500 megabytes. However, the value listed in the file size parameter of the metadata represents only the size of the particular shapefile being documented. Also it should be noted that the coverages contain redefined items which of necessity had to be split into separate items in the shapefiles or omitted because this option isn't available in shapefiles. This layer documentation is for the shapefile which includes polygon features.",
+  "dc_creator_sm": [
+    "County of Summit GIS"
+  ],
+  "dc_publisher_sm": [
+    "Summit County, Ohio"
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Ohio State",
+  "dct_issued_s": "2019-03-16",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "solr_year_i": "2019",
+  "dct_spatial_sm": [
+    "Summit County, Ohio",
+    "Ohio"
+  ],
+  "solr_geom": "ENVELOPE(-81.6894,-81.3872,41.3516,40.9071)",
+  "b1g_centroid_ss": "41.12935,-81.5383",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "11b-39153",
+  "dct_isPartOf_sm": [
+    "11b-39153"
+  ],
+  "b1g_dateAccessioned_s": "2019-04-14",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data-summitgis.opendata.arcgis.com/datasets/ecac33cbe35e4b6f85f5d61d2e17d73f_1\",\"http://schema.org/downloadUrl\":\"https://data-summitgis.opendata.arcgis.com/datasets/ecac33cbe35e4b6f85f5d61d2e17d73f_1.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://scgis.summitoh.net/hosted/rest/services/Hydrography/MapServer/1\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

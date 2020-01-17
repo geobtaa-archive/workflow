@@ -1,0 +1,64 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "4e75f277dfce4e9f8a68e99c4ef0c8ed_0",
+  "dc_identifier_s": "4e75f277dfce4e9f8a68e99c4ef0c8ed_0",
+  "dc_title_s": "Transportation Projects 2040: Vanderburgh County, Indiana, United States",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "EMPO Transportation projects projected year 2040",
+  "dc_creator_sm": [
+    "Evansville Vanderburgh County Area Plan"
+  ],
+  "dc_publisher_sm": [
+    "Vanderburgh County, Indiana"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_keyword_sm": [
+    "transportation",
+    "Planning"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Indiana",
+  "dct_issued_s": "2017-01-02",
+  "dct_temporal_sm": [
+    "2040"
+  ],
+  "b1g_date_range_drsim": [
+    "[2040 TO 2040]"
+  ],
+  "solr_year_i": "2040",
+  "dct_spatial_sm": [
+    "Vanderburgh County, Indiana",
+    "Indiana"
+  ],
+  "solr_geom": "ENVELOPE(-87.6842,-87.3818,38.1629,37.9615)",
+  "b1g_centroid_ss": "38.062200000000004,-87.533",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "01b-18163",
+  "dct_isPartOf_sm": [
+    "01b-18163"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://dev-evansvilleapc.opendata.arcgis.com/datasets/4e75f277dfce4e9f8a68e99c4ef0c8ed_0\",\"http://schema.org/downloadUrl\":\"http://dev-evansvilleapc.opendata.arcgis.com/datasets/4e75f277dfce4e9f8a68e99c4ef0c8ed_0.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps.evansvillegis.com/arcgis_server/rest/services/EMPO/PROJECTS_2040/MapServer/0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

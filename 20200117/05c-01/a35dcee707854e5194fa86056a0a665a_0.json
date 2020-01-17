@@ -1,0 +1,67 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "a35dcee707854e5194fa86056a0a665a_0",
+  "dc_identifier_s": "a35dcee707854e5194fa86056a0a665a_0",
+  "dc_title_s": "PW Planimetric Lines: Minneapolis, Minnesota",
+  "dct_alternativeTitle_sm": [
+    "PW Planimetric Lines"
+  ],
+  "dc_description_s": "For questions about this data please contact PublicWorksOpenData@minneapolismn.gov Attribute Overview: Alley Edge, Creek Edge, River Edge, Lake Edge, Pond Edge, Fence, Pool Edge, Sign Overhead, Wall, Bridge Edge, Curb and Gutter Edge, Curb and Gutter Obscured, Driveway Private Edge, Pavement Edge , Unpaved Edge, Parking Lot Edge, Boulevard Edge, Sidewalk Edge, Sidewalk Private Edge, Trail Edge, Woods Edge. Fields: Field Name Field Type Field Description OBJECTID Object ID Unique ID PLAN_LN_REVD Date Graphic revision date SOURCE Text Source of data SOURCE_DATE Date Source date PLAN_LN_CREATED Date Graphic creation date SYMBOL_NAME Text Graphic symbol name Shape Geometry Geometry Shape.STLength() Double Graphic length Symbol Name Attributes Symbol Name Definition ALLEY_EDGE Roadway Alley Edge BLVD_WALK_EDGE Sidewalk Boulevard Edge BRDG_EDGE Bridge Edge CREEK_EDGE Creek Edge CURB_GUTTER Curb and Gutter Edge CURB_OBSC Curb and Gutter Obscured DRIVE_EDGE_PVT Driveway Privage Edge FENCE Fence LAKE_EDGE Lake Edge POND_EDGE Pond Edge POOL_EDGE Pool Edge PRKG_LOT_EDGE Parking Lot Edge RIVE_EDGE River Edge ROAD_EDGE_PVMT Roadway Edge Pavement ROAD_EDGE_UPVD Roadway Edge Unpaved SWLK_EDGE Sidewalk Edge SWLK_EDGE_PVT Sidewalk Private Edge TRAIL_EDGE Trail Edge WALL Wall WOODS_EDGE Woods Edge ",
+  "dc_creator_sm": [
+    "MapIT Minneapolis"
+  ],
+  "dc_publisher_sm": [
+    "City of Minneapolis, Minnesota"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "b1g_keyword_sm": [
+    "Open Data",
+    "  Minneapolis",
+    "  Public Works",
+    "  Planimetric",
+    "  Lines"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Minnesota",
+  "dct_issued_s": "2018-02-21",
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "solr_year_i": "2018",
+  "dct_spatial_sm": [
+    "Minneapolis, Minnesota",
+    "Minnesota"
+  ],
+  "solr_geom": "ENVELOPE(-93.3316,-93.1852,45.0518,44.8882)",
+  "b1g_centroid_ss": "44.97,-93.2584",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "05c-01",
+  "dct_isPartOf_sm": [
+    "05c-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-09-04",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://opendata.minneapolismn.gov/datasets/a35dcee707854e5194fa86056a0a665a_0\",\"https://schema.org/downloadUrl\":\"https://opendata.minneapolismn.gov/datasets/a35dcee707854e5194fa86056a0a665a_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/PW_Planimetric_Lines/FeatureServer/0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

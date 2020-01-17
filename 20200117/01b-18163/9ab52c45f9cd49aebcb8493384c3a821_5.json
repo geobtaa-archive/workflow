@@ -1,0 +1,67 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "9ab52c45f9cd49aebcb8493384c3a821_5",
+  "dc_identifier_s": "9ab52c45f9cd49aebcb8493384c3a821_5",
+  "dc_title_s": "Evansville Promise Zone: Vanderburgh County, Indiana, United States",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Data is maintained by The Department of Metropolitan Development.",
+  "dc_creator_sm": [
+    "Evansville Vanderburgh County Area Plan"
+  ],
+  "dc_publisher_sm": [
+    "Vanderburgh County, Indiana"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "b1g_keyword_sm": [
+    "Evansville",
+    "Vanderburgh County",
+    "IN",
+    "Economic Development",
+    "economic"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Indiana",
+  "dct_issued_s": "2015-05-04",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "b1g_date_range_drsim": [
+    "[2015 TO 2015]"
+  ],
+  "solr_year_i": "2015",
+  "dct_spatial_sm": [
+    "Vanderburgh County, Indiana",
+    "Indiana"
+  ],
+  "solr_geom": "ENVELOPE(-87.6836,-87.4499,38.1671,37.9534)",
+  "b1g_centroid_ss": "38.060249999999996,-87.56675",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "01b-18163",
+  "dct_isPartOf_sm": [
+    "01b-18163"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://dev-evansvilleapc.opendata.arcgis.com/datasets/9ab52c45f9cd49aebcb8493384c3a821_5\",\"http://schema.org/downloadUrl\":\"http://dev-evansvilleapc.opendata.arcgis.com/datasets/9ab52c45f9cd49aebcb8493384c3a821_5.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps.evansvillegis.com/arcgis_server/rest/services/ECONOMIC_DEVELOPMENT/DMD_OVERLAYS/MapServer/5\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

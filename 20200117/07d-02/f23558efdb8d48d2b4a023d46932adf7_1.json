@@ -1,0 +1,69 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "f23558efdb8d48d2b4a023d46932adf7_1",
+  "dc_identifier_s": "f23558efdb8d48d2b4a023d46932adf7_1",
+  "dc_title_s": "Matthaei-Nichols Trails: University of Michigan",
+  "dct_alternativeTitle_sm": [
+    "Matthaei-Nichols Trails"
+  ],
+  "dc_description_s": "Trails at all properties managed by Matthaei Botanical Gardens Nichols Arboretum. Signs in the field represent most current changes to trails.",
+  "dc_creator_sm": [
+    "University of Michigan"
+  ],
+  "dc_publisher_sm": [
+    "University of Michigan"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_keyword_sm": [
+    "Trails",
+    "Matthaei-Nichols",
+    "Transportation",
+    "Nichols Arboretum",
+    "Matthaei Botanical Gardens",
+    "Mud Lake Bog",
+    "Horner-McLaughlin Woods",
+    "Basedata"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Michigan",
+  "dct_issued_s": "2019-01-17T16:19:21.000Z",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "solr_year_i": "2019",
+  "dct_spatial_sm": [
+    "Michigan"
+  ],
+  "solr_geom": "ENVELOPE(-83.7959,-83.655,42.4239,42.2716)",
+  "b1g_centroid_ss": "42.347750000000005,-83.72545",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "07d-02",
+  "dct_isPartOf_sm": [
+    "07d-02"
+  ],
+  "b1g_dateAccessioned_s": "2019-11-10",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://mbgna-umich.opendata.arcgis.com/datasets/f23558efdb8d48d2b4a023d46932adf7_1\",\"http://schema.org/downloadUrl\":\"http://mbgna-umich.opendata.arcgis.com/datasets/f23558efdb8d48d2b4a023d46932adf7_1.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/4ezfu5dIwH83BUNL/arcgis/rest/services/MBGNA_TRANS_Trails_ln/FeatureServer/1\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "k8kg-234b",
+  "dc_identifier_s": "k8kg-234b",
+  "dc_title_s": "Charm City Circulator Stops: Baltimore, Maryland",
+  "dct_alternativeTitle_sm": [
+    "Charm City Circulator Stops"
+  ],
+  "dc_description_s": "This dataset locates bus stops for the Charm City Circulator in Baltmore, Maryland. The Charm City Circulator is a privately funded, public transit shuttle bus service giving riders connection to historic sites, parking, and businesses throughout downtown Baltimore for free.",
+  "dc_creator_sm": [
+    "Information Technology, Enterprise GIS (MOIT-EGIS)"
+  ],
+  "dc_publisher_sm": [
+    "City of Baltimore, Maryland"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "2018-12-08",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "solr_year_i": "2018",
+  "dct_spatial_sm": [
+    "Baltimore, Maryland",
+    "Maryland"
+  ],
+  "solr_geom": "ENVELOPE(-76.711298,-76.529676,39.371971,39.197233)",
+  "b1g_centroid_ss": "39.284602,-76.620487",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "04c-03",
+  "dct_isPartOf_sm": [
+    "04c-03"
+  ],
+  "b1g_dateAccessioned_s": "2019-05-10",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "Socrata",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.baltimorecity.gov/d/k8kg-234b\",\"http://schema.org/downloadUrl\":\"https://data.baltimorecity.gov/api/geospatial/k8kg-234b?method=export&format=Shapefile\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

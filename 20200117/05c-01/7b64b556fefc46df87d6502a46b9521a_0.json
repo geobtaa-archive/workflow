@@ -1,0 +1,67 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "7b64b556fefc46df87d6502a46b9521a_0",
+  "dc_identifier_s": "7b64b556fefc46df87d6502a46b9521a_0",
+  "dc_title_s": "Snow Emergency Olive Tows: Minneapolis, Minnesota, 2018",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "This is the information about the number and location of tows during this snow emergency. Tow data will be retained for all Snow Emergencies in each snow season, until there is five full seasons of snow emergencies. Disclaimer: There is an expected address error rate of between 8 and 14 percent. Snow Emergency Tows 2017/2018 Season #1 Olive (1/15/17 thru 1/17/17) Field NameField TypeField DescriptionFIDObject IDObject IDCall_TakenTextDate and time tag writtenCustomerTextSnow EmergencyLocation TextAddressLatitudeNumericX Coordinate - GeocodeLongitudeNumericY Coordinate - GeocodeNeighborhoTextName of NeighborhoodWardTextWard number 1 - 13CommunityTextName of CommunityDay_identiTextDay of EventTowDistTextTow District",
+  "dc_creator_sm": [
+    "MapIT Minneapolis"
+  ],
+  "dc_publisher_sm": [
+    "City of Minneapolis, Minnesota"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_keyword_sm": [
+    "Public Works",
+    "Minneapolis",
+    "Snow Emergency",
+    "Tows",
+    "2018"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Minnesota",
+  "dct_issued_s": "2018-01-23",
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "solr_year_i": "2018",
+  "dct_spatial_sm": [
+    "Minneapolis, Minnesota",
+    "Minnesota"
+  ],
+  "solr_geom": "ENVELOPE(-93.318896,-93.21274,45.049455,44.892158)",
+  "b1g_centroid_ss": "44.9708065,-93.265818",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "05c-01",
+  "dct_isPartOf_sm": [
+    "05c-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.minneapolismn.gov/datasets/7b64b556fefc46df87d6502a46b9521a_0\",\"http://schema.org/downloadUrl\":\"http://opendata.minneapolismn.gov/datasets/7b64b556fefc46df87d6502a46b9521a_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/afSMGVsC7QlRK1kZ/arcgis/rest/services/Snow_Emergency_Olive_Tows_2018/FeatureServer/0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

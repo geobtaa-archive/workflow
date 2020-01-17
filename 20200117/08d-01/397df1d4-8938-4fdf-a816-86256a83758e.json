@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "397df1d4-8938-4fdf-a816-86256a83758e",
+  "dc_identifier_s": "397df1d4-8938-4fdf-a816-86256a83758e",
+  "dc_title_s": "The city of New York",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Scale approximately 1:7,500; 1 map; 18 x 26 cm Manhattan (New York, N.Y.)--Maps--Early works to 1800",
+  "dc_creator_sm": [
+    "Lyne, James."
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_keyword_sm": [
+    "Penn State Rare Maps"
+  ],
+  "dc_type_sm": [
+    "Image"
+  ],
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "dc_format_s": "JPEG",
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Penn State",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "b1g_date_range_drsim": [
+    ""
+  ],
+  "solr_year_i": "9999",
+  "dct_spatial_sm": [
+    "Manhattan, New York",
+    "New York"
+  ],
+  "solr_geom": "ENVELOPE(-74.04722222,-73.90694444,40.74944444,40.68027778)",
+  "b1g_centroid_ss": "40.71486111,-73.97708333",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "08d-01",
+  "dct_isPartOf_sm": [
+    "08d-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-01-16",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30028/manifest.json\",\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30028\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

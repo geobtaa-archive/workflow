@@ -1,0 +1,61 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "04d-02",
+  "dc_identifier_s": "04d-02",
+  "dc_title_s": "U.S. Government Information, Maps, & GIS Services",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "",
+  "dc_creator_sm": [
+    ""
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Collection"
+  ],
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "dc_format_s": "",
+  "layer_geom_type_s": "Table",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "b1g_date_range_drsim": [
+    ""
+  ],
+  "solr_year_i": "",
+  "dct_spatial_sm": [
+    ""
+  ],
+  "solr_geom": "ENVELOPE(4.3125,4.425208333,50.64561389,50.55311667)",
+  "b1g_centroid_ss": "50.59936528,4.3688541665",
+  "dc_language_sm": [
+    ""
+  ],
+  "b1g_code_s": "04d-02",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "b1g_dateAccessioned_s": "2019-11-04",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "Dublin Core",
+  "b1g_status_s": "",
+  "dc_rights_s": "Public",
+  "suppressed_b": "",
+  "dct_references_s": "{}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

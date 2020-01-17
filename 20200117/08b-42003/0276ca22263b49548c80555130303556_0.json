@@ -1,0 +1,65 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "0276ca22263b49548c80555130303556_0",
+  "dc_identifier_s": "0276ca22263b49548c80555130303556_0",
+  "dc_title_s": "Park Facilities: Allegheny County, Pennsylvania",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "THE ACCESS LINKS FOR THIS RECORD WERE REPORTED AS NONFUNCTIONAL. THE RECORD MAY HAVE BEEN RETIRED FROM THE HOST. ",
+  "dc_creator_sm": [
+    "County of Allegheny, PA"
+  ],
+  "dc_publisher_sm": [
+    "Allegheny County, Pennsylvania"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "b1g_keyword_sm": [
+    "parks",
+    "facilities",
+    "all"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Penn State",
+  "dct_issued_s": "10/23/2017",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "b1g_date_range_drsim": [
+    "[2017 TO 2017]"
+  ],
+  "solr_year_i": "2017",
+  "dct_spatial_sm": [
+    "Allegheny County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "solr_geom": "ENVELOPE(-80.1779,-79.6821,40.6622,40.2351)",
+  "b1g_centroid_ss": "40.44865,-79.93",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "08b-42003",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "2019-10",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Retired",
+  "dc_rights_s": "Public",
+  "suppressed_b": "TRUE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://openac-alcogis.opendata.arcgis.com/datasets/0276ca22263b49548c80555130303556_0\",\"http://schema.org/downloadUrl\":\"http://openac-alcogis.opendata.arcgis.com/datasets/0276ca22263b49548c80555130303556_0.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gisdata.alleghenycounty.us/arcgis/rest/services/Parks/ParkFacilities/MapServer/0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

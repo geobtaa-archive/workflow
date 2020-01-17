@@ -1,0 +1,64 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "ae1c9ed2-fcd8-4ad9-b8c3-3018f75c37c1",
+  "dc_identifier_s": "ae1c9ed2-fcd8-4ad9-b8c3-3018f75c37c1",
+  "dc_title_s": "Mile Markers: Red River of the North and Bois de Sioux River",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "The river mileage established by the US Army Corps of Engineers is from Plates 2-13 from the Souris-Red-Rainy River Basins, Red River Type II Study, Red River Main Stem, Regional Floodplain Area. The drawings are dated 1972. These drawings cover the Red River from Emerson, Manitoba (Canada) to White Rock Dam on the north end of Mud Lake.",
+  "dc_creator_sm": [
+    "US Army Corps of Engineers, St. Paul District Office"
+  ],
+  "dc_publisher_sm": [
+    "US Army Corps of Engineers"
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "b1g_keyword_sm": [
+    ""
+  ],
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Minnesota",
+  "dct_issued_s": "2004",
+  "dct_temporal_sm": [
+    "1991-1992"
+  ],
+  "b1g_date_range_drsim": [
+    "[1991 TO 1991]"
+  ],
+  "solr_year_i": "1991",
+  "dct_spatial_sm": [
+    "Red River of the North",
+    "North Dakota",
+    "Minnesota",
+    "Bois de Sioux River"
+  ],
+  "solr_geom": "ENVELOPE(-97.338285,-96.416333,49.000328,45.878588)",
+  "b1g_centroid_ss": "47.439458,-96.877309",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "05g-01",
+  "dct_isPartOf_sm": [
+    "05g-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-03-28",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://mvp-extstp.mvp.usace.army.mil/gis/\",\"http://schema.org/downloadUrl\":\"http://mvp-extstp.mvp.usace.army.mil/gis/data/RedRiver_BoisdeSiouxMileMarkers.zip\",\"http://www.w3.org/1999/xhtml\":\"https://btaagdp.org/metadata/05g-01/RedRiver_BoisdeSiouxMileMarkers.htm\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

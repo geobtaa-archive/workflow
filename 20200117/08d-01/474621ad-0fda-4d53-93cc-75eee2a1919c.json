@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "474621ad-0fda-4d53-93cc-75eee2a1919c",
+  "dc_identifier_s": "474621ad-0fda-4d53-93cc-75eee2a1919c",
+  "dc_title_s": "London Land Company resurvey in Chester County, Feb. 21, 1736",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Shows survey of Feb. 18, 1736 of lands said to be in New Castle County, Del. but found to be in Chester County, Pa. ; 1 map: color; 21 x 32 cm Real property--Pennsylvania--Chester County--Maps--Early works to 1800--Facsimiles",
+  "dc_creator_sm": [
+    "Fairman, Thomas."
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_keyword_sm": [
+    "Penn State Rare Maps"
+  ],
+  "dc_type_sm": [
+    "Image"
+  ],
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "dc_format_s": "JPEG",
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Penn State",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    "1736"
+  ],
+  "b1g_date_range_drsim": [
+    "[1736 TO 1736]"
+  ],
+  "solr_year_i": "1736",
+  "dct_spatial_sm": [
+    "Chester County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "solr_geom": "ENVELOPE(-75.849722,-75.756944,39.757222,39.721944)",
+  "b1g_centroid_ss": "39.739582999999996,-75.80333300000001",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "08d-01",
+  "dct_isPartOf_sm": [
+    "08d-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-01-16",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30081/manifest.json\",\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30081\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}

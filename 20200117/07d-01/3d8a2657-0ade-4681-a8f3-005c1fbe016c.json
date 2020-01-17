@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:41:30Z",
+  "layer_slug_s": "3d8a2657-0ade-4681-a8f3-005c1fbe016c",
+  "dc_identifier_s": "3d8a2657-0ade-4681-a8f3-005c1fbe016c",
+  "dc_title_s": "Tenp\u014d kaisei shinz\u014d saiken Ky\u014d ezu taizen: kan; Ikeda T\u014dritei Shujin k\u014dsei.",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Printed on 4 sheets joined. Mounted cover title. Wood block print. Oriented with north to the left. In Japanese. Relief shown pictorially. Drawn by Nakamura Y\u016brakusai. Includes legend. 1 map: col.; 70 x 104 cm., folded in cover 22 x 15 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dc_creator_sm": [
+    "Ikeda, T\u014dri.,Takehara, Yoshib\u0113."
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_keyword_sm": [
+    "Clark Library Map Collections"
+  ],
+  "dc_type_sm": [
+    "Image"
+  ],
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "dc_format_s": "JPEG",
+  "layer_geom_type_s": "Image",
+  "dct_provenance_s": "Michigan",
+  "dct_issued_s": "",
+  "dct_temporal_sm": [
+    "1834"
+  ],
+  "b1g_date_range_drsim": [
+    "[1834 TO 1834]"
+  ],
+  "solr_year_i": "1834",
+  "dct_spatial_sm": [
+    "Kyoto, Kyoto, Japan",
+    "Japan"
+  ],
+  "solr_geom": "ENVELOPE(135.73,135.78,35.05,34.97)",
+  "b1g_centroid_ss": "35.01,135.755",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "07d-01",
+  "dct_isPartOf_sm": [
+    "07d-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-01-16",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-000903111/39015091921497_01\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:000903111\"}",
+  "layer_id_s": "903111",
+  "b1g_image_ss": "https://quod.lib.umich.edu/cgi/i/image/api/image/clark1ic:000903111:39015091921497_01/full/res:1/0/native.jpg?attachment=1"
+}

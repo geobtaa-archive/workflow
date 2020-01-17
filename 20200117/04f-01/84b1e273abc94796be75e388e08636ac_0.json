@@ -1,0 +1,69 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-01-17T15:31:30Z",
+  "layer_slug_s": "84b1e273abc94796be75e388e08636ac_0",
+  "dc_identifier_s": "84b1e273abc94796be75e388e08636ac_0",
+  "dc_title_s": "Level of Traffic Stress - Regional Connectivity Priorities: Delaware Valley Regional Planning Commission",
+  "dct_alternativeTitle_sm": [
+    "DVRPC Level of Traffic Stress - Regional Connectivity Priorities"
+  ],
+  "dc_description_s": "Highlights the LTS 3 road segments that would enable the most connections (top 50 % from each county) between census blocks if improvements were made to reduce the stress level to LTS 1 or 2. In some cases, only one direction of a certain road segment made it into the top 50%. Road segments are shown as divided to allow users to see which side of the road made it into the top 50%.Attributes show existing roadway conditions. The Percent field shows where the segment ranks in the county. The percentages are based on the number of connections between census blocks that would be enabled if LTS was reduced to 1 or 2 along these segments. If the segment has the potential to connect low-stress islands, the number of islands and specific islands numbers are identified.",
+  "dc_creator_sm": [
+    "DVRPC-GIS"
+  ],
+  "dc_publisher_sm": [
+    "Delaware Valley Regional Planning Commission"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_keyword_sm": [
+    "DVRPC",
+    "LTS",
+    "Bicycle"
+  ],
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_format_s": "Shapefile",
+  "layer_geom_type_s": "Vector",
+  "dct_provenance_s": "Maryland",
+  "dct_issued_s": "2019-06-13T20:15:42.000Z",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "solr_year_i": "2019",
+  "dct_spatial_sm": [
+    "Delaware River, Delaware",
+    "Delaware",
+    "Philadelphia, Pennsylvania",
+    "Pennsylvania",
+    "Maryland",
+    "New Jersey"
+  ],
+  "solr_geom": "ENVELOPE(-76.0283,-74.3867,40.5566,39.5248)",
+  "b1g_centroid_ss": "40.0407,-75.20750000000001",
+  "dc_language_sm": [
+    "English"
+  ],
+  "b1g_code_s": "04f-01",
+  "dct_isPartOf_sm": [
+    "04f-01"
+  ],
+  "b1g_dateAccessioned_s": "2019-10-11",
+  "b1g_dateRetired_s": "",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_status_s": "Active",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/84b1e273abc94796be75e388e08636ac_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://arcgis.dvrpc.org/arcgis/rest/services/AppData/BSTRESSv2_RegConnectivityPriorities/FeatureServer/0\",\"http://schema.org/url\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/84b1e273abc94796be75e388e08636ac_0\"}",
+  "layer_id_s": "",
+  "b1g_image_ss": ""
+}
