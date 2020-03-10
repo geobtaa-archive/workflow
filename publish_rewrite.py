@@ -6,6 +6,7 @@ import fnmatch
 from solr_interface import SolrInterface
 import config
 
+### change this variable to point to the path where the json files are ###
 PATH_TO_JSON_FOLDER = r"C:\Users\Emily\Documents\Grad School\Map Library RA\pushToDev\json"
 
 def get_files_from_path(start_path, criteria="*"):
