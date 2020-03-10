@@ -3,9 +3,8 @@ import json
 
 class SolrInterface(object):
 
-    def __init__(self, log=None, url=None):
+    def __init__(self, url=None):
         self.solr_url = url
-        self.log = log
         self.solr = self._connect_to_solr()
 
     def _connect_to_solr(self):
@@ -49,5 +48,7 @@ class SolrInterface(object):
     def add_dict_list_to_solr(self, list_of_dicts):
         try:
             self.solr.add(list_of_dicts)
+            return True
         except pysolr.SolrError as e:
             print("Solr Error: {e}".format(e=e))
+            return False
