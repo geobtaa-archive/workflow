@@ -44,7 +44,7 @@ multiple_dict = { #dictionary to translate multivalue Dublin Core/GBL fields int
 if not os.path.exists("json"): #create a folder to store the jsons if one does not already exist
     os.mkdir("json")
 
-csvfile = open('ames.csv', 'r') #opens the csv with the GBL data. Change this as needed
+csvfile = open('*.csv', 'r') #opens the csv with the GBL data. Change this as needed
 
 reader = csv.DictReader(csvfile)
 date_modified = datetime.today().strftime('%Y-%m-%d')+"T"+datetime.today().strftime('%X')+"Z" #sets date modified to the current date
