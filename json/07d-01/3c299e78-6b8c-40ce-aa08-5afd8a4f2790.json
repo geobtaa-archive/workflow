@@ -1,0 +1,61 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-03-27T11:27:25Z",
+  "dc_rights_s": "Public",
+  "layer_slug_s": "3c299e78-6b8c-40ce-aa08-5afd8a4f2790",
+  "dc_identifier_s": "3c299e78-6b8c-40ce-aa08-5afd8a4f2790",
+  "b1g_keyword_sm": [
+    "Railroads",
+    "Clark Library Map Collections",
+    "sprint-mar2020"
+  ],
+  "dc_title_s": "Official map of the state of Michigan giving the names, locations and boundaries of counties, county seats, townships, towns, railway stations and all lines of railroads complete to January 1, 1900; compiled, printed and engraved by authority under the supervision of the Commissioner of Railroads; authorized, examined, approved and certified by Chase S. Osborn, Commissioner of Railroads.",
+  "b1g_date_range_drsim": [
+    "[1894 TO 1900]"
+  ],
+  "dct_temporal_sm": [
+    "1894 - 1900"
+  ],
+  "dct_issued_s": "1900",
+  "solr_year_i": "1900",
+  "dc_subject_sm": [
+    ""
+  ],
+  "solr_geom": "ENVELOPE(-90.42,-82.4,47.5,41.43)",
+  "b1g_centroid_ss": "44.465,-86.41",
+  "dct_isPartOf_sm": [
+    "07d-01"
+  ],
+  "dc_format_s": "JPEG",
+  "layer_geom_type_s": "Image",
+  "b1g_dateAccessioned_s": "2019-01-16",
+  "suppressed_b": "FALSE",
+  "dct_provenance_s": "Michigan",
+  "dct_accrualMethod_s": "Dublin Core",
+  "b1g_image_ss": "https://quod.lib.umich.edu/cgi/i/image/api/image/clark1ic:002904364:39015091881121/full/res:1/0/native.jpg?attachment=1",
+  "dc_description_s": "Includes tables: Total area of state lands -- Population of Michigan by county -- Population of incorporated cites -- Educational statistics--1898 -- State institutions -- Michigan farms. Inset: Isle Royale. In lower margin: Key to counties, creeks, islands, lakes, rivers, cities and towns. Population according to last census. 1 map: col.; 89 x 84 cm. This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "layer_id_s": "2904364",
+  "dc_type_sm": [
+    "Image"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dc_creator_sm": [
+    "Michigan Railroad Commission.,Osborn, Chase S. (Chase Salmon), 1860-1949."
+  ],
+  "dct_spatial_sm": [
+    "Michigan"
+  ],
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "b1g_code_s": "07d-01",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-002904364/39015091881121\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:002904364\"}"
+}

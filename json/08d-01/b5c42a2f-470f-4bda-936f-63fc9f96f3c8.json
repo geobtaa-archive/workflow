@@ -1,0 +1,61 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-03-27T11:27:25Z",
+  "dc_rights_s": "Public",
+  "layer_slug_s": "b5c42a2f-470f-4bda-936f-63fc9f96f3c8",
+  "dc_identifier_s": "b5c42a2f-470f-4bda-936f-63fc9f96f3c8",
+  "b1g_keyword_sm": [
+    "Penn State Rare Maps",
+    "sprint-mar2020"
+  ],
+  "dc_title_s": "Carte administrative du Congo belge et de ses voies de communication.",
+  "b1g_date_range_drsim": [
+    "[1937 TO 1937]"
+  ],
+  "dct_temporal_sm": [
+    "1937"
+  ],
+  "dct_issued_s": "1937",
+  "solr_year_i": "1937",
+  "dc_subject_sm": [
+    "Thematic maps",
+    "Road maps"
+  ],
+  "solr_geom": "ENVELOPE(11.15,18.63333333,3.7,-5.016666667)",
+  "b1g_centroid_ss": "-0.6583333334999999,14.891666664999999",
+  "dct_isPartOf_sm": [
+    "08d-01"
+  ],
+  "dc_format_s": "JPEG",
+  "layer_geom_type_s": "Image",
+  "b1g_dateAccessioned_s": "2019-01-16",
+  "suppressed_b": "FALSE",
+  "dct_provenance_s": "Penn State",
+  "dct_accrualMethod_s": "CONTENTdm",
+  "b1g_image_ss": "",
+  "dc_description_s": "Communication and traffic--Congo (Democratic Republic)",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "layer_id_s": "",
+  "dc_type_sm": [
+    "Image"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dc_creator_sm": [
+    "Flamme, Jules"
+  ],
+  "dct_spatial_sm": [
+    "Democratic Republic of the Congo"
+  ],
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "b1g_code_s": "08d-01",
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30416/manifest.json\",\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30416\"}"
+}
