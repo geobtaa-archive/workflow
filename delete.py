@@ -100,7 +100,7 @@ class CSWToGeoBlacklight(object):
         }
 
         self.identifier = {
-            "rec": '"05b-2713"'
+            "rec": '"99-0001-noIdentifier"'
 
 
         }
@@ -182,6 +182,7 @@ class CSWToGeoBlacklight(object):
 			"11a-01": '"11a-01"',
 			"11d-01": '"11d-01"',
 			"12b-01": '"12b-01"',
+			"99-0003":'"99-0003"',
 			"99-0002":'"99-0002"',
 			"99-0001":'"99-0001"'
 
@@ -247,6 +248,7 @@ class CSWToGeoBlacklight(object):
 			"12b-01": '"Cook County Open Data"',
 			"12c-01": '"City of Chicago Data Portal"',
 			"99": '"Retired"',
+			"99-0003": '"99-0003"'
         }
 
 
@@ -259,7 +261,7 @@ class CSWToGeoBlacklight(object):
 
     def delete_one_record(self, uuid):
 
-    	self.solr.delete_query("dc_identifier_s:" + self.identifier[uuid])
+    	self.solr.delete_query("layer_slug_s:" + self.identifier[uuid])
 
     def delete_records_collection(self, collection):
         """

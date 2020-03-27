@@ -20,7 +20,9 @@ single_dict = { #dictionary to translate single-value Dublin Core/GBL fields int
     "Geometry Type":["layer_geom_type_s"],
     "Image":["b1g_image_ss"],
     "Access":["b1g_access_s"],
-    "Layer ID":["layer_id_s"]
+    "Child":["b1g_child_record_b"],
+    "Layer ID":["layer_id_s"],
+    "References":["dct_references_s"]
     }
 multiple_dict = { #dictionary to translate multivalue Dublin Core/GBL fields into GBLJson
     "Is Part Of":["dct_isPartOf_sm"],
@@ -36,12 +38,12 @@ multiple_dict = { #dictionary to translate multivalue Dublin Core/GBL fields int
     "Type":["dc_type_sm"],
     "Mediator":["dct_mediator_sm"],
     "Geonames":["b1g_geonames_sm"],
-    "Date Range":["b1g_date_range_drsim"]
+    "DateRange":["b1g_date_range_drsim"]
     }
 if not os.path.exists("json"): #create a folder to store the jsons if one does not already exist
     os.mkdir("json")
 
-csvfile = open('mnCounties.csv', 'r') #opens the csv with the GBL data. Change this as needed
+csvfile = open('mar.csv', 'r') #opens the csv with the GBL data. Change this as needed
 
 reader = csv.DictReader(csvfile)
 date_modified = datetime.today().strftime('%Y-%m-%d')+"T"+datetime.today().strftime('%X')+"Z" #sets date modified to the current date
@@ -75,50 +77,56 @@ for row in reader: #each row is a dictionary
             else: #if the bounding box doesn't have all coordinates, just write values as null
                 small_dict["solr_geom"] = "NULL"
                 small_dict["b1g_centroid_ss"] = "NULL"
-        if key == "Information" and val != '':
-            to_append = '"http://schema.org/url":"' + val + '"'
-            #print(to_append)
-            ref.append(to_append)
-        if key == "Download" and val != '':
-            to_append = '"http://schema.org/downloadUrl":"' + val + '"'
-            ref.append(to_append)
-        if key == "MapServer" and val != '':
-            to_append = '"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer":"' + val + '"'
-            ref.append(to_append)
-        if key == "FeatureServer" and val != '':
-            to_append = '"urn:x-esri:serviceType:ArcGIS#FeatureLayer":"' + val + '"'
-            ref.append(to_append)
-        if key == "ImageServer" and val != '':
-            to_append = '"urn:x-esri:serviceType:ArcGIS#ImageMapLayer":"' + val + '"'
-            ref.append(to_append)
-        if key == "ISO Metadata" and val != '':
-            to_append = '"http://www.isotc211.org/schemas/2005/gmd/":"' + val + '"'
-            ref.append(to_append)
-        if key == "FGDC Metadata" and val != '':
-            to_append = '"http://www.opengis.net/cat/csw/csdgm":"' + val + '"'
-            ref.append(to_append)
-        if key == "WFS" and val != '':
-            to_append = '"http://www.opengis.net/def/serviceType/ogc/wfs":"' + val + '"'
-            ref.append(to_append)
-        if key == "WMS" and val != '':
-            to_append = '"http://www.opengis.net/def/serviceType/ogc/wms":"' + val + '"'
-            ref.append(to_append)
-        if key == "WCS" and val != '':
-            to_append = '"http://www.opengis.net/def/serviceType/ogc/wcs":"' + val + '"'
-            ref.append(to_append)
-        if key == "HTML" and val != '':
-            to_append = '"http://www.w3.org/1999/xhtml":"' + val + '"'
-            ref.append(to_append)
-        if key == "IIIF" and val != '':
-            to_append = '"http://iiif.io/api/image":"' + val + '"'
-            ref.append(to_append)
-        if key == "Manifest" and val != '':
-            to_append = '"http://iiif.io/api/presentation#manifest":"' + val + '"'
-            ref.append(to_append)
-        if key == "IndexMaps" and val != '':
-            to_append = '"https://openindexmaps.org":"' + val + '"'
-            ref.append(to_append)
-    small_dict["dct_references_s"] = '{' + (','.join(ref)) + '}'
+#         if key == "Information" and val != '':
+#             to_append = '"http://schema.org/url":"' + val + '"'
+#             #print(to_append)
+#             ref.append(to_append)
+#         if key == "Download" and val != '':
+#             to_append = '"http://schema.org/downloadUrl":"' + val + '"'
+#             ref.append(to_append)
+#         if key == "MapServer" and val != '':
+#             to_append = '"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer":"' + val + '"'
+#             ref.append(to_append)
+#         if key == "FeatureServer" and val != '':
+#             to_append = '"urn:x-esri:serviceType:ArcGIS#FeatureLayer":"' + val + '"'
+#             ref.append(to_append)
+#         if key == "ImageServer" and val != '':
+#             to_append = '"urn:x-esri:serviceType:ArcGIS#ImageMapLayer":"' + val + '"'
+#             ref.append(to_append)
+#         if key == "TileServer" and val != '':
+#             to_append = '"urn:x-esri:serviceType:ArcGIS#TiledMapLayer":"' + val + '"'
+#             ref.append(to_append)
+#         if key == "ISO Metadata" and val != '':
+#             to_append = '"http://www.isotc211.org/schemas/2005/gmd/":"' + val + '"'
+#             ref.append(to_append)
+#         if key == "FGDC Metadata" and val != '':
+#             to_append = '"http://www.opengis.net/cat/csw/csdgm":"' + val + '"'
+#             ref.append(to_append)
+#         if key == "WFS" and val != '':
+#             to_append = '"http://www.opengis.net/def/serviceType/ogc/wfs":"' + val + '"'
+#             ref.append(to_append)
+#         if key == "WMS" and val != '':
+#             to_append = '"http://www.opengis.net/def/serviceType/ogc/wms":"' + val + '"'
+#             ref.append(to_append)
+#         if key == "WCS" and val != '':
+#             to_append = '"http://www.opengis.net/def/serviceType/ogc/wcs":"' + val + '"'
+#             ref.append(to_append)
+#         if key == "HTML" and val != '':
+#             to_append = '"http://www.w3.org/1999/xhtml":"' + val + '"'
+#             ref.append(to_append)
+#         if key == "Documentation" and val != '':
+#             to_append = '"http://lccn.loc.gov/sh85035852":"' + val + '"'
+#             ref.append(to_append)
+#         if key == "IIIF" and val != '':
+#             to_append = '"http://iiif.io/api/image":"' + val + '"'
+#             ref.append(to_append)
+#         if key == "Manifest" and val != '':
+#             to_append = '"http://iiif.io/api/presentation#manifest":"' + val + '"'
+#             ref.append(to_append)
+#         if key == "IndexMaps" and val != '':
+#             to_append = '"https://openindexmaps.org":"' + val + '"'
+#             ref.append(to_append)
+#     small_dict["dct_references_s"] = '{' + (','.join(ref)) + '}'
     iden = row['Identifier']
     filename = iden + ".json"
     with open("json/"+code+"/"+filename, 'w') as jsonfile: #writes to a json with the identifier as the filename
