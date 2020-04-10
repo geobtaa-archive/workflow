@@ -1,0 +1,59 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-03-09T20:27:38Z",
+  "dc_rights_s": "Public",
+  "layer_slug_s": "4b702058540945aa81286f47c376eb8c_0",
+  "dc_identifier_s": "4b702058540945aa81286f47c376eb8c_0",
+  "b1g_code_s": "06a-01",
+  "dct_isPartOf_sm": [
+    "06a-01"
+  ],
+  "b1g_dateAccessioned_s": "2020-03-06",
+  "b1g_status_s": "Active",
+  "suppressed_b": "FALSE",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "dc_title_s": "Michigan NBI Bridge Condition Ratings (All): State of Michigan",
+  "dct_alternativeTitle_sm": [
+    "Michigan NBI Bridge Condition Ratings (All)"
+  ],
+  "dc_description_s": "For more information, please see the MDOT Bridge Page",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_keyword_sm": [
+    "Bridge"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_issued_s": "2019-02-19T20:29:07.000Z",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "solr_year_i": "2019",
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "dct_spatial_sm": [
+    "Michigan"
+  ],
+  "solr_geom": "ENVELOPE(-90.4142,-82.4243,47.467,41.7068)",
+  "b1g_centroid_ss": "44.5869,-86.41925",
+  "dct_provenance_s": "Michigan State",
+  "dc_publisher_sm": [
+    "State of Michigan"
+  ],
+  "dc_creator_sm": [
+    "Michigan Department of Transportation"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"http://gis-michigan.opendata.arcgis.com/datasets/4b702058540945aa81286f47c376eb8c_0\",\"http://schema.org/downloadUrl\":\"http://gis-michigan.opendata.arcgis.com/datasets/4b702058540945aa81286f47c376eb8c_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services2.arcgis.com/67lKNkQ2TO1I3lhR/arcgis/rest/services/BridgeConditionExport/FeatureServer/0\"}"
+}

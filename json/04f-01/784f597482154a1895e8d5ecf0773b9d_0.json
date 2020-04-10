@@ -1,0 +1,68 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-03-09T20:27:38Z",
+  "dc_rights_s": "Public",
+  "layer_slug_s": "784f597482154a1895e8d5ecf0773b9d_0",
+  "dc_identifier_s": "784f597482154a1895e8d5ecf0773b9d_0",
+  "b1g_code_s": "04f-01",
+  "dct_isPartOf_sm": [
+    "04f-01"
+  ],
+  "b1g_dateAccessioned_s": "2020-03-06",
+  "b1g_status_s": "Active",
+  "suppressed_b": "FALSE",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "dc_title_s": "DVRPC Land Use: Delaware Valley Regional Planning Commission, 2015",
+  "dct_alternativeTitle_sm": [
+    "DVRPC Land Use 2015"
+  ],
+  "dc_description_s": "Land use information and analysis is a fundamental tool in the planning process. DVRPC's 2015 land use file is based on digital orthophotography created from aerial surveillance completed in the spring of 2015. Procedure Report PDF, found here: https://drive.google.com/open?id=1aZwv0GjESRYbKIo47m-_iDSH0cVXHa83",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "b1g_keyword_sm": [
+    "dvrpc",
+    " planning",
+    " land use",
+    " delaware valley",
+    " philadelphia"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_issued_s": "2020-02-26T21:44:47.000Z",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "solr_year_i": "2015",
+  "b1g_date_range_drsim": [
+    "[2015 TO 2015]"
+  ],
+  "dct_spatial_sm": [
+    "Delaware River, Delaware",
+    "Delaware",
+    "Philadelphia, Pennsylvania",
+    "Pennsylvania",
+    "Maryland",
+    "New Jersey"
+  ],
+  "solr_geom": "ENVELOPE(-76.1331,-74.3815,40.6071,39.5094)",
+  "b1g_centroid_ss": "40.05825,-75.2573",
+  "dct_provenance_s": "Maryland",
+  "dc_publisher_sm": [
+    "Delaware Valley Regional Planning Commission"
+  ],
+  "dc_creator_sm": [
+    "DVRPC-GIS"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/784f597482154a1895e8d5ecf0773b9d_0\",\"http://schema.org/downloadUrl\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/784f597482154a1895e8d5ecf0773b9d_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/LWtWv6q6BJyKidj8/arcgis/rest/services/LandUse2015/FeatureServer/0\"}"
+}

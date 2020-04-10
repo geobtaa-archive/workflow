@@ -1,0 +1,78 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-03-09T20:27:38Z",
+  "dc_rights_s": "Public",
+  "layer_slug_s": "a89b449eb9f54a0398c90cd3c1966224_0",
+  "dc_identifier_s": "a89b449eb9f54a0398c90cd3c1966224_0",
+  "b1g_code_s": "04a-01",
+  "dct_isPartOf_sm": [
+    "04a-01"
+  ],
+  "b1g_dateAccessioned_s": "2020-03-06",
+  "b1g_status_s": "Active",
+  "suppressed_b": "FALSE",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "dc_title_s": "MDOT SHA Roadway Sign Inventory (Lane Reduction Signage): State of Maryland",
+  "dct_alternativeTitle_sm": [
+    "MDOT SHA Roadway Sign Inventory (Lane Reduction Signage)"
+  ],
+  "dc_description_s": "Esri AGOL Hosted Feature Layer view which provides access to the MDOT SHA Roadway Sign Inventory (Lane Reduction Signage) data. This is a subset of the MDOT SHA Roadway Sign Inventory. MDOT SHA Roadway Sign Inventory data consists of point geometric features which represent the geographic locations of signs along MDOT SHA maintained roadways throughout the State of Maryland. Roadway Signs that share a sign support structure will be represented as stacked geometry. MDOT SHA Roadway Sign Inventory data is owned by the MDOT SHA Office of Traffic  Safety (OOTS). This data is currently updated on an annual basis. This is the latest version of the data, which was last updated in November 2019 (11/04/2019). Last Updated: November 2019 (11/04/2019) MDOT SHA Roadway Sign Inventory data is published on ArcGIS Online for Maryland as a publicly available Hosted Feature Layer with Non-Restricted Access. Download / Export of the data is available in a variety of formats. For additional information, contact MDOT SHA Geospatial Technologies:GIS@mdot.maryland.gov",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_keyword_sm": [
+    "Sign",
+    "Signs",
+    "3M",
+    "Roadway Sign",
+    "Roadway Signs",
+    "Highway Sign",
+    "Highway Signs",
+    "Traffic Signs",
+    "Statewide",
+    "Maryland",
+    "MD",
+    "Maryland Department of Transportation",
+    "MDOT",
+    "Maryland Department of Transportation State Highway Administration",
+    "MDOT SHA",
+    "MDOT SHA Office of Traffic & Safety",
+    "OOTS",
+    "MDOT SHA Geospatial Technologies",
+    "GIS@mdot.maryland.gov",
+    "Lane Reduction"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_issued_s": "2020-02-13T16:49:25.000Z",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "solr_year_i": "2019",
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "dct_spatial_sm": [
+    "Maryland"
+  ],
+  "solr_geom": "ENVELOPE(-79.4869,-75.0521,39.723,37.9646)",
+  "b1g_centroid_ss": "38.8438,-77.2695",
+  "dct_provenance_s": "Maryland",
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dc_creator_sm": [
+    "ArcGIS Online for Maryland"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/a89b449eb9f54a0398c90cd3c1966224_0\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/a89b449eb9f54a0398c90cd3c1966224_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/njFNhDsUCentVYJW/arcgis/rest/services/MDOT_SHA_Roadway_Sign_Inventory_(Lane_Reduction_Signage)/FeatureServer/0\"}"
+}

@@ -1,0 +1,77 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-03-09T20:27:38Z",
+  "dc_rights_s": "Public",
+  "layer_slug_s": "3507f9334c8b440f85d134b59ee81ae7_4",
+  "dc_identifier_s": "3507f9334c8b440f85d134b59ee81ae7_4",
+  "b1g_code_s": "04c-01",
+  "dct_isPartOf_sm": [
+    "04c-01"
+  ],
+  "b1g_dateAccessioned_s": "2020-03-06",
+  "b1g_status_s": "Active",
+  "suppressed_b": "FALSE",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "dc_title_s": "Geodetic Control Points: Washington, District of Columbia, 2017",
+  "dct_alternativeTitle_sm": [
+    "Geodetic Control Points 2017"
+  ],
+  "dc_description_s": "Geodetic Control. The dataset contains points representing planimetric geodetic control, created as part of the DC Geographic Information System (DC GIS) for the D.C. Office of the Chief Technology Officer (OCTO). These features were originally captured in 2015 and updated in 2017. The following planimetric layers were updated: - Barrier Lines- Building Polygons- Bridge and Tunnel Polygons- Curb Lines- Grate Points- Horizontal and Vertical Control Points- Hydrography Lines- Obscured Area Polygons- Railroad Lines- Recreational Areas- Road, Parking, and Driveway Polygons- Sidewalk and Stair Polygons- Swimming Pools- Water Polygons",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Location"
+  ],
+  "b1g_keyword_sm": [
+    "building",
+    "control",
+    "D.C.",
+    "DC GIS",
+    "District of Columbia",
+    "elevation",
+    "feb2020",
+    "geodetic",
+    "Geodetic Control",
+    "Location",
+    "Planimetrics",
+    "pmetric17",
+    "structure",
+    "survey",
+    "Washington",
+    "Washington DC"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_issued_s": "2020-02-19T20:09:26.000Z",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "solr_year_i": "2017",
+  "b1g_date_range_drsim": [
+    "[2017 TO 2017]"
+  ],
+  "dct_spatial_sm": [
+    "Washington, District of Columbia",
+    "District of Columbia",
+    "Maryland",
+    "Virginia"
+  ],
+  "solr_geom": "ENVELOPE(-77.1339,-76.9034,38.9944,38.7922)",
+  "b1g_centroid_ss": "38.893299999999996,-77.01865000000001",
+  "dct_provenance_s": "Maryland",
+  "dc_publisher_sm": [
+    "Washington, District of Columbia"
+  ],
+  "dc_creator_sm": [
+    "D.C. Office of the Chief Technology Officer"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/3507f9334c8b440f85d134b59ee81ae7_4\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/3507f9334c8b440f85d134b59ee81ae7_4.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Planimetrics_2017/MapServer/4\"}"
+}

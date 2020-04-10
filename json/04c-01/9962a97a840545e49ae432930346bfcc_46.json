@@ -1,0 +1,65 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-03-09T20:27:38Z",
+  "dc_rights_s": "Public",
+  "layer_slug_s": "9962a97a840545e49ae432930346bfcc_46",
+  "dc_identifier_s": "9962a97a840545e49ae432930346bfcc_46",
+  "b1g_code_s": "04c-01",
+  "dct_isPartOf_sm": [
+    "04c-01"
+  ],
+  "b1g_dateAccessioned_s": "2020-03-06",
+  "b1g_status_s": "Active",
+  "suppressed_b": "FALSE",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "dc_title_s": "Dockless Bikes and Scooter Georgetown Geofence Parking: Washington, District of Columbia",
+  "dct_alternativeTitle_sm": [
+    "Dockless Bikes and Scooter Georgetown Geofence Parking"
+  ],
+  "dc_description_s": "Geofencing of preferred parking for dockless vehicles (bikes and scooters) around the Georgetown University Campus. Please see the dockless bike and scooter Terms and Conditions for further information.",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_keyword_sm": [
+    "dockless",
+    "geofence",
+    "georgetown",
+    "scooter"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_issued_s": "2020-03-02T16:42:03.000Z",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "solr_year_i": "2020",
+  "b1g_date_range_drsim": [
+    "[2020 TO 2020]"
+  ],
+  "dct_spatial_sm": [
+    "Washington, District of Columbia",
+    "District of Columbia",
+    "Maryland",
+    "Virginia"
+  ],
+  "solr_geom": "ENVELOPE(-77.0781,-77.0122,38.9187,38.8968)",
+  "b1g_centroid_ss": "38.90775,-77.04515",
+  "dct_provenance_s": "Maryland",
+  "dc_publisher_sm": [
+    "Washington, District of Columbia"
+  ],
+  "dc_creator_sm": [
+    "DDOT"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/9962a97a840545e49ae432930346bfcc_46\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/9962a97a840545e49ae432930346bfcc_46.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Administrative_Other_Boundaries_WebMercator/MapServer/46\"}"
+}

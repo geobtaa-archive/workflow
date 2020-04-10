@@ -1,0 +1,65 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-03-09T20:27:38Z",
+  "dc_rights_s": "Public",
+  "layer_slug_s": "2e67dbf06d194d95a1f4d97237966b30_0",
+  "dc_identifier_s": "2e67dbf06d194d95a1f4d97237966b30_0",
+  "b1g_code_s": "04f-01",
+  "dct_isPartOf_sm": [
+    "04f-01"
+  ],
+  "b1g_dateAccessioned_s": "2020-03-06",
+  "b1g_status_s": "Active",
+  "suppressed_b": "FALSE",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "dc_title_s": "DVRPC New Jersey Transportation Improvement Program: Delaware Valley Regional Planning Commission, 2020-2023",
+  "dct_alternativeTitle_sm": [
+    "DVRPC New Jersey Transportation Improvement Program 2020 to 2023 (points)"
+  ],
+  "dc_description_s": "The TIP is the regionally agreed-upon list of priority transportation projects, as required by federal law (ISTEA, TEA-21, SAFETEA LU, MAP-21, and the FAST Act). The TIP document must list all projects that intend to use federal funds, along with all non-federally funded projects that are regionally significant. We also include all other State funded capital projects. The projects are multi-modal; that is, they include bicycle, pedestrian, ITS, and freight related projects, as well as the more traditional highway and public transit projects. ",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_keyword_sm": [
+    "Transportation",
+    "TIP"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_issued_s": "2020-02-20T22:37:29.000Z",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "solr_year_i": "2020",
+  "b1g_date_range_drsim": [
+    "[2020 TO 2023]"
+  ],
+  "dct_spatial_sm": [
+    "Delaware River, Delaware",
+    "Delaware",
+    "Philadelphia, Pennsylvania",
+    "Pennsylvania",
+    "Maryland",
+    "New Jersey"
+  ],
+  "solr_geom": "ENVELOPE(-75.4449,-74.5197,40.3708,39.5533)",
+  "b1g_centroid_ss": "39.962050000000005,-74.98230000000001",
+  "dct_provenance_s": "Maryland",
+  "dc_publisher_sm": [
+    "Delaware Valley Regional Planning Commission"
+  ],
+  "dc_creator_sm": [
+    "DVRPC-GIS"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/2e67dbf06d194d95a1f4d97237966b30_0\",\"http://schema.org/downloadUrl\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/2e67dbf06d194d95a1f4d97237966b30_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/LWtWv6q6BJyKidj8/arcgis/rest/services/NJTIP_FY2020_2023_Point/FeatureServer/0\"}"
+}

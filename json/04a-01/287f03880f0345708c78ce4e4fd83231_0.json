@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-03-09T20:27:38Z",
+  "dc_rights_s": "Public",
+  "layer_slug_s": "287f03880f0345708c78ce4e4fd83231_0",
+  "dc_identifier_s": "287f03880f0345708c78ce4e4fd83231_0",
+  "b1g_code_s": "04a-01",
+  "dct_isPartOf_sm": [
+    "04a-01"
+  ],
+  "b1g_dateAccessioned_s": "2020-03-06",
+  "b1g_status_s": "Active",
+  "suppressed_b": "FALSE",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "dc_title_s": "Maryland K-12 Schools: State of Maryland",
+  "dct_alternativeTitle_sm": [
+    "Maryland K 12 Schools"
+  ],
+  "dc_description_s": "Maryland K 12 Schools",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Location"
+  ],
+  "b1g_keyword_sm": [
+    "MDOT",
+    "MDOT TSO",
+    "Bernish",
+    "Schools"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_issued_s": "2018-11-07T20:11:06.000Z",
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "solr_year_i": "2018",
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "dct_spatial_sm": [
+    "Maryland"
+  ],
+  "solr_geom": "ENVELOPE(-79.4164,-75.0714,39.7003,37.9544)",
+  "b1g_centroid_ss": "38.827349999999996,-77.2439",
+  "dct_provenance_s": "Maryland",
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dc_creator_sm": [
+    "ArcGIS Online for Maryland"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/287f03880f0345708c78ce4e4fd83231_0\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/287f03880f0345708c78ce4e4fd83231_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/njFNhDsUCentVYJW/arcgis/rest/services/Maryland_K_12_Schools/FeatureServer/0\"}"
+}
