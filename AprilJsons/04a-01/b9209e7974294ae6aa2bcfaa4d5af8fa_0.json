@@ -1,0 +1,66 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-03-09T20:27:38Z",
+  "dc_rights_s": "Public",
+  "layer_slug_s": "b9209e7974294ae6aa2bcfaa4d5af8fa_0",
+  "dc_identifier_s": "b9209e7974294ae6aa2bcfaa4d5af8fa_0",
+  "b1g_code_s": "04a-01",
+  "dct_isPartOf_sm": [
+    "04a-01"
+  ],
+  "b1g_dateAccessioned_s": "2020-03-06",
+  "b1g_status_s": "Active",
+  "suppressed_b": "FALSE",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "dc_title_s": "MDOT SHA Snow Emergencies: State of Maryland",
+  "dct_alternativeTitle_sm": [
+    "MDOT SHA CHART Snow Emergencies"
+  ],
+  "dc_description_s": "MDOT SHA CHART active snow emergencies by county.",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_keyword_sm": [
+    "Maryland Department of Transportation",
+    "Maryland Department of Transportation State Highway Administration (MDOT SHA)",
+    "MDSHA",
+    "MDOT SHA",
+    "Snow",
+    "Emergency",
+    "Live Layer",
+    "CHART"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_issued_s": "2019-11-05T16:58:04.000Z",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "solr_year_i": "2019",
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "dct_spatial_sm": [
+    "Maryland"
+  ],
+  "solr_geom": "ENVELOPE(-79.0446,-76.3881,39.7368,38.695)",
+  "b1g_centroid_ss": "39.215900000000005,-77.71635",
+  "dct_provenance_s": "Maryland",
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dc_creator_sm": [
+    "ArcGIS Online for Maryland"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/b9209e7974294ae6aa2bcfaa4d5af8fa_0\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/b9209e7974294ae6aa2bcfaa4d5af8fa_0.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://chartimap1.sha.maryland.gov/arcgis/rest/services/EORS/SnowEmergencies/MapServer/0\"}"
+}

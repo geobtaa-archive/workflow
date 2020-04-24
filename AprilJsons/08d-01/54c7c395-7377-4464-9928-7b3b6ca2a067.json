@@ -1,0 +1,60 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-03-27T11:27:25Z",
+  "dc_rights_s": "Public",
+  "layer_slug_s": "54c7c395-7377-4464-9928-7b3b6ca2a067",
+  "dc_identifier_s": "54c7c395-7377-4464-9928-7b3b6ca2a067",
+  "b1g_keyword_sm": [
+    "Penn State Rare Maps",
+    "sprint-mar2020"
+  ],
+  "dc_title_s": "Neue Karte des Kuhrf\u00fcrstenthums Sachsen : und samtlicher incorporirter Lande, darinnen enthalten die VII. Kreisse, als I. Der Kuhr, II. Meisnische, III. Leipziger, IV. Th\u00fcringische, V. Ertzgeb\u00fcrgische, VI. Voigtl\u00e4ndische, und VII. Der Ne\u00fcst\u00e4dtische Kreiss : nebst denen Stifftern Naumburg, Zeitz, und Merseburg : Ingl. I. die Marggraffth\u00fcmer Ober und Nieder Lausitz und II. die Gef\u00fcrstete Graffschafft Henneberg : nebst allen angrenzenden Landen, und denen F\u00fcrstenth\u00fcmern und Herrschafften des F\u00fcrftl. : Hauses Sachsen desgl. auch angemerckten Post-Strassen Stationen, und andern Strassen.",
+  "b1g_date_range_drsim": [
+    "[1758 TO 1758]"
+  ],
+  "dct_temporal_sm": [
+    "1758"
+  ],
+  "dct_issued_s": "1758",
+  "solr_year_i": "1758",
+  "dc_subject_sm": [
+    "Early maps"
+  ],
+  "solr_geom": "ENVELOPE(11.86666667,15.03333333,51.68333333,50.16666667)",
+  "b1g_centroid_ss": "50.925,13.45",
+  "dct_isPartOf_sm": [
+    "08d-01"
+  ],
+  "dc_format_s": "JPEG",
+  "layer_geom_type_s": "Image",
+  "b1g_dateAccessioned_s": "2019-01-16",
+  "suppressed_b": "FALSE",
+  "dct_provenance_s": "Penn State",
+  "dct_accrualMethod_s": "CONTENTdm",
+  "b1g_image_ss": "",
+  "dc_description_s": "Saxony (Germany)--Maps--Early works to 1800",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "layer_id_s": "",
+  "dc_type_sm": [
+    "Image"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dc_creator_sm": [
+    "Schenk, Peter, 1660-1718 or 1719."
+  ],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "b1g_code_s": "08d-01",
+  "dct_references_s": "{\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30296/manifest.json\",\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30296\"}"
+}

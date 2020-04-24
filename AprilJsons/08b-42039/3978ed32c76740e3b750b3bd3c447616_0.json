@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-03-09T20:27:38Z",
+  "dc_rights_s": "Public",
+  "layer_slug_s": "3978ed32c76740e3b750b3bd3c447616_0",
+  "dc_identifier_s": "3978ed32c76740e3b750b3bd3c447616_0",
+  "b1g_code_s": "08b-42039",
+  "dct_isPartOf_sm": [
+    "08b-42039"
+  ],
+  "b1g_dateAccessioned_s": "2020-03-06",
+  "b1g_status_s": "Active",
+  "suppressed_b": "FALSE",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "dc_title_s": "Countywide Zoning Districts: Crawford County, Pennsylvania",
+  "dct_alternativeTitle_sm": [
+    "Countywide Zoning Districts - Website use only"
+  ],
+  "dc_description_s": "These features were developed to translate the zoning map of the municipalities of Crawford County, PA, to publicly-facing GIS information. The information here is an unofficial representation of zoning districts and those districts' designations for the convenience of the public on the Crawford County GIS Webpage. The data was made according to the Crawford County Planning Office's interpretation of the municipality's official zoning map, and was adapted to conform to the County's existing GIS data. The information here is not a substitute for a zoning officer's determination of a zoning district and should not be used for making decisions of consequence.",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "b1g_keyword_sm": [
+    "Zoning",
+    "Crawford County PA",
+    "Planning",
+    "boundaries"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_issued_s": "2019-07-22T20:16:12.000Z",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "solr_year_i": "2019",
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "dct_spatial_sm": [
+    "Crawford County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "solr_geom": "ENVELOPE(-80.5185,-79.6124,41.8677,41.4716)",
+  "b1g_centroid_ss": "41.669650000000004,-80.06545",
+  "dct_provenance_s": "Penn State",
+  "dc_publisher_sm": [
+    "Crawford County, Pennsylvania"
+  ],
+  "dc_creator_sm": [
+    "Crawford County Government"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"http://share-open-data-crawfordcountypa.opendata.arcgis.com/datasets/3978ed32c76740e3b750b3bd3c447616_0\",\"http://schema.org/downloadUrl\":\"http://share-open-data-crawfordcountypa.opendata.arcgis.com/datasets/3978ed32c76740e3b750b3bd3c447616_0.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://ccgis.crawfordcountypa.net/arcgis/rest/services/Crawford_Web/ZoningDistricts_web/MapServer/0\"}"
+}

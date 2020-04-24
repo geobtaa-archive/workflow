@@ -1,0 +1,60 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-03-27T11:27:25Z",
+  "dc_rights_s": "Public",
+  "layer_slug_s": "bdcf6d78-0bba-4b8f-8a96-ef7dfee8a404",
+  "dc_identifier_s": "bdcf6d78-0bba-4b8f-8a96-ef7dfee8a404",
+  "b1g_keyword_sm": [
+    "Indiana Historic Maps",
+    "sprint-mar2020"
+  ],
+  "dc_title_s": "[Indiana: outline map showing counties and townships].",
+  "b1g_date_range_drsim": [
+    "[1900 TO 1900]"
+  ],
+  "dct_temporal_sm": [
+    "approximately 1900"
+  ],
+  "dct_issued_s": "1900",
+  "solr_year_i": "1900",
+  "dc_subject_sm": [
+    "Outline maps"
+  ],
+  "solr_geom": "ENVELOPE(-88.08,-84.78,41.75,37.76)",
+  "b1g_centroid_ss": "39.754999999999995,-86.43",
+  "dct_isPartOf_sm": [
+    "01d-01"
+  ],
+  "dc_format_s": "JPEG",
+  "layer_geom_type_s": "Image",
+  "b1g_dateAccessioned_s": "2019-01-16",
+  "suppressed_b": "FALSE",
+  "dct_provenance_s": "Indiana",
+  "dct_accrualMethod_s": "",
+  "b1g_image_ss": "https://purl.dlib.indiana.edu/iudl/images/VAC3073/thumbnail/VAC3073-M-00612",
+  "dc_description_s": "Blue line print.; Title supplied by cataloger. Scale not given.",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "layer_id_s": "",
+  "dc_type_sm": [
+    "Image"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dc_creator_sm": [
+    ""
+  ],
+  "dct_spatial_sm": [
+    "Indiana"
+  ],
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "b1g_code_s": "01d-01",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00612\",\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00612\"}"
+}

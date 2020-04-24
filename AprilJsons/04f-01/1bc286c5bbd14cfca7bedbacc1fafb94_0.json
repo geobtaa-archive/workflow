@@ -1,0 +1,67 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-03-09T20:27:38Z",
+  "dc_rights_s": "Public",
+  "layer_slug_s": "1bc286c5bbd14cfca7bedbacc1fafb94_0",
+  "dc_identifier_s": "1bc286c5bbd14cfca7bedbacc1fafb94_0",
+  "b1g_code_s": "04f-01",
+  "dct_isPartOf_sm": [
+    "04f-01"
+  ],
+  "b1g_dateAccessioned_s": "2020-03-06",
+  "b1g_status_s": "Active",
+  "suppressed_b": "FALSE",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "dc_title_s": "DVRPC Circuit Trails: Delaware Valley Regional Planning Commission",
+  "dct_alternativeTitle_sm": [
+    "DVRPC Circuit Trails"
+  ],
+  "dc_description_s": "The Circuit is Greater Philadelphia's multi-use trail network connecting people to jobs, communities, parks, and waterways. Governments, non-profits, and foundations have collaborated to complete over 300 miles of the envisioned 750-mile regional network. More miles are added to the network each year. Learn more at CircuitTrails.org and connect with The Circuit Trails on Facebook, Twitter, and Instagram to find out what is happening #onthecircuit. Existing --These trails are open for use so get out there and explore them! In Progress --These trails are currently being designed or built. Pipeline --DVRPC, local governments, and non-profit organizations are actively working to move these trails forward by conducting studies, acquiring rights-of-way, engaging local communities, and laying the groundwork to obtain funding for future design and construction.Planned --These trails are documented in local, county or regional plans. They represent excellent opportunities for regional-scale, multi-use trails. Studies or plans may have been prepared for these trails, but a sponsor is not actively working to move them forward. To be used at the regional-level only.",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_keyword_sm": [
+    "Trails",
+    "Greater Philadelphia",
+    "Transportation",
+    "Circuit"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_issued_s": "2020-02-20T19:53:04.000Z",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "solr_year_i": "2020",
+  "b1g_date_range_drsim": [
+    "[2020 TO 2020]"
+  ],
+  "dct_spatial_sm": [
+    "Delaware River, Delaware",
+    "Delaware",
+    "Philadelphia, Pennsylvania",
+    "Pennsylvania",
+    "Maryland",
+    "New Jersey"
+  ],
+  "solr_geom": "ENVELOPE(-75.9873,-74.4674,40.607,39.6104)",
+  "b1g_centroid_ss": "40.1087,-75.22735",
+  "dct_provenance_s": "Maryland",
+  "dc_publisher_sm": [
+    "Delaware Valley Regional Planning Commission"
+  ],
+  "dc_creator_sm": [
+    "DVRPC-GIS"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/1bc286c5bbd14cfca7bedbacc1fafb94_0\",\"http://schema.org/downloadUrl\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/1bc286c5bbd14cfca7bedbacc1fafb94_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/LWtWv6q6BJyKidj8/arcgis/rest/services/CircuitTrails/FeatureServer/0\"}"
+}

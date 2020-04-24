@@ -1,0 +1,72 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-03-09T20:27:38Z",
+  "dc_rights_s": "Public",
+  "layer_slug_s": "7bf1c56a02d5413981c031a2772b9507_0",
+  "dc_identifier_s": "7bf1c56a02d5413981c031a2772b9507_0",
+  "b1g_code_s": "04f-01",
+  "dct_isPartOf_sm": [
+    "04f-01"
+  ],
+  "b1g_dateAccessioned_s": "2020-03-06",
+  "b1g_status_s": "Active",
+  "suppressed_b": "FALSE",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "dc_title_s": "DVRPC Passenger Rail Stations: Delaware Valley Regional Planning Commission",
+  "dct_alternativeTitle_sm": [
+    "DVRPC Passenger Rail Stations"
+  ],
+  "dc_description_s": "Passenger rail stations in the DVRPC region",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_keyword_sm": [
+    "Rail",
+    "SEPTA",
+    "Commuter",
+    "Transportation",
+    "NJ Transit",
+    "PATCO",
+    "Passenger Rail",
+    "Transportation",
+    "Rail Stations"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_issued_s": "2020-02-24T15:41:05.000Z",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "solr_year_i": "2020",
+  "b1g_date_range_drsim": [
+    "[2020 TO 2020]"
+  ],
+  "dct_spatial_sm": [
+    "Delaware River, Delaware",
+    "Delaware",
+    "Philadelphia, Pennsylvania",
+    "Pennsylvania",
+    "Maryland",
+    "New Jersey"
+  ],
+  "solr_geom": "ENVELOPE(-75.9185,-74.624,40.3419,39.669)",
+  "b1g_centroid_ss": "40.005449999999996,-75.27125",
+  "dct_provenance_s": "Maryland",
+  "dc_publisher_sm": [
+    "Delaware Valley Regional Planning Commission"
+  ],
+  "dc_creator_sm": [
+    "DVRPC-GIS"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/7bf1c56a02d5413981c031a2772b9507_0\",\"http://schema.org/downloadUrl\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/7bf1c56a02d5413981c031a2772b9507_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/LWtWv6q6BJyKidj8/arcgis/rest/services/PassengerRailStations/FeatureServer/0\"}"
+}

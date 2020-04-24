@@ -1,0 +1,79 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-03-09T20:27:38Z",
+  "dc_rights_s": "Public",
+  "layer_slug_s": "09f6810bb5a84ae6a07272b05bea6528_27",
+  "dc_identifier_s": "09f6810bb5a84ae6a07272b05bea6528_27",
+  "b1g_code_s": "04c-01",
+  "dct_isPartOf_sm": [
+    "04c-01"
+  ],
+  "b1g_dateAccessioned_s": "2020-03-06",
+  "b1g_status_s": "Active",
+  "suppressed_b": "FALSE",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "dc_title_s": "Voting Precinct: Washington, District of Columbia, 2019",
+  "dct_alternativeTitle_sm": [
+    "Voting Precinct - 2019"
+  ],
+  "dc_description_s": "Voting Precincts 2019. The dataset contains polygons representing District of Columbia voting precinct boundaries. Precincts were changed based on the ward redistricting following the 2010 census. Precincts were established by the DC Board of Elections and Ethics (DC BOEE) and created as part of the DC Geographic Information System (DC GIS) for the D.C. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies. All DC GIS data is stored and exported in Maryland State Plane coordinates NAD 83 meters. METADATA CONTENT IS IN PROCESS OF VALIDATION AND SUBJECT TO CHANGE.",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "b1g_keyword_sm": [
+    "Administrative",
+    "Board Of election And Ethics",
+    "boundary",
+    "D.C.",
+    "DC",
+    "DC GIS",
+    "DCGIS",
+    "District of Columbia",
+    "election",
+    "Electoral District",
+    "feb2020",
+    "Open Data",
+    "political",
+    "Precincts",
+    "society",
+    "Voting Precincts",
+    "Washington",
+    "Washington DC"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_issued_s": "2020-02-24T20:04:47.000Z",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "solr_year_i": "2019",
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "dct_spatial_sm": [
+    "Washington, District of Columbia",
+    "District of Columbia",
+    "Maryland",
+    "Virginia"
+  ],
+  "solr_geom": "ENVELOPE(-77.1199,-76.909,38.996,38.7916)",
+  "b1g_centroid_ss": "38.8938,-77.01445000000001",
+  "dct_provenance_s": "Maryland",
+  "dc_publisher_sm": [
+    "Washington, District of Columbia"
+  ],
+  "dc_creator_sm": [
+    "City of Washington, DC"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"http://opendata.dc.gov/datasets/09f6810bb5a84ae6a07272b05bea6528_27\",\"http://schema.org/downloadUrl\":\"http://opendata.dc.gov/datasets/09f6810bb5a84ae6a07272b05bea6528_27.zip\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Administrative_Other_Boundaries_WebMercator/MapServer/27\"}"
+}

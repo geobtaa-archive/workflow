@@ -1,0 +1,60 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-03-27T11:27:25Z",
+  "dc_rights_s": "Public",
+  "layer_slug_s": "9d079d20-ed02-48a3-a7ea-8e687d35d949",
+  "dc_identifier_s": "9d079d20-ed02-48a3-a7ea-8e687d35d949",
+  "b1g_keyword_sm": [
+    "Clark Library Map Collections",
+    "sprint-mar2020"
+  ],
+  "dc_title_s": "North America: parts of Wisconsin and Michigan, sheet V; Tanner, Smith; J. & C. Walker sculpt.",
+  "b1g_date_range_drsim": [
+    "[1846 TO 1851]"
+  ],
+  "dct_temporal_sm": [
+    "approximately 1846 to 1851"
+  ],
+  "dct_issued_s": "unknown",
+  "solr_year_i": "1846",
+  "dc_subject_sm": [
+    ""
+  ],
+  "solr_geom": "ENVELOPE(-92,-83,47,41.5)",
+  "b1g_centroid_ss": "44.25,-87.5",
+  "dct_isPartOf_sm": [
+    "07d-01"
+  ],
+  "dc_format_s": "JPEG",
+  "layer_geom_type_s": "Image",
+  "b1g_dateAccessioned_s": "2019-01-16",
+  "suppressed_b": "FALSE",
+  "dct_provenance_s": "Michigan",
+  "dct_accrualMethod_s": "Dublin Core",
+  "b1g_image_ss": "https://quod.lib.umich.edu/cgi/i/image/api/image/clark1ic:013681812:39015091905276/full/res:1/0/native.jpg?attachment=1",
+  "dc_description_s": "Relief shown by hachures. Also shows northern part of Illinois. \"Published ... under the superintendance of the Society for the Diffusion of useful knowledge ...\" Probably detached from Society for the Diffusion of Useful Knowledge. Maps of the Society for the Diffusion of Useful Knowledge. -- London: C. Knight, 1846-1851. -- Vol. 2, no. 134. 1 map: color; 29 x 37 cm This map is in the public domain. Please attribute access and use of this digitized map to the Stephen S. Clark Library, University of Michigan Library.",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "layer_id_s": "13681812",
+  "dc_type_sm": [
+    "Image"
+  ],
+  "dc_publisher_sm": [
+    ""
+  ],
+  "dc_creator_sm": [
+    "J. & C. Walker (Firm),Tanner, Henry Schenck, 1786-1858.,Smith, John, 1580-1631.,Penge, Russell, printer.,Charles Knight & Co.,Society for the Diffusion of Useful Knowledge."
+  ],
+  "dct_spatial_sm": [
+    "United States of America"
+  ],
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "b1g_code_s": "07d-01",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://quod.lib.umich.edu/c/clark1ic/x-013681812/39015091905276\",\"http://iiif.io/api/presentation#manifest\":\"https://quod.lib.umich.edu/cgi/i/image/api/search/clark1ic:013681812\"}"
+}
