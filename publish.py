@@ -7,7 +7,7 @@ from solr_interface import SolrInterface
 import config
 
 ### change this variable to point to the path where the json files are ###
-PATH_TO_JSON_FOLDER = r"json"
+PATH_TO_JSON_FOLDER = r"C:\Users\Emily\Documents\Grad School\Map Library RA\pushToDev\20200508json"
 
 def get_files_from_path(start_path, criteria="*"):
     files = []
@@ -16,6 +16,7 @@ def get_files_from_path(start_path, criteria="*"):
         for i in fnmatch.filter(ffiles, criteria):
             files.append(os.path.join(path, i))
 
+    #print(files)
     return files
 
 def add_json(path_to_json, solr_instance):
@@ -23,8 +24,10 @@ def add_json(path_to_json, solr_instance):
     dicts = []
 
     for i in files:
+        #print(solr_instance.json_to_dict(i))
         dicts.append(solr_instance.json_to_dict(i))
 
+    #print(len(dicts))
     if solr_instance.add_dict_list_to_solr(dicts):
         print("Added {n} records to solr.".format(n=len(dicts)))
 
@@ -34,6 +37,7 @@ def main():
             username=config.SOLR_USERNAME,
             password=config.SOLR_PASSWORD
         )
+        print("Username and password good")
 
     else:
         print("No username or password. Check config.py")
@@ -43,6 +47,7 @@ def main():
 
     if os.path.isdir(PATH_TO_JSON_FOLDER):
         add_json(PATH_TO_JSON_FOLDER, solr)
+        print("added jsons")
 
     else:
         print("JSON path is not valid. Please check the PATH_TO_JSON_FOLDER variable")

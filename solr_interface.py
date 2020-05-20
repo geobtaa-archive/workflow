@@ -11,7 +11,7 @@ class SolrInterface(object):
         """
         Connects to Solr using the url provided when object was instantiated.
         """
-        return pysolr.Solr(self.solr_url)
+        return pysolr.Solr(self.solr_url, always_commit=True)
 
     def escape_query(self, raw_query):
         """
