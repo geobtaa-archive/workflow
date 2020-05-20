@@ -1,0 +1,67 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-05-19T19:22:09Z",
+  "dc_rights_s": "Public",
+  "layer_slug_s": "c9f7b78de9174ea69dc54abf5f7dc40a_0",
+  "dc_identifier_s": "c9f7b78de9174ea69dc54abf5f7dc40a_0",
+  "b1g_code_s": "04f-01",
+  "dct_isPartOf_sm": [
+    "04f-01"
+  ],
+  "b1g_status_s": "Active",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_dateAccessioned_s": "5/8/2020",
+  "suppressed_b": "FALSE",
+  "dc_title_s": "New Jersey - Plug-In Electrical Vehicle Block Group level data: Delaware Valley Regional Planning Commission",
+  "dct_alternativeTitle_sm": [
+    "New Jersey - Plug-In Electrical Vehicle Block Group level data"
+  ],
+  "dc_description_s": "New Jersey Census Block Group level results from the DVRPC/UC Davis EV Planning Toolkit for ArcGIS. Visit the Story Map here. This dataset contains current (2017) and projected numbers of Plug-In Electrical Vehicles (PEVs) at the census block group level for the State of New Jersey. The future PEV projections are based on a scenario in which 330,000 passenger vehicles in New Jersey (or about 10 percent) are PEVs. This dataset also includes data projecting workplace charging demand in number of charging events and kilowatt-hours of demand by census block group based on the aforementioned PEV projections for the following three scenarios: workplace charging is free, workplace charging is the same cost as home charging, and workplace charging is twice the cost of home charging. The following datasets were used to obtain these results using the EV Planning Toolkit: 2017 vehicle registration data from the New Jersey Motor Vehicle Commission provided by the New Jersey Department of Environmental Protection. 2012-2016 American Community Survey 5-year Estimates. LEHD Origin-Destination Employment Statistics (LODES), version 7. Block group-to-block group commuting distances from DVRPC's Travel Improvement Model 2.1, accessed December 2017. Block group-to-block group commuting distances calculated from Esri's ArcGIS Network Analyst, used in 2017.If you have any questions regarding this dataset, please contact:Adam Beam, Research Analyst | Office of Energy and Climate Change Initiativesabeam@dvrpc.org | (215) 238-2830\n",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_keyword_sm": [
+    "DVRPC",
+    "EV",
+    "Census",
+    "PEV"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_issued_s": "2019-08-14T19:50:17.000Z",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "solr_year_i": "2019",
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "dct_spatial_sm": [
+    "Delaware River, Delaware",
+    "Delaware",
+    "Philadelphia, Pennsylvania",
+    "Pennsylvania",
+    "Maryland",
+    "New Jersey"
+  ],
+  "solr_geom": "ENVELOPE(-75.5596,-73.894,41.3574,38.9244)",
+  "b1g_centroid_ss": "40.1409,-74.7268",
+  "dct_provenance_s": "Maryland",
+  "dc_publisher_sm": [
+    "Delaware Valley Regional Planning Commission"
+  ],
+  "dc_creator_sm": [
+    "DVRPC-GIS"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/c9f7b78de9174ea69dc54abf5f7dc40a_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/LWtWv6q6BJyKidj8/arcgis/rest/services/NJ_Statewide_EV_Data/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://dvrpc-dvrpcgis.opendata.arcgis.com/datasets/c9f7b78de9174ea69dc54abf5f7dc40a_0.zip\"}"
+}

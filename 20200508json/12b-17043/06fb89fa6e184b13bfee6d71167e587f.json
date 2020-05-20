@@ -1,0 +1,65 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-05-19T19:22:09Z",
+  "dc_rights_s": "Public",
+  "layer_slug_s": "06fb89fa6e184b13bfee6d71167e587f",
+  "dc_identifier_s": "06fb89fa6e184b13bfee6d71167e587f",
+  "b1g_code_s": "12b-17043",
+  "dct_isPartOf_sm": [
+    "12b-17043"
+  ],
+  "b1g_status_s": "Active",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_dateAccessioned_s": "5/8/2020",
+  "suppressed_b": "FALSE",
+  "dc_title_s": "SID Imagery: DuPage County, Illinois - 2011",
+  "dct_alternativeTitle_sm": [
+    "2011 SID Imagery"
+  ],
+  "dc_description_s": "2011 Imagery DuPage County Illinois - SID Image Service",
+  "b1g_genre_sm": [
+    "Aerial imagery"
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "b1g_keyword_sm": [
+    "2011",
+    "DuPage",
+    "DuPage County",
+    "SID",
+    "SID Imagery",
+    "Imagery"
+  ],
+  "dc_format_s": "Imagery",
+  "dc_type_sm": [
+    "Image",
+    "Service"
+  ],
+  "layer_geom_type_s": "",
+  "dct_issued_s": "2020-04-10T13:42:03.000Z",
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": "2011",
+  "b1g_date_range_drsim": [
+    "[2011 TO 2011]"
+  ],
+  "dct_spatial_sm": [
+    "DuPage County, Illinois",
+    "Illinois"
+  ],
+  "solr_geom": "ENVELOPE(-88.2665,-87.9075,41.999,41.6841)",
+  "b1g_centroid_ss": "41.84155,-88.08699999999999",
+  "dct_provenance_s": "Chicago",
+  "dc_publisher_sm": [
+    "DuPage County, Illinois"
+  ],
+  "dc_creator_sm": [
+    "DuPage County Illinois"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"http://gisdata-dupage.opendata.arcgis.com/datasets/06fb89fa6e184b13bfee6d71167e587f\",\"urn:x-esri:serviceType:ArcGIS#ImageMapLayer\":\"https://utility.arcgis.com/usrsvcs/servers/06fb89fa6e184b13bfee6d71167e587f/rest/services/SID_Imagery/2011_SID_Imagery/ImageServer\"}"
+}

@@ -1,0 +1,65 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-05-19T19:22:09Z",
+  "dc_rights_s": "Public",
+  "layer_slug_s": "3ffb1ac435d64fe5b87e5717908f6123_0",
+  "dc_identifier_s": "3ffb1ac435d64fe5b87e5717908f6123_0",
+  "b1g_code_s": "12b-17043",
+  "dct_isPartOf_sm": [
+    "12b-17043"
+  ],
+  "b1g_status_s": "Active",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_dateAccessioned_s": "5/8/2020",
+  "suppressed_b": "FALSE",
+  "dc_title_s": "Birds: DuPage County, Illinois",
+  "dct_alternativeTitle_sm": [
+    "Birds"
+  ],
+  "dc_description_s": "Dead bird locations as reported by the public, current as of 4 April 2020.",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Location"
+  ],
+  "b1g_keyword_sm": [
+    "Dead",
+    " bird",
+    " West Nile Virus",
+    " WNV",
+    " DuPage Co.",
+    " bird death"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_issued_s": "2020-04-14T12:14:08.000Z",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "solr_year_i": "2020",
+  "b1g_date_range_drsim": [
+    "[2020 TO 2020]"
+  ],
+  "dct_spatial_sm": [
+    "DuPage County, Illinois",
+    "Illinois"
+  ],
+  "solr_geom": "ENVELOPE(-88.2301,-88.2301,41.752,41.752)",
+  "b1g_centroid_ss": "41.752,-88.2301",
+  "dct_provenance_s": "Chicago",
+  "dc_publisher_sm": [
+    "DuPage County, Illinois"
+  ],
+  "dc_creator_sm": [
+    "DuPage County Illinois"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"http://gisdata-dupage.opendata.arcgis.com/datasets/3ffb1ac435d64fe5b87e5717908f6123_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/neJvtQ4PXvnQ86MJ/arcgis/rest/services/Bird_Deaths_2020/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://gisdata-dupage.opendata.arcgis.com/datasets/3ffb1ac435d64fe5b87e5717908f6123_0.zip\"}"
+}

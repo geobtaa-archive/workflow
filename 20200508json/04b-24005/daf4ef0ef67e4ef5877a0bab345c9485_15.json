@@ -1,0 +1,61 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-05-19T19:22:09Z",
+  "dc_rights_s": "Public",
+  "layer_slug_s": "daf4ef0ef67e4ef5877a0bab345c9485_15",
+  "dc_identifier_s": "daf4ef0ef67e4ef5877a0bab345c9485_15",
+  "b1g_code_s": "04b-24005",
+  "dct_isPartOf_sm": [
+    "04b-24005"
+  ],
+  "b1g_status_s": "Active",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_dateAccessioned_s": "5/8/2020",
+  "suppressed_b": "FALSE",
+  "dc_title_s": "Sustainable Communities: Baltimore County, Maryland",
+  "dct_alternativeTitle_sm": [
+    "Sustainable Communities"
+  ],
+  "dc_description_s": "Areas are eligible to apply for state funding for projects to improve their housing, economies, transportation and the environment.",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "b1g_keyword_sm": [
+    "sustainable communities",
+    "landuse"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_issued_s": "2020-04-24T18:37:22.000Z",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "solr_year_i": "2020",
+  "b1g_date_range_drsim": [
+    "[2020 TO 2020]"
+  ],
+  "dct_spatial_sm": [
+    "Baltimore County, Maryland",
+    "Maryland"
+  ],
+  "solr_geom": "ENVELOPE(-76.8373,-76.422,39.4743,39.2023)",
+  "b1g_centroid_ss": "39.338300000000004,-76.62965",
+  "dct_provenance_s": "Maryland",
+  "dc_publisher_sm": [
+    "Baltimore County, Maryland"
+  ],
+  "dc_creator_sm": [
+    "Baltimore County Government"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data-bc-gis.opendata.arcgis.com/datasets/daf4ef0ef67e4ef5877a0bab345c9485_15\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://bcgis.baltimorecountymd.gov/arcgis/rest/services/LandusePlanning/Landuse/MapServer/15\",\"http://schema.org/downloadUrl\":\"http://data-bc-gis.opendata.arcgis.com/datasets/daf4ef0ef67e4ef5877a0bab345c9485_15.zip\"}"
+}

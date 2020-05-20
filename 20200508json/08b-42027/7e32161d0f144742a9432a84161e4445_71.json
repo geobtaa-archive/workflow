@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-05-19T19:22:09Z",
+  "dc_rights_s": "Public",
+  "layer_slug_s": "7e32161d0f144742a9432a84161e4445_71",
+  "dc_identifier_s": "7e32161d0f144742a9432a84161e4445_71",
+  "b1g_code_s": "08b-42027",
+  "dct_isPartOf_sm": [
+    "08b-42027"
+  ],
+  "b1g_status_s": "Active",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_dateAccessioned_s": "5/8/2020",
+  "suppressed_b": "FALSE",
+  "dc_title_s": "Schools: Centre County, Pennsylvania",
+  "dct_alternativeTitle_sm": [
+    "Schools"
+  ],
+  "dc_description_s": "Point feature class of schools - Includes name, address, school level, district, type (public vs. private).",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Structure"
+  ],
+  "b1g_keyword_sm": [
+    "Locations",
+    "Centre County",
+    "GIS"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_issued_s": "2016-12-01T15:20:12.000Z",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "solr_year_i": "2016",
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "dct_spatial_sm": [
+    "Centre County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "solr_geom": "ENVELOPE(-78.2169,-77.3721,41.0672,40.7327)",
+  "b1g_centroid_ss": "40.899950000000004,-77.7945",
+  "dct_provenance_s": "Penn State",
+  "dc_publisher_sm": [
+    "Centre County, Pennsylvania"
+  ],
+  "dc_creator_sm": [
+    "Centre County Government"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"http://gisdata-centrecountygov.opendata.arcgis.com/datasets/7e32161d0f144742a9432a84161e4445_71\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gissites4.centrecountypa.gov/arcgis/rest/services/OpenData/MapServer/71\",\"http://schema.org/downloadUrl\":\"http://gisdata-centrecountygov.opendata.arcgis.com/datasets/7e32161d0f144742a9432a84161e4445_71.zip\"}"
+}

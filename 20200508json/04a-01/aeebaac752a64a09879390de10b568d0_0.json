@@ -1,0 +1,75 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-05-19T19:22:09Z",
+  "dc_rights_s": "Public",
+  "layer_slug_s": "aeebaac752a64a09879390de10b568d0_0",
+  "dc_identifier_s": "aeebaac752a64a09879390de10b568d0_0",
+  "b1g_code_s": "04a-01",
+  "dct_isPartOf_sm": [
+    "04a-01"
+  ],
+  "b1g_status_s": "Active",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_dateAccessioned_s": "5/8/2020",
+  "suppressed_b": "FALSE",
+  "dc_title_s": "MDOT SHA Pavement Condition: State of Maryland",
+  "dct_alternativeTitle_sm": [
+    "MDOT SHA Pavement Condition"
+  ],
+  "dc_description_s": "Esri ArcGIS Online (AGOL) Hosted Feature Layer for accessing the MDOT SHA Pavement Condition data.MDOT SHA Pavement Condition data consists of linear geometric features which represent the geographic extent of pavement conditions along roadways throughout the State of Maryland. Roadways shown in this data are maintained by the Maryland Department of Transportation (MDOT), including MDOT SHA and MDTA, along with other Federal, State, County, and local government agencies. The National Highway System (NHS) of Maryland is represented in the data as well. Pavement Conditions are showcased by the Overall Remaining Service Life (RSL) Condition Ratings of Excellent (A), Very Good (B), Good (C), Fair (D), Mediocre (E), Poor (F). Overall RSL is based on five (5) condition measures of IRI, Rutting, Friction, Functional Cracking Density, Structural Cracking Density. Overall RSL can only be calculated if all five (5) condition measures are populated. Pavement Conditions are reported annually by the MDOT SHA Office of Materials Technology (OMT). MDOT SHA Pavement Condition data is maintained updated on an annual basis by the MDOT SHA Office of Materials Technology (OMT).Data Year: 2018Data Last Updated: 03/27/2020For additional information, contact the MDOT SHA Geospatial Technologies:Email: GIS@mdot.maryland.gov",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_keyword_sm": [
+    "Pavement",
+    "Pavement Condition",
+    "Transportation",
+    "Statewide",
+    "Maryland",
+    "MD",
+    "Maryland Department of Transportation",
+    "MDOT",
+    "Maryland Department of Transportation State Highway Administration",
+    "MDOT SHA",
+    "Office of Marterials Technology",
+    "OMT",
+    "Pavement & Geotechnical Division",
+    "PAGD",
+    "MDOT SHA Geospatial Technologies",
+    "GIS@mdot.maryland.gov",
+    "2018"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_issued_s": "2020-03-27T04:53:11.000Z",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "solr_year_i": "2020",
+  "b1g_date_range_drsim": [
+    "[2020 TO 2020]"
+  ],
+  "dct_spatial_sm": [
+    "Maryland"
+  ],
+  "solr_geom": "ENVELOPE(-79.4413,-75.0169,39.73,37.9447)",
+  "b1g_centroid_ss": "38.83735,-77.2291",
+  "dct_provenance_s": "Maryland",
+  "dc_publisher_sm": [
+    "State of Maryland"
+  ],
+  "dc_creator_sm": [
+    "ArcGIS Online for Maryland"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.imap.maryland.gov/datasets/aeebaac752a64a09879390de10b568d0_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/njFNhDsUCentVYJW/arcgis/rest/services/MDOT_SHA_Pavement_Condition/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://data.imap.maryland.gov/datasets/aeebaac752a64a09879390de10b568d0_0.zip\"}"
+}

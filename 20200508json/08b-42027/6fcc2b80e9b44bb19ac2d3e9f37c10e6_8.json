@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-05-19T19:22:09Z",
+  "dc_rights_s": "Public",
+  "layer_slug_s": "6fcc2b80e9b44bb19ac2d3e9f37c10e6_8",
+  "dc_identifier_s": "6fcc2b80e9b44bb19ac2d3e9f37c10e6_8",
+  "b1g_code_s": "08b-42027",
+  "dct_isPartOf_sm": [
+    "08b-42027"
+  ],
+  "b1g_status_s": "Active",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_dateAccessioned_s": "5/8/2020",
+  "suppressed_b": "FALSE",
+  "dc_title_s": "Parks: Centre County, Pennsylvania",
+  "dct_alternativeTitle_sm": [
+    "Parks"
+  ],
+  "dc_description_s": "Municipal, School, and State Parks within Centre County. This layer includes some future parks known to be under construction. It includes a Site Location address whenever possible, Park Name, Municipality, Owner / Maintenance organization, and facilities available at the park.",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "b1g_keyword_sm": [
+    "Centre County",
+    "boundaries",
+    "GIS",
+    "Recreation"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_issued_s": "2016-11-22T15:07:15.000Z",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "solr_year_i": "2016",
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "dct_spatial_sm": [
+    "Centre County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "solr_geom": "ENVELOPE(-78.2314,-77.1686,41.0681,40.7169)",
+  "b1g_centroid_ss": "40.8925,-77.69999999999999",
+  "dct_provenance_s": "Penn State",
+  "dc_publisher_sm": [
+    "Centre County, Pennsylvania"
+  ],
+  "dc_creator_sm": [
+    "Centre County Government"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"http://gisdata-centrecountygov.opendata.arcgis.com/datasets/6fcc2b80e9b44bb19ac2d3e9f37c10e6_8\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gissites4.centrecountypa.gov/arcgis/rest/services/OpenData/MapServer/8\",\"http://schema.org/downloadUrl\":\"http://gisdata-centrecountygov.opendata.arcgis.com/datasets/6fcc2b80e9b44bb19ac2d3e9f37c10e6_8.zip\"}"
+}

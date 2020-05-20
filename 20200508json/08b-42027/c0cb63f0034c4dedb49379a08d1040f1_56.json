@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-05-19T19:22:09Z",
+  "dc_rights_s": "Public",
+  "layer_slug_s": "c0cb63f0034c4dedb49379a08d1040f1_56",
+  "dc_identifier_s": "c0cb63f0034c4dedb49379a08d1040f1_56",
+  "b1g_code_s": "08b-42027",
+  "dct_isPartOf_sm": [
+    "08b-42027"
+  ],
+  "b1g_status_s": "Active",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_dateAccessioned_s": "5/8/2020",
+  "suppressed_b": "FALSE",
+  "dc_title_s": "Caves: Centre County, Pennsylvania",
+  "dct_alternativeTitle_sm": [
+    "Caves"
+  ],
+  "dc_description_s": "Point Feature Class - It was originally captured as part of the 1995 Aerial Imagery project completed by Kimball.",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Location"
+  ],
+  "b1g_keyword_sm": [
+    "Locations",
+    "Centre County",
+    "GIS"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_issued_s": "2016-12-01T13:20:14.000Z",
+  "dct_temporal_sm": [
+    "1995-2016"
+  ],
+  "solr_year_i": "1995",
+  "b1g_date_range_drsim": [
+    "[1995 TO 2016]"
+  ],
+  "dct_spatial_sm": [
+    "Centre County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "solr_geom": "ENVELOPE(-77.7916,-77.3879,40.9119,40.8285)",
+  "b1g_centroid_ss": "40.8702,-77.58975000000001",
+  "dct_provenance_s": "Penn State",
+  "dc_publisher_sm": [
+    "Centre County, Pennsylvania"
+  ],
+  "dc_creator_sm": [
+    "Centre County Government"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"http://gisdata-centrecountygov.opendata.arcgis.com/datasets/c0cb63f0034c4dedb49379a08d1040f1_56\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gissites4.centrecountypa.gov/arcgis/rest/services/OpenData/MapServer/56\",\"http://schema.org/downloadUrl\":\"http://gisdata-centrecountygov.opendata.arcgis.com/datasets/c0cb63f0034c4dedb49379a08d1040f1_56.zip\"}"
+}

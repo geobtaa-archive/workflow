@@ -1,0 +1,60 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-05-19T19:22:09Z",
+  "dc_rights_s": "Public",
+  "layer_slug_s": "f6273f93db1b4f57b7091ef1f43271e7_0",
+  "dc_identifier_s": "f6273f93db1b4f57b7091ef1f43271e7_0",
+  "b1g_code_s": "07c-01",
+  "dct_isPartOf_sm": [
+    "07c-01"
+  ],
+  "b1g_status_s": "Active",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_dateAccessioned_s": "5/8/2020",
+  "suppressed_b": "FALSE",
+  "dc_title_s": "Zip Codes: City of Detroit",
+  "dct_alternativeTitle_sm": [
+    "City of Detroit Zip Codes"
+  ],
+  "dc_description_s": "Zip codes within the City of Detroit",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "b1g_keyword_sm": [
+    "detroit",
+    "boundary"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_issued_s": "2018-02-07T14:45:00.000Z",
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "solr_year_i": "2018",
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "dct_spatial_sm": [
+    "City of Detroit, Michigan"
+  ],
+  "solr_geom": "ENVELOPE(-83.2881,-82.9106,42.4503,42.2554)",
+  "b1g_centroid_ss": "42.352850000000004,-83.09935",
+  "dct_provenance_s": "Michigan",
+  "dc_publisher_sm": [
+    "Municipalities geospatial data"
+  ],
+  "dc_creator_sm": [
+    "City of Detroit"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.detroitmi.gov/datasets/f6273f93db1b4f57b7091ef1f43271e7_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services2.arcgis.com/qvkbeam7Wirps6zC/arcgis/rest/services/ZipCodes/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://data.detroitmi.gov/datasets/f6273f93db1b4f57b7091ef1f43271e7_0.zip\"}"
+}

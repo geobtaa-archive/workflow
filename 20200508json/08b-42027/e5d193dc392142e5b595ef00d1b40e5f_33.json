@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-05-19T19:22:09Z",
+  "dc_rights_s": "Public",
+  "layer_slug_s": "e5d193dc392142e5b595ef00d1b40e5f_33",
+  "dc_identifier_s": "e5d193dc392142e5b595ef00d1b40e5f_33",
+  "b1g_code_s": "08b-42027",
+  "dct_isPartOf_sm": [
+    "08b-42027"
+  ],
+  "b1g_status_s": "Active",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_dateAccessioned_s": "5/8/2020",
+  "suppressed_b": "FALSE",
+  "dc_title_s": "Watersheds: Centre County, Pennsylvania",
+  "dct_alternativeTitle_sm": [
+    "Watersheds"
+  ],
+  "dc_description_s": "Delineates the drainage areas for the smaller tributary streams.",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "b1g_keyword_sm": [
+    "Environment",
+    "Centre County",
+    "GIS",
+    "water"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_issued_s": "2016-11-30T17:37:08.000Z",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "solr_year_i": "2016",
+  "b1g_date_range_drsim": [
+    "[2016 TO 2016]"
+  ],
+  "dct_spatial_sm": [
+    "Centre County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "solr_geom": "ENVELOPE(-78.3761,-77.1422,41.2519,40.69)",
+  "b1g_centroid_ss": "40.97095,-77.75915",
+  "dct_provenance_s": "Penn State",
+  "dc_publisher_sm": [
+    "Centre County, Pennsylvania"
+  ],
+  "dc_creator_sm": [
+    "Centre County Government"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"http://gisdata-centrecountygov.opendata.arcgis.com/datasets/e5d193dc392142e5b595ef00d1b40e5f_33\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://gissites4.centrecountypa.gov/arcgis/rest/services/OpenData/MapServer/33\",\"http://schema.org/downloadUrl\":\"http://gisdata-centrecountygov.opendata.arcgis.com/datasets/e5d193dc392142e5b595ef00d1b40e5f_33.zip\"}"
+}

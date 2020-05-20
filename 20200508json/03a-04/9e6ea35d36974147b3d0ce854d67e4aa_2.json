@@ -1,0 +1,65 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-05-19T19:22:09Z",
+  "dc_rights_s": "Public",
+  "layer_slug_s": "9e6ea35d36974147b3d0ce854d67e4aa_2",
+  "dc_identifier_s": "9e6ea35d36974147b3d0ce854d67e4aa_2",
+  "b1g_code_s": "03a-04",
+  "dct_isPartOf_sm": [
+    "03a-04"
+  ],
+  "b1g_status_s": "Active",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_dateAccessioned_s": "5/8/2020",
+  "suppressed_b": "FALSE",
+  "dc_title_s": "Trout Streams: State of Iowa",
+  "dct_alternativeTitle_sm": [
+    "Trout Streams"
+  ],
+  "dc_description_s": "Trout Streams",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "b1g_keyword_sm": [
+    "Park",
+    "Parks",
+    "State Parks",
+    "Hiking",
+    "Outdoors",
+    "Iowa State Parks 2020",
+    "Iowa State Parks Centenial"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_issued_s": "2020-04-24T21:25:44.000Z",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "solr_year_i": "2020",
+  "b1g_date_range_drsim": [
+    "[2020 TO 2020]"
+  ],
+  "dct_spatial_sm": [
+    "Iowa"
+  ],
+  "solr_geom": "ENVELOPE(-96.2438,-90.3094,43.478,40.6074)",
+  "b1g_centroid_ss": "42.042699999999996,-93.2766",
+  "dct_provenance_s": "Iowa",
+  "dc_publisher_sm": [
+    "State of Iowa"
+  ],
+  "dc_creator_sm": [
+    "Iowa Department of Natural Resources"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"http://open-iowa.opendata.arcgis.com/datasets/9e6ea35d36974147b3d0ce854d67e4aa_2\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://programs.iowadnr.gov/geospatial/rest/services/Recreation/State_Parks/MapServer/2\",\"http://schema.org/downloadUrl\":\"http://open-iowa.opendata.arcgis.com/datasets/9e6ea35d36974147b3d0ce854d67e4aa_2.zip\"}"
+}

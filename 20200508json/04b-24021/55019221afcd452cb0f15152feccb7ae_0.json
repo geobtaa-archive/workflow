@@ -1,0 +1,61 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-05-19T19:22:09Z",
+  "dc_rights_s": "Public",
+  "layer_slug_s": "55019221afcd452cb0f15152feccb7ae_0",
+  "dc_identifier_s": "55019221afcd452cb0f15152feccb7ae_0",
+  "b1g_code_s": "04b-24021",
+  "dct_isPartOf_sm": [
+    "04b-24021"
+  ],
+  "b1g_status_s": "Active",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_dateAccessioned_s": "5/8/2020",
+  "suppressed_b": "FALSE",
+  "dc_title_s": "Water Service Areas: Frederick County, MD",
+  "dct_alternativeTitle_sm": [
+    "Frederick County Water Service Areas"
+  ],
+  "dc_description_s": "Frederick County Water Service Areas",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Utilities and Communications"
+  ],
+  "b1g_keyword_sm": [
+    "Water",
+    "Frederick County",
+    "Water Service Areas"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_issued_s": "2020-04-28T17:40:07.000Z",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "solr_year_i": "2020",
+  "b1g_date_range_drsim": [
+    "[2020 TO 2020]"
+  ],
+  "dct_spatial_sm": [
+    "Frederick County, Maryland"
+  ],
+  "solr_geom": "ENVELOPE(-77.6764,-77.1074,39.7214,39.2187)",
+  "b1g_centroid_ss": "39.47005,-77.39189999999999",
+  "dct_provenance_s": "Maryland",
+  "dc_publisher_sm": [
+    "Counties geospatial data"
+  ],
+  "dc_creator_sm": [
+    "Frederick County, MD"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"http://gis-fcgmd.opendata.arcgis.com/datasets/55019221afcd452cb0f15152feccb7ae_0\",\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\":\"https://fcgis.frederickcountymd.gov/server/rest/services/PlanningAndPermitting/WaterSewerServiceAreas/MapServer/0\",\"http://schema.org/downloadUrl\":\"http://gis-fcgmd.opendata.arcgis.com/datasets/55019221afcd452cb0f15152feccb7ae_0.zip\"}"
+}
