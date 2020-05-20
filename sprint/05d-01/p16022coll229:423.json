@@ -1,0 +1,60 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-03-27T11:27:25Z",
+  "dc_rights_s": "Public",
+  "layer_slug_s": "p16022coll229:423",
+  "dc_identifier_s": "p16022coll229:423",
+  "b1g_keyword_sm": [
+    "Atlases",
+    "bbox-update-mar2020"
+  ],
+  "dc_title_s": "Atlas des commen\u00e7ans : admis par la Commission d'instruction publique, pour l'enseignement de la cosmographie et de la g\u00e9ographie dans les lyc\u00e9es et les \u00e9coles secondaires",
+  "b1g_date_range_drsim": [
+    "[1807 TO 1807]"
+  ],
+  "dct_temporal_sm": [
+    "1807"
+  ],
+  "dct_issued_s": "unknown",
+  "solr_year_i": "1807",
+  "dc_subject_sm": [
+    ""
+  ],
+  "solr_geom": "ENVELOPE(-10.88,48.29,71.41,33.91)",
+  "b1g_centroid_ss": "52.66,18.705",
+  "dct_isPartOf_sm": [
+    "05d-p16022coll229"
+  ],
+  "dc_format_s": "JPEG",
+  "layer_geom_type_s": "Image",
+  "b1g_dateAccessioned_s": "2019-12-09",
+  "suppressed_b": "FALSE",
+  "dct_provenance_s": "Minnesota",
+  "dct_accrualMethod_s": "Blacklight",
+  "b1g_image_ss": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll229/id/423",
+  "dc_description_s": "With this is bound the author's Atlas des commen\u221a\u00dfans, \u221a\u2020 l'usage des \u221a\u00a9coles centrales...Partie ancienne. 1803.",
+  "dct_alternativeTitle_sm": [
+    "Atlas des commen\u00e7ans : admis par la Commission d'instruction publique\\, pour l'enseignement de la cosmographie et de la g\u00e9ographie dans les lyc\u00e9es et les \u00e9coles secondaires"
+  ],
+  "dc_language_sm": [
+    "French"
+  ],
+  "layer_id_s": "423",
+  "dc_type_sm": [
+    "Image"
+  ],
+  "dc_publisher_sm": [
+    "P.G. Chanlaire (Paris)"
+  ],
+  "dc_creator_sm": [
+    "Mentelle, Edme, 1730-1815"
+  ],
+  "dct_spatial_sm": [
+    "Europe"
+  ],
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "b1g_code_s": "05d-01",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/229363\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll229/423/manifest.json\"}"
+}

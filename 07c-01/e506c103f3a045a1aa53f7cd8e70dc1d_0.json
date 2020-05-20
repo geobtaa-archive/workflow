@@ -1,0 +1,58 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-05-19T19:34:23Z",
+  "dc_rights_s": "Public",
+  "layer_slug_s": "e506c103f3a045a1aa53f7cd8e70dc1d_0",
+  "dc_identifier_s": "e506c103f3a045a1aa53f7cd8e70dc1d_0",
+  "b1g_code_s": "07c-01",
+  "dct_isPartOf_sm": [
+    "07c-01"
+  ],
+  "b1g_status_s": "Active",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_dateAccessioned_s": "2020-05-08",
+  "suppressed_b": "FALSE",
+  "dc_title_s": "Demolitions under Contract: City of Detroit",
+  "dct_alternativeTitle_sm": [
+    "Demolitions under Contract"
+  ],
+  "dc_description_s": "Demolitions under Contract",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "b1g_keyword_sm": [
+    "dlba",
+    "detroit"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_issued_s": "2019-01-18T19:58:36.000Z",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "solr_year_i": "2019",
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "dct_spatial_sm": [
+    "City of Detroit, Michigan"
+  ],
+  "solr_geom": "ENVELOPE(-83.286,-82.9248,42.4495,42.2636)",
+  "b1g_centroid_ss": "42.35655,-83.1054",
+  "dct_provenance_s": "Michigan",
+  "dc_publisher_sm": [
+    "City of Detroit, Michigan"
+  ],
+
+  "dc_language_sm": [
+    "English"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.detroitmi.gov/datasets/e506c103f3a045a1aa53f7cd8e70dc1d_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services2.arcgis.com/qvkbeam7Wirps6zC/arcgis/rest/services/Demolitions_under_Contract/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://data.detroitmi.gov/datasets/e506c103f3a045a1aa53f7cd8e70dc1d_0.zip\"}"
+}

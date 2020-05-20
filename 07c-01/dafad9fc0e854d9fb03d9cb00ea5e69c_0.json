@@ -1,0 +1,61 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-05-19T19:34:23Z",
+  "dc_rights_s": "Public",
+  "layer_slug_s": "dafad9fc0e854d9fb03d9cb00ea5e69c_0",
+  "dc_identifier_s": "dafad9fc0e854d9fb03d9cb00ea5e69c_0",
+  "b1g_code_s": "07c-01",
+  "dct_isPartOf_sm": [
+    "07c-01"
+  ],
+  "b1g_status_s": "Active",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_dateAccessioned_s": "2020-05-08",
+  "suppressed_b": "FALSE",
+  "dc_title_s": "SNF: City of Detroit",
+  "dct_alternativeTitle_sm": [
+    "SNF"
+  ],
+  "dc_description_s": "The areas that are targeted by the Strategic Neighborhood Fund, which is used to fund infrastructure improvements in neighborhoods, such as streetscapes, parks, single-family homes and affordable higher-density housing.",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "b1g_keyword_sm": [
+    "Strategic Neighborhood Fund",
+    "   pdd",
+    "   boundary",
+    "   property",
+    "   detroit"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_issued_s": "2018-09-19T16:30:37.000Z",
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "solr_year_i": "2018",
+  "b1g_date_range_drsim": [
+    "[2018 TO 2018]"
+  ],
+  "dct_spatial_sm": [
+    "City of Detroit, Michigan"
+  ],
+  "solr_geom": "ENVELOPE(-83.2801,-82.9097,42.45,42.2808)",
+  "b1g_centroid_ss": "42.3654,-83.0949",
+  "dct_provenance_s": "Michigan",
+  "dc_publisher_sm": [
+    "City of Detroit, Michigan"
+  ],
+
+  "dc_language_sm": [
+    "English"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.detroitmi.gov/datasets/dafad9fc0e854d9fb03d9cb00ea5e69c_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services2.arcgis.com/qvkbeam7Wirps6zC/arcgis/rest/services/SNF/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://data.detroitmi.gov/datasets/dafad9fc0e854d9fb03d9cb00ea5e69c_0.zip\"}"
+}

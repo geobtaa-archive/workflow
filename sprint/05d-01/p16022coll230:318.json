@@ -1,0 +1,60 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-03-27T11:27:25Z",
+  "dc_rights_s": "Public",
+  "layer_slug_s": "p16022coll230:318",
+  "dc_identifier_s": "p16022coll230:318",
+  "b1g_keyword_sm": [
+    "Chronology, Historical Charts, Diagrams, Etc",
+    "bbox-update-mar2020"
+  ],
+  "dc_title_s": "A Chronological chart of ancient, modern and Biblical history",
+  "b1g_date_range_drsim": [
+    "[1878 TO 1878]"
+  ],
+  "dct_temporal_sm": [
+    "1878?"
+  ],
+  "dct_issued_s": "unknown",
+  "solr_year_i": "1878",
+  "dc_subject_sm": [
+    ""
+  ],
+  "solr_geom": "ENVELOPE(-13.5,65.0,71.8,10.6)",
+  "b1g_centroid_ss": "41.199999999999996,25.75",
+  "dct_isPartOf_sm": [
+    "05d-p16022coll230"
+  ],
+  "dc_format_s": "JPEG",
+  "layer_geom_type_s": "Image",
+  "b1g_dateAccessioned_s": "2019-12-09",
+  "suppressed_b": "FALSE",
+  "dct_provenance_s": "Minnesota",
+  "dct_accrualMethod_s": "Blacklight",
+  "b1g_image_ss": "https://cdm16022.contentdm.oclc.org/utils/getthumbnail/collection/p16022coll230/id/318",
+  "dc_description_s": "Cover title: Adams' synchronological chart or map of history. Includes illus., port., etc.; 3rd ed., carefully and critically rev. and brought down to 1878.",
+  "dct_alternativeTitle_sm": [
+    "A Chronological chart of ancient\\, modern and Biblical history"
+  ],
+  "dc_language_sm": [
+    "English"
+  ],
+  "layer_id_s": "318",
+  "dc_type_sm": [
+    "Image"
+  ],
+  "dc_publisher_sm": [
+    "Colby (New York), 1871"
+  ],
+  "dc_creator_sm": [
+    "Adams, Sebastian C"
+  ],
+  "dct_spatial_sm": [
+    ""
+  ],
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "b1g_code_s": "05d-01",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.umn.edu/210879\",\"http://iiif.io/api/presentation#manifest\":\"https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll230/318/manifest.json\"}"
+}

@@ -1,0 +1,60 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-05-19T19:34:23Z",
+  "dc_rights_s": "Public",
+  "layer_slug_s": "aa3158d40cb6458c873075ce9437649c_0",
+  "dc_identifier_s": "aa3158d40cb6458c873075ce9437649c_0",
+  "b1g_code_s": "07c-01",
+  "dct_isPartOf_sm": [
+    "07c-01"
+  ],
+  "b1g_status_s": "Active",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_dateAccessioned_s": "2020-05-08",
+  "suppressed_b": "FALSE",
+  "dc_title_s": "Fire Incidents: City of Detroit",
+  "dct_alternativeTitle_sm": [
+    "Fire Incidents"
+  ],
+  "dc_description_s": "Fire incidents from 2019-09-20 through 21 days ago.",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "b1g_keyword_sm": [
+    "dfd",
+    "fire",
+    "public safety",
+    "incidents"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_issued_s": "2019-12-15T19:21:36.000Z",
+  "dct_temporal_sm": [
+    "2019-2020"
+  ],
+  "solr_year_i": "2019",
+  "b1g_date_range_drsim": [
+    "[2019 TO 2020]"
+  ],
+  "dct_spatial_sm": [
+    "City of Detroit, Michigan"
+  ],
+  "solr_geom": "ENVELOPE(-83.287959,-82.910439,42.450232,42.255192)",
+  "b1g_centroid_ss": "42.352712,-83.099199",
+  "dct_provenance_s": "Michigan",
+  "dc_publisher_sm": [
+    "City of Detroit, Michigan"
+  ],
+
+  "dc_language_sm": [
+    "English"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.detroitmi.gov/datasets/aa3158d40cb6458c873075ce9437649c_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://gis.detroitmi.gov/arcgis/rest/services/OpenData/FireIncidents/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://data.detroitmi.gov/datasets/aa3158d40cb6458c873075ce9437649c_0.zip\"}"
+}

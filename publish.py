@@ -7,7 +7,7 @@ from solr_interface import SolrInterface
 import config
 
 ### change this variable to point to the path where the json files are ###
-PATH_TO_JSON_FOLDER = r"C:\Users\Emily\Documents\Grad School\Map Library RA\pushToDev\20200508json"
+PATH_TO_JSON_FOLDER = r"07c-01"
 
 def get_files_from_path(start_path, criteria="*"):
     files = []

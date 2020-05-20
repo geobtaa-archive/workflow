@@ -1,0 +1,62 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-05-19T19:34:23Z",
+  "dc_rights_s": "Public",
+  "layer_slug_s": "a66ff572be05469984365edbd73c5165_0",
+  "dc_identifier_s": "a66ff572be05469984365edbd73c5165_0",
+  "b1g_code_s": "07c-01",
+  "dct_isPartOf_sm": [
+    "07c-01"
+  ],
+  "b1g_status_s": "Active",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_dateAccessioned_s": "2020-05-08",
+  "suppressed_b": "FALSE",
+  "dc_title_s": "DDOT Bus Stops: City of Detroit",
+  "dct_alternativeTitle_sm": [
+    "DDOT Bus Stops"
+  ],
+  "dc_description_s": "Detroit Department of Transportation bus stops as of November 2019",
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "b1g_keyword_sm": [
+    "ddot",
+    "Public Transit",
+    "Detroit",
+    "Detroit Department of Transportation",
+    "Bus",
+    "Bus Stop"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dct_issued_s": "2019-12-06T14:03:12.000Z",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "solr_year_i": "2019",
+  "b1g_date_range_drsim": [
+    "[2019 TO 2019]"
+  ],
+  "dct_spatial_sm": [
+    "City of Detroit, Michigan"
+  ],
+  "solr_geom": "ENVELOPE(-83.3329,-82.9116,42.4737,42.2556)",
+  "b1g_centroid_ss": "42.36465,-83.12225000000001",
+  "dct_provenance_s": "Michigan",
+  "dc_publisher_sm": [
+    "City of Detroit, Michigan"
+  ],
+
+  "dc_language_sm": [
+    "English"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"http://data.detroitmi.gov/datasets/a66ff572be05469984365edbd73c5165_0\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services2.arcgis.com/qvkbeam7Wirps6zC/arcgis/rest/services/DDOT_BusStops_1119/FeatureServer/0\",\"http://schema.org/downloadUrl\":\"http://data.detroitmi.gov/datasets/a66ff572be05469984365edbd73c5165_0.zip\"}"
+}
