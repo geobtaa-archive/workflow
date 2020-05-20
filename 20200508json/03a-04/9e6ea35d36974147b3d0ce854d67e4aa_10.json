@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-05-19T19:22:09Z",
+  "layer_modified_dt": "2020-05-19T19:34:23Z",
   "dc_rights_s": "Public",
   "layer_slug_s": "9e6ea35d36974147b3d0ce854d67e4aa_10",
   "dc_identifier_s": "9e6ea35d36974147b3d0ce854d67e4aa_10",
@@ -10,7 +10,7 @@
   ],
   "b1g_status_s": "Active",
   "dct_accrualMethod_s": "ArcGIS Hub",
-  "b1g_dateAccessioned_s": "5/8/2020",
+  "b1g_dateAccessioned_s": "2020-05-08",
   "suppressed_b": "FALSE",
   "dc_title_s": "Public Area Boundaries: State of Iowa",
   "dct_alternativeTitle_sm": [
@@ -49,8 +49,8 @@
   "dct_spatial_sm": [
     "Iowa"
   ],
-  "solr_geom": "ENVELOPE(-96.2068,-45.4553,31.8405,33.6248)",
-  "b1g_centroid_ss": "32.73265,-70.83105",
+  "solr_geom": "ENVELOPE(-96.64,-90.14,43.5,40.38)",
+  "b1g_centroid_ss": "41.94,-93.39",
   "dct_provenance_s": "Iowa",
   "dc_publisher_sm": [
     "State of Iowa"

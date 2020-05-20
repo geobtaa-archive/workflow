@@ -1,6 +1,6 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-05-19T19:22:09Z",
+  "layer_modified_dt": "2020-05-19T19:34:23Z",
   "dc_rights_s": "Public",
   "layer_slug_s": "ea4528dc5c8f4e24a908b6b607bfba47_71",
   "dc_identifier_s": "ea4528dc5c8f4e24a908b6b607bfba47_71",
@@ -10,7 +10,7 @@
   ],
   "b1g_status_s": "Active",
   "dct_accrualMethod_s": "ArcGIS Hub",
-  "b1g_dateAccessioned_s": "5/8/2020",
+  "b1g_dateAccessioned_s": "2020-05-08",
   "suppressed_b": "FALSE",
   "dc_title_s": "Urban Tree Canopy by Landuse: Washington, District of Columbia -2015",
   "dct_alternativeTitle_sm": [
