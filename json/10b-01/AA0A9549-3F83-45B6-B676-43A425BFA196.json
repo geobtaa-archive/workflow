@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:51Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Hydro (Polygon and Line): Portage County, Wisconsin, 2020",
+  "dct_alternativeTitle_sm": [
+    "Hydro (Polygon and Line) Portage County, WI 2020"
+  ],
+  "dc_description_s": "This data represents hydrography for Portage County, Wisconsin in 2020 and includes the layers 'Portage_Hydro(poly)_2020' and 'Portage_Hydro(line)_2020'. [This data contains polygons representing lakes, ponds, rivers and streams that are at least 15 feet wide. Attributes include Name, Navigibility (if known), alternate name, and a link to WiDNR bathymetric maps.]",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Portage County"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "Portage County, Wisconsin",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-89.850198, -89.222323, 44.685803, 44.243284)",
+  "b1g_centroid_ss": "44.464543500000005,-89.5362605",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "AA0A9549-3F83-45B6-B676-43A425BFA196",
+  "dc_identifier_s": "AA0A9549-3F83-45B6-B676-43A425BFA196",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10b-01",
+  "dct_isPartOf_sm": [
+    "10b-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

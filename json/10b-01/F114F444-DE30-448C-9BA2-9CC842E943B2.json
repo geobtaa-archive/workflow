@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:51Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Roads and ROW: St. Croix County, Wisconsin, 2020",
+  "dct_alternativeTitle_sm": [
+    "Roads and ROW St. Croix County, WI 2020"
+  ],
+  "dc_description_s": "This data represent roads and Right of Ways (ROW) for St. Croix County, Wisconsin in 2020. For Roads: [Road segments representing centerlines of all roadways or carriageways in St Croix County. Typically, this information is compiled from orthoimagery or other aerial photography sources. This representation of the road centerlines support address geocoding and mapping. It also serves as a source for County Highway Department]For ROW: [ROW compiled from deeds and plats of record.]",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "St. Croix County"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "St. Croix County, Wisconsin",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-92.800948, -92.132663, 45.210516, 44.856917)",
+  "b1g_centroid_ss": "45.0337165,-92.46680549999999",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "F114F444-DE30-448C-9BA2-9CC842E943B2",
+  "dc_identifier_s": "F114F444-DE30-448C-9BA2-9CC842E943B2",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10b-01",
+  "dct_isPartOf_sm": [
+    "10b-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

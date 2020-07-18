@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:51Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "PLSS: Clark County, Wisconsin, 2020",
+  "dct_alternativeTitle_sm": [
+    "PLSS Clark County, WI 2020"
+  ],
+  "dc_description_s": "This data layer represents public land survey system (PLSS) corners for Clark County, Wisconsin in 2020. [This dataset contains local PLSS locations and attributes collected by the county surveyor or another authorized entity using GPS and conventional surveying methodologies. These points are in The Clark County Coordinate System and have a county-wide extent. The County Surveyor serves as custodian for this data, and updates them as needed.]",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Clark County"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "Clark County, Wisconsin",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-90.924918, -90.311762, 45.038941, 44.421488)",
+  "b1g_centroid_ss": "44.7302145,-90.61834",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "D140993C-E505-4C7F-97D0-112715AB74E9",
+  "dc_identifier_s": "D140993C-E505-4C7F-97D0-112715AB74E9",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10b-01",
+  "dct_isPartOf_sm": [
+    "10b-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

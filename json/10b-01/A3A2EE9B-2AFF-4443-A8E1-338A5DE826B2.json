@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:51Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Addresses: Jackson County, Wisconsin, 2020",
+  "dct_alternativeTitle_sm": [
+    "Addresses Jackson County, WI 2020"
+  ],
+  "dc_description_s": "This data represents addresses for Jackson County, Wisconsin in 2020. The following features are included: ACCESS, SITE and STRUCTURE. For ACCESS and SITE: [This digital geospatial dataset represents multi-use and multi-family addresses in Jackson County, Wisconsin, with attributes standardized in accordance to the NENA Standard for NG9-1-1 GIS Data Model (NENA-STA-006.1-2018). Address points in this dataset are located where the structures or sites physically exist. Jackson County retains addressing authority for the rural, non-incorporated land areas within the County, whereas the City of Black River Falls, Village of Alma Center, Village of Hixton, Village of Melrose, Village of Merrillan, Village of Taylor, and the Sanitary District within the Town of Brockway retain their own authority over address assignments. Address data from all authoriative areas are amalgamated and/or otherwise updated on a near daily basis to produce this dataset. ]For STRUCTURE: [This digital geospatial dataset represents all recorded street addresses in Jackson County, Wisconsin, with attributes standardized in accordance to the NENA Standard for NG9-1-1 GIS Data Model (NENA-STA-006.1-2018). Address points in this dataset reference the location of a site or structure upon a property. Structures may not be present on addressed vacant land or land intermitently occupied by mobile recreational vehicles, such as mobile homes or RVs. Under these circumstances, the site/structure points are located in proximity to the parcel centroid. Jackson County retains addressing authority for the rural, non-incorporated land areas within the County, whereas the City of Black River Falls, Village of Alma Center, Village of Hixton, Village of Melrose, Village of Merrillan, Village of Taylor, and the Sanitary District within the Town of Brockway retain their own authority over address assignments. Address data from all authoriative areas are amalgamated and/or otherwise updated on a near daily basis to produce this dataset. This dataset may be joined to AddressPoints dataset based on the AJOIN field.]",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Jackson County"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Location"
+  ],
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "Jackson County, Wisconsin",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-91.167818, -90.308736, 44.597365, 44.070209)",
+  "b1g_centroid_ss": "44.333787,-90.738277",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "A3A2EE9B-2AFF-4443-A8E1-338A5DE826B2",
+  "dc_identifier_s": "A3A2EE9B-2AFF-4443-A8E1-338A5DE826B2",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10b-01",
+  "dct_isPartOf_sm": [
+    "10b-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

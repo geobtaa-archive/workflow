@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:51Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Roads and ROW: Outagamie County, Wisconsin, 2020",
+  "dct_alternativeTitle_sm": [
+    "Roads and ROW Outagamie County, WI 2020"
+  ],
+  "dc_description_s": "This data represents roads and Right Of Ways (ROW) for Outagamie County, Wisconsin in 2020 and includes the layers 'Outagamie_Roads_2020' and 'Outagamie_ROW_2020'.ROW: [Included is a polygon feature class representing the right of way boundaries within Outagamie County.]",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Outagamie County"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "Outagamie County, Wisconsin",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-88.744621, -88.181687, 44.594155, 44.21892)",
+  "b1g_centroid_ss": "44.4065375,-88.463154",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "06520F31-BE91-49BB-A747-8F398DC1EDC7",
+  "dc_identifier_s": "06520F31-BE91-49BB-A747-8F398DC1EDC7",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10b-01",
+  "dct_isPartOf_sm": [
+    "10b-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

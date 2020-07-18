@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:51Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Parks: Walworth County, Wisconsin, 2020",
+  "dct_alternativeTitle_sm": [
+    "Parks Walworth County, WI 2020"
+  ],
+  "dc_description_s": "This data represents parks for Walworth County, Wisconsin in 2020. [Points that represent significant facility locations in a community. Examples include schools, government facilities, stadiums, casinos, and fire stations. In some cases, there may be multiple FacilitySitePoints for a single FacilitySite polygon. Additional information about each Facility can be organized in to seperate tables and related to these locations using the FacilityID key. The feature classification and type schema for the facility sites grew out of work with the Department of Homeland Security's HSIP Program and has evolved to support a diverse set of facilities inventoried for a variety of uses by a local government. ]",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Walworth County"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "Walworth County, Wisconsin",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-88.77185, -88.301693, 42.842445, 42.497006)",
+  "b1g_centroid_ss": "42.6697255,-88.5367715",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "750B1B7A-298F-479E-A81C-848C92140C09",
+  "dc_identifier_s": "750B1B7A-298F-479E-A81C-848C92140C09",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10b-01",
+  "dct_isPartOf_sm": [
+    "10b-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

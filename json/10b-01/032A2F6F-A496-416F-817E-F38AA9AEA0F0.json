@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:51Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Buildings: Menominee County, Wisconsin, 2020",
+  "dct_alternativeTitle_sm": [
+    "Buildings Menominee County, WI 2020"
+  ],
+  "dc_description_s": "This data represents buildings for Menominee County, Wisconsin in 2020.[The shape and orientation of the ground floor of all structures in a local government. This information is typically compiled from orthoimagery or other aerial photography sources. This representation of the building footprints support the local government basemaps. It also serves as a source for public works, public safety, planning and other agencies that are responsible for the active management of site addresses, facilities, and land use information.]",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Menominee County"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Structure"
+  ],
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "Menominee County, Wisconsin",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-88.863919, -88.488451, 45.067816, 44.855739)",
+  "b1g_centroid_ss": "44.9617775,-88.676185",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "032A2F6F-A496-416F-817E-F38AA9AEA0F0",
+  "dc_identifier_s": "032A2F6F-A496-416F-817E-F38AA9AEA0F0",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10b-01",
+  "dct_isPartOf_sm": [
+    "10b-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

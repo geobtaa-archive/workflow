@@ -1,0 +1,51 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:42Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Census Block Groups (TIGER/Line): Wisconsin, 2018",
+  "dct_alternativeTitle_sm": [
+    "Census Block Groups (TIGER/Line), WI 2018"
+  ],
+  "dc_description_s": "This data represents Block Groups from the U.S. Census Bureau for Wisconsin in 2018. [The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. Block Groups (BGs) are clusters of blocks within the same census tract. Each census tract contains at least one BG, and BGs are uniquely numbered within census tracts. BGs have a valid code range of 0 through 9. BGs have the same first digit of their 4-digit census block number from the same decennial census. For example, tabulation blocks numbered 5001, 5002, 5005,.., 5999 within census tract 1210.02 are also within BG 5 within that census tract. BGs coded 0 are intended to only include water area, no land area, and they are generally in territorial seas, coastal water, and Great Lakes water areas. Block groups generally contain between 600 and 5,000 people. A BG usually covers a contiguous area but never crosses county or census tract boundaries. They may, however, cross the boundaries of other geographic entities like county subdivisions, places, urban areas, voting districts, congressional districts, and American Indian / Alaska Native / Native Hawaiian areas. The BG boundaries in this release are those that were delineated as part of the Census Bureau's Participant Statistical Areas Program (PSAP) for the 2010 Census.]",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "U.S. Census Bureau"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "solr_year_i": "2018",
+  "dct_spatial_sm": [
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-92.889433, -86.249548, 47.309822, 42.49172)",
+  "b1g_centroid_ss": "44.900771,-89.5694905",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "172DC34A-C39D-4632-93BE-CCE36B1EF0FD",
+  "dc_identifier_s": "172DC34A-C39D-4632-93BE-CCE36B1EF0FD",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10a-01",
+  "dct_isPartOf_sm": [
+    "10a-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

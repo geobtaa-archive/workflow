@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:51Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Roads and ROW: Bayfield County, Wisconsin, 2020",
+  "dct_alternativeTitle_sm": [
+    "Roads and ROW Bayfield County, WI 2020"
+  ],
+  "dc_description_s": "This data represents roads and right of ways (ROW) for Bayfield County in 2020. For Roads: [This layer contains road centerline data in Bayfield County.Link to metadata information: https://www.bayfieldcounty.org/437/GIS-Metadata]For ROW: [This layer contains ROW polyline data for right-of-way areas in Bayfield County.Link to metadata information: https://www.bayfieldcounty.org/437/GIS-Metadata]",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Bayfield County"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "Bayfield County, Wisconsin",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-91.561825, -90.756266, 46.987375, 46.150643)",
+  "b1g_centroid_ss": "46.569009,-91.15904549999999",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "7BF807D7-FB89-4C6A-8264-EE310C23F9BC",
+  "dc_identifier_s": "7BF807D7-FB89-4C6A-8264-EE310C23F9BC",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10b-01",
+  "dct_isPartOf_sm": [
+    "10b-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

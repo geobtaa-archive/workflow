@@ -1,0 +1,51 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:42Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Census County Subdivisions (TIGER/Line): Wisconsin, 2000",
+  "dct_alternativeTitle_sm": [
+    "Census County Subdivisions (TIGER/Line), WI 2000"
+  ],
+  "dc_description_s": "This data represents County Subdivisions (MCDs) from the U.S. Census Bureau for Wisconsin in 2000. [The TIGER/Line Files are shapefiles and related database files (.dbf) that are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line File is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. County subdivisions are the primary divisions of counties and their equivalent entities for the reporting of Census Bureau data, and they include legally minor civil divisions (MCDs) and statistical census county divisions (CCDs), and unorganized territories. The legal MCDs are the primary governmental and/or administrative divisions of counties in 28 States and Puerto Rico. In MCD States where no MCD exists or is not defined, the Census Bureau creates statistical unorganized territories to complete coverage. The entire area of the United States, Puerto Rico, and the Island Areas is covered by county subdivisions. The boundaries of all Census 2000 legal MCDs are as of January 1, 2000 as reported through the Census Bureau's Boundary and Annexation Survey (BAS). For Census 2000, CCDs or their equivalents were delineated in 22 States. The boundaries of all Census 2000 statistical CCDs were delineated as part of the Census Bureau's Participant Statistical Areas Program (PSAP).]",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "U.S. Census Bureau"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "solr_year_i": "2000",
+  "dct_spatial_sm": [
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-92.889433, -86.249548, 47.309822, 42.49172)",
+  "b1g_centroid_ss": "44.900771,-89.5694905",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "35C97617-B479-4481-BE78-50E6601B01B3",
+  "dc_identifier_s": "35C97617-B479-4481-BE78-50E6601B01B3",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10a-01",
+  "dct_isPartOf_sm": [
+    "10a-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

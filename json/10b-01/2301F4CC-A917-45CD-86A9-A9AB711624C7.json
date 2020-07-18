@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:51Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Buildings: Brown County, Wisconsin, 2020",
+  "dct_alternativeTitle_sm": [
+    "Buildings Brown County, WI 2020"
+  ],
+  "dc_description_s": "This data represents buildings for Brown County, Wisconsin in 2020. [Building footprint data was mapped out using aerial orthophotography by the aerial photo contractor as part of the project (but this option was paid for by interested municipalities). Brown County does not maintain or update building footprint data. In 2000, these municipalities included the City of Green Bay and the Village of Suamico. In 2010, several more communities opted to have building footprints created. Because of the various years of data, each building feature is coded with a 'DateCaptured' field. ]",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Brown County"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Structure"
+  ],
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "Brown County, Wisconsin",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-88.257087, -87.760186, 44.683565, 44.238341)",
+  "b1g_centroid_ss": "44.460953,-88.0086365",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "2301F4CC-A917-45CD-86A9-A9AB711624C7",
+  "dc_identifier_s": "2301F4CC-A917-45CD-86A9-A9AB711624C7",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10b-01",
+  "dct_isPartOf_sm": [
+    "10b-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

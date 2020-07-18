@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:51Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Roads: Dunn County, Wisconsin, 2020",
+  "dct_alternativeTitle_sm": [
+    "Roads Dunn County, WI 2020"
+  ],
+  "dc_description_s": "This data represents roads for Dunn County, Wisconsin in 2020. [Date of Last Update: 02/07/2020Frequency of Update: As needed.Data Dictionary/Definitions for attribute values: [RDCDE] 1. Interstate2. USHighway3. State Highway4. County Highway5. Township Road6. City/VillageRoad7. Private Road/Easement8. Trails9. RampsRoad Name: [STREETNAME]Road Type: [STREETTYPE]]",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Dunn County"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "Dunn County, Wisconsin",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-92.165473, -91.634015, 45.217957, 44.674322)",
+  "b1g_centroid_ss": "44.9461395,-91.899744",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "BAA66B79-19ED-45C6-AC75-051963DB210F",
+  "dc_identifier_s": "BAA66B79-19ED-45C6-AC75-051963DB210F",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10b-01",
+  "dct_isPartOf_sm": [
+    "10b-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

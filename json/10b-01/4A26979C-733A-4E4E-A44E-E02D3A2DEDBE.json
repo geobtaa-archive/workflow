@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:51Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Municipalities: Washburn County, Wisconsin, 2020",
+  "dct_alternativeTitle_sm": [
+    "Municipalities Washburn County, WI 2020"
+  ],
+  "dc_description_s": "This data represents municipalities for Washburn County, Wisconsin in 2020. [The municipal boundary feature class is a polygon file of all Towns, Villages and Cities within Washburn County. The data was developed using a variety of sources including, but not limited to, PLSS breakdown, surveyor records, road records, and deed descriptions.]",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Washburn County"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "Washburn County, Wisconsin",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-92.051572, -91.538043, 46.158025, 45.637607)",
+  "b1g_centroid_ss": "45.897816000000006,-91.79480749999999",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "4A26979C-733A-4E4E-A44E-E02D3A2DEDBE",
+  "dc_identifier_s": "4A26979C-733A-4E4E-A44E-E02D3A2DEDBE",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10b-01",
+  "dct_isPartOf_sm": [
+    "10b-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

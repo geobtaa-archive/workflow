@@ -1,0 +1,51 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:42Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Average Annual and Monthly Precipitation and Temperature: Wisconsin, 1981-2010",
+  "dct_alternativeTitle_sm": [
+    "Average Annual and Monthly Precipitation and Temperature, WI 1981-2010"
+  ],
+  "dc_description_s": "[Percent of average annual precipitation for each of 12 months raster layers. Also provided are raster average minimum and maximum temperature datasets from derived average annual temperature according to a model using point temperature data for the 30-year period of 1981-2010. PRISM is an analytical model that uses point data and an underlying grid such as a digital elevation model (DEM) or a 30 yr climatological average (e.g. 1981- 2010 average) to generate gridded estimates of monthly and annual precipitation and temperature (as well as other climatic parameters). 800m spacing. ]",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "U.S. Department of Agriculture \u2013 Natural Resources Conservation Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Aerial imagery"
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "dct_temporal_sm": [
+    "1981-2010"
+  ],
+  "solr_year_i": "1981",
+  "dct_spatial_sm": [
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-92.958333, -86.175, 47.375, 42.416667)",
+  "b1g_centroid_ss": "44.895833499999995,-89.5666665",
+  "dc_type_sm": [
+    "Image",
+    "Service"
+  ],
+  "layer_geom_type_s": "Raster",
+  "dc_format_s": "Imagery",
+  "layer_slug_s": "89FD3E03-7063-451E-919C-6F8D8356B920",
+  "dc_identifier_s": "89FD3E03-7063-451E-919C-6F8D8356B920",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10a-01",
+  "dct_isPartOf_sm": [
+    "10a-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

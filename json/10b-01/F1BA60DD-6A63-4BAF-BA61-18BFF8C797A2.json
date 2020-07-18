@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:51Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Hydro (Polygon and Line): Marinette County, Wisconsin, 2020",
+  "dct_alternativeTitle_sm": [
+    "Hydro (Polygon and Line) Marinette County, WI 2020"
+  ],
+  "dc_description_s": "This data represents hydrography for Marinette County, Wisconsin in 2020, and includes the layers 'MARINETTE_HYDRO_2020_LINE', and 'MARINETTE_HYDRO_2020_POLY'. [The hydroarc shapefile represents the lakes, ponds, rivers and streams in Marinette County, Wisconsin. Data is referenced to the Marinette County Coordinate System, North American Datum 1983 with the 1991 adjustment (NAD83/91).]",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Marinette County"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "Marinette County, Wisconsin",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-88.436664, -87.469042, 45.797673, 44.933548)",
+  "b1g_centroid_ss": "45.3656105,-87.952853",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "F1BA60DD-6A63-4BAF-BA61-18BFF8C797A2",
+  "dc_identifier_s": "F1BA60DD-6A63-4BAF-BA61-18BFF8C797A2",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10b-01",
+  "dct_isPartOf_sm": [
+    "10b-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

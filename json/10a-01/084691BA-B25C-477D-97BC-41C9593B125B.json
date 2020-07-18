@@ -1,0 +1,51 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:42Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Census Tracts (500k Carto Boundary File): Wisconsin, 2000",
+  "dct_alternativeTitle_sm": [
+    "Census Tracts (500k Carto Boundary File), WI 2000"
+  ],
+  "dc_description_s": "This data represents Census Tracts from the U.S. Census Bureau for Wisconsin in 2000. [The 2000 cartographic boundary shapefiles are simplified representations of selected geographic areas from the Census Bureau's MAF/TIGER geographic database. These boundary files are specifically designed for small scale thematic mapping.]",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "U.S. Census Bureau"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "solr_year_i": "2000",
+  "dct_spatial_sm": [
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-92.888114, -86.805415, 47.07757, 42.49192)",
+  "b1g_centroid_ss": "44.784745,-89.8467645",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "084691BA-B25C-477D-97BC-41C9593B125B",
+  "dc_identifier_s": "084691BA-B25C-477D-97BC-41C9593B125B",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10a-01",
+  "dct_isPartOf_sm": [
+    "10a-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

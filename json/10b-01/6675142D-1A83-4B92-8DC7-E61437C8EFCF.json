@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:51Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Roads and ROW: Juneau County, Wisconsin, 2019",
+  "dct_alternativeTitle_sm": [
+    "Roads and ROW Juneau County, WI 2019"
+  ],
+  "dc_description_s": "This data represents roads and Right Of Ways (ROW) for Juneau County, Wisconsin in 2019 and includes the layers 'Juneau_Roads_2019' and 'Juneau_ROW_2019'. Roads: [Roads data contain the centerlines of all the roads in the county. They are coded by class being: 5 - Interstates, 4 - US Highways, 3 - State Highways, 2 - County Trunk Roads, 1 - Town/Local Roads and 0 - Private Roads, Trails or Alleys. They also have an address range assigned to them with a right and left to and from range, the centerlines broken down into segments with what community (zipcode) they are in, and also what emergency zone (ESN) they fall in.]",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Juneau County"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "solr_year_i": "2019",
+  "dct_spatial_sm": [
+    "Juneau County, Wisconsin",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-91.842819, -89.787112, 44.253195, 43.352276)",
+  "b1g_centroid_ss": "43.8027355,-90.8149655",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "6675142D-1A83-4B92-8DC7-E61437C8EFCF",
+  "dc_identifier_s": "6675142D-1A83-4B92-8DC7-E61437C8EFCF",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10b-01",
+  "dct_isPartOf_sm": [
+    "10b-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

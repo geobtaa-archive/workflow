@@ -1,0 +1,51 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:42Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Sensitive Areas of Lakes: Wisconsin, 2017",
+  "dct_alternativeTitle_sm": [
+    "Sensitive Areas of Lakes, Wisconsin 2017"
+  ],
+  "dc_description_s": "This data represents Sensitive Areas of Lakes, Wisconsin in 2017. [Sensitive Areas of Lakes are designated as Critical Habitat Areas in Wisconsin. These areas comprise of aquatic vegetation identified by the Wisconsin Department of Natural Resources as offering critical or unique fish and wildlife habitat, including seasonal or life stage requirements, or offering water quality or erosion control benefits to the body of water. Wisconsin law mandates special protections for these critical habitats. Critical Habitat Designation is a program that recognizes those areas and maps them so that everyone knows which areas are most vulnerable to impacts from human activity.]",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Wisconsin Department of Natural Resources"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "solr_year_i": "2017",
+  "dct_spatial_sm": [
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-92.828331, -87.084472, 46.343209, 42.469088)",
+  "b1g_centroid_ss": "44.4061485,-89.9564015",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "09D17D7B-2C87-45E3-A6F8-7E850C653D12",
+  "dc_identifier_s": "09D17D7B-2C87-45E3-A6F8-7E850C653D12",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10a-01",
+  "dct_isPartOf_sm": [
+    "10a-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

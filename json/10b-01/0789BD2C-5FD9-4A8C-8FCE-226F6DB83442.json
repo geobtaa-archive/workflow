@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:51Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Parks: Trempealeau County, Wisconsin, 2020",
+  "dct_alternativeTitle_sm": [
+    "Parks Trempealeau County, WI 2020"
+  ],
+  "dc_description_s": "This data represents parks for Trempealeau County, Wisconsin in 2020. [Location of Wildlife areas within Trempealeau County, WI]",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Trempealeau County"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "Trempealeau County, Wisconsin",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-91.591692, -91.151031, 44.595798, 43.983946)",
+  "b1g_centroid_ss": "44.289872,-91.3713615",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "0789BD2C-5FD9-4A8C-8FCE-226F6DB83442",
+  "dc_identifier_s": "0789BD2C-5FD9-4A8C-8FCE-226F6DB83442",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10b-01",
+  "dct_isPartOf_sm": [
+    "10b-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

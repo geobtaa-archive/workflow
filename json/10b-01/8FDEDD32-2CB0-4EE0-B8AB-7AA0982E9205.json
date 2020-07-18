@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:51Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Roads: Jackson County, Wisconsin, 2020",
+  "dct_alternativeTitle_sm": [
+    "Roads Jackson County, WI 2020"
+  ],
+  "dc_description_s": "This data represents roads for Jackson County, Wisconsin in 2020. [This digital geospatial dataset represents all public and private roads in Jackson County, Wisconsin, with attributes standardized in accordance to the NENA Standard for NG9-1-1 GIS Data Model (NENA-STA-006.1-2018). Some additional features include alleys, ATV trails, campground roads, county forest roads, hiking trails, driveways, easements, parking lots, and service roads.]",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Jackson County"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "Jackson County, Wisconsin",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-91.167912, -90.308579, 44.597429, 44.070165)",
+  "b1g_centroid_ss": "44.333797000000004,-90.7382455",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "8FDEDD32-2CB0-4EE0-B8AB-7AA0982E9205",
+  "dc_identifier_s": "8FDEDD32-2CB0-4EE0-B8AB-7AA0982E9205",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10b-01",
+  "dct_isPartOf_sm": [
+    "10b-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

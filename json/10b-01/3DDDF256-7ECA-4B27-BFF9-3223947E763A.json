@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:51Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Roads: Calumet County, Wisconsin, 2020",
+  "dct_alternativeTitle_sm": [
+    "Roads Calumet County, WI 2020"
+  ],
+  "dc_description_s": "This data represents roads for Calumet County, Wisconsin in 2020. [This data represents the centerlines of all roads in Calumet County. The data is used in nearly all aspects of the Land Information Office and is updated almost every day. Updates are performed using source documents (surveys, plats, etc) along with any available aerial imagery.]",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Calumet County"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "solr_year_i": "2019",
+  "dct_spatial_sm": [
+    "Calumet County, Wisconsin",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-88.404757, -88.039019, 44.243921, 43.891301)",
+  "b1g_centroid_ss": "44.067611,-88.221888",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "3DDDF256-7ECA-4B27-BFF9-3223947E763A",
+  "dc_identifier_s": "3DDDF256-7ECA-4B27-BFF9-3223947E763A",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10b-01",
+  "dct_isPartOf_sm": [
+    "10b-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

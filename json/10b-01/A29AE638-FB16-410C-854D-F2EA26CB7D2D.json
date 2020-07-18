@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:51Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Hydro (Polygon and Line): Washburn County, Wisconsin, 2020",
+  "dct_alternativeTitle_sm": [
+    "Hydro (Polygon and Line) Washburn County, WI 2020"
+  ],
+  "dc_description_s": "This data represents hydrography for Washburn County, Wisconsin in 2020. The features included in this geodatabase are 'Washburn_Hydro_2020_Line' and 'Washburn_Hydro_2020_Poly'.",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Washburn County"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "Washburn County, Wisconsin",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-92.057913, -91.528492, 46.163234, 45.63314)",
+  "b1g_centroid_ss": "45.898187,-91.7932025",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "A29AE638-FB16-410C-854D-F2EA26CB7D2D",
+  "dc_identifier_s": "A29AE638-FB16-410C-854D-F2EA26CB7D2D",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10b-01",
+  "dct_isPartOf_sm": [
+    "10b-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

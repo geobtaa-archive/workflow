@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:42Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Watersheds: Wisconsin, 2017",
+  "dct_alternativeTitle_sm": [
+    "Watersheds, Wiscsonsin 2017"
+  ],
+  "dc_description_s": "This data represents Watersheds, Wisconsin in 2017. [Wisconsin's Watershed data layer contains 330 delineated watersheds created initially for the Priority Watershed Program. Basins and watersheds are interconnected areas of land draining from surrounding ridge tops to a common point such as a lake or confluence with a neighboring land area.These watersheds were originally delineated by Wisconsin DNR for the Nonpoint Source Water Pollution Abatement Program, also generally known as the Priority Watershed Program. They generally indicate areas that drain into a common river system or lake, but may also be based on DNR basin management criteria.]",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Wisconsin Department of Natural Resources"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Boundaries",
+    "Inland Waters"
+  ],
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "solr_year_i": "2017",
+  "dct_spatial_sm": [
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-92.964215, -86.666063, 47.083097, 42.456926)",
+  "b1g_centroid_ss": "44.7700115,-89.81513899999999",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "BF659CA4-EA59-4C40-9ED2-A8A858A727F4",
+  "dc_identifier_s": "BF659CA4-EA59-4C40-9ED2-A8A858A727F4",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10a-01",
+  "dct_isPartOf_sm": [
+    "10a-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

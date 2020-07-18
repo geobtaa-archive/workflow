@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:51Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Roads and ROW: Shawano County, Wisconsin, 2019",
+  "dct_alternativeTitle_sm": [
+    "Roads and ROW Shawano County, WI 2019"
+  ],
+  "dc_description_s": "This data represents roads and right of ways (ROW) for Shawano County, Wisconsin in 2019.",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Shawano County"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "solr_year_i": "2019",
+  "dct_spatial_sm": [
+    "Shawano County, Wisconsin",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-89.229612, -88.231821, 45.031004, 44.584739)",
+  "b1g_centroid_ss": "44.807871500000005,-88.7307165",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "4F2448A3-74D0-4E57-ACB4-E3B4A13FD982",
+  "dc_identifier_s": "4F2448A3-74D0-4E57-ACB4-E3B4A13FD982",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10b-01",
+  "dct_isPartOf_sm": [
+    "10b-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

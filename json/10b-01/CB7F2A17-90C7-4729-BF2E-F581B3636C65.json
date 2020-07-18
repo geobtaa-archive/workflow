@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:51Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Zoning: Oneida County, Wisconsin, 2020",
+  "dct_alternativeTitle_sm": [
+    "Zoning Oneida County, WI 2020"
+  ],
+  "dc_description_s": "This data represents zoning for Oneida County, Wisconsin in 2019 and 2020 and includes the layers 'ONEIDA_GENERAL_2020', 'ONEIDA_GENERAL_2019', and 'ONEIDA_SHORELAND_2020'.",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Oneida County"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "Oneida County, Wisconsin",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-90.045354, -89.039126, 45.903629, 45.464448)",
+  "b1g_centroid_ss": "45.6840385,-89.54223999999999",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "CB7F2A17-90C7-4729-BF2E-F581B3636C65",
+  "dc_identifier_s": "CB7F2A17-90C7-4729-BF2E-F581B3636C65",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10b-01",
+  "dct_isPartOf_sm": [
+    "10b-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

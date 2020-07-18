@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:51Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Buildings: Fond du Lac County, Wisconsin, 2019",
+  "dct_alternativeTitle_sm": [
+    "Buildings Fond du Lac, WI 2019"
+  ],
+  "dc_description_s": "This polygon data layer represents buildings for Fond du Lac County, Wisconsin in 2019.",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Fond du Lac County"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Structure"
+  ],
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "solr_year_i": "2019",
+  "dct_spatial_sm": [
+    "Fond du Lac County, Wisconsin",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-88.889031, -88.156588, 43.939845, 43.54129)",
+  "b1g_centroid_ss": "43.7405675,-88.5228095",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "1A829679-343E-4ADD-A2A8-5DAEE38B3DFD",
+  "dc_identifier_s": "1A829679-343E-4ADD-A2A8-5DAEE38B3DFD",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10b-01",
+  "dct_isPartOf_sm": [
+    "10b-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

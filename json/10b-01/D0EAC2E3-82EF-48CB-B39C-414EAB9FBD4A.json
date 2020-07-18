@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:51Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Trails: Shawano County, Wisconsin, 2019",
+  "dct_alternativeTitle_sm": [
+    "Trails Shawano County, WI 2019"
+  ],
+  "dc_description_s": "This data represents trails for Shawano County, Wisconsin in 2019. [Shawano county Rails-to-Trails trails.]",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Shawano County"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "solr_year_i": "2019",
+  "dct_spatial_sm": [
+    "Shawano County, Wisconsin",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-89.228074, -88.232251, 45.010577, 44.679999)",
+  "b1g_centroid_ss": "44.845288,-88.7301625",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "D0EAC2E3-82EF-48CB-B39C-414EAB9FBD4A",
+  "dc_identifier_s": "D0EAC2E3-82EF-48CB-B39C-414EAB9FBD4A",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10b-01",
+  "dct_isPartOf_sm": [
+    "10b-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

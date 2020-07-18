@@ -1,0 +1,51 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:42Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "DNR Other Public Rights Features: Wisconsin, 2017",
+  "dct_alternativeTitle_sm": [
+    "DNR Other Public Rights Features, Wisconsin 2017"
+  ],
+  "dc_description_s": "This data represents other public rights in Wisconsin in 2017. [Other Public Rights Features include the following: - Wisconsin Fish and wildlife habitat, determined by their primary associated physical features, including specific sites necessary for breeding, nesting, nursery and feeding. - Physical features of waterbodies in Wisconsin that ensure protection of water quality. - Reaches of bank, shore or bed that are mostly natural in appearance (not man-made or artificial) or that screen man-made or artificial features. - Navigation thoroughfares or areas traditionally used for navigation during normal recreational activities such as boating, angling, hunting, or enjoyment of natural scenic beauty. The areas in this layer are designated critical habitat areas. These are areas which are the most important to the overall health of the aquatic plants and animals. Remarkably, eighty percent of the plants and animals on the state's endangered and threatened species list spend all or part of their life cycle within the near shore zone. As many as ninety percent of the living things in lakes and rivers are found along the shallow margins and shores. Wisconsin law mandates special protections for these critical habitats. Critical Habitat Designation is a program that recognizes those areas and maps them so that everyone knows which areas are most vulnerable to impacts from human activity. A critical habitat designation assists waterfront owners by identifying these areas up front, so they can design their waterfront projects to protect habitat and ensure the long-term health of the lake they where they live.]",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Wisconsin Department of Natural Resources"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Environment"
+  ],
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "solr_year_i": "2017",
+  "dct_spatial_sm": [
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-91.5632, -87.841622, 46.343254, 42.550066)",
+  "b1g_centroid_ss": "44.44666,-89.702411",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "AB694DCE-D45B-4B35-8616-AEECF33BDC2B",
+  "dc_identifier_s": "AB694DCE-D45B-4B35-8616-AEECF33BDC2B",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10a-01",
+  "dct_isPartOf_sm": [
+    "10a-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

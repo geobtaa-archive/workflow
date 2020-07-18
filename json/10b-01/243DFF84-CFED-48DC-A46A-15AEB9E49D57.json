@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:51Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Hydro (Polygon and Line): Sheboygan County, Wisconsin, 2020",
+  "dct_alternativeTitle_sm": [
+    "Hydro (Polygon and Line) Sheboygan County, WI 2020"
+  ],
+  "dc_description_s": "This data represents hydro for Sheboygan County, Wisconsin in 2020. Features included are: Sheboygan_Hydro_2020_Line, and Sheboygan_Hydro_2020_Poly.",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Sheboygan County"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "Sheboygan County, Wisconsin",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-88.169523, -87.695946, 43.898098, 43.53506)",
+  "b1g_centroid_ss": "43.716578999999996,-87.93273450000001",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "243DFF84-CFED-48DC-A46A-15AEB9E49D57",
+  "dc_identifier_s": "243DFF84-CFED-48DC-A46A-15AEB9E49D57",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10b-01",
+  "dct_isPartOf_sm": [
+    "10b-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

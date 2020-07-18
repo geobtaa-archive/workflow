@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:51Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Buildings: Vilas County, Wisconsin, 2019",
+  "dct_alternativeTitle_sm": [
+    "Buildings Vilas County, WI 2019"
+  ],
+  "dc_description_s": "This data layer represents buildings for Vilas County, Wisconsin in 2019. [The shape and orientation of the ground floor of all structures in a local government. This information is typically compiled from orthoimagery or other aerial photography sources. This representation of the building footprints support the local government basemaps. It also serves as a source for public works, public safety, planning and other agencies that are responsible for the active management of site addresses, facilities, and land use information.]",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Vilas County"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Structure"
+  ],
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "solr_year_i": "2019",
+  "dct_spatial_sm": [
+    "Vilas County, Wisconsin",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-90.048274, -88.936491, 46.301054, 45.854441)",
+  "b1g_centroid_ss": "46.0777475,-89.4923825",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "FBB294BC-54A0-47A5-9D9F-0500CAA9F948",
+  "dc_identifier_s": "FBB294BC-54A0-47A5-9D9F-0500CAA9F948",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10b-01",
+  "dct_isPartOf_sm": [
+    "10b-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

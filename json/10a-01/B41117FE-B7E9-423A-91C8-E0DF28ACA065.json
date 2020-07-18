@@ -1,0 +1,51 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:42Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "2012-2020 Election Data (Wisconsinth 2018 Wards): Wisconsin, 2018",
+  "dct_alternativeTitle_sm": [
+    "2012-2020 Election Data (with 2018 Wards), Wisconsin 2018"
+  ],
+  "dc_description_s": "This data layer represents various election results for 2012-2020 in Wisconsin, mapped with 2018 ward boundaries. [Ward Data Overview:Fall 2018 municipal wards were collected in July 2018 by LTSB through the WISE-Decade system. Current statutes require each county clerk, or board of election commissioners, no later than January 15 and July 15 of each year, to transmit to the LTSB, in an electronic format (approved by LTSB), a report confirming the boundaries of each municipality, ward and supervisory district within the county as of the preceding \u201csnapshot\u201d date of January 1 or July 1 respectively. Population totals for 2011 wards are carried over to the 2018 dataset for existing wards. New wards created since 2011 due to annexations, detachments, and incorporation are allocated population from Census 2010 collection blocks. LTSB has topologically integrated the data, but there may still be errors. Election Data Overview:The 2012-2018 Wisconsin election data that is included in this file was collected by LTSB from the *Wisconsin Elections Commission (WEC) after each general election. A disaggregation process was performed on this election data based on the municipal ward layer that was available at the time of the election. Disaggregation of Election Data:Election data is first disaggregated from reporting units to wards, and then to census blocks. Next, the election data is aggregated back up to wards, municipalities, and counties. The disaggregation of election data to census blocks is done based on total population. Detailed Methodology: Data is disaggregated first from reporting unit (i.e. multiple wards) to the ward level proportionate to the population of that ward. The data then is distributed down to the block level, again based on total population. When data is disaggregated to block or ward, we restrain vote totals not to exceed population 18 numbers, unless absolutely required.This methodology results in the following: Election data totals reported to the WEC at the state, county, municipal and reporting unit level should match the disaggregated election data total at the same levels. Election data totals reported to the WEC at ward level may not match the ward totals in the disaggregated election data file. Some wards may have more election data allocated than voter age population. This will occur if a change to the geography results in more voters than the 2010 historical population limits.Other things of note\u2026We use a static, official ward layer (in this case created in 2018) to disaggregate election data to blocks. Using this ward layer creates some challenges. New wards are created every year due to annexations and incorporations. When these new wards are reported with election data, an issue arises wherein election data is being reported for wards that do not exist in our official ward layer. For example, if Cityville has four wards in the official ward layer, the election data may be reported for five wards, including a new ward from an annexation. There are two different scenarios and courses of action to these issues: When a single new ward is present in the election data but there is no ward geometry present in the official ward layer, the votes attributed to this new ward are distributed to all the other wards in the municipality based on population percentage. Distributing based on population percentage means that the proportion of the population of the municipality will receive that same proportion of votes from the new ward. In the example of Cityville explained above, the fifth ward may have five votes reported, but since there is no corresponding fifth ward in the official layer, these five votes will be assigned to each of the other wards in Cityville according the percentage of population.Another case is when a new ward is reported, but its votes are part of reporting unit. In this case, the votes for the new ward are assigned to the other wards in the reporting unit by population percentage; and not to wards in the municipality as a whole. For example, Cityville\u2019s ward 5 was given as a reporting unit together with wards 1, 4, and 5. In this case, the votes in ward five are assigned to wards 1 and 4 according to population percentage. Outline Ward-by-Ward Election ResultsThe process of collecting election data and disaggregating to municipal wards occurs after a general election, so disaggregation has occurred with different ward layers and different population totals. We have outlined (to the best of our knowledge) what layer and population totals were used to produce these ward-by-ward election results.Election data disaggregates from WEC Reporting Unit -> Ward [Variant year outlined below]Elections 1990 \u2013 2000: Wards 1991 (Census 1990 totals used for disaggregation) Elections 2002 \u2013 2010: Wards 2001 (Census 2000 totals used for disaggregation) Elections 2012: Wards 2011 (Census 2010 totals used for disaggregation) Elections 2014 \u2013 2016: Wards Fall 2018 (Census 2010 totals used for disaggregation)Blocks 2011 -> Centroid geometry and spatially joined with Wards [All Versions]Each Block has an assignment to each of the ward versions outlined above In the event that a ward exists now in which no block exists (occurred with spring 2018) due to annexations, a block centroid was created with a population 0, and encoded with the proper Census IDs.Wards [All Versions] disaggregate -> Blocks 2011This yields a block centroid layer that contains all elections from 1990 to 2016Blocks 2011 [with all election data] -> Wards 2018 (then MCD 2018, and County 2018) All election data (including later elections such as 2016) is aggregated to the Wards 2018 assignment of the blocksNotes:Population of municipal wards 1991, 2001 and 2011 used for disaggregation were determined by their respective Census.Population and Election data will be contained within a county boundary. This means that even though MCD and ward boundaries vary greatly between versions of the wards, county boundaries have stayed the same, so data should total within a county the same between wards 2011 and wards 2018.Election data may be different for the same legislative district, for the same election, due to changes in the wards from 2011 and 2018. This is due to boundary corrections in the data from 2011 to 2018, and annexations, where a block may have been reassigned.The following changes have been made to this file: Dodge County: T-Williamstown to V-Kekoskee (Merged Geometry/Population: T-Williamstown 1 with V-Kekoskee 1; Changed: T-Williamstown 2 and 3 To: V-Kekoskee 2 and 3) Marathon County: V-Brokaw to V-Maine (Merged Geometry/Population V-Brokaw 1 into V-Maine 1) Racine County: T-Yorkville to V-Yorkville (Changed T-Yorkville (89575) to V Yorkville (89550), Ward 1=1, 2=2 etc).*WEC replaced the previous Government Accountability Board (GAB) in 2016, which replaced the previous State Elections Board in 2008.]",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Wisconsin Legislative Technology Services Bureau"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "solr_year_i": "2018",
+  "dct_spatial_sm": [
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-92.889337, -86.763988, 47.080705, 42.491914)",
+  "b1g_centroid_ss": "44.7863095,-89.8266625",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "B41117FE-B7E9-423A-91C8-E0DF28ACA065",
+  "dc_identifier_s": "B41117FE-B7E9-423A-91C8-E0DF28ACA065",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10a-01",
+  "dct_isPartOf_sm": [
+    "10a-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

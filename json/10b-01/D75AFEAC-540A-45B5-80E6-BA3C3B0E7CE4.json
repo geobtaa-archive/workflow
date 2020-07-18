@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:51Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Zoning: Waukesha County, Wisconsin, 2020",
+  "dct_alternativeTitle_sm": [
+    "Zoning Waukesha County, WI 2020"
+  ],
+  "dc_description_s": "This data represents zoning for Waukesha County, Wisconsin in 2020, and includes the layers 'Waukesha_General_2020' and 'Waukesha_Shoreland_2020'.",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Waukesha County"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "Waukesha County, Wisconsin",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-88.545913, -88.123206, 43.197704, 42.837015)",
+  "b1g_centroid_ss": "43.0173595,-88.3345595",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "D75AFEAC-540A-45B5-80E6-BA3C3B0E7CE4",
+  "dc_identifier_s": "D75AFEAC-540A-45B5-80E6-BA3C3B0E7CE4",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10b-01",
+  "dct_isPartOf_sm": [
+    "10b-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

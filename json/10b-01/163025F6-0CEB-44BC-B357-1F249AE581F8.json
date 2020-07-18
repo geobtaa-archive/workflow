@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:51Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "PLSS: Langlade County, Wisconsin, 2020",
+  "dct_alternativeTitle_sm": [
+    "PLSS Langlade County, WI 2020"
+  ],
+  "dc_description_s": "This data represents public land survey system (PLSS) corners for Langlade County, Wisconsin in 2020. [This information is collected by a certified Surveyor using a GPS system to mark each corner. Tie sheets are created for each one of those corners to help identify its unique location. These documents are being placed in various online formats.]",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Langlade County"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "Langlade County, Wisconsin",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-89.428365, -88.636344, 45.470467, 45.02815)",
+  "b1g_centroid_ss": "45.2493085,-89.0323545",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "163025F6-0CEB-44BC-B357-1F249AE581F8",
+  "dc_identifier_s": "163025F6-0CEB-44BC-B357-1F249AE581F8",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10b-01",
+  "dct_isPartOf_sm": [
+    "10b-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

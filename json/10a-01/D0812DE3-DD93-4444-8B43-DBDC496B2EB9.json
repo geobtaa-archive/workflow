@@ -1,0 +1,51 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:42Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Major Land Resource Areas (MLRA): Wisconsin, 2006",
+  "dct_alternativeTitle_sm": [
+    "Major Land Resource Areas (MLRA), WI 2006"
+  ],
+  "dc_description_s": "[Major land resource areas (MLRAs) are geographically associated land resource units (LRUs). Identification of these large areas is important in statewide agricultural planning and has value in interstate, regional, and national planning.]",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "U.S. Department of Agriculture \u2013 Natural Resources Conservation Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Farming"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "solr_year_i": "2006",
+  "dct_spatial_sm": [
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-94.352264, -83.897937, 47.479532, 40.157311)",
+  "b1g_centroid_ss": "43.8184215,-89.1251005",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "D0812DE3-DD93-4444-8B43-DBDC496B2EB9",
+  "dc_identifier_s": "D0812DE3-DD93-4444-8B43-DBDC496B2EB9",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10a-01",
+  "dct_isPartOf_sm": [
+    "10a-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

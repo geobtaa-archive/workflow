@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:51Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "PLSS: Florence County, Wisconsin, 2020",
+  "dct_alternativeTitle_sm": [
+    "PLSS Florence County, WI 2020"
+  ],
+  "dc_description_s": "This data represents Public Land Survey System (PLSS) corners for Florence County, Wisconsin in 2020. [Data created using field gathered data and information provided through Florence County, Wisconsin Register of Deeds research.Direct Observation points were created from actual survey point data or from coordinates listed on recorded Certified Survey Maps (CSM).Calculated points were established by bearings and distances shown on numerous CSMs when tied to known corner locations.]",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Florence County"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "Florence County, Wisconsin",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-88.690354, -88.049143, 46.013368, 45.713089)",
+  "b1g_centroid_ss": "45.8632285,-88.3697485",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "CDBDF5EF-BB6E-4748-9589-95F425D38154",
+  "dc_identifier_s": "CDBDF5EF-BB6E-4748-9589-95F425D38154",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10b-01",
+  "dct_isPartOf_sm": [
+    "10b-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

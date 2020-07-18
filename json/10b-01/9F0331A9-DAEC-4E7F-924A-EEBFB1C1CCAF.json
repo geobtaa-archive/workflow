@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:51Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Addresses: Clark County, Wisconsin, 2020",
+  "dct_alternativeTitle_sm": [
+    "Addresses Clark County, WI 2020"
+  ],
+  "dc_description_s": "This data layer represents addresses for Clark County, Wisconsin in 2020. [This data layer is an inventory for both rural and city/village addressing. The rural addressing system is based on the emergency response/rural address ordinance and managed through the Planning, Zoning & Land Information Office (PZ&LI). The rural address system runs on a N and W grid from the south east corner of the county. All unincorporated municipalties use the county rural address grid and are managed through PZ&LI. The address number for a location is determined based on the location of the driveway entrance to the named road. No address numbers are given from a private road. In cases such as that, unique address or a lot designation are assigned from the proximity to the driveway/road intersection.City/Village address number locations are entered by PZ&LI, however, the addressing in these locations is managed by each municipality and is not communicated directly with the county. Each municipality has a different origin location and directions for their address grid. Some cities and villages also extend into other counties and their locations are not included. The point locations are either directly in front the addressed structure or on the structure. City and village addresses in the database should not be considered as a complete inventory.]",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Clark County"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Location"
+  ],
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "Clark County, Wisconsin",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-90.924365, -90.312127, 45.034181, 44.421519)",
+  "b1g_centroid_ss": "44.727850000000004,-90.618246",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "9F0331A9-DAEC-4E7F-924A-EEBFB1C1CCAF",
+  "dc_identifier_s": "9F0331A9-DAEC-4E7F-924A-EEBFB1C1CCAF",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10b-01",
+  "dct_isPartOf_sm": [
+    "10b-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

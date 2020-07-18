@@ -1,0 +1,51 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:42Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Lakes Less Than 50 Acres: Wisconsin, 2019",
+  "dct_alternativeTitle_sm": [
+    "Lakes Less Than 50 Acres, Wisconsin 2019"
+  ],
+  "dc_description_s": "This data represents lakes less than 50 acres Wisconsin in 2019. [These lakes are PriorityNavigable Waters under the State of Wisconsin's Waterways Protection Program. Priority Navigable Waterways include lakes less than 50 acres, waters with self-sustaining musky, sturgeon and walleye populations, tributaries to and rivers connecting naturally reproducing populations, and perennial tributaries to trout streams.]",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Wisconsin Department of Natural Resources"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "solr_year_i": "2019",
+  "dct_spatial_sm": [
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-92.841982, -86.853464, 47.008052, 42.486715)",
+  "b1g_centroid_ss": "44.7473835,-89.847723",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "F95D5834-7469-4104-AE72-2BC220620A78",
+  "dc_identifier_s": "F95D5834-7469-4104-AE72-2BC220620A78",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10a-01",
+  "dct_isPartOf_sm": [
+    "10a-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

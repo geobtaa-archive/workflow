@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:51Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Hydro (Polygon and Line): Vilas County, Wisconsin, 2019",
+  "dct_alternativeTitle_sm": [
+    "Hydro (Polygon and Line) Vilas County, WI 2019"
+  ],
+  "dc_description_s": "This data represents hydrography for Vilas County, Wisconsin in 2019, and includes the layers 'VILAS_HYDRO_2019_LINE', and ''VILAS_HYDRO_2019_POLY'.",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Vilas County"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "solr_year_i": "2019",
+  "dct_spatial_sm": [
+    "Vilas County, Wisconsin",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-90.061903, -88.925773, 46.300805, 45.853221)",
+  "b1g_centroid_ss": "46.077012999999994,-89.49383800000001",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "FEC56FD0-1101-46DC-9651-954445DFCF0E",
+  "dc_identifier_s": "FEC56FD0-1101-46DC-9651-954445DFCF0E",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10b-01",
+  "dct_isPartOf_sm": [
+    "10b-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

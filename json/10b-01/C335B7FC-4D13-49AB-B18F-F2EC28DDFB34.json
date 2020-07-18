@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:51Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Roads: Polk County, Wisconsin, 2020",
+  "dct_alternativeTitle_sm": [
+    "Roads Polk County, WI 2020"
+  ],
+  "dc_description_s": "This data layer represents roads for Polk County, Wisconsin in 2020. [Centerline map features of the roads within the County of Polk, Wisconsin. Each segment of the road includes the road name, road type, road direction (if applicable), address ranges, road code, postal community name, and zip code.The creation of the Polk County RURAL NUMBERING SYSTEM (POLK COUNTY FIRE NUMBER ADDRESS SYSTEM) was adopted by the Board of Supervisors of Polk County, Wisconsin in 1978. Each of the 24 Towns in Polk County participates in the address and road system.Each of the 12 cities and villages, within the geographic boundary of Polk County, has their own address and road system.]",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Polk County"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "Polk County, Wisconsin",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-92.881296, -92.135448, 45.736332, 45.194195)",
+  "b1g_centroid_ss": "45.4652635,-92.50837200000001",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "C335B7FC-4D13-49AB-B18F-F2EC28DDFB34",
+  "dc_identifier_s": "C335B7FC-4D13-49AB-B18F-F2EC28DDFB34",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10b-01",
+  "dct_isPartOf_sm": [
+    "10b-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

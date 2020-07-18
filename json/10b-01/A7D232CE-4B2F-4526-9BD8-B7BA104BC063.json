@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:51Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Zoning: Polk County, Wisconsin, 2020",
+  "dct_alternativeTitle_sm": [
+    "Zoning Polk County, WI 2020"
+  ],
+  "dc_description_s": "This data group represents zoning for Polk County, Wisconsin in 2020 and includes the layers 'Polk_General_2020' and 'Polk_Shoreland_2020'.[For General:Per Polk County Comprehensive Land Use OrdinanceList of Zoning Districts contained:Residential (R-1) Hamlet (H-1) Residential-Agricultural 5 (RA-5) Agriculture 10 (A-1) Agriculture 20 (A-2) Farmland Preservation (A-3) Natural Resources (N-1) General Business and Commercial (B-1) 22 of 57 Recreational Business and Commercial (B-2) Small Business and Commercial (B-3) Industrial (I-1) Mining (M-1) [ShorelandThis dataset designates the zoning district for geographical areas in Polk County. The data set is a compilation of multiple interanal data sets including 'ZoningComp', 'ZoningShoreland', 'ZoneGenPur', and 'ZoningWet'.]",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Polk County"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "Polk County, Wisconsin",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-92.893415, -92.134923, 45.736342, 45.193894)",
+  "b1g_centroid_ss": "45.465118000000004,-92.51416900000001",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "A7D232CE-4B2F-4526-9BD8-B7BA104BC063",
+  "dc_identifier_s": "A7D232CE-4B2F-4526-9BD8-B7BA104BC063",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10b-01",
+  "dct_isPartOf_sm": [
+    "10b-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

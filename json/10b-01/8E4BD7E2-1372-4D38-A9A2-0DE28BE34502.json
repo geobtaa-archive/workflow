@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:51Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Hydro (Polygon and Line): Dane County, Wisconsin, 2019",
+  "dct_alternativeTitle_sm": [
+    "Hydro (Polygon and Line) Dane County, WI 2019"
+  ],
+  "dc_description_s": "This data represents hydrography for Dane County, Wisconsin in 2019, and includes the layers 'DANE_HYDRO_2019_LINE' and 'DANE_HYDRO_2019_POLY'.",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Dane County"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "solr_year_i": "2019",
+  "dct_spatial_sm": [
+    "Dane County, Wisconsin",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-89.846609, -89.004614, 43.296906, 42.839235)",
+  "b1g_centroid_ss": "43.068070500000005,-89.4256115",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "8E4BD7E2-1372-4D38-A9A2-0DE28BE34502",
+  "dc_identifier_s": "8E4BD7E2-1372-4D38-A9A2-0DE28BE34502",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10b-01",
+  "dct_isPartOf_sm": [
+    "10b-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

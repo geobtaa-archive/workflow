@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:51Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Addresses: Taylor County, Wisconsin, 2020",
+  "dct_alternativeTitle_sm": [
+    "Addresses Taylor County, WI 2020"
+  ],
+  "dc_description_s": "This data layer represents addresses for Taylor County, Wisconsin in 2020. [This data set consists of digital map files containing addressing or site access information obtained by lab work. Features contained in the data set include all site access points countywide and associated attributes. Features contained in the data set include all site access points countywide and associated attributes. Site access points sometimes are referred to as addresses, however these data typically represent the intersection of the public road right of way and the private entrance to the property. In urban areas the site access is represented at the located where the primary structure is perpendicular to the public road right of way. The Taylor County Land Information Office plans to maintain this digital data in geodatabase format in an ESRI ArcSDE environment using ArcMap tools.]",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Taylor County"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Location"
+  ],
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "Taylor County, Wisconsin",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-90.927801, -90.043557, 45.382866, 45.03007)",
+  "b1g_centroid_ss": "45.206468,-90.485679",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "CBC83A88-2F7E-4571-8020-23CCF10B0ABD",
+  "dc_identifier_s": "CBC83A88-2F7E-4571-8020-23CCF10B0ABD",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10b-01",
+  "dct_isPartOf_sm": [
+    "10b-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

@@ -1,0 +1,51 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:42Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Cropland Data Layer: Wisconsin, 2014",
+  "dct_alternativeTitle_sm": [
+    "Cropland Data Layer: Wisconsin, 2014"
+  ],
+  "dc_description_s": "The USDA National Agricultural Statistics Service (NASS) releases the annual Cropland Data Layer (CDL) via the NASS CropScape geospatial portal. The CDL product depicts agricultural land cover over the Continental United States at 30 meters resolution. CropScape includes historical data dating back to 1997 for some locales. The CDL is an annual raster, geo-referenced, crop-specific land cover data layer produced using satellite imagery and extensive agricultural ground truth collected during the current growing season. The strength and emphasis of CropScape and the CDL is agricultural land cover. Please note that no farmer reported data are derivable from CropScape or the Cropland Data Layer.Please reference CropScape (https://nassgeodata.gmu.edu/CropScape/) or the official CDL website (https://www.nass.usda.gov/Research_and_Science/Cropland/SARS1a.php) for a list of the available states and years of data and the individual metadata files that contain the technical details. NASS developed both the CropScape and VegScape web services in cooperation with the Center for Spatial Information Science and Systems, George Mason University, Fairfax, VA.",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "U.S. Department of Agriculture"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Aerial imagery"
+  ],
+  "dc_subject_sm": [
+    "Imagery and Base Maps"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": "2014",
+  "dct_spatial_sm": [
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-92.964163, -86.709691, 47.078351, 42.457926)",
+  "b1g_centroid_ss": "44.7681385,-89.836927",
+  "dc_type_sm": [
+    "Image",
+    "Service"
+  ],
+  "layer_geom_type_s": "Raster",
+  "dc_format_s": "Imagery",
+  "layer_slug_s": "068CDE80-DA8A-4129-BCA0-3BE656258FBD",
+  "dc_identifier_s": "068CDE80-DA8A-4129-BCA0-3BE656258FBD",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10a-01",
+  "dct_isPartOf_sm": [
+    "10a-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

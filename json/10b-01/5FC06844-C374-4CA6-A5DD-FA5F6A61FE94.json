@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:51Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "PLSS: Oneida County, Wisconsin, 2020",
+  "dct_alternativeTitle_sm": [
+    "PLSS Oneida County, WI 2020"
+  ],
+  "dc_description_s": "This data layer represents public land survey system (PLSS) corners for Oneida County, Wisconsin in 2020. [Direct observation of PLSS corners with survey grade GPS by various contractors.]",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Oneida County"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "Oneida County, Wisconsin",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-90.051382, -89.019701, 45.926732, 45.464347)",
+  "b1g_centroid_ss": "45.695539499999995,-89.5355415",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "5FC06844-C374-4CA6-A5DD-FA5F6A61FE94",
+  "dc_identifier_s": "5FC06844-C374-4CA6-A5DD-FA5F6A61FE94",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10b-01",
+  "dct_isPartOf_sm": [
+    "10b-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

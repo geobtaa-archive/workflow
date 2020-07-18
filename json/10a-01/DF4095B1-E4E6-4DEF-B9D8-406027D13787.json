@@ -1,0 +1,51 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:42Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "General Soil Map (STATSGO2): Wisconsin, 2017",
+  "dct_alternativeTitle_sm": [
+    "General Soil Map (STATSGO2), WI 2017"
+  ],
+  "dc_description_s": "[These data provide information about soil features on or near the surface of the Earth. Data were collected as part of the National Cooperative Soil Survey. These data are intended for geographic display and analysis at the state, regional, and nation.]",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "U.S. Department of Agriculture \u2013 Natural Resources Conservation Service"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Farming"
+  ],
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "solr_year_i": "2017",
+  "dct_spatial_sm": [
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-92.889442, -86.804767, 47.079882, 42.491829)",
+  "b1g_centroid_ss": "44.7858555,-89.8471045",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "DF4095B1-E4E6-4DEF-B9D8-406027D13787",
+  "dc_identifier_s": "DF4095B1-E4E6-4DEF-B9D8-406027D13787",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10a-01",
+  "dct_isPartOf_sm": [
+    "10a-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

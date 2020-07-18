@@ -1,0 +1,51 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:42Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Public Libraries and Branches: Wisconsin, 2020",
+  "dct_alternativeTitle_sm": [
+    "Public Libraries and Branches, Wisconsin 2020"
+  ],
+  "dc_description_s": "This data layer represents locations of public libraries and branches in Wisconsin in 2020. [This dataset includes point locations for public libraries, public library branches, and public library system offices within the state of Wisconsin. The data that comprises this dataset is submitted by each library through a DPI public library annual report survey. The assigned person at each library submits the information for the central library as well as any branch libraries. It is the libraries responsibility to for keeping their information current in the directory. Any errors in the data should be reported to Michael Dennison (Michael.Dennison@dpi.wi.gov) when they are found.]",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Wisconsin Department of Public Instruction"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Location"
+  ],
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-92.889388, -86.850988, 46.815049, 42.471506)",
+  "b1g_centroid_ss": "44.643277499999996,-89.870188",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "A38FE750-64E9-4DD5-8231-BBA76E017D5C",
+  "dc_identifier_s": "A38FE750-64E9-4DD5-8231-BBA76E017D5C",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10a-01",
+  "dct_isPartOf_sm": [
+    "10a-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

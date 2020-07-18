@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:42Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Bus Rapid Transit (BRT) Lines: City of Madison, Wisconsin, 2019",
+  "dct_alternativeTitle_sm": [
+    "Bus Rapid Transit (BRT) Lines: City of Madison, WI 2019"
+  ],
+  "dc_description_s": "This data layer represents proposed Bus Rapid Transit (BRT) system lines in the City of Madison, Wisconsin in 2019.",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "City of Madison - Metropolitan Planning Organization (MPO)"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "solr_year_i": "2019",
+  "dct_spatial_sm": [
+    "City of Madison,Wisconsin",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-89.540015, -89.306795, 43.138717, 43.019176)",
+  "b1g_centroid_ss": "43.0789465,-89.423405",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "A517C83F-3504-43AF-9E47-4E28F3FD409A",
+  "dc_identifier_s": "A517C83F-3504-43AF-9E47-4E28F3FD409A",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10c-01",
+  "dct_isPartOf_sm": [
+    "10c-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

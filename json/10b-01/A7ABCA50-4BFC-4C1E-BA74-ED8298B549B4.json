@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:51Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Roads: Waushara County, Wisconsin, 2020",
+  "dct_alternativeTitle_sm": [
+    "Roads Waushara County, WI 2020"
+  ],
+  "dc_description_s": "This data represents roads for Waushara County, Wisconsin in 2020. [StreetMaster, is a linear feature class that contains the high-low, left-right attributes for addresses. This feature class is used for geo coding and is also used to support dispatching. This file contains the official street name and is used for most County Centerline application needs.]",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Waushara County"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "Waushara County, Wisconsin",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-89.600737, -88.88125, 44.247324, 43.977178)",
+  "b1g_centroid_ss": "44.112251,-89.2409935",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "A7ABCA50-4BFC-4C1E-BA74-ED8298B549B4",
+  "dc_identifier_s": "A7ABCA50-4BFC-4C1E-BA74-ED8298B549B4",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10b-01",
+  "dct_isPartOf_sm": [
+    "10b-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

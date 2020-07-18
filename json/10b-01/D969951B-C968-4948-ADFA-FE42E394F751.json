@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:51Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Hydro (Polygon and Line): Door County, Wisconsin, 2020",
+  "dct_alternativeTitle_sm": [
+    "Hydro (Polygon and Line) Door County, WI 2020"
+  ],
+  "dc_description_s": "This data group represents hydrography for Door County, Wisconsin in 2020. It includes the layers 'DOOR_HYDRO_2020_LINE' and 'DOOR_HYDRO_2020_POLY'.",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Door County"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "Door County, Wisconsin",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-87.73648, -86.762181, 45.449268, 44.654652)",
+  "b1g_centroid_ss": "45.051959999999994,-87.2493305",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "D969951B-C968-4948-ADFA-FE42E394F751",
+  "dc_identifier_s": "D969951B-C968-4948-ADFA-FE42E394F751",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10b-01",
+  "dct_isPartOf_sm": [
+    "10b-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

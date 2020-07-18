@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:51Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Hydro (Polygon and Line): Bayfield County, Wisconsin, 2020",
+  "dct_alternativeTitle_sm": [
+    "Hydro (Polygon and Line) Bayfield County, WI 2020"
+  ],
+  "dc_description_s": "This data represent hydrography for Bayfield County in 2020, and includes the layers 'BAYFIELD_HYDRO_2020_LINE' and 'BAYFIELD_HYDRO_2020_POLY'.[This layer contains river data published by the WI Department of Natural Resources (DNR). Link to metadata information: https://www.bayfieldcounty.org/437/GIS-Metadata]",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Bayfield County"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Inland Waters"
+  ],
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "Bayfield County, Wisconsin",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-91.557544, -90.749713, 47.003755, 46.154079)",
+  "b1g_centroid_ss": "46.578917000000004,-91.1536285",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "480DBBE7-05E2-4691-830D-01E617CB9309",
+  "dc_identifier_s": "480DBBE7-05E2-4691-830D-01E617CB9309",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10b-01",
+  "dct_isPartOf_sm": [
+    "10b-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

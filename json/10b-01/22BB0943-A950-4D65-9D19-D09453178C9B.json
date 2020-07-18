@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:51Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Roads: Manitowoc County, Wisconsin, 2020",
+  "dct_alternativeTitle_sm": [
+    "Roads Manitowoc County, WI 2020"
+  ],
+  "dc_description_s": "This data represents roads for Manitowoc County, Wisconsin in 2020. [Centerline is a linear feature class that represents roads in Manitowoc County, Wisconsin. It contains the low-to-high address ranges for both the left and right sides of roads. This feature class may contain actual high and low or theoretical high and low addresses depending on how the municipality reported their values.]",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Manitowoc County"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "Manitowoc County, Wisconsin",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-88.045574, -87.507742, 44.328059, 43.890889)",
+  "b1g_centroid_ss": "44.109474000000006,-87.776658",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "22BB0943-A950-4D65-9D19-D09453178C9B",
+  "dc_identifier_s": "22BB0943-A950-4D65-9D19-D09453178C9B",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10b-01",
+  "dct_isPartOf_sm": [
+    "10b-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

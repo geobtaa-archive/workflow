@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:51Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "PLSS: Lincoln County, Wisconsin, 2020",
+  "dct_alternativeTitle_sm": [
+    "PLSS Lincoln County, WI 2020"
+  ],
+  "dc_description_s": "This data represents Public Land Survey System (PLSS) corners for Lincoln County, Wisconsin in 2020. [This dataset is a compilation of source data from Contract Remonumentation projects, Monument Records (tie sheets), existing Survey Corners maintained by the Lincoln County Surveyor, and existing GIS Coordinates used in Parcel Data compilation and mapping. This data set is a work in progress. Users of this data should check with the Contact Identified for the latest information before using.]",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Lincoln County"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "Lincoln County, Wisconsin",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-90.046764, -89.421519, 45.556796, 45.118591)",
+  "b1g_centroid_ss": "45.3376935,-89.73414149999999",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "78B13E17-3270-432C-A723-AFDF24AD34CD",
+  "dc_identifier_s": "78B13E17-3270-432C-A723-AFDF24AD34CD",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10b-01",
+  "dct_isPartOf_sm": [
+    "10b-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

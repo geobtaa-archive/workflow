@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:51Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Parks: Sauk County, Wisconsin, 2020",
+  "dct_alternativeTitle_sm": [
+    "Parks Sauk County, WI 2020"
+  ],
+  "dc_description_s": "This data layer represents parks for Sauk County, Wisconsin in 2020. [Polygons that represent the boundary or management area for significant facilities in a community. Examples include schools, government facilities, stadiums, casinos, and fire stations. Additional information about each Facility can be organized in to separate tables and related to these locations using the FacilityID key. The feature classification and type schema for the facility sites grew out of work with the Department of Homeland Security's HSIP Program and has evolved to support a diverse set of facilities inventoried for a variety of uses by a local government.]",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Sauk County"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "Sauk County, Wisconsin",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-90.194704, -89.59927, 43.641251, 43.169489)",
+  "b1g_centroid_ss": "43.40537,-89.896987",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "451CE121-1F44-4A47-895A-6B95B1BB9ED7",
+  "dc_identifier_s": "451CE121-1F44-4A47-895A-6B95B1BB9ED7",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10b-01",
+  "dct_isPartOf_sm": [
+    "10b-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

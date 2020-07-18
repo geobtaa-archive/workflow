@@ -1,57 +1,119 @@
-#!/usr/bin/env python3
+#original script
+#This script will add geoblacklight json files to Solr from a folder of nested files.
+#check configSolr to change from dev to public server
+#To run, type: publish.py -aj foldername
+
+#! /usr/bin/env python
 import os
+from glob import glob
+import json
+import sys
+# from collections import OrderedDict
+import argparse
+import pdb
+# import pprint
+import time
+import logging
 import fnmatch
+import urllib
+
+# non-standard libraries.
+from lxml import etree
+# from owslib import csw
+from owslib.etree import etree
+from owslib import util
+from owslib.namespaces import Namespaces
+# import unicodecsv as csv
+# demjson provides better error messages than json
+import demjson
+import requests
 
 # local imports
 from solr_interface import SolrInterface
 import config
 
-### change this variable to point to the path where the json files are ###
-PATH_TO_JSON_FOLDER = r"07c-01"
 
-def get_files_from_path(start_path, criteria="*"):
-    files = []
+# logging stuff
+if config.DEBUG:
+    log_level = logging.DEBUG
+else:
+    log_level = logging.INFO
+global log
+log = logging.getLogger('owslib')
+log.setLevel(log_level)
+ch = logging.StreamHandler(sys.stdout)
+ch.setLevel(log_level)
+log_formatter = logging.Formatter(
+    '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+)
+ch.setFormatter(log_formatter)
+log.addHandler(ch)
 
-    for path, folder, ffiles in os.walk(start_path):
-        for i in fnmatch.filter(ffiles, criteria):
-            files.append(os.path.join(path, i))
 
-    #print(files)
-    return files
 
-def add_json(path_to_json, solr_instance):
-    files = get_files_from_path(path_to_json, criteria="*.json")
-    dicts = []
+class CSWToGeoBlacklight(object):
 
-    for i in files:
-        #print(solr_instance.json_to_dict(i))
-        dicts.append(solr_instance.json_to_dict(i))
+    def __init__(self, SOLR_URL, SOLR_USERNAME, SOLR_PASSWORD,
+                 max_records=None):
 
-    #print(len(dicts))
-    if solr_instance.add_dict_list_to_solr(dicts):
-        print("Added {n} records to solr.".format(n=len(dicts)))
+        if SOLR_USERNAME and SOLR_PASSWORD:
+            SOLR_URL = SOLR_URL.format(
+                username=SOLR_USERNAME,
+                password=SOLR_PASSWORD
+            )
+
+        self.solr = SolrInterface(log=log, url=SOLR_URL)
+#         self.records = OrderedDict()
+#         self.record_dicts = OrderedDict()
+#         self.max_records = max_records
+
+
+    def get_files_from_path(self, start_path, criteria="*"):
+        files = []
+
+        # self.RECURSIVE:
+        for path, folder, ffiles in os.walk(start_path):
+            for i in fnmatch.filter(ffiles, criteria):
+                files.append(os.path.join(path, i))
+        # else:
+        #     files = glob(os.path.join(start_path, criteria))
+        return files
+
+    def add_json(self, path_to_json):
+        files = self.get_files_from_path(path_to_json, criteria="*.json")
+        log.debug(files)
+        dicts = []
+        for i in files:
+            dicts.append(self.solr.json_to_dict(i))
+        self.solr.add_dict_list_to_solr(dicts)
+        log.info("Added {n} records to solr.".format(n=len(dicts)))
+
 
 def main():
-    if config.SOLR_USERNAME and config.SOLR_PASSWORD:
-        solr_url = config.SOLR_URL.format(
-            username=config.SOLR_USERNAME,
-            password=config.SOLR_PASSWORD
-        )
-        print("Username and password good")
+    parser = argparse.ArgumentParser()
+
+    output_group = parser.add_mutually_exclusive_group(required=False)
+
+    group = parser.add_mutually_exclusive_group(required=True)
+
+    group.add_argument(
+        "-aj",
+        "--add-json",
+        help="Indicate path to folder with GeoBlacklight \
+              JSON files that will be uploaded.")
+
+
+    args = parser.parse_args()
+
+    interface = CSWToGeoBlacklight(
+        config.SOLR_URL, config.SOLR_USERNAME, config.SOLR_PASSWORD)
+
+    if args.add_json:
+        interface.add_json(args.add_json)
 
     else:
-        print("No username or password. Check config.py")
-        return
+        sys.exit(parser.print_help())
 
-    solr = SolrInterface(url=solr_url)
-
-    if os.path.isdir(PATH_TO_JSON_FOLDER):
-        add_json(PATH_TO_JSON_FOLDER, solr)
-        print("added jsons")
-
-    else:
-        print("JSON path is not valid. Please check the PATH_TO_JSON_FOLDER variable")
-        return
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())

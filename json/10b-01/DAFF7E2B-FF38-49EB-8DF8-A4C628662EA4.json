@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:51Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Trails: Portage County, Wisconsin, 2020",
+  "dct_alternativeTitle_sm": [
+    "Trails Portage County, WI 2020"
+  ],
+  "dc_description_s": "This data layer represents the trails for Portage County, Wisconsin in 2020 and includes the layers 'Portage_Green_Circle_Trail_2020', 'Portage_Snowmobile_Trail_2020', 'Standing_Rocks_Fat_Tire_Bike_Trial_2020', :Standing_Rocks_Snowshoe_Trial_2020' and 'Tomorrow_River_State_Trail_2020'. Green Circle Trail: [GreenCircle is a vector representation of the Green Circle bicycle/pedestrian trail in Stevens Point, Wisconsin. Most of the trail was mapped using a resource grade GPS. The remainder is traced from airphotos. Recommended use scale is no larger than 1:2400.]Snowmobile Trails: [Line features depicting snowmobile trails in Portage County. Many are mapped using GPS. Some are still screen/office estimates.]",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Portage County"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "Portage County, Wisconsin",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-89.926199, -89.19946, 44.731861, 44.221093)",
+  "b1g_centroid_ss": "44.476477,-89.56282949999999",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "DAFF7E2B-FF38-49EB-8DF8-A4C628662EA4",
+  "dc_identifier_s": "DAFF7E2B-FF38-49EB-8DF8-A4C628662EA4",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10b-01",
+  "dct_isPartOf_sm": [
+    "10b-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}

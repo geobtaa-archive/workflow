@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-17T22:46:51Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Buildings: Sauk County, Wisconsin, 2020",
+  "dct_alternativeTitle_sm": [
+    "Buildings Sauk County, WI 2020"
+  ],
+  "dc_description_s": "This data layer represents buildings for Sauk County, Wisconsin in 2020. [The creation of the subsequent building footprint data was executed to capture the existing ground conditions at a specific point in time using Stereo Imagery for the purpose of GIS analysis. GIS is a system of computer software, hardware, and data that allows a user to manipulate, analyze, and present information that is tied to a spatial location. Sauk contracted with the Sanborn Map Company to execute a collection of various buildings types that meet contract requirements.]",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Sauk County"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Structure"
+  ],
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "Sauk County, Wisconsin",
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-90.314838, -89.598954, 43.643027, 43.148049)",
+  "b1g_centroid_ss": "43.395538,-89.956896",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "86F7F430-378A-43E0-B09E-867684EFE8C0",
+  "dc_identifier_s": "86F7F430-378A-43E0-B09E-867684EFE8C0",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10b-01",
+  "dct_isPartOf_sm": [
+    "10b-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "2020-07-17",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE"
+}
