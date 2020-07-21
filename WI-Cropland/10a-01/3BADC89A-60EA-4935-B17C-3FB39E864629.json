@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-07-21T12:15:48Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Cropland Data Layer: Wisconsin, 2019",
+  "dct_alternativeTitle_sm": [
+    "Cropland Data Layer: Wisconsin, 2019"
+  ],
+  "dc_description_s": "The USDA, NASS Cropland Data Layer (CDL) is a raster, geo-referenced, crop-specific land cover data layer. The 2019 CDL has a ground resolution of 30 meters. The CDL is produced using satellite imagery from the Landsat 8 OLI/TIRS sensor, the Disaster Monitoring Constellation (DMC) DEIMOS-1 and UK2, the ISRO ResourceSat-2 LISS-3, and the ESA SENTINEL-2 sensors collected during the current growing season.Some CDL states used additional satellite imagery and ancillary inputs to supplement and improve the classification. These additional sources can include the United States Geological Survey (USGS) National Elevation Dataset (NED) and the imperviousness data layer from the USGS National Land Cover Database 2016 (NLCD 2016) and the tree canopy data layer from the NLCD 2011.Agricultural training and validation data are derived from the Farm Service Agency (FSA) Common Land Unit (CLU) Program. The most current version of the NLCD is used as non-agricultural training and validation data.Please refer to the 'Supplemental_Information' Section of this metadata file for a complete list of all imagery, ancillary data, and training/validation data used to generate this state's CDL.The strength and emphasis of the CDL is agricultural land cover. Please note that no farmer reported data are derivable from the Cropland Data Layer.",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "U.S. Department of Agriculture"
+  ],
+  "dc_publisher_sm": [
+    "State of Wisconsin"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    "Farming"
+  ],
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "solr_year_i": "2019",
+  "dct_spatial_sm": [
+    "Wisconsin"
+  ],
+  "solr_geom": "ENVELOPE(-93.026493, -86.599174, 47.154595, 42.320983)",
+  "b1g_centroid_ss": "44.737789,-89.81283350000001",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Raster",
+  "dc_format_s": "Raster Dataset",
+  "layer_slug_s": "3BADC89A-60EA-4935-B17C-3FB39E864629",
+  "dc_identifier_s": "3BADC89A-60EA-4935-B17C-3FB39E864629",
+  "dct_provenance_s": "Wisconsin",
+  "b1g_code_s": "10a-01",
+  "dct_isPartOf_sm": [
+    "10a-01"
+  ],
+  "b1g_status_s": "Active",
+  "b1g_dateAccessioned_s": "7/17/2020",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geodata.wisc.edu/catalog/3BADC89A-60EA-4935-B17C-3FB39E864629\",\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_CDL_2019.zip\"}"
+}
