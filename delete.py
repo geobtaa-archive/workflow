@@ -82,6 +82,7 @@ class CSWToGeoBlacklight(object):
         self.institutions = {
             "iowa": '"Iowa"',
             "illinois": '"Illinois"',
+            "indy": '"Indiana"',
             "minn": '"Minnesota"',
             "psu": '"Penn State"',
             "msu": '"Michigan State"',
@@ -95,12 +96,13 @@ class CSWToGeoBlacklight(object):
             "stanford": '"Stanford"',
             "uva": '"UVa"',
             "nyu": '"Baruch CUNY"',
-            "col": '"Columbia"'
+            "col": '"Columbia"',
+            "neb": '"University of Nebraska-Lincoln"'
 
         }
 
         self.identifier = {
-            "rec": '"99-0001-noIdentifier"'
+            "rec": '"eric-test-1"'
 
 
         }

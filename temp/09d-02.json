@@ -1,0 +1,54 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-05-14T15:00:00Z",
+  "dc_title_s": "Purdue Campus Maps: West Lafayette, Indiana, 1890-2014",
+  "dc_description_s": "See Related Records below to download individual GeoTIFFs. The Purdue historical campus map collection was scanned and georeferenced by Purdue University Libraries. The physical maps were collected as Purdue University Campus Maps collection, located in the Virgina Kelly Karnes Archives and Special Collections, Purdue University Libraries. The collection details the growth of the Purdue University campus through the numerous campus maps, beginning with 1874 and ending with the most recent map. The map collection also provides an assortment of maps which focus on the unique features on campus. Copies of many of the campus maps can also be viewed via the Purdue University Libraries e-Archives: http://earchives.lib.purdue.edu/",
+  "dc_creator_sm": [
+    ""
+  ],
+  "dc_publisher_sm": [
+    "Purdue University Libraries"
+  ],
+  "b1g_genre_sm": [
+    "Maps"
+  ],
+  "dc_subject_sm": [
+    "Purdue Georeferenced Imagery"
+  ],
+  "b1g_keyword_sm": [
+    "Imagery and Base Maps"
+  ],
+  "dct_temporal_sm": [
+    "1890-2014"
+  ],
+  "b1g_date_range_drsim": [
+    "[1890 TO 1890]"
+  ],
+  "solr_year_i": "1890",
+  "dct_spatial_sm": [
+    "Indiana",
+    "Tippecano County, Indiana",
+    "Wabash River, Indiana"
+  ],
+  "solr_geom": "ENVELOPE(-86.936466,-86.901682,40.442279,40.401549)",
+  "b1g_centroid_ss": "40.421914,-86.919074",
+  "dc_type_sm": [
+    "Collection"
+  ],
+  "layer_geom_type_s": "Table",
+  "b1g_image_ss": "",
+  "layer_slug_s": "09d-02",
+  "dc_identifier_s": "09d-02",
+  "dct_provenance_s": "Purdue University",
+  "b1g_code_s": "09d-02",
+  "dct_isPartOf_sm": [
+    ""
+  ],
+  "b1g_status_s": "Active",
+  "dct_accrualMethod_s": "ISO",
+  "dct_accrualPeriodicity_s": "As Needed",
+  "b1g_dateAccessioned_s": "2019",
+  "dc_rights_s": "Public",
+  "suppressed_b": "FALSE",
+  "dct_references_s": "{\"urn:x-esri:serviceType:ArcGIS#ImageMapLayer\":\"https://mapsweb.lib.purdue.edu/arcgis/rest/services/Purdue/campus_history/ImageServer\",\"http://schema.org/url\":\"https://mapsweb.lib.purdue.edu/wabashriver/\"}"
+}

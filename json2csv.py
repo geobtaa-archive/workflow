@@ -5,8 +5,8 @@ import json
 import os
 import pandas as pd
 
-json_path = r""	# point to path
-csv_name = ""	# name for csv
+json_path = r"WI_Elevation_URLFixes"	# point to path
+csv_name = "welevation.csv"	# name for csv
 
 dataset = []	# empty list
 
